@@ -5,56 +5,69 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AI・ビッグテック チェック</title>
 <style>
-body { font-family: 'Helvetica Neue', sans-serif; padding: 20px; background: #0d1117; color: #e0e0e0; }
-h1 { color: #58a6ff; font-size: 24px; margin-bottom: 4px; }
-.subtitle { color: #8b949e; font-size: 14px; margin-bottom: 24px; }
-.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin-bottom: 32px; }
-.card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px; }
-.card-name { font-size: 16px; font-weight: bold; color: #58a6ff; margin-bottom: 8px; }
-.btn-chart { display: inline-block; padding: 6px 12px; background: #1f6feb; color: #fff; text-decoration: none; border-radius: 6px; font-size: 12px; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Helvetica Neue', sans-serif; background: #0d1117; color: #e0e0e0; padding: 20px; }
+h1 { color: #58a6ff; font-size: 22px; margin-bottom: 4px; }
+.subtitle { color: #8b949e; font-size: 13px; margin-bottom: 24px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; }
+.card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px; }
+.card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+.card-name { font-size: 17px; font-weight: bold; color: #58a6ff; }
+.btn-chart { padding: 5px 10px; background: #1f6feb; color: #fff; text-decoration: none; border-radius: 6px; font-size: 12px; }
 .btn-chart:hover { background: #388bfd; }
-.section-title { color: #58a6ff; font-size: 18px; margin: 32px 0 12px; border-bottom: 1px solid #30363d; padding-bottom: 8px; }
-pre { background: #161b22; border: 1px solid #30363d; padding: 24px; border-radius: 12px; white-space: pre-wrap; font-size: 15px; line-height: 2; font-family: monospace; }
+.price-row { display: flex; align-items: baseline; gap: 10px; margin-bottom: 10px; }
+.price { font-size: 22px; font-weight: bold; color: #fff; }
+.change-up { font-size: 15px; color: #3fb950; font-weight: bold; }
+.change-down { font-size: 15px; color: #f85149; font-weight: bold; }
+.meta-row { font-size: 13px; color: #8b949e; margin-bottom: 6px; }
+.meta-row span { color: #e0e0e0; }
+.points { font-size: 13px; background: #1c2128; border-left: 3px solid #58a6ff; padding: 8px 10px; border-radius: 4px; margin-bottom: 12px; color: #c9d1d9; }
+.news-title { font-size: 13px; color: #8b949e; margin-bottom: 6px; }
+.news-item { font-size: 13px; color: #c9d1d9; padding: 6px 0; border-bottom: 1px solid #21262d; line-height: 1.5; }
+.news-item:last-child { border-bottom: none; }
+.news-date { color: #8b949e; font-size: 11px; margin-bottom: 2px; }
+.loading { color: #8b949e; text-align: center; padding: 40px; }
 </style>
 </head>
 <body>
 <h1>🤖 AI・ビッグテック チェック</h1>
-<div class="subtitle">毎朝7時に自動更新</div>
+<div class="subtitle" id="date">読み込み中...</div>
+<div class="grid" id="grid"><div class="loading">データを読み込んでいます...</div></div>
 
-<div class="grid">
-  <div class="card">
-    <div class="card-name">📊 Google (Alphabet)</div>
-    <a class="btn-chart" href="https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D" target="_blank">日足チャート</a>
-  </div>
-  <div class="card">
-    <div class="card-name">📊 Meta</div>
-    <a class="btn-chart" href="https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D" target="_blank">日足チャート</a>
-  </div>
-  <div class="card">
-    <div class="card-name">📊 Amazon</div>
-    <a class="btn-chart" href="https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D" target="_blank">日足チャート</a>
-  </div>
-  <div class="card">
-    <div class="card-name">📊 Apple</div>
-    <a class="btn-chart" href="https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D" target="_blank">日足チャート</a>
-  </div>
-  <div class="card">
-    <div class="card-name">📊 NVIDIA</div>
-    <a class="btn-chart" href="https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D" target="_blank">日足チャート</a>
-  </div>
-  <div class="card">
-    <div class="card-name">📊 Microsoft</div>
-    <a class="btn-chart" href="https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D" target="_blank">日足チャート</a>
-  </div>
-</div>
-
-<div class="section-title">📋 本日のデータ</div>
-<pre id="result">読み込み中...</pre>
 <script>
-fetch('result.txt?t=' + Date.now())
-  .then(r => r.text())
-  .then(t => document.getElementById('result').textContent = t)
-  .catch(() => document.getElementById('result').textContent = 'データがまだありません');
+fetch('result.json?t=' + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    document.getElementById('date').textContent = `更新日: ${data.date}　毎朝7時に自動更新`;
+    const grid = document.getElementById('grid');
+    grid.innerHTML = '';
+    data.stocks.forEach(s => {
+      const changeClass = s.positive ? 'change-up' : 'change-down';
+      const newsHtml = s.news.map(n => `
+        <div class="news-item">
+          <div class="news-date">${n.date}</div>
+          <div>${n.title}</div>
+        </div>`).join('');
+      grid.innerHTML += `
+        <div class="card">
+          <div class="card-header">
+            <div class="card-name">📊 ${s.name}</div>
+            <a class="btn-chart" href="${s.chart_url}" target="_blank">日足チャート</a>
+          </div>
+          <div class="price-row">
+            <div class="price">${s.price}</div>
+            <div class="${changeClass}">${s.change_icon} ${s.change}</div>
+          </div>
+          <div class="meta-row">次回決算: <span>${s.earnings}</span></div>
+          <div class="points">🔍 ${s.points}</div>
+          <div class="news-title">📰 最新ニュース</div>
+          ${newsHtml}
+        </div>`;
+    });
+  })
+  .catch(() => {
+    document.getElementById('grid').innerHTML = '<div class="loading">データがまだありません</div>';
+  });
 </script>
 </body>
 </html>

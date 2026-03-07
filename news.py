@@ -36,13 +36,17 @@ for stock in STOCKS:
     change = (latest - prev) / prev * 100
     change_icon = "📈" if change >= 0 else "📉"
 
-    next_earnings = info.get("earningsDate", None)
-    if next_earnings:
-        try:
-            earnings_str = datetime.datetime.fromtimestamp(next_earnings[0]).strftime("%Y-%m-%d")
-        except:
+    try:
+        cal = ticker.calendar
+        if cal is not None and "Earnings Date" in cal:
+            ed = cal["Earnings Date"]
+            if hasattr(ed, '__iter__'):
+                earnings_str = str(list(ed)[0])[:10]
+            else:
+                earnings_str = str(ed)[:10]
+        else:
             earnings_str = "不明"
-    else:
+    except:
         earnings_str = "不明"
 
     news_items = []

@@ -36,18 +36,15 @@ for stock in STOCKS:
     change = (latest - prev) / prev * 100
     change_icon = "📈" if change >= 0 else "📉"
 
-    try:
-        cal = ticker.calendar
-        if cal is not None and "Earnings Date" in cal:
-            ed = cal["Earnings Date"]
-            if hasattr(ed, '__iter__'):
-                earnings_str = str(list(ed)[0])[:10]
-            else:
-                earnings_str = str(ed)[:10]
-        else:
-            earnings_str = "不明"
-    except:
-        earnings_str = "不明"
+    EARNINGS_DATES = {
+        "GOOGL": "2026-04-29",
+        "META":  "2026-04-29",
+        "AMZN":  "2026-05-01",
+        "AAPL":  "2026-04-30",
+        "NVDA":  "2026-05-28",
+        "MSFT":  "2026-04-29",
+    }
+    earnings_str = EARNINGS_DATES.get(stock["ticker"], "不明")
 
     news_items = []
     url = f"https://newsapi.org/v2/everything?q={stock['query']}&language=en&sortBy=publishedAt&pageSize=3&apiKey={NEWS_API_KEY}"

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI・ビッグテック チェック</title>
+<style>
+body { font-family: monospace; padding: 20px; background: #1a1a1a; color: #e0e0e0; font-size: 18px; }
+h1 { color: #4fc3f7; font-size: 22px; }
+pre { background: #2a2a2a; padding: 20px; border-radius: 8px; white-space: pre-wrap; font-size: 16px; line-height: 1.8; }
+.stock-row { display: flex; align-items: center; margin: 10px 0; flex-wrap: wrap; gap: 8px; }
+.stock-name { color: #e0e0e0; min-width: 160px; font-size: 16px; }
+.btn-day { padding: 8px 12px; background: #00695c; color: #fff; text-decoration: none; border-radius: 8px; font-size: 13px; }
+.btn-day:hover { background: #00796b; }
+</style>
+</head>
+<body>
+<h1>🤖 AI・ビッグテック チェック</h1>
+
+<div class="stock-row">
+  <span class="stock-name">📊 Google</span>
+  <a class="btn-day" href="https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D" target="_blank">日足チャート</a>
+</div>
+<div class="stock-row">
+  <span class="stock-name">📊 Meta</span>
+  <a class="btn-day" href="https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D" target="_blank">日足チャート</a>
+</div>
+<div class="stock-row">
+  <span class="stock-name">📊 Amazon</span>
+  <a class="btn-day" href="https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D" target="_blank">日足チャート</a>
+</div>
+<div class="stock-row">
+  <span class="stock-name">📊 Apple</span>
+  <a class="btn-day" href="https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D" target="_blank">日足チャート</a>
+</div>
+<div class="stock-row">
+  <span class="stock-name">📊 NVIDIA</span>
+  <a class="btn-day" href="https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D" target="_blank">日足チャート</a>
+</div>
+<div class="stock-row">
+  <span class="stock-name">📊 Microsoft</span>
+  <a class="btn-day" href="https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D" target="_blank">日足チャート</a>
+</div>
+
+<br>
+<pre id="result">読み込み中...</pre>
+<script>
+fetch('result.txt?t=' + Date.now())
+  .then(r => r.text())
+  .then(t => document.getElementById('result').textContent = t)
+  .catch(() => document.getElementById('result').textContent = 'データがまだありません');
+</script>
+</body>
+</html>

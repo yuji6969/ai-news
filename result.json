@@ -1,0 +1,143 @@
+{
+  "date": "2026-03-07",
+  "stocks": [
+    {
+      "name": "Google (Alphabet)",
+      "ticker": "GOOGL",
+      "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
+      "price": "$298.52",
+      "change": "-0.78%",
+      "change_icon": "📉",
+      "positive": false,
+      "earnings": "不明",
+      "points": "GeminiとGoogle Cloudの競争力",
+      "news": [
+        {
+          "date": "2026-03-06",
+          "title": "エンタープライズ検索市場 – 組織が AI 対応の検索およびナレッジ管理プラットフォームを導入するため、2026 ～ 2031 年の CAGR は 9% 以上になるとモルドール インテリジェンスが発表"
+        },
+        {
+          "date": "2026-03-05",
+          "title": "スーツ: 男性は AI チャットボットが自分の妻だと信じていました。"
+        }
+      ]
+    },
+    {
+      "name": "Meta",
+      "ticker": "META",
+      "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
+      "price": "$644.86",
+      "change": "-2.38%",
+      "change_icon": "📉",
+      "positive": false,
+      "earnings": "不明",
+      "points": "AI投資額・広告収益・LLaMAの進捗",
+      "news": [
+        {
+          "date": "2026-03-06",
+          "title": "40億ドルの上場が迫る中、JioのIPOスケジュールが近づいている。"
+        },
+        {
+          "date": "2026-03-05",
+          "title": "Meta は、ユーザーが独自のミニゲームを作成できる賑やかな雰囲気コーディング アプリ、Gizmo の背後にあるチームを雇用します"
+        }
+      ]
+    },
+    {
+      "name": "Amazon",
+      "ticker": "AMZN",
+      "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
+      "price": "$213.21",
+      "change": "-2.62%",
+      "change_icon": "📉",
+      "positive": false,
+      "earnings": "不明",
+      "points": "AWS（クラウド）のAI需要",
+      "news": [
+        {
+          "date": "2026-03-06",
+          "title": "技術ダウンロード: イラン戦争が激化する中、データセンターが軍事目標に"
+        },
+        {
+          "date": "2026-03-06",
+          "title": "AIチップの成長予測を受けてマーベル・テック株が上昇"
+        },
+        {
+          "date": "2026-03-06",
+          "title": "OpenAI、1100億ドルのマルチクラウド契約でフロンティアプラットフォームのAWSディストリビューションを確保"
+        }
+      ]
+    },
+    {
+      "name": "Apple",
+      "ticker": "AAPL",
+      "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
+      "price": "$257.46",
+      "change": "-1.09%",
+      "change_icon": "📉",
+      "positive": false,
+      "earnings": "不明",
+      "points": "Apple Intelligence・製品サイクル",
+      "news": [
+        {
+          "date": "2026-03-06",
+          "title": "iPhone 17e に MagSafe が正式に追加: 格安 iPhone がついにエコシステムに加わる"
+        },
+        {
+          "date": "2026-03-06",
+          "title": "MacBook Neo は悪い買い物だと思うなら、それはあなたには向いていません"
+        }
+      ]
+    },
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
+      "price": "$177.82",
+      "change": "-3.01%",
+      "change_icon": "📉",
+      "positive": false,
+      "earnings": "不明",
+      "points": "AI半導体需要・データセンター向け売上",
+      "news": [
+        {
+          "date": "2026-03-06",
+          "title": "Acer の RTX 5070 搭載 Nitro V16 ゲーミング ノート PC が 1249.99 ドルに値下げ — この Best Buy の期間限定セールを最大限に活用するには 24 時間以内です"
+        },
+        {
+          "date": "2026-03-06",
+          "title": "Lenovo の未来的なゲーム用折りたたみ式デュアルスクリーン ノートパソコンを実際に使ってみる"
+        },
+        {
+          "date": "2026-03-06",
+          "title": "Show HN: ほぼ完全に Vibe コーディングされた 3D C++ OpenGL エンジン"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
+      "price": "$408.96",
+      "change": "-0.42%",
+      "change_icon": "📉",
+      "positive": false,
+      "earnings": "不明",
+      "points": "OpenAI投資・Azure AIの成長",
+      "news": [
+        {
+          "date": "2026-03-06",
+          "title": "OpenAI、1100億ドルのマルチクラウド契約でフロンティアプラットフォームのAWSディストリビューションを確保"
+        },
+        {
+          "date": "2026-03-06",
+          "title": "国防総省は軍事禁止にもかかわらず、2023年に密かにOpenAIモデルのテストを開始：レポート"
+        },
+        {
+          "date": "2026-03-06",
+          "title": "Microsoftは、Anthropicの製品はセキュリティリスク指定後も顧客が利用できると述べている"
+        }
+      ]
+    }
+  ]
+}

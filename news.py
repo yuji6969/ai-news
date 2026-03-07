@@ -64,7 +64,7 @@ for stock in STOCKS:
         "price": f"${latest:.2f}",
         "change": f"{change:+.2f}%",
         "change_icon": change_icon,
-        "positive": change >= 0,
+        "positive": bool(change >= 0),
         "earnings": earnings_str,
         "points": stock["points"],
         "news": news_items

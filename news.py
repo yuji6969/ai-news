@@ -1,6 +1,7 @@
 import yfinance as yf
 import requests
 import datetime
+import json
 
 NEWS_API_KEY = "a8b54719948048b596a75cc1e2cd00d8"
 
@@ -52,32 +53,24 @@ for stock in STOCKS:
         for a in articles:
             title_ja = translate(a.get("title", ""))
             published = a.get("publishedAt", "")[:10]
-            news_items.append(f"[{published}] {title_ja}")
+            news_items.append({"date": published, "title": title_ja})
     except:
-        news_items.append("ニュース取得失敗")
+        news_items.append({"date": "", "title": "ニュース取得失敗"})
 
     results.append({
         "name": stock["name"],
+        "ticker": stock["ticker"],
+        "chart_url": f"https://jp.tradingview.com/chart/?symbol=NASDAQ:{stock['ticker']}&interval=D",
         "price": f"${latest:.2f}",
         "change": f"{change:+.2f}%",
         "change_icon": change_icon,
+        "positive": change >= 0,
         "earnings": earnings_str,
         "points": stock["points"],
         "news": news_items
     })
 
-lines = [f"=== AI・ビッグテック チェック {today} ===\n"]
-for r in results:
-    lines.append(f"【{r['name']}】 {r['change_icon']} {r['price']}  前日比: {r['change']}")
-    lines.append(f"  次回決算: {r['earnings']}")
-    lines.append(f"  注目ポイント: {r['points']}")
-    lines.append(f"  📰 最新ニュース:")
-    for n in r["news"]:
-        lines.append(f"    ・{n}")
-    lines.append("")
-lines.append("=== チェック完了 ===")
+with open("result.json", "w", encoding="utf-8") as f:
+    json.dump({"date": str(today), "stocks": results}, f, ensure_ascii=False, indent=2)
 
-with open("result.txt", "w", encoding="utf-8") as f:
-    f.write("\n".join(lines))
-
-print("\n".join(lines))
+print(f"完了: {today}")

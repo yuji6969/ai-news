@@ -1,0 +1,55 @@
+=== AI・ビッグテック チェック 2026-03-07 ===
+
+【Google (Alphabet)】
+  株価: $298.52  前日比: -0.78%
+  次回決算: 不明
+  注目ポイント: Gemini（AI）とGoogle Cloudの競争力
+  📰 最新ニュース:
+    [2026-03-06] Enterprise Search Market – 9%+ CAGR Forecast for 2026–2031 as Organizations Adopt AI-Enabled Search and Knowledge Management Platforms, Says Mordor Intelligence
+    [2026-03-05] SUIT: Man believed AI chatbot was his wife. It told him to kill himself...
+
+【Meta】
+  株価: $644.86  前日比: -2.38%
+  次回決算: 不明
+  注目ポイント: AI投資額・広告収益・LLaMAの進捗
+  📰 最新ニュース:
+    [2026-03-06] Jio IPO timeline nears as $4 billion listing looms. How it may impact Reliance shareholders
+    [2026-03-05] Meta hires the team behind Gizmo, the buzzy vibe-coding app that lets users create their own mini-games
+
+【Amazon】
+  株価: $213.21  前日比: -2.62%
+  次回決算: 不明
+  注目ポイント: AWS（クラウド）のAI需要
+  📰 最新ニュース:
+    [2026-03-06] The Tech Download: Data centers become military targets as Iran war rages on
+    [2026-03-06] Marvell Tech shares rally on forecast for AI-chip growth
+    [2026-03-06] OpenAI Secures AWS Distribution for Frontier Platform in $110B Multi-Cloud Deal
+
+【Apple】
+  株価: $257.46  前日比: -1.09%
+  次回決算: 不明
+  注目ポイント: Apple Intelligence・製品サイクル
+  📰 最新ニュース:
+    [2026-03-06] iPhone 17e Officially Adds MagSafe: The Budget iPhone Finally Joins the Ecosystem
+    [2026-03-06] If you think MacBook Neo is a bad deal, it’s not for you
+    [2026-03-06] The New M5 MacBook Pro: A New King of Laptop Performance
+
+【NVIDIA】
+  株価: $177.82  前日比: -3.01%
+  次回決算: 不明
+  注目ポイント: AI半導体需要・データセンター向け売上
+  📰 最新ニュース:
+    [2026-03-06] Hands-on with Lenovo's futuristic gaming foldable and dual-screen laptop
+    [2026-03-06] Show HN: Almost Entirely Vibe Coded 3D C++ OpenGL Engine
+    [2026-03-06] 0G Introduces Sealed Inference: Cryptographically Private AI Where Every Response Is Verified Inside a Hardware Enclave
+
+【Microsoft】
+  株価: $408.96  前日比: -0.42%
+  次回決算: 不明
+  注目ポイント: OpenAI投資・Azure AIの成長
+  📰 最新ニュース:
+    [2026-03-06] OpenAI Secures AWS Distribution for Frontier Platform in $110B Multi-Cloud Deal
+    [2026-03-06] Pentagon quietly began testing OpenAI models in 2023 despite military ban: Report
+    [2026-03-06] Microsoft says Anthropic's products can remain available to customers after security risk designation
+
+=== チェック完了 ===

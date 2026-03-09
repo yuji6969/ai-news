@@ -1,17 +1,21 @@
 {
-  "date": "2026-03-08",
+  "date": "2026-03-09",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$298.52",
-      "change": "-0.78%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$306.36",
+      "change": "+2.63%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
+        {
+          "date": "2026-03-08",
+          "title": "8,000 万個の銀河、人類、Google、その他: Sunday 午後の ResearchBuzz、2026 年 3 月 8 日"
+        },
         {
           "date": "2026-03-07",
           "title": "Googleチャットボットがユーザーの妄想と死の背後にあったと訴訟で主張"
@@ -19,10 +23,6 @@
         {
           "date": "2026-03-07",
           "title": "アルファベット：Apple AIとの提携は最大の盲点 - アルファを求めて"
-        },
-        {
-          "date": "2026-03-07",
-          "title": "グーグル、メタ、そしてAIの「ハイパースケーラー」は、何年にもわたって現金を刷り続けた結果、1兆ドルもの借金を重ねている。"
         }
       ]
     },
@@ -30,20 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$644.86",
-      "change": "-2.38%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$647.39",
+      "change": "+0.39%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-03-07",
-          "title": "クラウドおよびビッグデータ管理: マーケティング戦略への統合"
+          "date": "2026-03-08",
+          "title": "キーワードからコンバージョンまで: SEO マーケティング キャンペーンの設定 - UpfrontOps"
         },
         {
-          "date": "2026-03-07",
-          "title": "サードパーティ Cookie の死がアドテク業界をどのように再構築するか"
+          "date": "2026-03-08",
+          "title": "アンドリュー・リーは、歴史の大きな躍進の原動力と、それが依然として重要である理由を地図で示します"
+        },
+        {
+          "date": "2026-03-08",
+          "title": "ダリオ・アモデイを国防総省のいたずらリストから外すための私の8ステップ計画"
         }
       ]
     },
@@ -51,13 +55,17 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$213.21",
-      "change": "-2.62%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$213.49",
+      "change": "+0.13%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
+        {
+          "date": "2026-03-08",
+          "title": "イランのドローン攻撃、中東のビッグテックのデータセンターを標的に"
+        },
         {
           "date": "2026-03-07",
           "title": "アマゾン従業員、ロボット関連の雇用削減で厳しい教訓を学ぶ"
@@ -65,10 +73,6 @@
         {
           "date": "2026-03-07",
           "title": "adaptive-simple-text-classifier が PyPI に追加されました"
-        },
-        {
-          "date": "2026-03-07",
-          "title": "HIStalk の HIMSS26 ガイド"
         }
       ]
     },
@@ -76,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$257.46",
-      "change": "-1.09%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$259.88",
+      "change": "+0.94%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-03-07",
-          "title": "フォトメーター 3.4.13"
+          "date": "2026-03-08",
+          "title": "ワークティックが PyPI に追加されました"
         },
         {
-          "date": "2026-03-07",
-          "title": "Huawei FreeBuds Pro 5 レビュー"
+          "date": "2026-03-08",
+          "title": "GitHub - ruvnet/RuView: π RuView: WiFi DensePose は、コモディティ WiFi 信号をリアルタイムの人間の姿勢推定、バイタル サインのモニタリング、および存在検出に変換します。これらはすべて、ビデオの 1 ピクセルも必要ありません。"
         },
         {
-          "date": "2026-03-07",
-          "title": "Compal の最新のラップトップ コンセプトには、私の好奇心をそそるカラー E-Ink ディスプレイが追加されています。しかし、1 つの欠陥があるため、実際の製品になるかどうかはわかりません。"
+          "date": "2026-03-08",
+          "title": "Show HN: Topaz Photo AI に代わるオープンソースを構築しています"
         }
       ]
     },
@@ -101,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$177.82",
-      "change": "-3.01%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$182.65",
+      "change": "+2.72%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-03-07",
-          "title": "AIオフラインミュージックジェネレーター2.0.1"
+          "date": "2026-03-08",
+          "title": "Xbox CEO の Asha Sharma は、Microsoft CEO の Satya Nadella を社内 Q&A に迎え、Microsoft が「常に」ゲームに投資することを強調しました。 "
         },
         {
-          "date": "2026-03-07",
-          "title": "自動調査: エージェントはシングル GPU ナノチャット トレーニングを自動的に調査します。"
+          "date": "2026-03-08",
+          "title": "GitHub - ruvnet/RuView: π RuView: WiFi DensePose は、コモディティ WiFi 信号をリアルタイムの人間の姿勢推定、バイタル サインのモニタリング、および存在検出に変換します。これらはすべて、ビデオの 1 ピクセルも必要ありません。"
         },
         {
-          "date": "2026-03-07",
-          "title": "一見単純なトケノミクス科学を解き明かす"
+          "date": "2026-03-08",
+          "title": "GPU 不足に対する NVIDIA の回答により、Samsung は RTX 3060 を復活させ、ゲーマーにとってはまさに報われるかもしれません"
         }
       ]
     },
@@ -126,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$408.96",
-      "change": "-0.42%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$409.41",
+      "change": "+0.11%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
+          "date": "2026-03-08",
+          "title": "2026 年には Windows 12 は登場しないので、Microsoft が盗むべきウィッシュリストは次のとおりです"
+        },
+        {
+          "date": "2026-03-08",
+          "title": "イランのドローン攻撃、中東のビッグテックのデータセンターを標的に"
+        },
+        {
           "date": "2026-03-07",
           "title": "OpenAIの資金調達ブーム、負債増大で鈍化"
-        },
-        {
-          "date": "2026-03-07",
-          "title": "pyhardin が PyPI に追加されました"
-        },
-        {
-          "date": "2026-03-06",
-          "title": "「これらすべての最大の敗者は、紛争地域の一般人や民間人です」: OpenAI は、Anthropic によって残されたギャップを埋めていますが、大規模な国内監視のために、ほぼ同じ抜け穴に放置されています。"
         }
       ]
     }

@@ -1,28 +1,28 @@
 {
-  "date": "2026-03-11",
+  "date": "2026-03-12",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$308.70",
-      "change": "+0.54%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$303.55",
+      "change": "-1.67%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-03-10",
-          "title": "YouTube、ディープフェイク検出ツールを政治家やジャーナリストに公開"
+          "date": "2026-03-11",
+          "title": "NemoClaw – Nvidia の今後のオープンソース AI エージェント プラットフォーム"
         },
         {
-          "date": "2026-03-10",
-          "title": "YouTube は現在、ディズニー、NBC、パラマウント、WBD を合計したよりも多くの広告収入を生み出しています"
+          "date": "2026-03-11",
+          "title": "Google、クラウドセキュリティスタートアップWizの320億ドルの買収を完了"
         },
         {
-          "date": "2026-03-10",
-          "title": "AI投資が楽観主義を加速させる中、アルファベット株は日中の取引で小幅上昇、308ドル付近で推移"
+          "date": "2026-03-11",
+          "title": "Google Cloud、クラウドセキュリティ企業Wizの320億ドルの買収を完了 — これが何を意味するか"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$654.86",
-      "change": "+0.12%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$638.18",
+      "change": "-2.55%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-03-10",
-          "title": "AI のボトルネック: AI の強化で利益を得る準備ができている 3 つの銘柄"
+          "date": "2026-03-11",
+          "title": "Instagram、FacebookがAIを活用したアカウント保護を実現"
         },
         {
-          "date": "2026-03-10",
-          "title": "YouTube が 2025 年の広告収入でディズニー、パラマウント、WBD を上回る |"
+          "date": "2026-03-11",
+          "title": "巨大な OpenAI 取引に関するデリケートな質問に対処するための Amazon の戦略の内部"
         },
         {
-          "date": "2026-03-10",
-          "title": "Nvidia、Mira Murati の Thinking Machines Lab に投資"
+          "date": "2026-03-11",
+          "title": "Nvidia、オープンウェイト AI モデルの構築に 260 億ドルを費やすことが提出書類で明らかになった"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$212.65",
-      "change": "-0.78%",
+      "price": "$209.53",
+      "change": "-1.47%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-03-10",
-          "title": "AWS が Security Hub を更新し、マルチクラウド環境全体のセキュリティ調査結果を集約"
+          "date": "2026-03-11",
+          "title": "イラン、米国ハイテク大手に対する「インフラ戦争」を計画"
         },
         {
-          "date": "2026-03-10",
-          "title": "Amazon、Perplexity AI ショッピングエージェントを阻止する裁判所命令で勝訴"
+          "date": "2026-03-11",
+          "title": "イラン、新たな標的リストにアメリカの大手ハイテク企業も含まれる"
         },
         {
-          "date": "2026-03-10",
-          "title": "数百万件の注文紛失、ウェブサイトのエラー、「鋭いエッジ」: Amazon、コード変更を厳しく取り締まる"
+          "date": "2026-03-11",
+          "title": "Agentic AI の運用化パート 1: 関係者向けガイド"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$260.81",
-      "change": "-0.01%",
+      "price": "$255.76",
+      "change": "-1.94%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-03-10",
-          "title": "機械の本質"
+          "date": "2026-03-11",
+          "title": "折りたたみiPhoneはiPadスタイルの生産性への大きな一歩を踏み出す可能性がある"
         },
         {
-          "date": "2026-03-10",
-          "title": "Navee の最新機能満載の UT5 Ultra X + UT5 Max スーパースクーターが初回割引で 1,530 ドルからさらに節約"
+          "date": "2026-03-11",
+          "title": "リルビッツ:"
         },
         {
-          "date": "2026-03-10",
-          "title": "Google Pixel の AI アイコンは、Android の実際のパーソナライゼーションの代替としては不十分です"
+          "date": "2026-03-11",
+          "title": "iPhone 17E vs. Galaxy S25 FE vs. Pixel 10A: 低価格のフラッグシップ携帯電話の比較"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$186.03",
-      "change": "+0.68%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$183.14",
+      "change": "-1.55%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-03-10",
-          "title": "Intel は、Nvidia が RTX 30 所有者に対して行うことを拒否したことを、古い Arc GPU 所有者に対して実行しました。"
+          "date": "2026-03-11",
+          "title": "NVIDIA Warp を使用して AI 用の高速微分可能な計算物理コードを構築する"
         },
         {
-          "date": "2026-03-10",
-          "title": "Nvidia、マルチフレーム世代がついに自社の GPU で意味をなすようになることを期待"
+          "date": "2026-03-11",
+          "title": "NemoClaw – Nvidia の今後のオープンソース AI エージェント プラットフォーム"
         },
         {
-          "date": "2026-03-10",
-          "title": "「ゲームなしでは NVIDIA は存在しなかった」と Microsoft CEO が語る、しかしそれを可能にした業界は今取り残されていると感じている"
+          "date": "2026-03-11",
+          "title": "Nvidia、AIクラウドオペレーターNebiusに20億ドル投資"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$404.88",
-      "change": "-0.22%",
+      "price": "$401.86",
+      "change": "-0.75%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-03-10",
-          "title": "Peter Thiel は Nvidia を捨て、Microsoft と Apple に 4,500 万ドルを投資し、AI 競争でどちらが勝つかについて強いシグナルを送りました。"
+          "date": "2026-03-11",
+          "title": "マイクロソフト、トランプ政権のサプライチェーンリスク指定に対しAnthropic側を支持"
         },
         {
-          "date": "2026-03-10",
-          "title": "AI は 6 時間の追加時間を与えただけです。"
+          "date": "2026-03-11",
+          "title": "激しいライバル関係にもかかわらず、マイクロソフトは国防総省のフォールアウトで人類を支持"
         },
         {
-          "date": "2026-03-10",
-          "title": "Microsoft と Anthropic が Copilot AI エージェントの進化で提携"
+          "date": "2026-03-11",
+          "title": "Microsoft Foundry での Fireworks AI の導入: 高パフォーマンス、低遅延のオープン モデル推論を Azure に実現"
         }
       ]
     }

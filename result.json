@@ -1,28 +1,28 @@
 {
-  "date": "2026-03-12",
+  "date": "2026-03-13",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$303.55",
-      "change": "-1.67%",
+      "price": "$302.28",
+      "change": "-0.42%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-03-11",
-          "title": "NemoClaw – Nvidia の今後のオープンソース AI エージェント プラットフォーム"
+          "date": "2026-03-12",
+          "title": "AI に質問する: 1841 年、マサチューセッツ州で 12 歳だったルクレシア スミスの人生について説明してください"
         },
         {
-          "date": "2026-03-11",
-          "title": "Google、クラウドセキュリティスタートアップWizの320億ドルの買収を完了"
+          "date": "2026-03-12",
+          "title": "Google は光ファイバー事業のほとんどを売却: GFiber の顧客が知っておくべきことは次のとおりです"
         },
         {
-          "date": "2026-03-11",
-          "title": "Google Cloud、クラウドセキュリティ企業Wizの320億ドルの買収を完了 — これが何を意味するか"
+          "date": "2026-03-12",
+          "title": "CES 2026: AI が物理的になる"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$638.18",
-      "change": "-2.55%",
+      "price": "$613.71",
+      "change": "-3.83%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-03-11",
-          "title": "Instagram、FacebookがAIを活用したアカウント保護を実現"
+          "date": "2026-03-12",
+          "title": "Nvidia、260 億ドルのオープンモデル AI 賭けの最中に Nemotron 3 Super を投下—Qwen に対するアメリカの答え?"
         },
         {
-          "date": "2026-03-11",
-          "title": "巨大な OpenAI 取引に関するデリケートな質問に対処するための Amazon の戦略の内部"
+          "date": "2026-03-12",
+          "title": "どうしたの… Hans Vestberg 氏、オープン AI インフラ、Nebius および Nvidia"
         },
         {
-          "date": "2026-03-11",
-          "title": "Nvidia、オープンウェイト AI モデルの構築に 260 億ドルを費やすことが提出書類で明らかになった"
+          "date": "2026-03-12",
+          "title": "AI が経済を破壊しても誰が気にするでしょうか?"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$209.53",
-      "change": "-1.47%",
+      "price": "$207.67",
+      "change": "-0.89%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-03-11",
-          "title": "イラン、米国ハイテク大手に対する「インフラ戦争」を計画"
+          "date": "2026-03-12",
+          "title": "AWS のクロスヘア: ターゲットとしてのデータセンター"
         },
         {
-          "date": "2026-03-11",
-          "title": "イラン、新たな標的リストにアメリカの大手ハイテク企業も含まれる"
+          "date": "2026-03-12",
+          "title": "TTFT と推定クォータ消費量の新しい CloudWatch メトリクスにより、Amazon Bedrock 上の推論ワークロードの運用の可視性が向上します。"
         },
         {
-          "date": "2026-03-11",
-          "title": "Agentic AI の運用化パート 1: 関係者向けガイド"
+          "date": "2026-03-12",
+          "title": "Amazon Bedrock AgentCore のポリシーを使用して AI エージェントを保護する"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$255.76",
-      "change": "-1.94%",
+      "price": "$250.12",
+      "change": "-2.21%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-03-11",
-          "title": "折りたたみiPhoneはiPadスタイルの生産性への大きな一歩を踏み出す可能性がある"
+          "date": "2026-03-12",
+          "title": "SXSW フィルム & テレビ フェスティバル 2026: オープニング ナイト、プレミア & パーティー ギャラリー"
         },
         {
-          "date": "2026-03-11",
-          "title": "リルビッツ:"
+          "date": "2026-03-12",
+          "title": "Google マップが Gemini AI と 3D 没入型ナビゲーションを搭載"
         },
         {
-          "date": "2026-03-11",
-          "title": "iPhone 17E vs. Galaxy S25 FE vs. Pixel 10A: 低価格のフラッグシップ携帯電話の比較"
+          "date": "2026-03-12",
+          "title": "Nothing Phone (4a) Pro 対 Google Pixel 10a: どちらのミッドレンジ スマートフォンがあなたにとって勝ちますか?"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$183.14",
-      "change": "-1.55%",
+      "price": "$180.25",
+      "change": "-1.58%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-03-11",
-          "title": "NVIDIA Warp を使用して AI 用の高速微分可能な計算物理コードを構築する"
+          "date": "2026-03-12",
+          "title": "VideoProc コンバーター AI 8.9"
         },
         {
-          "date": "2026-03-11",
-          "title": "NemoClaw – Nvidia の今後のオープンソース AI エージェント プラットフォーム"
+          "date": "2026-03-12",
+          "title": "Crimson Desert は 10 年前の GTX 1060 で実行できますが、4K 60 FPS には RTX 5070 Ti が必要です"
         },
         {
-          "date": "2026-03-11",
-          "title": "Nvidia、AIクラウドオペレーターNebiusに20億ドル投資"
+          "date": "2026-03-12",
+          "title": "immich-memories が PyPI に追加されました"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$401.86",
-      "change": "-0.75%",
+      "price": "$395.55",
+      "change": "-1.57%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-03-11",
-          "title": "マイクロソフト、トランプ政権のサプライチェーンリスク指定に対しAnthropic側を支持"
+          "date": "2026-03-12",
+          "title": "HN を表示: LegalTech – ツールとソフトウェアの厳選されたリスト"
         },
         {
-          "date": "2026-03-11",
-          "title": "激しいライバル関係にもかかわらず、マイクロソフトは国防総省のフォールアウトで人類を支持"
+          "date": "2026-03-12",
+          "title": "OpenAI、複数のプラットフォーム停止後、GitHub の競合他社への取り組みを開始"
         },
         {
-          "date": "2026-03-11",
-          "title": "Microsoft Foundry での Fireworks AI の導入: 高パフォーマンス、低遅延のオープン モデル推論を Azure に実現"
+          "date": "2026-03-12",
+          "title": "AI インフラストラクチャのオープン仕様を作成するために光学スケールアップ コンソーシアムが設立され、設立メンバーである AMD、Broadcom、Meta、Microsoft、NVIDIA、OpenAI が主導します"
         }
       ]
     }

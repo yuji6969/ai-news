@@ -1,14 +1,14 @@
 {
-  "date": "2026-03-15",
+  "date": "2026-03-16",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$302.28",
-      "change": "-0.42%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$305.56",
+      "change": "+1.09%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$613.71",
-      "change": "-3.83%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$627.45",
+      "change": "+2.24%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-03-14",
-          "title": "なぜメタ社は全面的な人員削減を計画しているのでしょうか? "
+          "date": "2026-03-15",
+          "title": "安全保障問題ニュースレター 第 567 回 by Pierluigi Paganini – インターナショナル版"
         },
         {
-          "date": "2026-03-14",
-          "title": "ユーザー獲得に増分性が不可欠になっている理由 |"
+          "date": "2026-03-15",
+          "title": "今週の振り返り: AiTM フィッシング キットが AWS アカウントのハイジャックに使用され、1 年にわたるマルウェア キャンペーンが人事をターゲットに"
         },
         {
-          "date": "2026-03-13",
-          "title": "プラットフォームノミクス TGIF #120: 2026 年 3 月 13 日"
+          "date": "2026-03-15",
+          "title": "GTC プレビュー: AI 工場の内部 — AI 経済の舞台裏で繰り広げられる 1 兆ドルのインフラストラクチャ戦争"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$207.67",
-      "change": "-0.89%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$211.74",
+      "change": "+1.96%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-03-14",
-          "title": "20 年が経ち、Amazon S3 は AWS のストレージを超えた取り組みの中心となっていることに気づきました"
+          "date": "2026-03-15",
+          "title": "OpenLegacy、AWS がサポートするアジャイルメインフレームモダナイゼーションのための統合プラットフォームを発表"
         },
         {
-          "date": "2026-03-14",
-          "title": "知っておくべき10の画像認識ツール"
+          "date": "2026-03-15",
+          "title": "Nvidia はあなたのケーキを持って食べたいと考えています: ジェンスン・ファンが AI の階層化スタックについて説明し、世界で最も価値のある企業が次に何をするかについて示唆します"
         },
         {
-          "date": "2026-03-14",
-          "title": "Amazon、Cerebrasの巨大チップをAIモデルの実行に利用 - Yahoo Finance"
+          "date": "2026-03-15",
+          "title": "shopextract が PyPI に追加されました"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$250.12",
-      "change": "-2.21%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$252.82",
+      "change": "+1.08%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-03-14",
-          "title": "ストリーミング対象: BTS、「The Immortal Man」、新作映画「Peaky Blinders」、Luke Combs、Crimson Desert"
+          "date": "2026-03-15",
+          "title": "Lenovo ThinkPad P16s Gen 4 レビュー: 上位の CPU を搭載した RTX PRO 500 GPU"
         },
         {
-          "date": "2026-03-14",
-          "title": "Windows ラップ: Windows 11 の悲惨な年は、Xbox にとって絶好のタイミングで到来しました — Project Helix は PC ゲームを必要な場所に引き込みます"
+          "date": "2026-03-15",
+          "title": "あなたの携帯電話は盗聴していません。"
         },
         {
-          "date": "2026-03-14",
-          "title": "人工知能の未来: 次の 10 年間の予測"
+          "date": "2026-03-15",
+          "title": "自己ホストできる 4 つのトップレベルのオープンソース アプリ"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$180.25",
-      "change": "-1.58%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$183.22",
+      "change": "+1.65%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-03-14",
-          "title": "レイ トレーシングについて自分に正直になる時期が来ました"
+          "date": "2026-03-15",
+          "title": "Nvidia GTC は驚きに満ちています - ただ消費者向けではありません"
         },
         {
-          "date": "2026-03-14",
-          "title": "私のPCは車よりも高かったが、後悔はしていない"
+          "date": "2026-03-15",
+          "title": "2026 TechRadar Australian PC Awards — すべての受賞者が明らかに!"
         },
         {
-          "date": "2026-03-14",
-          "title": "AIオフラインミュージックジェネレーター2.0.5"
+          "date": "2026-03-15",
+          "title": "Lenovo ThinkPad P16s Gen 4 レビュー: 上位の CPU を搭載した RTX PRO 500 GPU"
         }
       ]
     },
@@ -130,10 +130,10 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$395.55",
-      "change": "-1.57%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$399.95",
+      "change": "+1.11%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [

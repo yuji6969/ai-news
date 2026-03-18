@@ -1,28 +1,28 @@
 {
-  "date": "2026-03-17",
+  "date": "2026-03-18",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$310.92",
-      "change": "+1.75%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$307.69",
+      "change": "-1.04%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-03-16",
-          "title": "これは個人用 AI です — クロードはあなたの手書き文字を個人的なフォントに変換し、自分自身を表現する追加の方法を提供できるようになりました。"
+          "date": "2026-03-17",
+          "title": "Microsoft、サービスの合理化を目指して AI 運用を刷新"
         },
         {
-          "date": "2026-03-16",
-          "title": "小規模投資家は米国SECが企業アブを絶滅に追い込むのではないかと懸念している"
+          "date": "2026-03-17",
+          "title": "『コードレッド』著者：AIは単なる道具ではない、政治権力である"
         },
         {
-          "date": "2026-03-16",
-          "title": "米国の建設支出の推移でデータセンターがオフィスを追い抜く"
+          "date": "2026-03-17",
+          "title": "アマゾン債券売却後、アナリストがAIハイパースケーラーの債務予測を修正"
         }
       ]
     },
@@ -30,20 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$622.66",
-      "change": "-0.76%",
+      "price": "$615.68",
+      "change": "-1.12%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-03-16",
-          "title": "米国の株価指数はなぜ今上昇しているのでしょうか。ナスダック、S&P 500、ダウ・ジョーンズは今後も上昇を続けるのでしょうか、それとも再び下落するのでしょうか?"
+          "date": "2026-03-17",
+          "title": "AI データセンターの存在感が高まることで自生地に関する議論が活発化"
         },
         {
-          "date": "2026-03-16",
-          "title": "ステファニー・ルール氏：CEOたちはトランプに対してオープンな意見を持っているだけではなく、トランプをどう動かすかを知っている"
+          "date": "2026-03-17",
+          "title": "女性コメディアン、ミリエント ビデオ ゲーム アーカイブ、米国議会図書館、詳細: 火曜日午後の ResearchBuzz、2026 年 3 月 17 日"
+        },
+        {
+          "date": "2026-03-17",
+          "title": "アマゾン債券売却後、アナリストがAIハイパースケーラーの債務予測を修正"
         }
       ]
     },
@@ -51,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$215.20",
-      "change": "+1.63%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$209.87",
+      "change": "-2.48%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-03-16",
-          "title": "Nvidia Groq 3 により、AI 推論の時代が (おそらく) 到来します"
+          "date": "2026-03-17",
+          "title": "AWS、海洋地図作成、白血病診断、空爆予測を手掛けるヨーロッパのAIスタートアップ12社を指名"
         },
         {
-          "date": "2026-03-16",
-          "title": "AWS と NVIDIA が戦略的連携を深め、AI をパイロットから実稼働まで加速"
+          "date": "2026-03-17",
+          "title": "Amazon Connect は新しい生成型テキスト読み上げ音声を追加し、新しいリージョンに拡大します"
         },
         {
-          "date": "2026-03-16",
-          "title": "NVIDIA と世界的な産業用ソフトウェア大手が設計、エンジニアリング、製造を AI 時代に導入"
+          "date": "2026-03-17",
+          "title": "アンディ・ジャシー氏は全員参加の会合で、AWS が AI のおかげで 2036 年までに年間売上高が 6,000 億ドルに達すると予想していると述べ、これは以前の予想の 2 倍でした。 "
         }
       ]
     },
@@ -76,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$254.23",
-      "change": "+0.56%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$249.94",
+      "change": "-1.69%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-03-16",
-          "title": "TV の XXL 代替品としてのレーザー TV: AWOL Vision Aetherion Max レビュー"
+          "date": "2026-03-17",
+          "title": "セキュリティ上の注意: Instagram の DM は最初から暗号化されていない可能性があります"
         },
         {
-          "date": "2026-03-16",
-          "title": "台本ノート、エピソード 727: 自由作品、トランスクリプト"
+          "date": "2026-03-17",
+          "title": "Aqara が新しい Matter 対応屋内カメラを発売"
         },
         {
-          "date": "2026-03-16",
-          "title": "ChatGPT でセックスできますか?"
+          "date": "2026-03-17",
+          "title": "Ankerの今後のLiberty 5 Pro Max Budsには、充電ケースにAIボイスレコーダーが搭載されます"
         }
       ]
     },
@@ -101,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$181.93",
-      "change": "-0.70%",
+      "price": "$180.40",
+      "change": "-0.84%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-03-16",
-          "title": "8GB VRAM GPU をまだ捨てないでください — VRAM への依存を軽減する 3 つの方法"
+          "date": "2026-03-17",
+          "title": "NVIDIA が 1 兆ドル規模の AI 工場の構築を計画中、0G が分散型代替手段を提供 — メインネット上で稼働中"
         },
         {
-          "date": "2026-03-16",
-          "title": "マイクロン、Nvidia Vera Rubin 向け HBM4 の量産開始 - 帯域幅が 2.3 倍向上し、電力効率が 20% 向上"
+          "date": "2026-03-17",
+          "title": "キオクシア、AI GPU 主導のワークロード向けに最適化された新しい SSD モデルを発表"
         },
         {
-          "date": "2026-03-16",
-          "title": "(PR) HPE、NVIDIA との次世代 AI ファクトリーとスーパーコンピューティングの進歩を発表"
+          "date": "2026-03-17",
+          "title": "Nvidia の DLSS 5 の発表でミームの熱狂が巻き起こり、ゲーマーは AI の「ニューラル レンダリング」に躊躇"
         }
       ]
     },
@@ -126,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$399.41",
-      "change": "-0.14%",
+      "price": "$391.79",
+      "change": "-1.91%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-03-16",
-          "title": "NVIDIA、ロボティクス、ビジョン AI エージェント、自動運転車の開発を加速するオープン フィジカル AI データ ファクトリ ブループリントを発表"
+          "date": "2026-03-17",
+          "title": "XM Cyber​​ は、露出と攻撃経路の可視性を強化して AI セキュリティを進化させます"
         },
         {
-          "date": "2026-03-16",
-          "title": "NVIDIA、ロボティクス、ビジョン AI エージェント、自動運転車の開発を加速するオープン フィジカル AI データ ファクトリ ブループリントを発表"
+          "date": "2026-03-17",
+          "title": "エンタープライズ AI 契約の背後に隠れた価格競争"
         },
         {
-          "date": "2026-03-16",
-          "title": "NVIDIA GTC 2026: Rubin GPU、Groq LPU、Vera CPU、および NVIDIA が兆パラメータ推論のために構築しているもの"
+          "date": "2026-03-17",
+          "title": "Nvidia は 2027 年までに 1 兆ドルの収益を目指しています: この成長の原動力は何ですか?"
         }
       ]
     }

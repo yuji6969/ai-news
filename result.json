@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-21",
+  "date": "2026-03-22",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
+          "date": "2026-03-21",
+          "title": "炭素クレジットは大手テクノロジー企業の AI による排出量急増を一掃できるか?"
+        },
+        {
+          "date": "2026-03-20",
+          "title": "キーフ、ブリュイエット、ウッズはハイパフォーマンス コンピューティング (HPC) データセンター開発への移行の中でサイファー デジタル (CIFR) に強気"
+        },
+        {
           "date": "2026-03-20",
           "title": "Nvidiaの200億ドルのGroq取引にエリザベス・ウォーレン、リチャード・ブルーメンソール上院議員が質問"
-        },
-        {
-          "date": "2026-03-20",
-          "title": "ホワイトハウス、懐疑的な議会のためにAI立法計画を発表"
-        },
-        {
-          "date": "2026-03-20",
-          "title": "Veri、精密医療を推進するために 3 億ドルを調達し、Alphabet の影から抜け出す"
         }
       ]
     },
@@ -38,12 +38,12 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-03-20",
-          "title": "笑ってるよ。"
+          "date": "2026-03-21",
+          "title": "炭素クレジットは大手テクノロジー企業の AI による排出量急増を一掃できるか?"
         },
         {
-          "date": "2026-03-20",
-          "title": "トランプ政権当局者、オハイオ州のウラン工場跡地に10ギガワットのデータセンターとガスプラントを発表"
+          "date": "2026-03-21",
+          "title": "AI 用の NVIDIA GPU の説明"
         }
       ]
     },
@@ -59,16 +59,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-03-20",
-          "title": "Amazon EKS が、99.99% のサービスレベルアグリーメントとプロビジョニングされたコントロールプレーンクラスターの新しい 8XL スケーリング層を発表"
+          "date": "2026-03-21",
+          "title": "「私たちはより高いものへの足がかりとなることを特権と見なすべきです」: アーサー・C・クラークは1964年にAGIの台頭と迫りくる人類の終焉をどのように予言したか"
+        },
+        {
+          "date": "2026-03-21",
+          "title": "Nvidia の大規模カンファレンスがウォール街を魅了しなかった理由 |"
         },
         {
           "date": "2026-03-20",
-          "title": "AmazonはFire Phoneの失敗から10年以上経ってスマートフォンの復活を計画している"
-        },
-        {
-          "date": "2026-03-20",
-          "title": "AWS Neuron が Amazon EKS による動的リソース割り当てのサポートを発表"
+          "title": "toucandb が PyPI に追加されました"
         }
       ]
     },
@@ -84,16 +84,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-03-20",
-          "title": "iOS 26.4: iPhone に追加されるトップ 10 の新機能"
+          "date": "2026-03-21",
+          "title": "iPad Mini 7 256GBが100ドルオフ"
         },
         {
-          "date": "2026-03-20",
-          "title": "Apple iPhone 17e レビュー"
+          "date": "2026-03-21",
+          "title": "iPhone 17eの代わりに買うべき4つのAndroidスマートフォン"
         },
         {
-          "date": "2026-03-20",
-          "title": "カナダでは Apple TV、Crave、Netflix、Paramount+、Prime Video でストリーミング [3 月 16 ～ 22 日]"
+          "date": "2026-03-21",
+          "title": "AppleはAirPods Ultraを計画しているのか? "
         }
       ]
     },
@@ -101,24 +101,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$172.70",
-      "change": "-3.28%",
+      "price": "$172.93",
+      "change": "-3.15%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-03-20",
-          "title": "Nvidia CEO、技術幹部に対し従業員の解雇と人々を怖がらせるのをやめるよう求める"
+          "date": "2026-03-21",
+          "title": "MSI、Nvidia GB300 Ultra、400GbE LAN ポートのペア、および 768GB RAM を搭載した 85,000 ドルの Nvidia DGX Station ワークステーションを（再）発売"
         },
         {
-          "date": "2026-03-20",
-          "title": "NumKong: すべてに 2,000 個の混合高精度カーネル"
+          "date": "2026-03-21",
+          "title": "エイサー プレデター トリトン 14 AI"
         },
         {
-          "date": "2026-03-20",
-          "title": "レノボ、165 Hz OLED ディスプレイを搭載した新しい 15 インチ ゲーム用ラップトップを北米で発売"
+          "date": "2026-03-21",
+          "title": "エイサー プレデター トリトン 14 AI"
         }
       ]
     },
@@ -126,7 +126,7 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$381.87",
+      "price": "$381.85",
       "change": "-1.84%",
       "change_icon": "📉",
       "positive": false,
@@ -134,16 +134,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
+          "date": "2026-03-21",
+          "title": "ローコード開発と従来の .NET 開発: 長所と短所"
+        },
+        {
           "date": "2026-03-20",
           "title": "CTI-REALM: AI エージェントを使用したエンドツーエンドの検出ルール生成のための新しいベンチマーク"
         },
         {
           "date": "2026-03-20",
           "title": "AI チップの比較: GPU、ASIC、NPU"
-        },
-        {
-          "date": "2026-03-20",
-          "title": "アメリカ国民も同意：政府はAI技術を利用して我々をスパイすべきではない"
         }
       ]
     }

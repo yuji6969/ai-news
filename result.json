@@ -1,28 +1,28 @@
 {
-  "date": "2026-03-22",
+  "date": "2026-03-23",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$301.00",
-      "change": "-2.00%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$302.06",
+      "change": "+0.35%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
+          "date": "2026-03-22",
+          "title": "SEO と CRO から Agentic AI Optimization (AAIO) まで: ウェブサイトが @sejournal、@slobodanmanic 経由でマシンと通信する必要がある理由"
+        },
+        {
+          "date": "2026-03-21",
+          "title": "OpenAIは今年従業員数をほぼ倍増する計画だとFTが報じた"
+        },
+        {
           "date": "2026-03-21",
           "title": "炭素クレジットは大手テクノロジー企業の AI による排出量急増を一掃できるか?"
-        },
-        {
-          "date": "2026-03-20",
-          "title": "キーフ、ブリュイエット、ウッズはハイパフォーマンス コンピューティング (HPC) データセンター開発への移行の中でサイファー デジタル (CIFR) に強気"
-        },
-        {
-          "date": "2026-03-20",
-          "title": "Nvidiaの200億ドルのGroq取引にエリザベス・ウォーレン、リチャード・ブルーメンソール上院議員が質問"
         }
       ]
     },
@@ -30,20 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$593.66",
-      "change": "-2.15%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$604.06",
+      "change": "+1.75%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-03-21",
-          "title": "炭素クレジットは大手テクノロジー企業の AI による排出量急増を一掃できるか?"
+          "date": "2026-03-22",
+          "title": "OpenAIのデータセンター転換はIPOを控えたウォール街の支出懸念を浮き彫りにする"
         },
         {
-          "date": "2026-03-21",
-          "title": "AI 用の NVIDIA GPU の説明"
+          "date": "2026-03-22",
+          "title": "AI 生成のコミック ドラマ: 中国のエンターテインメント産業と投資環境を破壊する"
+        },
+        {
+          "date": "2026-03-22",
+          "title": "今週の振り返り: ScreenConnect サーバーが攻撃にさらされ、Microsoft SharePoint の欠陥が悪用される"
         }
       ]
     },
@@ -51,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$205.37",
-      "change": "-1.62%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$210.14",
+      "change": "+2.32%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-03-21",
-          "title": "「私たちはより高いものへの足がかりとなることを特権と見なすべきです」: アーサー・C・クラークは1964年にAGIの台頭と迫りくる人類の終焉をどのように予言したか"
+          "date": "2026-03-22",
+          "title": "Anthropic、OpenAI、さらには Apple さえも魅了したチップ、Amazon の Trainium ラボの独占ツアー |"
         },
         {
-          "date": "2026-03-21",
-          "title": "Nvidia の大規模カンファレンスがウォール街を魅了しなかった理由 |"
+          "date": "2026-03-22",
+          "title": "OpenAIのデータセンター転換はIPOを控えたウォール街の支出懸念を浮き彫りにする"
         },
         {
-          "date": "2026-03-20",
-          "title": "toucandb が PyPI に追加されました"
+          "date": "2026-03-22",
+          "title": "システム アーキテクチャ図を作成する際に避けるべきよくある間違い"
         }
       ]
     },
@@ -76,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$247.99",
-      "change": "-0.39%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$251.49",
+      "change": "+1.41%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-03-21",
-          "title": "iPad Mini 7 256GBが100ドルオフ"
+          "date": "2026-03-22",
+          "title": "roland-sloth が PyPI に追加されました"
         },
         {
-          "date": "2026-03-21",
-          "title": "iPhone 17eの代わりに買うべき4つのAndroidスマートフォン"
+          "date": "2026-03-22",
+          "title": "OpenClaw は白昼夢を装ったセキュリティの悪夢です"
         },
         {
-          "date": "2026-03-21",
-          "title": "AppleはAirPods Ultraを計画しているのか? "
+          "date": "2026-03-22",
+          "title": "Apple TV、HomePod miniの発売遅延の理由、AppleのAI苦戦"
         }
       ]
     },
@@ -101,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$172.93",
-      "change": "-3.15%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$175.64",
+      "change": "+1.70%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-03-21",
-          "title": "MSI、Nvidia GB300 Ultra、400GbE LAN ポートのペア、および 768GB RAM を搭載した 85,000 ドルの Nvidia DGX Station ワークステーションを（再）発売"
+          "date": "2026-03-22",
+          "title": "PyPI にループチャットが追加されました"
         },
         {
-          "date": "2026-03-21",
-          "title": "エイサー プレデター トリトン 14 AI"
+          "date": "2026-03-22",
+          "title": "細分化された LLM 推論ワークロードを Kubernetes にデプロイする"
         },
         {
-          "date": "2026-03-21",
-          "title": "エイサー プレデター トリトン 14 AI"
+          "date": "2026-03-22",
+          "title": "キオクシアは史上最速の SSD を発表したばかりですか? "
         }
       ]
     },
@@ -126,13 +130,17 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$381.85",
-      "change": "-1.84%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$383.00",
+      "change": "+0.30%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
+        {
+          "date": "2026-03-22",
+          "title": "エージェントセキュリティハーネスが PyPI に追加されました"
+        },
         {
           "date": "2026-03-21",
           "title": "ローコード開発と従来の .NET 開発: 長所と短所"
@@ -140,10 +148,6 @@
         {
           "date": "2026-03-20",
           "title": "CTI-REALM: AI エージェントを使用したエンドツーエンドの検出ルール生成のための新しいベンチマーク"
-        },
-        {
-          "date": "2026-03-20",
-          "title": "AI チップの比較: GPU、ASIC、NPU"
         }
       ]
     }

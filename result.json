@@ -1,28 +1,28 @@
 {
-  "date": "2026-03-25",
+  "date": "2026-03-26",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$290.93",
-      "change": "+0.17%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$280.92",
+      "change": "-3.44%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-03-24",
-          "title": "AI を活用した新しい Siri は iOS 27 でどのように見えるか (そしてどのように動作するか)"
+          "date": "2026-03-25",
+          "title": "トランプ大統領、技術諮問委員会にCEO、核融合創始者、ノーベル賞受賞者を指名"
         },
         {
-          "date": "2026-03-24",
-          "title": "AmazonがFauna Roboticsを買収し、消費者向けヒューマノイド市場に参入"
+          "date": "2026-03-25",
+          "title": "OpenAIがSoraを廃止した後、マスクのxAIはAIビデオに「倍増」する"
         },
         {
-          "date": "2026-03-24",
-          "title": "トム・クルーズとブラッド・ピットはリラックスできます。 "
+          "date": "2026-03-25",
+          "title": "メタとYouTubeに対するLAの判決はソーシャルメディアへの警告"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$594.89",
-      "change": "+0.33%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$547.54",
+      "change": "-7.96%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-03-24",
-          "title": "デッドハウス ソナタ Q&A: デニス ダイアックのタロット カード、量子物理学に基づく戦利品、ケインの遺産の精神的後継者の構築"
+          "date": "2026-03-25",
+          "title": "トランプ大統領、技術諮問委員会にCEO、核融合創始者、ノーベル賞受賞者を指名"
         },
         {
-          "date": "2026-03-24",
-          "title": "CFOたちは、今年のAIの人員削減は9倍になるだろうと非公式に認めているが、それでも「終末」予測のほんの一部に過ぎない"
+          "date": "2026-03-25",
+          "title": "2 億 5,000 万の中小企業を AI 顧客に変えるメタの取り組みの内部"
         },
         {
-          "date": "2026-03-24",
-          "title": "最高のウェブサイトビルダー"
+          "date": "2026-03-25",
+          "title": "主要部門全体で数百人が職を失うとの報道を受けて、なぜメタ株が上昇しているのか - どのチームが影響を受けるのか、そしてメタ社が次に何を計画しているのかは次のとおり。"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$211.71",
-      "change": "+2.16%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$207.54",
+      "change": "-1.97%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-03-24",
-          "title": "AI エージェントを使用した Amazon SageMaker カタログでのデータ分類の自動化"
+          "date": "2026-03-25",
+          "title": "Ranjan Roy: OpenAI の収益は 2030 年までに 2,840 億ドルに達する可能性があり、成長予測の持続可能性には懐疑的な見方があり、Amazon の小売モデルは重大な課題に直面しています |"
         },
         {
-          "date": "2026-03-24",
-          "title": "Arm 史上初の CPU が今年後半に Meta の AI データセンターに接続される予定"
+          "date": "2026-03-25",
+          "title": "AWS サーバーレス用エージェント プラグインで AI 支援開発を加速する"
         },
         {
-          "date": "2026-03-24",
-          "title": "トレーニング プランを使用して、GPU 容量を設定した SageMaker AI 推論エンドポイントをデプロイする"
+          "date": "2026-03-25",
+          "title": "Talk Python to Me: #542: Zensical - 最新の静的サイト ジェネレーター"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$252.62",
-      "change": "+0.39%",
+      "price": "$252.89",
+      "change": "+0.11%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-03-24",
-          "title": "Apple、iOS 27でSiriにAIの大規模な見直しを行う可能性がある"
+          "date": "2026-03-25",
+          "title": "Appleは、サイズが10倍のモデルよりも画像に優れたキャプションを付けるAIをトレーニングしました"
         },
         {
-          "date": "2026-03-24",
-          "title": "AI を活用した新しい Siri は iOS 27 でどのように見えるか (そしてどのように動作するか)"
+          "date": "2026-03-25",
+          "title": "Amazon の春のビッグセール中に読者が買い物をするトップテクノロジーセール"
         },
         {
-          "date": "2026-03-24",
-          "title": "iOS 26.4 の機能: iOS 26.4 のすべての新機能"
+          "date": "2026-03-25",
+          "title": "Apple の AirTag サイズの AI ピン: 私たちが知っているすべて"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$178.68",
-      "change": "+1.99%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$171.24",
+      "change": "-4.16%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-03-24",
-          "title": "0G ラボが 2025 年に世界最大の分散型 AI モデルを 107B パラメータでトレーニング - 今週の業界ヘッドラインの 8 か月前"
+          "date": "2026-03-25",
+          "title": "Supermicro サーバーを含む Nvidia GPU 密輸計画のトリオを連邦当局が逮捕"
         },
         {
-          "date": "2026-03-24",
-          "title": "AIを搭載したArm CEO、マネーマシンに変える謎の製品をからかう"
+          "date": "2026-03-25",
+          "title": "Supermicro サーバーを含む Nvidia GPU 密輸計画のトリオを連邦当局が逮捕"
         },
         {
-          "date": "2026-03-24",
-          "title": "ワットあたりのパフォーマンスを最大化することでトークン ファクトリーの収益と AI 効率を拡大"
+          "date": "2026-03-25",
+          "title": "デルの Precision Pro Biz ノートパソコンが携帯性を新たに重視して戻ってきました"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$371.04",
-      "change": "-0.46%",
+      "price": "$365.97",
+      "change": "-1.37%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-03-24",
-          "title": "AI業界は嘘をついている"
+          "date": "2026-03-25",
+          "title": "独占: Amazon が英国で初のオーディオ広告取引を計画中"
         },
         {
-          "date": "2026-03-24",
-          "title": "Arm AGI CPU"
+          "date": "2026-03-25",
+          "title": "People Inc. のジョン・ロバーツ氏が AI ライセンス ブームと収益の遅れについて語る"
         },
         {
-          "date": "2026-03-24",
-          "title": "MicrosoftはOpenAIの最大のパートナーとなり、IPOリスクが最も大きくなる可能性があり、将来の評価額について投資家の懸念が高まっている"
+          "date": "2026-03-25",
+          "title": "OpenAIはMicrosoftへの依存を懸念：将来のビジネスにとって大きなリスク"
         }
       ]
     }

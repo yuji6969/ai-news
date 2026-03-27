@@ -1,28 +1,28 @@
 {
-  "date": "2026-03-26",
+  "date": "2026-03-27",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$280.92",
-      "change": "-3.44%",
+      "price": "$274.34",
+      "change": "-2.34%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-03-25",
-          "title": "トランプ大統領、技術諮問委員会にCEO、核融合創始者、ノーベル賞受賞者を指名"
+          "date": "2026-03-26",
+          "title": "米国株：米国の判決が訴訟氾濫への扉を開くとの懸念でメタ株は7％下落"
         },
         {
-          "date": "2026-03-25",
-          "title": "OpenAIがSoraを廃止した後、マスクのxAIはAIビデオに「倍増」する"
+          "date": "2026-03-26",
+          "title": "ティム・フェリス・ショーのトランスクリプト: ティムとの Q&A — 今後の AI 津波とオフラインでの優位性の構築、おすすめの書籍、サイケデリックな危険信号の発見、学習可能なスキルとしての勇気など (#859)"
         },
         {
-          "date": "2026-03-25",
-          "title": "メタとYouTubeに対するLAの判決はソーシャルメディアへの警告"
+          "date": "2026-03-26",
+          "title": "米国の陪審評決で新たな法的摘発の懸念が高まり、メタ株が下落"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$547.54",
-      "change": "-7.96%",
+      "price": "$525.72",
+      "change": "-3.99%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-03-25",
-          "title": "トランプ大統領、技術諮問委員会にCEO、核融合創始者、ノーベル賞受賞者を指名"
+          "date": "2026-03-26",
+          "title": "AI ブームはポリクライシスのために作られたものではない"
         },
         {
-          "date": "2026-03-25",
-          "title": "2 億 5,000 万の中小企業を AI 顧客に変えるメタの取り組みの内部"
+          "date": "2026-03-26",
+          "title": "米国の送電網にストレスがかかり、データセンターの柔軟性の向上が求められている"
         },
         {
-          "date": "2026-03-25",
-          "title": "主要部門全体で数百人が職を失うとの報道を受けて、なぜメタ株が上昇しているのか - どのチームが影響を受けるのか、そしてメタ社が次に何を計画しているのかは次のとおり。"
+          "date": "2026-03-26",
+          "title": "メタが西テキサス AI データセンターへの投資を 100 億ドルに増額、CNBC が報じた"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$207.54",
-      "change": "-1.97%",
+      "price": "$199.34",
+      "change": "-3.95%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-03-25",
-          "title": "Ranjan Roy: OpenAI の収益は 2030 年までに 2,840 億ドルに達する可能性があり、成長予測の持続可能性には懐疑的な見方があり、Amazon の小売モデルは重大な課題に直面しています |"
+          "date": "2026-03-26",
+          "title": "オラクルがシドニーにカスタマー・エクセレンス・センターを開設し、AI導入を促進"
         },
         {
-          "date": "2026-03-25",
-          "title": "AWS サーバーレス用エージェント プラグインで AI 支援開発を加速する"
+          "date": "2026-03-26",
+          "title": "エージェント AI の準備: 金融サービスのアプローチ"
         },
         {
-          "date": "2026-03-25",
-          "title": "Talk Python to Me: #542: Zensical - 最新の静的サイト ジェネレーター"
+          "date": "2026-03-26",
+          "title": "AWS Step Functions は、Amazon Bedrock AgentCore を含む 28 の新しいサービス統合を追加します"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$252.89",
-      "change": "+0.11%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$248.80",
+      "change": "-1.62%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-03-25",
-          "title": "Appleは、サイズが10倍のモデルよりも画像に優れたキャプションを付けるAIをトレーニングしました"
+          "date": "2026-03-26",
+          "title": "iOS 27 は ChatGPT を超えたライバル AI 統合のために Siri を開く可能性がある"
         },
         {
-          "date": "2026-03-25",
-          "title": "Amazon の春のビッグセール中に読者が買い物をするトップテクノロジーセール"
+          "date": "2026-03-26",
+          "title": "Apple、iOS 27向けスタンドアロンSiriアプリを開発：レポート"
         },
         {
-          "date": "2026-03-25",
-          "title": "Apple の AirTag サイズの AI ピン: 私たちが知っているすべて"
+          "date": "2026-03-26",
+          "title": "ウィキペディア、AI 生成コンテンツを禁止、例外は 2 つだけ"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$171.24",
-      "change": "-4.16%",
+      "price": "$167.52",
+      "change": "-2.17%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-03-25",
-          "title": "Supermicro サーバーを含む Nvidia GPU 密輸計画のトリオを連邦当局が逮捕"
+          "date": "2026-03-26",
+          "title": "500 ドルの GPU がコーディング ベンチマークでクロード ソネットを上回るパフォーマンスを発揮"
         },
         {
-          "date": "2026-03-25",
-          "title": "Supermicro サーバーを含む Nvidia GPU 密輸計画のトリオを連邦当局が逮捕"
+          "date": "2026-03-26",
+          "title": "AI インフラストラクチャのボトルネック: 「十分に優れた」Kubernetes がもう解決できない理由"
         },
         {
-          "date": "2026-03-25",
-          "title": "デルの Precision Pro Biz ノートパソコンが携帯性を新たに重視して戻ってきました"
+          "date": "2026-03-26",
+          "title": "Super Micro スキャンダルを受けて、米国上院議員が Nvidia GPU 輸出の停止を要求 — 差し迫ったチップセキュリティ法は、Huang 氏の中国への野望に打撃を与える可能性がある"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$365.97",
-      "change": "-1.37%",
+      "price": "$356.77",
+      "change": "-2.51%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-03-25",
-          "title": "独占: Amazon が英国で初のオーディオ広告取引を計画中"
+          "date": "2026-03-26",
+          "title": "OpenAI Sora 死亡、新たな資金調達「ポンジスキーム」...OpenAI の終わりは近い、そして Microsoft は最終的にその破片を拾うことになるのだろうか?"
         },
         {
-          "date": "2026-03-25",
-          "title": "People Inc. のジョン・ロバーツ氏が AI ライセンス ブームと収益の遅れについて語る"
+          "date": "2026-03-26",
+          "title": "ありがとう、イラン！"
         },
         {
-          "date": "2026-03-25",
-          "title": "OpenAIはMicrosoftへの依存を懸念：将来のビジネスにとって大きなリスク"
+          "date": "2026-03-26",
+          "title": "投資家がAI支出と第1四半期の収益に注目する中、アルファベット（GOOGL）株は小幅下落"
         }
       ]
     }

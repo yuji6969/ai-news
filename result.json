@@ -1,28 +1,28 @@
 {
-  "date": "2026-03-29",
+  "date": "2026-03-30",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$274.34",
-      "change": "-2.34%",
+      "price": "$273.50",
+      "change": "-0.31%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-03-28",
-          "title": "エージェント・スミスとは何ですか?"
+          "date": "2026-03-29",
+          "title": "Yahoo CEO ジム・ランゾーン氏、「好転の白鯨」と AI への転向について語る - Anthropic からライセンス供与"
+        },
+        {
+          "date": "2026-03-29",
+          "title": "イラン戦争はマグ７株を押し目買いの餌に変えた。"
         },
         {
           "date": "2026-03-28",
           "title": "エージェント・スミスとは何ですか?"
-        },
-        {
-          "date": "2026-03-28",
-          "title": "2026 年の米国で最も影響力のある CEO トップ 10: AI、イノベーション、大胆なリーダーシップが年を定義する"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$525.72",
-      "change": "-3.99%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$536.38",
+      "change": "+2.03%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-03-28",
-          "title": "AJ クロニクルズ: テクノロジー インフラストラクチャが今年最も重要なアート ストーリーである理由"
+          "date": "2026-03-29",
+          "title": "ハイテク企業のCEOたちは突然、大量の人員削減の原因をAIのせいにするのが好きになる。"
         },
         {
-          "date": "2026-03-28",
-          "title": "ビル・アックマンとブラッド・ガースナーが同じ4銘柄に乗り込む – 彼らは今後どうなると予想しているのか?"
+          "date": "2026-03-29",
+          "title": "気をつけるべき最新の Instagram と Facebook 詐欺"
         },
         {
-          "date": "2026-03-28",
-          "title": "労働党は大手テクノロジー企業を信頼しすぎているのだろうか？"
+          "date": "2026-03-29",
+          "title": "大手テクノロジー企業はクリーン エネルギーを採用し、気候変動に対して方向転換を図っていました。"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$199.34",
-      "change": "-3.95%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$200.95",
+      "change": "+0.81%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
+          "date": "2026-03-29",
+          "title": "このフレンドリーなロボットは 100 MW の太陽光発電を設置したばかりです"
+        },
+        {
+          "date": "2026-03-29",
+          "title": "西アジア戦争は、数兆ドル規模のAI投資の脆弱性を露呈させた"
+        },
+        {
           "date": "2026-03-28",
           "title": "HN を表示: VellaVeto — 安全でない MCP ツール呼び出しをデフォルトでブロックします"
-        },
-        {
-          "date": "2026-03-28",
-          "title": "2026 年の米国で最も影響力のある CEO トップ 10: AI、イノベーション、大胆なリーダーシップが年を定義する"
-        },
-        {
-          "date": "2026-03-28",
-          "title": "#StartupTicker - +++ Kandou AI +++ Upvest +++ Dash0 +++ Entrix +++ PAVE Space +++ Eversports +++ RIVR +++ Tractive +++"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$248.80",
-      "change": "-1.62%",
+      "price": "$246.63",
+      "change": "-0.87%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-03-28",
-          "title": "Setapp (Spark+、CleanMyMac など) の教育割引が 20% オフ"
+          "date": "2026-03-29",
+          "title": "コーディングエージェントはフリーソフトウェアを再び重要なものにする可能性がある"
         },
         {
-          "date": "2026-03-28",
-          "title": "DVDFab 13.0.5.8"
+          "date": "2026-03-29",
+          "title": "Apple、App Storeとハードウェアを中心としたAI計画"
         },
         {
-          "date": "2026-03-28",
-          "title": "macOS 1.2026.049 用 ChatGPT"
+          "date": "2026-03-29",
+          "title": "これまでに見つけた最高の Amazon Big Spring Sale Apple セール"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$167.52",
-      "change": "-2.17%",
+      "price": "$165.17",
+      "change": "-1.40%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-03-28",
-          "title": "PhotoCHAT AI 0.7.0.0"
+          "date": "2026-03-29",
+          "title": "Amazonの春の大セールで、トップクラスのノートパソコンとデスクトップPCが値下げされる"
         },
         {
-          "date": "2026-03-28",
-          "title": "openaice が PyPI に追加されました"
+          "date": "2026-03-29",
+          "title": "Amazonの春の大セールで、トップクラスのノートパソコンとデスクトップPCが値下げされる"
         },
         {
-          "date": "2026-03-28",
-          "title": "GeForce RTX 60 のスペックがメモリ帯域幅とレイ トレーシングの大幅な向上を示唆するリーク"
+          "date": "2026-03-29",
+          "title": "NVIDIA の今後のラップトップ チップは、AMD と Intel の長年の優位性を覆す可能性があります – 知っておくべきことはすべてここにあります"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$356.77",
-      "change": "-2.51%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$358.96",
+      "change": "+0.61%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
+          "date": "2026-03-29",
+          "title": "Agentic AI と Copilot: .NET チームのための実践ガイド"
+        },
+        {
+          "date": "2026-03-29",
+          "title": "2026 .NET マニフェスト 高密度の AI ネイティブ システムの構築"
+        },
+        {
           "date": "2026-03-27",
           "title": "人口健康管理 (PHM) 市場レポート 2026 ～ 2030 年: 成長セグメントを特定して投資し、競争上の優位性を確保"
-        },
-        {
-          "date": "2026-03-27",
-          "title": "AIの影響でマイクロソフト、2008年以来最悪の四半期に"
-        },
-        {
-          "date": "2026-03-26",
-          "title": "OpenAI Sora 死亡、新たな資金調達「ポンジスキーム」...OpenAI の終わりは近い、そして Microsoft は最終的にその破片を拾うことになるのだろうか?"
         }
       ]
     }

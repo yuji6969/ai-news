@@ -1,28 +1,28 @@
 {
-  "date": "2026-03-30",
+  "date": "2026-03-31",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$273.50",
-      "change": "-0.31%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$287.56",
+      "change": "+5.14%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-03-29",
-          "title": "Yahoo CEO ジム・ランゾーン氏、「好転の白鯨」と AI への転向について語る - Anthropic からライセンス供与"
+          "date": "2026-03-30",
+          "title": "データセンターへの支出は世界最大のエネルギー市場に匹敵しようとしている"
         },
         {
-          "date": "2026-03-29",
-          "title": "イラン戦争はマグ７株を押し目買いの餌に変えた。"
+          "date": "2026-03-30",
+          "title": "アナリストらによると、AIの勢いがマクロ的な逆風を打ち消し、アルファベット株は買い領域付近で推移している"
         },
         {
-          "date": "2026-03-28",
-          "title": "エージェント・スミスとは何ですか?"
+          "date": "2026-03-30",
+          "title": "メタは法的、AIへの懸念により3,100億ドルの市場価値下落に直面している"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$536.38",
-      "change": "+2.03%",
+      "price": "$572.13",
+      "change": "+6.67%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-03-29",
-          "title": "ハイテク企業のCEOたちは突然、大量の人員削減の原因をAIのせいにするのが好きになる。"
+          "date": "2026-03-30",
+          "title": "AIの高騰するコストに対してGoogleのTurboQuantができることとできないこと"
         },
         {
-          "date": "2026-03-29",
-          "title": "気をつけるべき最新の Instagram と Facebook 詐欺"
+          "date": "2026-03-30",
+          "title": "Rebellions が 23 億 4000 万ドルの評価額で 4 億ドルのプレ IPO ラウンドを終了"
         },
         {
-          "date": "2026-03-29",
-          "title": "大手テクノロジー企業はクリーン エネルギーを採用し、気候変動に対して方向転換を図っていました。"
+          "date": "2026-03-30",
+          "title": "賛同を得る AI SEO のビジネスケースを構築する方法"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$200.95",
-      "change": "+0.81%",
+      "price": "$208.27",
+      "change": "+3.64%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-03-29",
-          "title": "このフレンドリーなロボットは 100 MW の太陽光発電を設置したばかりです"
+          "date": "2026-03-30",
+          "title": "元 Coatue パートナーがエンタープライズ AI エージェントのスタートアップのために 6,500 万ドルの巨額シードを調達 |"
         },
         {
-          "date": "2026-03-29",
-          "title": "西アジア戦争は、数兆ドル規模のAI投資の脆弱性を露呈させた"
+          "date": "2026-03-30",
+          "title": "Amazon EC2 上の Intel AMX を使用して CPU ベースの AI 推論ワークロードを高速化する"
         },
         {
-          "date": "2026-03-28",
-          "title": "HN を表示: VellaVeto — 安全でない MCP ツール呼び出しをデフォルトでブロックします"
+          "date": "2026-03-30",
+          "title": "AWS ウィークリーまとめ: AWS AI/ML Scholars プログラム、AWS サーバーレス用エージェントプラグインなど (2026 年 3 月 30 日)"
         }
       ]
     },
@@ -80,24 +80,20 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$246.63",
-      "change": "-0.87%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$253.79",
+      "change": "+2.90%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-03-29",
-          "title": "コーディングエージェントはフリーソフトウェアを再び重要なものにする可能性がある"
+          "date": "2026-03-30",
+          "title": "HN を表示: BitPolar"
         },
         {
-          "date": "2026-03-29",
-          "title": "Apple、App Storeとハードウェアを中心としたAI計画"
-        },
-        {
-          "date": "2026-03-29",
-          "title": "これまでに見つけた最高の Amazon Big Spring Sale Apple セール"
+          "date": "2026-03-30",
+          "title": "Apple の恥ずかしい敗北は、AI が提供するあらゆるものに勝利する道を開く可能性がある"
         }
       ]
     },
@@ -105,24 +101,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$165.17",
-      "change": "-1.40%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$174.40",
+      "change": "+5.59%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-03-29",
-          "title": "Amazonの春の大セールで、トップクラスのノートパソコンとデスクトップPCが値下げされる"
+          "date": "2026-03-30",
+          "title": "Amazon のビッグ 春セールでラップトップやデスクトップのセールを買う時間がなくなってきました"
         },
         {
-          "date": "2026-03-29",
-          "title": "Amazonの春の大セールで、トップクラスのノートパソコンとデスクトップPCが値下げされる"
+          "date": "2026-03-30",
+          "title": "Intel の 949 ドルの GPU にはローカル AI 用の 32 GB の VRAM が搭載されていますが、Nvidia が勝ち続ける理由はソフトウェアにあります"
         },
         {
-          "date": "2026-03-29",
-          "title": "NVIDIA の今後のラップトップ チップは、AMD と Intel の長年の優位性を覆す可能性があります – 知っておくべきことはすべてここにあります"
+          "date": "2026-03-30",
+          "title": "ScaleOps がクラウドと AI インフラストラクチャを自律的に管理するために 1 億 3,000 万ドルを調達"
         }
       ]
     },
@@ -130,24 +126,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$358.96",
-      "change": "+0.61%",
+      "price": "$370.17",
+      "change": "+3.12%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-03-29",
-          "title": "Agentic AI と Copilot: .NET チームのための実践ガイド"
+          "date": "2026-03-30",
+          "title": "元 Coatue パートナーがエンタープライズ AI エージェントのスタートアップのために 6,500 万ドルの巨額シードを調達 |"
         },
         {
-          "date": "2026-03-29",
-          "title": "2026 .NET マニフェスト 高密度の AI ネイティブ システムの構築"
+          "date": "2026-03-30",
+          "title": "cla-ai が PyPI に追加されました"
         },
         {
-          "date": "2026-03-27",
-          "title": "人口健康管理 (PHM) 市場レポート 2026 ～ 2030 年: 成長セグメントを特定して投資し、競争上の優位性を確保"
+          "date": "2026-03-30",
+          "title": "Gen-AI のライバルである Google、Microsoft、OpenAI、Anthropic がインド社向けの AI 形成コンテストに向けて準備中"
         }
       ]
     }

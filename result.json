@@ -1,28 +1,28 @@
 {
-  "date": "2026-04-01",
+  "date": "2026-04-02",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$297.39",
-      "change": "+3.42%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$295.77",
+      "change": "-0.54%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-03-31",
-          "title": "イラン革命防衛隊は米国のハイテク企業18社を軍事目標に挙げたばかりだ。"
+          "date": "2026-04-01",
+          "title": "SpaceXは史上最大のIPOを申請したばかりだ。"
         },
         {
-          "date": "2026-03-31",
-          "title": "OpenAI、AI の次の段階を加速するために 1,220 億ドルを調達"
+          "date": "2026-04-01",
+          "title": "イランが中東の米国大手企業を脅かす中、仮想通貨は新たなリスクに直面している"
         },
         {
-          "date": "2026-03-31",
-          "title": "RAM AI の黙示録はついに終わったのか?"
+          "date": "2026-04-01",
+          "title": "生物学的データの爆発的な需要により、細胞生物学、ゲノミクス、創薬分野のクラウドコンピューティングは2030年までに156億ドルに達する見込み"
         }
       ]
     },
@@ -30,24 +30,20 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$579.23",
-      "change": "+1.24%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$574.46",
+      "change": "-0.82%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-03-31",
-          "title": "トランプ大統領がイラン紛争終結の可能性を示唆、米国株が急騰"
+          "date": "2026-04-01",
+          "title": "Creatorverse: Meta と Google の児童安全に関する訴訟はクリエイターに影響を与える"
         },
         {
-          "date": "2026-03-31",
-          "title": "トランプ大統領がイラン戦争が終わりに近づいているというウォール街の希望を呼び起こし、ダウは1,100ポイント以上急騰"
-        },
-        {
-          "date": "2026-03-31",
-          "title": "学生がテストでカンニングするためにスマートグラスをレンタル"
+          "date": "2026-04-01",
+          "title": "AI がシェイク シャックの注文をさらに迅速化する仕組み"
         }
       ]
     },
@@ -55,24 +51,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$210.57",
-      "change": "+1.10%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$209.77",
+      "change": "-0.38%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-03-31",
-          "title": "Agentic AI を活用して AWS DevOps エージェントによる自律的なインシデント対応を実現"
+          "date": "2026-04-01",
+          "title": "イランの脅威に続く中、バーレーンのアマゾン施設が再び打撃を受けると報告書が伝える"
         },
         {
-          "date": "2026-03-31",
-          "title": "Amazon Bedrock AgentCore 評価を使用して信頼性の高い AI エージェントを構築する"
+          "date": "2026-04-01",
+          "title": "Amazon SageMaker Data Agent が日本とオーストラリアの地域固有の推論をサポートするようになりました"
         },
         {
-          "date": "2026-03-31",
-          "title": "Amazon OpenSearch Service がログ分析用のエージェント AI を導入"
+          "date": "2026-04-01",
+          "title": "Amazon のセキュリティ責任者: AI により侵入テストの効率が 40% 向上"
         }
       ]
     },
@@ -80,24 +76,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$255.63",
-      "change": "+0.73%",
+      "price": "$255.92",
+      "change": "+0.11%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-03-31",
-          "title": "T-Mobile がネットワークベースのライブ翻訳ベータ版をリリース"
+          "date": "2026-04-01",
+          "title": "デル プロ マックス 16 プラス"
         },
         {
-          "date": "2026-03-31",
-          "title": "信頼できる音楽業界のアドバイスを見つける方法 (アーティストが CD Baby を信頼する理由)"
+          "date": "2026-04-01",
+          "title": "デル プロ マックス 16 プラス"
         },
         {
-          "date": "2026-03-31",
-          "title": "Apple の改良された AI を組み込んだ Siri は複数のコマンドを一度に処理できると報告されている"
+          "date": "2026-04-01",
+          "title": "Axios npm サプライ チェーンの侵害を軽減する"
         }
       ]
     },
@@ -105,24 +101,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$175.75",
-      "change": "+0.77%",
+      "price": "$177.39",
+      "change": "+0.93%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-03-31",
-          "title": "fused-turboquant が PyPI に追加されました"
+          "date": "2026-04-01",
+          "title": "デル プロ マックス 16 プラス"
         },
         {
-          "date": "2026-03-31",
-          "title": "モニターのアップグレードが次の GPU アップグレードよりもはるかに重要である 3 つの理由"
+          "date": "2026-04-01",
+          "title": "デル プロ マックス 16 プラス"
         },
         {
-          "date": "2026-03-31",
-          "title": "Nvidia、新たな相互接続パートナーシップの一環として Marvell に 20 億ドル投資"
+          "date": "2026-04-01",
+          "title": "PyPI に retai-core が追加されました"
         }
       ]
     },
@@ -130,24 +126,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$369.37",
-      "change": "-0.22%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$373.46",
+      "change": "+1.11%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-03-31",
-          "title": "マイクロソフト、AI懸念によりウォール街で2008年以来最悪の四半期を終える：「レドモンドは窮地に陥っている」"
+          "date": "2026-04-01",
+          "title": "PyPI に retai-core が追加されました"
         },
         {
-          "date": "2026-03-31",
-          "title": "Slack が Slackbot に 30 の AI 機能を追加、Salesforce 買収以来最も野心的なアップデート"
+          "date": "2026-04-01",
+          "title": "世界が物を爆破する中、OpenAI は「ただ物を作る」ために 1,220 億ドルを獲得"
         },
         {
-          "date": "2026-03-31",
-          "title": "cognity-ai が PyPI に追加されました"
+          "date": "2026-04-01",
+          "title": "オラクルの人員削減について説明:「人間を解雇し、AI を構築」、ビデオでは 30,000 人の人員削減が技術者解雇のテンプレートになる可能性があることを説明"
         }
       ]
     }

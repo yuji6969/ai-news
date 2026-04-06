@@ -1,17 +1,21 @@
 {
-  "date": "2026-04-05",
+  "date": "2026-04-06",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$295.77",
-      "change": "-0.54%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$299.99",
+      "change": "+1.43%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
+        {
+          "date": "2026-04-05",
+          "title": "未検証: OCR、エージェント、テーブルについての実践者による投稿"
+        },
         {
           "date": "2026-04-04",
           "title": "AI株は盲信の時代を抜け出し、厳しい数字の年に突入：投資家は今決算シーズンに注目すべきこと"
@@ -19,10 +23,6 @@
         {
           "date": "2026-04-04",
           "title": "50歳のアップル：iPhoneメーカーはAIで「5年間のリードを奪った」が、元関係者らはまだ勝てると語る"
-        },
-        {
-          "date": "2026-04-04",
-          "title": "OpenAIのフィジ・シモ氏、役員刷新のさなか病気休暇を取る"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$574.46",
-      "change": "-0.82%",
+      "price": "$573.02",
+      "change": "-0.25%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-04-04",
-          "title": "自分の家事を撮影することで、未来のアンドロイド執事がどのように訓練できるのか | "
+          "date": "2026-04-05",
+          "title": "「プロジェクト・ヘイル・メアリー」の楽観主義はハリウッドの破滅ループに対する解毒剤である"
         },
         {
-          "date": "2026-04-04",
-          "title": "カメラのないスマートグラスが勝ち続ける 7 つの理由"
+          "date": "2026-04-05",
+          "title": "ウォール街のトップアナリストはこれら3銘柄に大きな成長の可能性があると見ている"
         },
         {
-          "date": "2026-04-04",
-          "title": "2026 年に実際に機能する 7 つのベスト AI マーケティング ツール (私の正直なレビュー)"
+          "date": "2026-04-05",
+          "title": "2026 年の NVIDIA 株: バリュエーションへの懸念にもかかわらず AI 需要が成長を促進するとしてアナリストは購入を促す"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$209.77",
-      "change": "-0.38%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$212.79",
+      "change": "+1.44%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-04-04",
-          "title": "イランのミサイル攻撃でバーレーンとドバイのAWSデータセンターが破壊 - Amazonが複数ゾーンの「ハードダウン」ステータスを宣言"
+          "date": "2026-04-05",
+          "title": "ウォール街のトップアナリストはこれら3銘柄に大きな成長の可能性があると見ている"
         },
         {
-          "date": "2026-04-04",
-          "title": "ハッカーは欧州委員会が自らを守るために使用していたセキュリティツールを毒物にして欧州委員会に侵入した"
+          "date": "2026-04-05",
+          "title": "エージェント監査キットが PyPI に追加されました"
         },
         {
-          "date": "2026-04-03",
-          "title": "Apache Spark のトラブルシューティングおよびアップグレード エージェントが Kiro パワーとして利用可能になりました"
+          "date": "2026-04-05",
+          "title": "なぜオーバーエンジニアリングが起こるのか"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$255.92",
-      "change": "+0.11%",
+      "price": "$258.86",
+      "change": "+1.15%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-04-04",
-          "title": "この Samsung Galaxy Tab A11+ タブレットが期間限定で 50 ドルオフになりました"
+          "date": "2026-04-05",
+          "title": "「年間3万機のドローン」：アフリカの新興企業、Appleの戦略を参考にしてウクライナのUAV革命を模倣しようとしている"
         },
         {
-          "date": "2026-04-04",
-          "title": "人気のあるアプリで AI データ収集をオプトアウトする方法"
+          "date": "2026-04-05",
+          "title": "iCloudは今ダウンしていますか？ "
         },
         {
-          "date": "2026-04-04",
-          "title": "WHOOP、評価額101億ドルで5億7,500万ドルを調達、IPOが控えていることを示唆"
+          "date": "2026-04-05",
+          "title": "LM Studio の新しいヘッドレス CLI と Claude コードを使用して Google Gemma 4 をローカルで実行する"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$177.39",
-      "change": "+0.93%",
+      "price": "$177.64",
+      "change": "+0.14%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-04-04",
-          "title": "AI ビデオから SRT 1.1.3 へ"
+          "date": "2026-04-05",
+          "title": "NVIDIA Nsight グラフィックスを使用して最新の PC ゲームをプロファイリングする方法"
         },
         {
-          "date": "2026-04-04",
-          "title": "NVIDIA の GPU はゲームに優れていますが、新しい「ローハンマー」攻撃でシステム全体をハッカーに攻撃するのにも優れています"
+          "date": "2026-04-05",
+          "title": "LM Studio の新しいヘッドレス CLI と Claude コードを使用して Google Gemma 4 をローカルで実行する"
         },
         {
-          "date": "2026-04-04",
-          "title": "Show HN: Hypedar – まだ誰も構築していない AI のトレンド"
+          "date": "2026-04-05",
+          "title": "AIビデオ透かし除去プロ 1.0.4"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$373.46",
-      "change": "+1.11%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$372.88",
+      "change": "-0.16%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-04-04",
-          "title": "qa-gentic-stlc-agents 1.0"
+          "date": "2026-04-05",
+          "title": "エージェント監査キットが PyPI に追加されました"
         },
         {
-          "date": "2026-04-04",
-          "title": "AI がマイクロソフトを滅ぼす"
+          "date": "2026-04-05",
+          "title": "新興企業が AI 導入をリードし、企業が追いつく: Microsoft のジェイソン・グレーフ"
         },
         {
-          "date": "2026-04-03",
-          "title": "Microsoft は、OpenAI なしで AI 帝国を構築しているという、これまでで最も明確なシグナルを送りました。"
+          "date": "2026-04-05",
+          "title": "ラキブが PyPI に追加されました"
         }
       ]
     }

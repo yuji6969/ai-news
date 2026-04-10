@@ -1,28 +1,28 @@
 {
-  "date": "2026-04-09",
+  "date": "2026-04-10",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$318.49",
-      "change": "+0.37%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$317.24",
+      "change": "-0.39%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-04-08",
-          "title": "メモリの高騰でサムスンの利益が急増"
+          "date": "2026-04-09",
+          "title": "ビッグテックが静かに天然ガスブームを煽っている"
         },
         {
-          "date": "2026-04-08",
-          "title": "Meta が新しい AI モデルをデビュー、数十億ドルを投じて Google と OpenAI を捕まえようと試みる"
+          "date": "2026-04-09",
+          "title": "ビットコインマイナーが強者に変貌するにつれ、ハット8の株価はAIデータセンターピボットで63ドルを超えて急騰"
         },
         {
-          "date": "2026-04-08",
-          "title": "Google Finance が AI ツールをさらに 100 か国に拡張"
+          "date": "2026-04-09",
+          "title": "ウォール街のアナリストたちはMetaのMuse Spark AIモデルについて大騒ぎしている"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$628.39",
-      "change": "+2.61%",
+      "price": "$629.86",
+      "change": "+0.23%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-04-08",
-          "title": "Creatorverse: ブランド基準の緩和により大きな報酬が得られる可能性がある"
+          "date": "2026-04-09",
+          "title": "Meta は CoreWeave にさらに 210 億ドルを投入し、AI クラウドの総支出額は 350 億ドルに達する"
         },
         {
-          "date": "2026-04-08",
-          "title": "AI の大躍進"
+          "date": "2026-04-09",
+          "title": "20VC x SaaStr: Anthropic のヒット額が 300 億ドル、トレーニング費用が OpenAI の 4 分の 1、SpaceX ファイルが 1.75 兆ドル、ビッグ 3 が過去 25 年間のすべての IPO を合計しても小さくなる理由"
         },
         {
-          "date": "2026-04-08",
-          "title": "Meta の Muse Spark が登場 - クローズド ソースです"
+          "date": "2026-04-09",
+          "title": "メタ、ライバルに追いつくための最新の取り組みとして「根本的な転換」で新しい AI モデルを展開"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$233.65",
-      "change": "+5.60%",
+      "price": "$238.38",
+      "change": "+2.02%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-04-08",
-          "title": "AI コーディング エージェントが下落を引き起こすも、エンタープライズ ソフトウェアはその地位を維持"
+          "date": "2026-04-09",
+          "title": "Amazon、Shot At Nvidia で Trainium AI チップをサードパーティに販売の可能性"
         },
         {
-          "date": "2026-04-08",
-          "title": "プロジェクト Glasswing は、AI が脆弱性管理の戦略を打ち破ることを示しています"
+          "date": "2026-04-09",
+          "title": "Amazon CEOのアンディ・ジャシーが年次株主レターでAIの成長を強調"
         },
         {
-          "date": "2026-04-08",
-          "title": "XMax、AI 推論プラットフォームの開発と展開を通じて AI 戦略を推進"
+          "date": "2026-04-09",
+          "title": "Amazon OpenSearch Service はマネージド Prometheus とエージェント トレースをサポートします"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$260.49",
-      "change": "+0.61%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$260.48",
+      "change": "-0.00%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-04-08",
-          "title": "AI企業に対する著作権訴訟が成果を上げ始めている。"
+          "date": "2026-04-09",
+          "title": "PRまとめ：マクドナルドCEOのマックナゲットメルトダウン、YouTubeが影響力を独占、ヌテラが宇宙へ"
         },
         {
-          "date": "2026-04-08",
-          "title": "IPL 2026: クリケット観戦体験を向上させるデバイス トップ 5"
+          "date": "2026-04-09",
+          "title": "B2C Commerce におけるエージェント決済: 現在の状況"
         },
         {
-          "date": "2026-04-08",
-          "title": "Anthropic の Mythos 安全性レポートは、自社が構築したものをもはや完全に測定できないことを示しています"
+          "date": "2026-04-09",
+          "title": "OpenAI、「信頼されたアクセス」のみを備えた高度なサイバーセキュリティ製品を計画"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$183.91",
-      "change": "+1.01%",
+      "price": "$188.63",
+      "change": "+2.57%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-04-08",
-          "title": "プロテオームスケールでタンパク質構造予測を加速する方法"
+          "date": "2026-04-09",
+          "title": "Meta は CoreWeave にさらに 210 億ドルを投入し、AI クラウドの総支出額は 350 億ドルに達する"
         },
         {
-          "date": "2026-04-08",
-          "title": "Intel と SambaNova が異種 AI 推論プラットフォームで提携 - 異なるハードウェアが異なるワークロードを実行"
+          "date": "2026-04-09",
+          "title": "VideoProc コンバーター AI 8.10"
         },
         {
-          "date": "2026-04-08",
-          "title": "Cosm は、没入型の現実世界体験を強化する「Shared Reality」を構築します"
+          "date": "2026-04-09",
+          "title": "大規模なAI取引とカントールのオーバーウェイト開始により、ネビウス・グループの株価は134ドルを超えて急騰"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$373.07",
-      "change": "-0.34%",
+      "price": "$370.87",
+      "change": "-0.59%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-04-08",
-          "title": "Meta が新しい LLM Muse Spark をデビュー"
+          "date": "2026-04-09",
+          "title": "Windows と Xbox は現在、ユーザーからのフィードバックを大幅に優先しています...しかしなぜ今なのでしょうか?"
         },
         {
-          "date": "2026-04-08",
-          "title": "アルファベットクラスC株、AIの勢いとブロードコム提携で3.3%急騰し313.96ドル"
+          "date": "2026-04-09",
+          "title": "2026 年世界で最も革新的な CEO トップ 10: AI の先見者が業界を再構築"
         },
         {
-          "date": "2026-04-08",
-          "title": "マイクロソフト (MSFT) は、2026 年に強力なセットアップを備えたヘッジファンドのお気に入りの 1 つになるでしょうか?"
+          "date": "2026-04-09",
+          "title": "Microsoft.Extensions.AI を使用して AI を ASP.NET Core に追加する方法"
         }
       ]
     }

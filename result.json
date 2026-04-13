@@ -1,28 +1,28 @@
 {
-  "date": "2026-04-12",
+  "date": "2026-04-13",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$317.24",
-      "change": "-0.39%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$321.31",
+      "change": "+1.28%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-04-11",
-          "title": "アナリストはアルファベット株が大好き – 方向性については同意できない"
+          "date": "2026-04-12",
+          "title": "15 年前にトップ億万長者が所有する 11 社にそれぞれ 100 ドル投資した場合、どのくらいの資産が得られるでしょうか"
         },
         {
-          "date": "2026-04-11",
-          "title": "JD Vance 氏、Bessent 氏、Anthropic の Mythos リリース前に AI セキュリティについて大手テクノロジー企業に質問"
+          "date": "2026-04-12",
+          "title": "アルファベット株 2026: 第 1 四半期の収益を前に AI の勢いと 1,800 億ドルの設備投資の賭けが衝突するため、GOOGL を売買するか"
         },
         {
-          "date": "2026-04-11",
-          "title": "JD Vance 氏、Bessent 氏、Anthropic の Mythos リリース前に AI セキュリティについてテクノロジー大手に質問"
+          "date": "2026-04-12",
+          "title": "NZNOG 2026"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$629.86",
-      "change": "+0.23%",
+      "price": "$634.53",
+      "change": "+0.74%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-04-11",
-          "title": "「ビッグ・ショート」マイケル・バーリー氏がNVIDIA株にシグナルを送る"
+          "date": "2026-04-12",
+          "title": "ローゼンブラット氏、アリスタネットワークス（ANET）株を中立から買いに格上げ"
         },
         {
-          "date": "2026-04-11",
-          "title": "大衆に役立つ民主的な AI – OneProject.org"
+          "date": "2026-04-12",
+          "title": "メタ プラットフォーム (META): Unity と Meta が複数年のプラットフォーム サポートとエンタープライズ契約を延長"
         },
         {
-          "date": "2026-04-11",
-          "title": "市場が混乱する中、AI の巨大企業が暴動を起こす"
+          "date": "2026-04-12",
+          "title": "Ray-Ban Meta (Gen 2) をレビューしましたが、とても楽しいので危険信号は無視できます。"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$238.38",
-      "change": "+2.02%",
+      "price": "$239.89",
+      "change": "+0.63%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-04-11",
-          "title": "AWS、Microsoft、Google、Adani、Reliance がインドのデータセンター ブームをどのように推進しているか"
+          "date": "2026-04-12",
+          "title": "汎用人工知能と外科の未来"
         },
         {
-          "date": "2026-04-11",
-          "title": "これらのスタートアップ企業は、国防総省の最も厳重に守られている秘密に対して AI を安全なものにするために競い合っています。"
+          "date": "2026-04-12",
+          "title": "2026 年に Amazon 株を買うか売るか?"
         },
         {
-          "date": "2026-04-11",
-          "title": "「AI は一生に一度のチャンス」: Amazon CEO のアンディ・ジャシーが AI の将来について語る「6 つの真実」"
+          "date": "2026-04-12",
+          "title": "Strands Agents から LiteLLM プロキシ経由で Amazon Bedrock を覗いてみた"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$260.48",
-      "change": "-0.00%",
+      "price": "$259.20",
+      "change": "-0.49%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-04-11",
-          "title": "「今日はあなたが待ち望んでいた日です」: eGPU により、地味な Mac Mini が AI の強力なエンジンに正式に変身できるようになりました"
+          "date": "2026-04-12",
+          "title": "macOS 1.2026.051 用 ChatGPT"
         },
         {
-          "date": "2026-04-11",
-          "title": "PyPI にフェアケアが追加されました"
+          "date": "2026-04-12",
+          "title": "ピクセルメータープロ4.2"
         },
         {
-          "date": "2026-04-11",
-          "title": "インディー アプリのスポットライト: 「PackGoat」は旅行の荷造りを簡単にインテリジェントに支援します"
+          "date": "2026-04-12",
+          "title": "Googleから期待されていたティム・クック氏が退社し、Appleの一時代が終わる"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$188.63",
-      "change": "+2.57%",
+      "price": "$189.31",
+      "change": "+0.36%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-04-11",
-          "title": "「今日はあなたが待ち望んでいた日です」: eGPU により、地味な Mac Mini が AI の強力なエンジンに正式に変身できるようになりました"
+          "date": "2026-04-12",
+          "title": "デル プロ マックス タワー T2"
         },
         {
-          "date": "2026-04-11",
-          "title": "ささやきのメモ AI 1.0.0"
+          "date": "2026-04-12",
+          "title": "デル プロ マックス タワー T2"
         },
         {
-          "date": "2026-04-11",
-          "title": "PyPI にリアホナ愛が追加されました"
+          "date": "2026-04-12",
+          "title": "Mac mini と Mac Studio が在庫切れ – RAM 危機なのか、それとも M5 のリフレッシュなのか?"
         }
       ]
     },
@@ -130,10 +130,10 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$370.87",
-      "change": "-0.59%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$384.37",
+      "change": "+3.64%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [

@@ -1,28 +1,28 @@
 {
-  "date": "2026-04-13",
+  "date": "2026-04-14",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$321.31",
-      "change": "+1.28%",
+      "price": "$332.91",
+      "change": "+3.61%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-04-12",
-          "title": "15 年前にトップ億万長者が所有する 11 社にそれぞれ 100 ドル投資した場合、どのくらいの資産が得られるでしょうか"
+          "date": "2026-04-13",
+          "title": "INTC は 4 月に 51% 急騰し、1,000 億ドル増加 – インテル株上昇の原因とアナリストが慎重な理由"
         },
         {
-          "date": "2026-04-12",
-          "title": "アルファベット株 2026: 第 1 四半期の収益を前に AI の勢いと 1,800 億ドルの設備投資の賭けが衝突するため、GOOGL を売買するか"
+          "date": "2026-04-13",
+          "title": "第 3 四半期の重要な収益報告を前に AI クラウドの勢いが高まる中、マイクロソフト株は 1.7% 上昇"
         },
         {
-          "date": "2026-04-12",
-          "title": "NZNOG 2026"
+          "date": "2026-04-13",
+          "title": "AI支出と独占禁止法圧力がGOOGに重くのしかかり、アルファベット株は市場前に下落"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$634.53",
-      "change": "+0.74%",
+      "price": "$662.49",
+      "change": "+4.41%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-04-12",
-          "title": "ローゼンブラット氏、アリスタネットワークス（ANET）株を中立から買いに格上げ"
+          "date": "2026-04-13",
+          "title": "マーク・ザッカーバーグ氏、AI を開発する CEO の増加に加わる"
         },
         {
-          "date": "2026-04-12",
-          "title": "メタ プラットフォーム (META): Unity と Meta が複数年のプラットフォーム サポートとエンタープライズ契約を延長"
+          "date": "2026-04-13",
+          "title": "Supermicro JumpStart レビュー: AMD Instinct MI350X を搭載した H14"
         },
         {
-          "date": "2026-04-12",
-          "title": "Ray-Ban Meta (Gen 2) をレビューしましたが、とても楽しいので危険信号は無視できます。"
+          "date": "2026-04-13",
+          "title": "sibyl-research が PyPI に追加されました"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$239.89",
-      "change": "+0.63%",
+      "price": "$249.02",
+      "change": "+3.81%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-04-12",
-          "title": "汎用人工知能と外科の未来"
+          "date": "2026-04-13",
+          "title": "AmazonのStarlinkライバルLeoが新たな発売日を決定"
         },
         {
-          "date": "2026-04-12",
-          "title": "2026 年に Amazon 株を買うか売るか?"
+          "date": "2026-04-13",
+          "title": "AWS Elastic Beanstalk の AI 分析によるトラブルシューティング環境"
         },
         {
-          "date": "2026-04-12",
-          "title": "Strands Agents から LiteLLM プロキシ経由で Amazon Bedrock を覗いてみた"
+          "date": "2026-04-13",
+          "title": "湾岸嵐: インドは、GCC データセンターのインフラを共同共有するための戦略的な位置的ヘッジとして評価されるべきである"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$259.20",
-      "change": "-0.49%",
+      "price": "$258.83",
+      "change": "-0.14%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-04-12",
-          "title": "macOS 1.2026.051 用 ChatGPT"
+          "date": "2026-04-13",
+          "title": "Tesla 2026 Spring Update: Grok AI、セーフティライトアラート、および新しいペットモード"
         },
         {
-          "date": "2026-04-12",
-          "title": "ピクセルメータープロ4.2"
+          "date": "2026-04-13",
+          "title": "新しい AI 機能と新しい写真ページを備えた DaVinci Resolve 21 が発表"
         },
         {
-          "date": "2026-04-12",
-          "title": "Googleから期待されていたティム・クック氏が退社し、Appleの一時代が終わる"
+          "date": "2026-04-13",
+          "title": "APPLEがAIメガネを作る…"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$189.31",
-      "change": "+0.36%",
+      "price": "$196.51",
+      "change": "+3.80%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-04-12",
-          "title": "デル プロ マックス タワー T2"
+          "date": "2026-04-13",
+          "title": "新しい AI 機能と新しい写真ページを備えた DaVinci Resolve 21 が発表"
         },
         {
-          "date": "2026-04-12",
-          "title": "デル プロ マックス タワー T2"
+          "date": "2026-04-13",
+          "title": "レノボ ThinkStation P3 タワー Gen 2"
         },
         {
-          "date": "2026-04-12",
-          "title": "Mac mini と Mac Studio が在庫切れ – RAM 危機なのか、それとも M5 のリフレッシュなのか?"
+          "date": "2026-04-13",
+          "title": "レノボ ThinkStation P3 タワー Gen 2"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$384.37",
-      "change": "+3.64%",
+      "price": "$393.11",
+      "change": "+2.27%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-04-11",
-          "title": "クロード現在 Microsoft Word 裡幫你審文件，すべての修正を追蹤修正改訂提示現存可能"
+          "date": "2026-04-13",
+          "title": "第 3 四半期の重要な収益報告を前に AI クラウドの勢いが高まる中、マイクロソフト株は 1.7% 上昇"
         },
         {
-          "date": "2026-04-10",
-          "title": "Microsoft Visual Studio Pro と完全な開発トレーニング キットに 60 ドル (2,000 ドル相当) で永久にアクセスできます"
+          "date": "2026-04-13",
+          "title": "Mythos、Muse、およびコンピューティングの機会費用"
         },
         {
-          "date": "2026-04-10",
-          "title": "フレームワークが衝撃的なマニフェストでパーソナル・コンピューティングの死を宣言"
+          "date": "2026-04-13",
+          "title": "AI アプリケーションを構築するために .NET で LangChain を使用する方法"
         }
       ]
     }

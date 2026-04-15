@@ -1,28 +1,28 @@
 {
-  "date": "2026-04-14",
+  "date": "2026-04-15",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$332.91",
-      "change": "+3.61%",
+      "price": "$337.12",
+      "change": "+1.26%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-04-13",
-          "title": "INTC は 4 月に 51% 急騰し、1,000 億ドル増加 – インテル株上昇の原因とアナリストが慎重な理由"
+          "date": "2026-04-14",
+          "title": "エプスタイン、イラン、心理戦と学びのない無力感"
         },
         {
-          "date": "2026-04-13",
-          "title": "第 3 四半期の重要な収益報告を前に AI クラウドの勢いが高まる中、マイクロソフト株は 1.7% 上昇"
+          "date": "2026-04-14",
+          "title": "人工知能への支出が加速する中、2026 年に購入すべきベスト AI 株 10 社"
         },
         {
-          "date": "2026-04-13",
-          "title": "AI支出と独占禁止法圧力がGOOGに重くのしかかり、アルファベット株は市場前に下落"
+          "date": "2026-04-14",
+          "title": "なぜデミス・ハサビスはイーロン・マスクを無視し、代わりにディープマインドを6億5千万ドルでグーグルに売却したのか"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$662.49",
-      "change": "+4.41%",
+      "price": "$671.58",
+      "change": "+1.37%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-04-13",
-          "title": "マーク・ザッカーバーグ氏、AI を開発する CEO の増加に加わる"
+          "date": "2026-04-14",
+          "title": "Broadcom、Meta の数ギガワットのカスタム シリコン (MTIA) をサポートするテクノロジーを導入するための Meta とのパートナーシップの拡大を発表"
         },
         {
-          "date": "2026-04-13",
-          "title": "Supermicro JumpStart レビュー: AMD Instinct MI350X を搭載した H14"
+          "date": "2026-04-14",
+          "title": "AIデータセンターに対応するための1.4兆ドルの光熱費の高騰で電気料金が値上がりする可能性：研究"
         },
         {
-          "date": "2026-04-13",
-          "title": "sibyl-research が PyPI に追加されました"
+          "date": "2026-04-14",
+          "title": "暑くなってきましたか？"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$249.02",
-      "change": "+3.81%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$248.50",
+      "change": "-0.21%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-04-13",
-          "title": "AmazonのStarlinkライバルLeoが新たな発売日を決定"
+          "date": "2026-04-14",
+          "title": "Amazon EC2 P6-B300 インスタンスが AWS GovCloud (米国東部) リージョンで利用可能になりました"
         },
         {
-          "date": "2026-04-13",
-          "title": "AWS Elastic Beanstalk の AI 分析によるトラブルシューティング環境"
+          "date": "2026-04-14",
+          "title": "ウェルズ・ファーゴ、AI を拡張して急増する顧客需要に対応"
         },
         {
-          "date": "2026-04-13",
-          "title": "湾岸嵐: インドは、GCC データセンターのインフラを共同共有するための戦略的な位置的ヘッジとして評価されるべきである"
+          "date": "2026-04-14",
+          "title": "生成的な AI の旅をナビゲートする: AWS の Path-to-Value フレームワーク"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$258.83",
-      "change": "-0.14%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$266.43",
+      "change": "+2.94%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-04-13",
-          "title": "Tesla 2026 Spring Update: Grok AI、セーフティライトアラート、および新しいペットモード"
+          "date": "2026-04-14",
+          "title": "SwitchBot S20 レビュー: Matter サポートを備えた予算に優しいロボット掃除機とモップ"
         },
         {
-          "date": "2026-04-13",
-          "title": "新しい AI 機能と新しい写真ページを備えた DaVinci Resolve 21 が発表"
+          "date": "2026-04-14",
+          "title": "Show HN: Remen – オープンソースのプライバシー重視の生産性向上アプリ"
         },
         {
-          "date": "2026-04-13",
-          "title": "APPLEがAIメガネを作る…"
+          "date": "2026-04-14",
+          "title": "フォトメーター 3.4.14"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$196.51",
-      "change": "+3.80%",
+      "price": "$198.87",
+      "change": "+1.20%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-04-13",
-          "title": "新しい AI 機能と新しい写真ページを備えた DaVinci Resolve 21 が発表"
+          "date": "2026-04-14",
+          "title": "DLSS 5 の最大の犯罪は、私が DLSS 4.5 をテストした時間が証明しているように、Nvidia のテクノロジーがどれほど優れているかを忘れさせていることです。"
         },
         {
-          "date": "2026-04-13",
-          "title": "レノボ ThinkStation P3 タワー Gen 2"
+          "date": "2026-04-14",
+          "title": "ホック・タン氏が取締役を去ることに同意し、メタ社はブロードコム社と1ギガワットのカスタムチップを開発することを約束"
         },
         {
-          "date": "2026-04-13",
-          "title": "レノボ ThinkStation P3 タワー Gen 2"
+          "date": "2026-04-14",
+          "title": "Amazon EC2 P6-B300 インスタンスが AWS GovCloud (米国東部) リージョンで利用可能になりました"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$393.11",
-      "change": "+2.27%",
+      "price": "$411.22",
+      "change": "+4.61%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-04-13",
-          "title": "第 3 四半期の重要な収益報告を前に AI クラウドの勢いが高まる中、マイクロソフト株は 1.7% 上昇"
+          "date": "2026-04-14",
+          "title": "Anthropic のクロード マネージド エージェントは企業に新しいワンストップ ショップを提供しますが、ベンダーの「ロックイン」リスクが高まります"
         },
         {
-          "date": "2026-04-13",
-          "title": "Mythos、Muse、およびコンピューティングの機会費用"
+          "date": "2026-04-14",
+          "title": "人工知能への支出が加速する中、2026 年に購入すべきベスト AI 株 10 社"
         },
         {
-          "date": "2026-04-13",
-          "title": "AI アプリケーションを構築するために .NET で LangChain を使用する方法"
+          "date": "2026-04-14",
+          "title": "LinkedIn AI トレーニングの仕事は時給 14,000 ルピーまで支払われる可能性がある: 応募できる人、その仕組み"
         }
       ]
     }

@@ -1,28 +1,28 @@
 {
-  "date": "2026-04-16",
+  "date": "2026-04-17",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$336.02",
-      "change": "-0.33%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$341.68",
+      "change": "+1.68%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-04-15",
-          "title": "Google Cloud Next で期待されること: 4 月 22 ～ 24 日の theCUBE に参加する"
+          "date": "2026-04-16",
+          "title": "CoreWeave、債券再開で米国のジャンク債市場を再び開拓"
         },
         {
-          "date": "2026-04-15",
-          "title": "DeepMind は、正確な物理的 AI 要求を満たすために Gemini Robotics-ER 1.6 を発表"
+          "date": "2026-04-16",
+          "title": "ジム・クレイマー氏、Alphabet (GOOGL) AI の他社に対する優位性を共有"
         },
         {
-          "date": "2026-04-15",
-          "title": "AI支出とイラン救援集会の中でアルファベットが第1四半期決算を待つ中、GOOGは0.5%下落"
+          "date": "2026-04-16",
+          "title": "テクノロジー企業収益の楽観主義が地政学的リスクに影を落とす中、S&P 500指数は7038付近の過去最高値に上昇"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$676.87",
-      "change": "+0.79%",
+      "price": "$688.55",
+      "change": "+1.73%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-04-15",
-          "title": "憂慮すべきサイボーグの内部では、将来の「トランスヒューマニスト」イーロン・マスク、ピーター・ティール、サム・アルトマンがすでに準備を進めている"
+          "date": "2026-04-16",
+          "title": "杭州の「リトル ドラゴンズ」の最初の上場企業であるメニーコアが、AI 開発の次の波として「空間インテリジェンス」を推進"
         },
         {
-          "date": "2026-04-15",
-          "title": "AI が労働者に取って代わる準備ができていないのであれば、なぜ企業は人員削減を行うのでしょうか?"
+          "date": "2026-04-16",
+          "title": "かつてはシリコンバレーで人気の靴ブランドでした。"
         },
         {
-          "date": "2026-04-15",
-          "title": "Meta が Reality Labs の進歩を加速するために大きな変更を加える"
+          "date": "2026-04-16",
+          "title": "「あなたはバカだ」：アポロのマーク・ローワンが民間信用基金の償還に間に合わない貸し手に一言"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$249.70",
-      "change": "+0.48%",
+      "price": "$250.56",
+      "change": "+0.34%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-04-15",
-          "title": "Amazon SageMaker Unified Studio のノートブックを使用して、より迅速に洞察を得る"
+          "date": "2026-04-16",
+          "title": "Babel Street Match と Amazon OpenSearch によるアイデンティティ インテリジェンスの強化"
         },
         {
-          "date": "2026-04-15",
-          "title": "XMax株式会社、2025年度決算を発表"
+          "date": "2026-04-16",
+          "title": "AWS が S3 ファイルを導入し、S3 バケットへのファイル システム アクセスを実現"
         },
         {
-          "date": "2026-04-15",
-          "title": "Anthropic は収益が年率 300 億ドルに達し、8,000 億ドルの評価オファーを引き寄せる"
+          "date": "2026-04-16",
+          "title": "AWS、初期段階の抗体発見をスピードアップする AI 駆動ツールを発表"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$263.40",
-      "change": "-1.14%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$270.23",
+      "change": "+2.59%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-04-15",
-          "title": "Google、Mac 向けネイティブ Gemini アプリをリリース"
+          "date": "2026-04-16",
+          "title": "iOS 27でリリースされる4つの新しいApple Intelligence機能を紹介します。"
         },
         {
-          "date": "2026-04-15",
-          "title": "Apple が Siri のオーバーホールの提供を準備中、Siri エンジニアが AI コーディング ブートキャンプに派遣"
+          "date": "2026-04-16",
+          "title": "Mac 用の新しい Gemini アプリを試してみました - 大きな点で Web サイトよりも優れています"
         },
         {
-          "date": "2026-04-15",
-          "title": "超高齢者が脳を若く保つ方法"
+          "date": "2026-04-16",
+          "title": "Lenovo Yoga 7 Copilot+ AMD Ryzen AI 7 350 15 インチ 2-in-1 ラップトップ、750 ドル + 送料無料"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$198.35",
-      "change": "-0.26%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$201.68",
+      "change": "+1.68%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-04-15",
-          "title": "苦境に陥った元ウォール街の寵児オールバーズ、AI の未来に期待"
+          "date": "2026-04-16",
+          "title": "HIVE は AI インフラストラクチャの推進に資金を提供するために 7,500 万ドルの調達を計画"
         },
         {
-          "date": "2026-04-15",
-          "title": "ジェンセン・ファン: 電子のトークンへの変換、AI エージェントの急激な成長、半導体サプライチェーンのボトルネックの克服における Nvidia の役割 |"
+          "date": "2026-04-16",
+          "title": "Nero AI Video Upscaler Pro v1.3.14.0 クラック済み"
         },
         {
-          "date": "2026-04-15",
-          "title": "Legion RTX 5070 Ti ゲーミング PC が 700 ドル割引になり、Pragmata が無料で付属"
+          "date": "2026-04-16",
+          "title": "カナダの量子企業ザナドゥ、NVIDIAのリリース後評価額が160億ドルに急上昇"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$420.26",
-      "change": "+2.20%",
+      "price": "$422.79",
+      "change": "+0.60%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-04-15",
-          "title": "Jane Street が CoreWeave に 60 億ドルを出資し、10 億ドルの株式を取得"
+          "date": "2026-04-16",
+          "title": "会計における GenAI: チャット BDO のパイロットから本番までの道のり"
+        },
+        {
+          "date": "2026-04-16",
+          "title": "AI ネイティブ市場調査および予測レポート 2026 ～ 2032 年、Cursor/Anysphere、Lovable、Replit、Tessl、Windsurf、および Microsoft、Google、AWS のハイパースケール プレイを詳しく解説"
         },
         {
           "date": "2026-04-15",
-          "title": "Microsoftが引き継ぐため、OpenAIはStargateノルウェーデータセンター契約から撤退"
-        },
-        {
-          "date": "2026-04-15",
-          "title": "Show HN: コンテキストを失わずに LLM の機密データを仮名化する"
+          "title": "AI の資金スプラッシュは続く: メタ プラットフォームとブロードコムがカスタム チップのパートナーシップを拡大"
         }
       ]
     }

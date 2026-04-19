@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-18",
+  "date": "2026-04-19",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
+          "date": "2026-04-18",
+          "title": "米国の戦略的資産認識の中で、人的評価額が8,000億ドルに達する"
+        },
+        {
           "date": "2026-04-17",
           "title": "この TSX 株は Nvidia の支援を受けて 400% 以上急騰しました。"
         },
         {
           "date": "2026-04-17",
           "title": "インテル株は業績回復への楽観で2000年以来の最高値に急上昇"
-        },
-        {
-          "date": "2026-04-17",
-          "title": "私はパスワード ジェネレーターをやめて、Excel でより良いパスワード ジェネレーターを作成しました。"
         }
       ]
     },
@@ -38,12 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-04-17",
-          "title": "この TSX 株は Nvidia の支援を受けて 400% 以上急騰しました。"
+          "date": "2026-04-18",
+          "title": "Meta Platforms (META)、Broadcom との AI チップ取引を拡大"
         },
         {
-          "date": "2026-04-17",
-          "title": "RAMmagdon 2026 を避けるためにパニックに陥って PC を購入した人も多いでしょう。"
+          "date": "2026-04-18",
+          "title": "電子商取引大手、人員削減の増加でオフィスを閉鎖"
+        },
+        {
+          "date": "2026-04-18",
+          "title": "アジア経済モデルは壊れつつあるのか？"
         }
       ]
     },
@@ -59,16 +63,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-04-17",
-          "title": "Amazon Bedrock の詳細なコスト帰属の導入"
+          "date": "2026-04-18",
+          "title": "Amazon ブロードキャストの詳細: Prime Vision、Rapid Recap、プラットフォーム初の NBA プレーオフ報道に関するその他の機能"
         },
         {
-          "date": "2026-04-17",
-          "title": "アマゾン株が過去最高値を記録、時価総額首位のエヌビディアに挑戦"
+          "date": "2026-04-18",
+          "title": "AWS と NVIDIA によるフィジカル AI の加速: シミュレーションと実世界での学習による本番環境向けアプリケーションの構築"
         },
         {
-          "date": "2026-04-17",
-          "title": "Amazon Bedrock の Amazon Nova Model Distillation を使用してビデオのセマンティック検索意図を最適化する"
+          "date": "2026-04-18",
+          "title": "AWS、自動インシデント調査のための DevOps エージェントの一般提供を発表"
         }
       ]
     },
@@ -84,16 +88,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-04-17",
-          "title": "Apple コードが iOS 27 の 4 つの機能と新たなデザイン変更をリーク"
+          "date": "2026-04-18",
+          "title": "セキュリティバイト: ClickFix マルウェア作成者はすでに Apple の新しいターミナル貼り付け警告を回避しています"
         },
         {
-          "date": "2026-04-17",
-          "title": "HomeKit Weekly: Ulticam IQ は、Matter 認定スマート カメラに PoE と Gemini AI をもたらします"
+          "date": "2026-04-18",
+          "title": "iPhoneのメッセージには便利な翻訳ツールが隠されています"
         },
         {
-          "date": "2026-04-17",
-          "title": "Qualcomm の Snapdragon X2 Elite Extreme をテストしました: この 18 コアのパワー CPU は AMD、Apple、Intel に対して厳しい攻撃を与えます"
+          "date": "2026-04-18",
+          "title": "MacBook Neo は Apple では品薄になっているかもしれないが、Amazon では 9 ドル割引で在庫がある"
         }
       ]
     },
@@ -109,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-04-17",
-          "title": "Ranjan Roy: Nvidia は、Google や Amazon との熾烈な競争、AI モデルのトレーニングにおける GPU の重要性、輸出規制の地政学的リスクに直面しています。"
+          "date": "2026-04-18",
+          "title": "2026 年に Nvidia RTX 3060 が復活すれば、GPU 価格の高騰とメモリ不足が緩和される可能性がある – 噂の RTX 5050 9GB が憶測の中で突然棚上げされる"
         },
         {
-          "date": "2026-04-17",
-          "title": "OpenClaw と NVIDIA NemoClaw を使用して、安全で常時稼働のローカル AI エージェントを構築する"
+          "date": "2026-04-18",
+          "title": "AWS と NVIDIA によるフィジカル AI の加速: シミュレーションと実世界での学習による本番環境向けアプリケーションの構築"
         },
         {
-          "date": "2026-04-17",
-          "title": "オールバーズは靴事業を3,900万ドルで売却し、AIクラウドコンピューティングに軸足を移している"
+          "date": "2026-04-18",
+          "title": "かつて固かったゲーマーとのNVIDIAの絆がAIをめぐってひび割れ、「心が張り裂けそうだ」"
         }
       ]
     },
@@ -134,16 +138,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
+          "date": "2026-04-18",
+          "title": "マイクロソフト株 2026 売買のジレンマ: アナリストは AI の急増で 40% の利益を予測 – 投資家が知っておくべきこと"
+        },
+        {
+          "date": "2026-04-17",
+          "title": "arke-legal が PyPI に追加されました"
+        },
+        {
           "date": "2026-04-17",
           "title": "Microsoft-opentelemetry が PyPI に追加されました"
-        },
-        {
-          "date": "2026-04-17",
-          "title": "許可のハードルと労働力不足が AI データセンターのタイムラインを脅かす"
-        },
-        {
-          "date": "2026-04-17",
-          "title": "Microsoft Foundry Agent ServiceでAIエージェントを作成してみた"
         }
       ]
     }

@@ -1,28 +1,28 @@
 {
-  "date": "2026-04-20",
+  "date": "2026-04-21",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$337.42",
-      "change": "-1.25%",
+      "price": "$332.29",
+      "change": "-1.52%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-04-19",
-          "title": "AI が Google を強化する中、Google Cloud の次なる展開"
+          "date": "2026-04-20",
+          "title": "大規模なAI支出のなか、投資家が第1四半期の決算を待つ中、アルファベット株は0.57%下落"
         },
         {
-          "date": "2026-04-18",
-          "title": "米国の戦略的資産認識の中で、人的評価額が8,000億ドルに達する"
+          "date": "2026-04-20",
+          "title": "Alphabet (GOOGL): 投資に最適な無借金優良株"
         },
         {
-          "date": "2026-04-17",
-          "title": "この TSX 株は、Nvidia の支援により 400% 以上急騰しました。"
+          "date": "2026-04-20",
+          "title": "Googleは@sejournal、@MattGSouthern経由で検索データをライバルと共有する必要があるかもしれない"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$670.91",
-      "change": "-2.56%",
+      "price": "$668.84",
+      "change": "-0.31%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-04-19",
-          "title": "ビッグテックの 4 兆ドルのブーメランが S&P 500 を新たな高みへ押し上げる"
+          "date": "2026-04-20",
+          "title": "ティム・クック氏が約15年間務めたApple CEOを退任し、ハードウェア責任者のジョン・ターナス氏が後任となる"
         },
         {
-          "date": "2026-04-19",
-          "title": "AI ブームとエネルギーの急増: S&P 500 の 5 つの銘柄アナリストは 2026 年に急騰する可能性があると指摘"
+          "date": "2026-04-20",
+          "title": "ティム・クック氏がアップルCEOを辞任、後任には内部関係者のジョン・ターナス氏を指名"
         },
         {
-          "date": "2026-04-19",
-          "title": "現実検証: ザッカーバーグの 880 億ドルのメタバース大失敗"
+          "date": "2026-04-20",
+          "title": "マーベルは、カスタム AI チップで Google を支援するとの報告を飛び出す。"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$248.28",
-      "change": "-0.91%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$249.91",
+      "change": "+0.66%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-04-19",
-          "title": "AWS が AI 医薬品開発を加速するために Amazon Bio Discovery を開始"
+          "date": "2026-04-20",
+          "title": "アマゾン、Anthropicに50億ドル投資、さらに最大200億ドルを投資予定"
         },
         {
-          "date": "2026-04-19",
-          "title": "24 のばかげたテクノロジー通説に騙されるのをやめるときが来た"
+          "date": "2026-04-20",
+          "title": "アマゾン、AIインフラ契約の一環としてAnthropicに最大250億ドルを追加投資へ"
         },
         {
-          "date": "2026-04-19",
-          "title": "ゴールドマン・サックス、ビッグディール後のアマゾン株投資家への率直な言葉"
+          "date": "2026-04-20",
+          "title": "G7e インスタンスを使用した Amazon SageMaker AI で生成 AI 推論を高速化する"
         }
       ]
     },
@@ -80,24 +80,20 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$273.05",
-      "change": "+1.04%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$266.17",
+      "change": "-2.52%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-04-19",
-          "title": "バラク・オバマ＆ミシェル・オバマ夫妻のハイアー・グラウンド、Netflixで8年間働いた後に独立へ"
+          "date": "2026-04-20",
+          "title": "ティム・クック氏がアップルCEOを辞任"
         },
         {
-          "date": "2026-04-19",
-          "title": "これら 4 つの無料のオープンソース アプリは、Google が私の Pixel スマートフォンで壊れたままにしていたものを修正します"
-        },
-        {
-          "date": "2026-04-19",
-          "title": "macOS 1.2026.098 用 ChatGPT"
+          "date": "2026-04-20",
+          "title": "OpenAI の Codex for Mac は画面を監視してコンテキストを構築しますが、最初にスクリーンショットをサーバーに送信します。"
         }
       ]
     },
@@ -105,24 +101,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$202.06",
-      "change": "+0.19%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$199.88",
+      "change": "-1.08%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-04-19",
-          "title": "HN を表示: Agentjail – 自己ホスト型 Freestyle.sh"
+          "date": "2026-04-20",
+          "title": "GoogleはAI推論でNvidiaに対抗するため、4社のパートナーによるチップサプライチェーンを構築中"
         },
         {
-          "date": "2026-04-19",
-          "title": "MSI の Vector 16 HX AI ゲーミング ラップトップでカプコンの PAGMATA の無料コピーをお楽しみください。 "
+          "date": "2026-04-20",
+          "title": "G7e インスタンスを使用した Amazon SageMaker AI で生成 AI 推論を高速化する"
         },
         {
-          "date": "2026-04-19",
-          "title": "Nvidia は VRAM の問題を解決しただけですが、VRAM を増やすことで解決したわけではありません"
+          "date": "2026-04-20",
+          "title": "RTX 3090 上の Qwen3.5-27B で 207 トーク/秒を達成しました"
         }
       ]
     },
@@ -130,24 +126,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$418.07",
-      "change": "-1.12%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$424.16",
+      "change": "+1.46%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
+          "date": "2026-04-20",
+          "title": "アマゾン、AIインフラ契約の一環としてAnthropicに最大250億ドルを追加投資へ"
+        },
+        {
+          "date": "2026-04-20",
+          "title": "⚡ 毎週の要約: Vercel ハック、プッシュ詐欺、QEMU の悪用、新しい Android RAT の出現など"
+        },
+        {
           "date": "2026-04-19",
           "title": "AI ブームとエネルギーの急増: S&P 500 の 5 つの銘柄アナリストは 2026 年に急騰する可能性があると指摘"
-        },
-        {
-          "date": "2026-04-19",
-          "title": "AI が Google を強化する中、Google Cloud の次なる展開"
-        },
-        {
-          "date": "2026-04-18",
-          "title": "マイクロソフト株 2026 売買のジレンマ: アナリストは AI の急増で 40% の利益を予測 – 投資家が知っておくべきこと"
         }
       ]
     }

@@ -1,28 +1,28 @@
 {
-  "date": "2026-04-23",
+  "date": "2026-04-24",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$338.89",
-      "change": "-0.13%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$344.40",
+      "change": "+1.63%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-04-22",
-          "title": "Gemini の最大化: Google Cloud がエンタープライズ AI 用のオペレーティング システムの構築に挑戦"
+          "date": "2026-04-23",
+          "title": "Exclusive-SpaceX、性的虐待的な AI 画像に対する調査は市場アクセスを損なう可能性があると警告"
         },
         {
-          "date": "2026-04-22",
-          "title": "Google、「エージェント時代」に向けた 2 つの新しい AI チップを発表"
+          "date": "2026-04-23",
+          "title": "EUはGoogleに対し、GeminiがAndroidを独占できないと伝えようとしている"
         },
         {
-          "date": "2026-04-22",
-          "title": "Google、AIエージェントを企業の金儲けの中心に据える"
+          "date": "2026-04-23",
+          "title": "アルファベットの株価は第1四半期決算を控え、新型AIチップの発売とクラウドの勢いで上昇"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$659.15",
-      "change": "-2.31%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$675.03",
+      "change": "+2.41%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-04-22",
-          "title": "米国経済がほとんどの人が認識しているよりもはるかに悪い状況にあることを証明する18の衝撃的な事実"
+          "date": "2026-04-23",
+          "title": "メタは人員削減を計画、一方マイクロソフトは買収を提案"
         },
         {
-          "date": "2026-04-22",
-          "title": "スクリーンショット、マウス追跡: メタは従業員が行うすべてのクリックを監視しているが、従業員はそれを気味が悪いと呼んでいる"
+          "date": "2026-04-23",
+          "title": "AIへの注目が高まる中、メタ社は従業員8,000人を解雇へ"
         },
         {
-          "date": "2026-04-22",
-          "title": "David’s Bridal の幹部は、AI の投資収益率にこだわるすべての CEO に警告します"
+          "date": "2026-04-23",
+          "title": "メタ社はAIの費用のために8,000人の雇用を削減している。"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$255.08",
-      "change": "-0.11%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$263.99",
+      "change": "+3.49%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-04-22",
-          "title": "Parakeet-TDT と AWS Batch を使用した、コスト効率の高い大規模な多言語音声文字起こし"
+          "date": "2026-04-23",
+          "title": "メルボルン大学、RMIT が AWS との関係を構築"
         },
         {
-          "date": "2026-04-22",
-          "title": "AWS が Amazon Bedrock AgentCore で AI エージェント開発を加速"
+          "date": "2026-04-23",
+          "title": "20VC x SaaStr: 600 億ドルのカーソル取引、Figma にクロード デザインが登場、リップリングの 10 億ドルで 78% の成長が「SaaS は死んだ」ミームを消滅させる理由"
         },
         {
-          "date": "2026-04-22",
-          "title": "Amazon EC2 C8i-flex インスタンスがヨーロッパ (アイルランド、ロンドン) およびアジアパシフィック (ニュージーランド) リージョンで利用可能になりました"
+          "date": "2026-04-23",
+          "title": "GPU から AI ファクトリーまで: Nvidia-Google Cloud スーパースタックの内部"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$273.43",
-      "change": "+0.10%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$271.06",
+      "change": "-0.87%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-04-22",
-          "title": "Apple PayとMLSシーズンパスがApple 2つのWebby Awardを獲得"
+          "date": "2026-04-23",
+          "title": "この信じられないほどお得な割引価格で Pixel 9 Pro を手に入れるのに遅すぎるということはありません"
         },
         {
-          "date": "2026-04-22",
-          "title": "Appleの投資家はティム・クックCEOの退任に対する反応を静めている。"
+          "date": "2026-04-23",
+          "title": "リークされたiPhone 18 Pro Maxと17 Pro Maxの画像は、ここ数年で最大のカメラジャンプを示唆しています"
         },
         {
-          "date": "2026-04-22",
-          "title": "AIによる睡眠に絶望的にハマってしまった"
+          "date": "2026-04-23",
+          "title": "ラップトップが非常に遅い。"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$199.64",
-      "change": "-1.41%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$208.27",
+      "change": "+4.32%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-04-22",
-          "title": "Parakeet-TDT と AWS Batch を使用した、コスト効率の高い大規模な多言語音声文字起こし"
+          "date": "2026-04-23",
+          "title": "MSI Aegis Z2 RTX 5070 Ti ゲーミング PC が 1,850 ドルに値下げされ、Pragmata の無料コピーが付属"
         },
         {
-          "date": "2026-04-22",
-          "title": "SpaceXのIPO申請書には、軌道上データセンターは決して機能しない可能性があると記載されている。 "
+          "date": "2026-04-23",
+          "title": "生成 AI 支援コーディングで Kaggle コンペティションで優勝"
         },
         {
-          "date": "2026-04-22",
-          "title": "SpaceX、AIトレーニングでCursorと提携、600億ドルの買収の可能性を浮上"
+          "date": "2026-04-23",
+          "title": "NVIDIA FLARE を使用したリファクタリングのオーバーヘッドなしのフェデレーション ラーニング"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$415.75",
-      "change": "-3.97%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$424.62",
+      "change": "+2.13%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-04-22",
-          "title": "自分のエージェントを MS Teams に持ち込む"
+          "date": "2026-04-23",
+          "title": "Microsoft Foundry の OpenAI の GPT-5.5: エンタープライズ対応プラットフォーム上のフロンティア インテリジェンス"
         },
         {
-          "date": "2026-04-22",
-          "title": "Pichai 氏は、2 億 4,000 億ドルのバックログ、7 億 5,000 万人の Gemini ユーザー、検索をエージェント マネージャーにする計画で Cloud Next 2026 を開始します"
+          "date": "2026-04-23",
+          "title": "Microsoft が支援する Space and Time が AI App Builder を Base で起動"
         },
         {
-          "date": "2026-04-22",
-          "title": "自己増殖するサプライ チェーン ワームが npm パッケージをハイジャックして開発者トークンを盗む"
+          "date": "2026-04-23",
+          "title": "Inogic が Dynamics 365 CRM 向けの AI を活用したソリューションを発表: 予測分析、AI ドキュメント検索、次善のアクション"
         }
       ]
     }

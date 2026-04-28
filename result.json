@@ -1,28 +1,24 @@
 {
-  "date": "2026-04-27",
+  "date": "2026-04-28",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$350.34",
-      "change": "+1.72%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$349.78",
+      "change": "-0.16%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-04-26",
-          "title": "ライブ: ウォール街は最高値を更新、ASX は横ばいの始値を設定"
+          "date": "2026-04-27",
+          "title": "AIハードウェア需要が旺盛な中、NVIDIAの時価総額がAlphabetを1兆ドル上回る"
         },
         {
-          "date": "2026-04-26",
-          "title": "リーダーは現れたり去ったりします。"
-        },
-        {
-          "date": "2026-04-25",
-          "title": "AIのラリーはドットコムバブルに似ている。"
+          "date": "2026-04-27",
+          "title": "Appleのティム・クック氏退任でAIバブルによる死傷者リストが加速"
         }
       ]
     },
@@ -30,24 +26,20 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$678.62",
-      "change": "+0.53%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$671.34",
+      "change": "-1.07%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-04-26",
-          "title": "Cerebras Systems が IPO に近づく、これが Nvidia (NVDA) にとって何を意味するか"
+          "date": "2026-04-27",
+          "title": "中国、メタによるAIエージェント開発者マナスの買収を阻止"
         },
         {
-          "date": "2026-04-26",
-          "title": "ライブ: ウォール街は最高値を更新、ASX は横ばいの始値を設定"
-        },
-        {
-          "date": "2026-04-26",
-          "title": "新たなタイプのダウンサイジング: テクノロジー業界における AI の人員削減が 39,000 人を超えて急増"
+          "date": "2026-04-27",
+          "title": "中国、米国ハイテク大手メタのAI買収阻止を目指す"
         }
       ]
     },
@@ -55,24 +47,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$261.12",
-      "change": "-1.09%",
+      "price": "$259.70",
+      "change": "-0.54%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-04-26",
-          "title": "アマゾン（AMZN）プロジェクト・カイパー、SpaceX IPO後に評価額がさらに上がる可能性"
+          "date": "2026-04-27",
+          "title": "Amazon Redshift サーバーレス AI 主導のスケーリングが新しいワークグループのデフォルトになりました"
         },
         {
-          "date": "2026-04-26",
-          "title": "Meta は AI に Amazon Graviton チップをどのように使用していますか? "
+          "date": "2026-04-27",
+          "title": "人間的、シリコンバレーの良心？"
         },
         {
-          "date": "2026-04-25",
-          "title": "Meta と AWS が、Agentic AI を強化するために AWS Graviton チップを導入する契約に署名"
+          "date": "2026-04-27",
+          "title": "Show HN: Klutch MCP: Claud 経由でクレジット カードをプログラムで制御"
         }
       ]
     },
@@ -80,24 +72,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$267.61",
-      "change": "-1.27%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$270.71",
+      "change": "+1.16%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-04-26",
-          "title": "これらのセールが続くうちに、Amazon でわずか 150 ドルで TCL タブレットを手に入れましょう"
+          "date": "2026-04-27",
+          "title": "OPC UA クライアント"
         },
         {
-          "date": "2026-04-26",
-          "title": "薄型携帯電話の対決: iPhone Air 対 Galaxy S25 Edge"
+          "date": "2026-04-27",
+          "title": "Lenovo Pro 9i Aura Edition をレビューしましたが、これはあらゆる点でばかげています"
         },
         {
-          "date": "2026-04-26",
-          "title": "イーロン・マスク対サム・アルトマンの裁判で何が争点になっているのか"
+          "date": "2026-04-27",
+          "title": "Cursor AI を使い始める方法 – 初心者セットアップ ガイド 2026"
         }
       ]
     },
@@ -105,24 +97,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$216.61",
-      "change": "+4.00%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$213.17",
+      "change": "-1.59%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-04-26",
-          "title": "モルガン・スタンレー、オラクルの株価目標を修正"
+          "date": "2026-04-27",
+          "title": "Lenovo Pro 9i Aura Edition をレビューしましたが、これはあらゆる点でばかげています"
         },
         {
-          "date": "2026-04-26",
-          "title": "Tokenmaxxing は AI 戦略ではありません"
+          "date": "2026-04-27",
+          "title": "GPD Box Mini PC と G2 eGPU が 512 Gbps 帯域幅の MCIO 8i 接続を実現"
         },
         {
-          "date": "2026-04-26",
-          "title": "ルートシードが PyPI に追加されました"
+          "date": "2026-04-27",
+          "title": "とんでもないゲーミング ノートパソコンの至宝をご覧ください"
         }
       ]
     },
@@ -130,20 +122,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$424.82",
-      "change": "+0.05%",
+      "price": "$429.25",
+      "change": "+1.04%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-04-25",
-          "title": "GoogleのAIエージェントプラットフォームがポールポジションを獲得、しかし課題はまだ残っている"
+          "date": "2026-04-27",
+          "title": "Microsoft、AI提携を緩和する新たな一歩としてOpenAIの収益シェアを削減"
         },
         {
-          "date": "2026-04-25",
-          "title": "AIのラリーはドットコムバブルに似ている。"
+          "date": "2026-04-27",
+          "title": "OpenAI が Microsoft の独占性を打ち破る"
+        },
+        {
+          "date": "2026-04-27",
+          "title": "OpenAI が Microsoft の独占性を打ち破る"
         }
       ]
     }

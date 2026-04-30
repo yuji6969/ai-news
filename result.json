@@ -1,28 +1,28 @@
 {
-  "date": "2026-04-29",
+  "date": "2026-04-30",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$349.94",
-      "change": "+0.05%",
+      "price": "$384.80",
+      "change": "+9.96%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-04-28",
-          "title": "欧州委員会は、Android がサードパーティの AI サービスに対してよりオープンになる可能性があると考えています"
+          "date": "2026-04-29",
+          "title": "Google が TPU の販売を開始し YouTube Premium が成長する中、Sundar Pichai 氏が I/O 2026 をからかう"
         },
         {
-          "date": "2026-04-28",
-          "title": "中東の膠着状態が続く中、株価は下落、原油価格は上昇"
+          "date": "2026-04-29",
+          "title": "Google Cloud は 200 億ドルを超えるが、成長には容量の制約があると語る |"
         },
         {
-          "date": "2026-04-28",
-          "title": "チップの強度が輝き、ハイテク企業が収益成長を牽引"
+          "date": "2026-04-29",
+          "title": "クラウド業績と AI 支出の最新情報の後、マイクロソフトの株価、利益、投資家情報、および四半期クラウド収益の伸びが低下"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$669.12",
-      "change": "-0.33%",
+      "price": "$611.91",
+      "change": "-8.55%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-04-28",
-          "title": "AEO のキーワード調査の方法 (+ ツール)"
+          "date": "2026-04-29",
+          "title": "設備投資見通しが収益の影に隠れたため、メタ株は時間外に下落"
         },
         {
-          "date": "2026-04-28",
-          "title": "OpenAIによるイーロン・マスクに対する裁判の開始は、今日サム・アルトマンに起こった最悪の出来事ではなかった"
+          "date": "2026-04-29",
+          "title": "クラウド業績と AI 支出の最新情報の後、マイクロソフトの株価、利益、投資家情報、および四半期クラウド収益の伸びが低下"
         },
         {
-          "date": "2026-04-28",
-          "title": "金融データ会社のOGであるブルームバーグは、強力な新しいAIエージェントを擁している。"
+          "date": "2026-04-29",
+          "title": "メタは収益予想を上回り、2026 年の設備投資予測を押し上げる"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$263.04",
-      "change": "+1.29%",
+      "price": "$265.06",
+      "change": "+0.77%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-04-28",
-          "title": "AWS が Amazon Quick AI アシスタント用のデスクトップ アプリをリリースし、ユーザーがツールとローカル ファイルを接続してカスタム アプリやライブ ダッシュボードなどを構築できるようにします (Jigar Thakkar/About Amazon)"
+          "date": "2026-04-29",
+          "title": "アマゾンは強いAI需要でクラウドの期待を上回り、株価は上昇"
         },
         {
-          "date": "2026-04-28",
-          "title": "ソフトウェア開発の未来: ソフトウェア開発が減少する現在"
+          "date": "2026-04-29",
+          "title": "第1四半期のクラウドの堅調な成長を受けてアマゾンの株価、収益、利益、純売上高が上昇"
         },
         {
-          "date": "2026-04-28",
-          "title": "Microsoftとの関係が緩む中、AmazonはOpenAIとの「大幅な拡大」を宣伝"
+          "date": "2026-04-29",
+          "title": "5分間の熱狂的な巨大テクノロジー企業の収益の後、ウォール街はジェットコースターに乗る"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$270.17",
-      "change": "-0.20%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$271.35",
+      "change": "+0.44%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-04-28",
-          "title": "HN を表示: エフェクト付きキーボード 2 – 入力時のエフェクト"
+          "date": "2026-04-29",
+          "title": "Google と Microsoft は、OpenAI が汗を流す中、AI 貿易が生きていることを証明しました"
         },
         {
-          "date": "2026-04-28",
-          "title": "Apple、iOS 27で新しいAIツールによる写真編集の全面見直しを準備 - Bloomberg.com"
+          "date": "2026-04-29",
+          "title": "iOS 27は写真の編集方法を変える可能性がある"
         },
         {
-          "date": "2026-04-28",
-          "title": "iOS 26.4 では CarPlay に 2 つの新機能が追加され、さらに大きな機能が追加されます"
+          "date": "2026-04-29",
+          "title": "AI が四半期業績を押し上げた後、Google の株価、Alphabet の収益、売上高、利益が増加"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$209.25",
-      "change": "-1.84%",
+      "price": "$199.57",
+      "change": "-4.63%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-04-28",
-          "title": "Framework Laptop 16 RTX 5070 12GB アップグレード モジュールのコストは、8GB オプションより 72% 高くなります"
+          "date": "2026-04-29",
+          "title": "この AI は 1930 年以前のテキストのみでトレーニングされました。"
         },
         {
-          "date": "2026-04-28",
-          "title": "HN を表示: セッション全体を記憶するエージェント (チャット履歴なし)"
+          "date": "2026-04-29",
+          "title": "NVIDIA DLSS 4.5、RTX、Unreal Engine 5 を使用して AI を活用したゲームを構築する"
         },
         {
-          "date": "2026-04-28",
-          "title": "EXL が 2026 年第 1 四半期の業績を報告"
+          "date": "2026-04-29",
+          "title": "Microsoft、新しい DirectX GPU 機能を備えたシェーダー モデル 6.10 をプレビュー"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$424.46",
-      "change": "-1.12%",
+      "price": "$407.78",
+      "change": "-3.93%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-04-28",
-          "title": "Microsoftとの関係が緩む中、AmazonはOpenAIとの「大幅な拡大」を宣伝"
+          "date": "2026-04-29",
+          "title": "Microsoftは今後数四半期で従業員数が減少すると予想している"
         },
         {
-          "date": "2026-04-28",
-          "title": "Microsoftとの関係が緩む中、AmazonはOpenAIとの「大幅な拡大」を宣伝"
+          "date": "2026-04-29",
+          "title": "クラウド業績と AI 支出の最新情報の後、マイクロソフトの株価、利益、投資家情報、および四半期クラウド収益の伸びが低下"
         },
         {
-          "date": "2026-04-28",
-          "title": "金融データ会社のOGであるブルームバーグは、強力な新しいAIエージェントを擁している。"
+          "date": "2026-04-29",
+          "title": "Google と Microsoft は、OpenAI が汗を流す中、AI 貿易が生きていることを証明しました"
         }
       ]
     }

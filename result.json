@@ -1,28 +1,28 @@
 {
-  "date": "2026-04-30",
+  "date": "2026-05-01",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$384.80",
-      "change": "+9.96%",
+      "price": "$385.69",
+      "change": "+0.23%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-04-29",
-          "title": "Google が TPU の販売を開始し YouTube Premium が成長する中、Sundar Pichai 氏が I/O 2026 をからかう"
+          "date": "2026-04-30",
+          "title": "アルファベットの時価総額が好調な収益を受けて0.4兆ドル急上昇、マイクロソフトに挑戦"
         },
         {
-          "date": "2026-04-29",
-          "title": "Google Cloud は 200 億ドルを超えるが、成長には容量の制約があると語る |"
+          "date": "2026-04-30",
+          "title": "大きな利益が指数を記録に押し上げる"
         },
         {
-          "date": "2026-04-29",
-          "title": "クラウド業績と AI 支出の最新情報の後、マイクロソフトの株価、利益、投資家情報、および四半期クラウド収益の伸びが低下"
+          "date": "2026-04-30",
+          "title": "サムスンの創業者一族は1年で富を倍増させた。"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$611.91",
-      "change": "-8.55%",
+      "price": "$608.74",
+      "change": "-0.52%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-04-29",
-          "title": "設備投資見通しが収益の影に隠れたため、メタ株は時間外に下落"
+          "date": "2026-04-30",
+          "title": "中国はアメリカ弱体化のため技術買収を阻止。"
         },
         {
-          "date": "2026-04-29",
-          "title": "クラウド業績と AI 支出の最新情報の後、マイクロソフトの株価、利益、投資家情報、および四半期クラウド収益の伸びが低下"
+          "date": "2026-04-30",
+          "title": "Amazon、Microsoft、Google、Meta、2026 年までに 7,100 億ドルの AI 投資を計画"
         },
         {
-          "date": "2026-04-29",
-          "title": "メタは収益予想を上回り、2026 年の設備投資予測を押し上げる"
+          "date": "2026-04-30",
+          "title": "Earth Index、ミシガン州の銃ロック、イェール大学の初期黒人学生、詳細: 木曜午後 ResearchBuzz、2026 年 4 月 30 日"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$265.06",
-      "change": "+0.77%",
+      "price": "$268.26",
+      "change": "+1.21%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-04-29",
-          "title": "アマゾンは強いAI需要でクラウドの期待を上回り、株価は上昇"
+          "date": "2026-04-30",
+          "title": "XMax Inc.、AI 推論プラットフォームと新しい AI およびコーポレート Web サイトを開始"
         },
         {
-          "date": "2026-04-29",
-          "title": "第1四半期のクラウドの堅調な成長を受けてアマゾンの株価、収益、利益、純売上高が上昇"
+          "date": "2026-04-30",
+          "title": "ソーシャル メディアと AI の融合: xAI の 200 億ドルと OpenAI の 1,220 億ドルがフィードに何を意味するか"
         },
         {
-          "date": "2026-04-29",
-          "title": "5分間の熱狂的な巨大テクノロジー企業の収益の後、ウォール街はジェットコースターに乗る"
+          "date": "2026-04-30",
+          "title": "ソーシャル メディアと AI の融合: xAI の 200 億ドルと OpenAI の 1,220 億ドルがフィードに何を意味するか"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$271.35",
-      "change": "+0.44%",
+      "price": "$280.14",
+      "change": "+3.24%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-04-29",
-          "title": "Google と Microsoft は、OpenAI が汗を流す中、AI 貿易が生きていることを証明しました"
+          "date": "2026-04-30",
+          "title": "PyPI にコンテナハイブが追加されました"
         },
         {
-          "date": "2026-04-29",
-          "title": "iOS 27は写真の編集方法を変える可能性がある"
+          "date": "2026-04-30",
+          "title": "『プラダを着た悪魔2』は資本主義芸術を憎む資本主義芸術だ"
         },
         {
-          "date": "2026-04-29",
-          "title": "AI が四半期業績を押し上げた後、Google の株価、Alphabet の収益、売上高、利益が増加"
+          "date": "2026-04-30",
+          "title": "これはティム (およびジョンとケビン) です: Apple の 2026 年第 2 四半期の財務報告の転写"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$199.57",
-      "change": "-4.63%",
+      "price": "$198.45",
+      "change": "-0.56%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-04-29",
-          "title": "この AI は 1930 年以前のテキストのみでトレーニングされました。"
+          "date": "2026-04-30",
+          "title": "20VC x SaaStr: エージェントがモデルを選択すると、OpenAI が復活し、Thoma Bravo は Medallia で 51 億ドルを使い果たしました"
         },
         {
-          "date": "2026-04-29",
-          "title": "NVIDIA DLSS 4.5、RTX、Unreal Engine 5 を使用して AI を活用したゲームを構築する"
+          "date": "2026-04-30",
+          "title": "AMD GPU は、Nvidia の新しい USP となる 1 つの機能をついに取得します"
         },
         {
-          "date": "2026-04-29",
-          "title": "Microsoft、新しい DirectX GPU 機能を備えたシェーダー モデル 6.10 をプレビュー"
+          "date": "2026-04-30",
+          "title": "Nemotron Labs: あらゆる組織にとって OpenClaw エージェントが意味するもの"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$407.78",
-      "change": "-3.93%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$414.44",
+      "change": "+1.63%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-04-29",
-          "title": "Microsoftは今後数四半期で従業員数が減少すると予想している"
+          "date": "2026-04-30",
+          "title": "Claude vs ChatGPT: 2026 年にはどちらの AI プラットフォームが優れているでしょうか?"
         },
         {
-          "date": "2026-04-29",
-          "title": "クラウド業績と AI 支出の最新情報の後、マイクロソフトの株価、利益、投資家情報、および四半期クラウド収益の伸びが低下"
+          "date": "2026-04-30",
+          "title": "サイバーセキュリティの前兆: オラクルは新しい顧客セキュリティ勧告で AI モデルの脅威に先駆ける"
         },
         {
-          "date": "2026-04-29",
-          "title": "Google と Microsoft は、OpenAI が汗を流す中、AI 貿易が生きていることを証明しました"
+          "date": "2026-04-30",
+          "title": "Microsoft の収益分析: AI の背後にある設備投資には注意を払う必要はありません ⭐️"
         }
       ]
     }

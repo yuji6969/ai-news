@@ -1,24 +1,28 @@
 {
-  "date": "2026-05-03",
+  "date": "2026-05-04",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$385.69",
-      "change": "+0.23%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$383.25",
+      "change": "-0.63%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-05-02",
-          "title": "21銘柄に関するジム・クレイマーの意見: Oklo、AST SpaceMobile、その他"
+          "date": "2026-05-03",
+          "title": "自動化の軍拡競争が始まり、私たちは AI の霧の中に向かっている"
         },
         {
-          "date": "2026-05-02",
-          "title": "Nvidia は AI エンジンを構築しました。"
+          "date": "2026-05-03",
+          "title": "破壊によって再形成された世界。"
+        },
+        {
+          "date": "2026-05-03",
+          "title": "アマゾンのここ数年で最高の四半期は、半分はアンスロピック社からの168億ドルの紙益で成り立っていた"
         }
       ]
     },
@@ -26,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$608.75",
-      "change": "-0.52%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$610.41",
+      "change": "+0.27%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-05-02",
-          "title": "モルガード・リアル・エステート・インク"
+          "date": "2026-05-03",
+          "title": "599ドルのMac Miniは終わりました。 "
         },
         {
-          "date": "2026-05-02",
-          "title": "GEO グループ年次総会の要約: 取締役の選出、5 億 2,000 万ドルの契約獲得、および 2025 年の成果が強調"
+          "date": "2026-05-03",
+          "title": "自動化の軍拡競争が始まり、私たちは AI の霧の中に向かっている"
         },
         {
-          "date": "2026-05-02",
-          "title": "キャピタル・パワー第 1 四半期決算発表ハイライト"
+          "date": "2026-05-03",
+          "title": "破壊によって再形成された世界。"
         }
       ]
     },
@@ -51,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$268.26",
-      "change": "+1.21%",
+      "price": "$272.05",
+      "change": "+1.41%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-05-02",
-          "title": "アマゾンで働きたいですか？ "
+          "date": "2026-05-03",
+          "title": "今週末見逃した最大のニュースです"
         },
         {
-          "date": "2026-05-02",
-          "title": "アマゾンで働きたいですか？ "
+          "date": "2026-05-03",
+          "title": "アマゾンのここ数年で最高の四半期は、半分はアンスロピック社からの168億ドルの紙益で成り立っていた"
         },
         {
-          "date": "2026-05-02",
-          "title": "スピリット航空の運航停止で立ち往生していませんか? "
+          "date": "2026-05-03",
+          "title": "データセンターの専門家、ギガワット規模のAI構築は計画停電を引き起こす可能性があると警告"
         }
       ]
     },
@@ -76,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$280.14",
-      "change": "+3.24%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$276.83",
+      "change": "-1.18%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-05-02",
-          "title": "Hybriddecon が PyPI に追加されました"
+          "date": "2026-05-03",
+          "title": "エミリー・ポートマン – ドミニオン・オブ・スペルズ (2026)"
         },
         {
-          "date": "2026-05-02",
-          "title": "Show HN: Sentient OS – デジタル ライフ全体のためのオンデバイス インテリジェンス レイヤー"
+          "date": "2026-05-03",
+          "title": "Show HN: 解釈可能な AutoResearch – 読みやすいエージェント ワークフロー"
         },
         {
-          "date": "2026-05-02",
-          "title": "13 インチ M5 MacBook Air 512GB が 149 ドルオフ"
+          "date": "2026-05-03",
+          "title": "エルメスをインストールしました。 "
         }
       ]
     },
@@ -101,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$198.45",
-      "change": "-0.56%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$198.48",
+      "change": "+0.02%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-05-02",
-          "title": "フェイスソーター プロ アルティメット 3.2.1"
+          "date": "2026-05-03",
+          "title": "Show HN: 解釈可能な AutoResearch – 読みやすいエージェント ワークフロー"
         },
         {
-          "date": "2026-05-02",
-          "title": "ベクタースタイラー 1.3.015"
+          "date": "2026-05-03",
+          "title": "NVIDIA、共同パッケージ化された光学系を予定より 5 年早く高速化、ファインマン GPU で最初に登場"
         },
         {
-          "date": "2026-05-02",
-          "title": "Silicon Valley 101 および Power HF Host AI インフラストラクチャ フォーラム、次の戦場として電力に焦点を当てる"
+          "date": "2026-05-03",
+          "title": "Nvidia の生産コストが上昇したのはなぜですか? "
         }
       ]
     },
@@ -126,13 +130,17 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$414.44",
-      "change": "+1.63%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$413.62",
+      "change": "-0.20%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
+        {
+          "date": "2026-05-03",
+          "title": "AIブームは自らの尻尾を食っているのだろうか？ "
+        },
         {
           "date": "2026-05-02",
           "title": "PyPI に pg-raggraph が追加されました"
@@ -140,10 +148,6 @@
         {
           "date": "2026-05-02",
           "title": "Nvidia は AI エンジンを構築しました。"
-        },
-        {
-          "date": "2026-05-02",
-          "title": "ウォール街はオラクルは買いだと主張している。"
         }
       ]
     }

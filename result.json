@@ -1,28 +1,28 @@
 {
-  "date": "2026-05-04",
+  "date": "2026-05-05",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$383.25",
-      "change": "-0.63%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$388.43",
+      "change": "+1.35%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-05-03",
-          "title": "自動化の軍拡競争が始まり、私たちは AI の霧の中に向かっている"
+          "date": "2026-05-04",
+          "title": "アトランタ警察の代替案、Google 収益レポート、AI 支援医療、その他: 月曜日午後の ResearchBuzz、2026 年 5 月 4 日"
         },
         {
-          "date": "2026-05-03",
-          "title": "破壊によって再形成された世界。"
+          "date": "2026-05-04",
+          "title": "Google、開発者向けの無料ウェブ検索インデックスを中止"
         },
         {
-          "date": "2026-05-03",
-          "title": "アマゾンのここ数年で最高の四半期は、半分はアンスロピック社からの168億ドルの紙益で成り立っていた"
+          "date": "2026-05-04",
+          "title": "ジム・クレイマー氏、アルファベットについて大予測 (GOOGL)"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$610.41",
-      "change": "+0.27%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$604.96",
+      "change": "-0.89%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-05-03",
-          "title": "599ドルのMac Miniは終わりました。 "
+          "date": "2026-05-04",
+          "title": "AI によって企業は人員削減が行われるが、従業員の補充は行われない"
         },
         {
-          "date": "2026-05-03",
-          "title": "自動化の軍拡競争が始まり、私たちは AI の霧の中に向かっている"
+          "date": "2026-05-04",
+          "title": "Pinterest の四半期売上高はちょうど 10 億ドルを超えました。"
         },
         {
-          "date": "2026-05-03",
-          "title": "破壊によって再形成された世界。"
+          "date": "2026-05-04",
+          "title": "次に起こる問題を解決することで、コーニングはどのように関連性を維持できるか"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$272.05",
-      "change": "+1.41%",
+      "price": "$273.55",
+      "change": "+0.55%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-05-03",
-          "title": "今週末見逃した最大のニュースです"
+          "date": "2026-05-04",
+          "title": "アンディ・ジャシー氏、アマゾンの投資家はAIへの投資すべてで報われると語る"
         },
         {
-          "date": "2026-05-03",
-          "title": "アマゾンのここ数年で最高の四半期は、半分はアンスロピック社からの168億ドルの紙益で成り立っていた"
+          "date": "2026-05-04",
+          "title": "IBM Bob AI コーディング エージェントがリリース、HashiCorp AIOps がプレビュー"
         },
         {
-          "date": "2026-05-03",
-          "title": "データセンターの専門家、ギガワット規模のAI構築は計画停電を引き起こす可能性があると警告"
+          "date": "2026-05-04",
+          "title": "アマゾンの従業員はクロード・コードを推進した。"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$276.83",
-      "change": "-1.18%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$284.18",
+      "change": "+2.66%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-05-03",
-          "title": "エミリー・ポートマン – ドミニオン・オブ・スペルズ (2026)"
+          "date": "2026-05-04",
+          "title": "人類の最も危険なAIをリバースエンジニアリングするためのオープンソースの「理論上の神話」を誰かが構築した"
         },
         {
-          "date": "2026-05-03",
-          "title": "Show HN: 解釈可能な AutoResearch – 読みやすいエージェント ワークフロー"
+          "date": "2026-05-04",
+          "title": "OpenClaw スタンスにとって悪いニュース: Apple の Mac Mini の価格は 799 ドルから"
         },
         {
-          "date": "2026-05-03",
-          "title": "エルメスをインストールしました。 "
+          "date": "2026-05-04",
+          "title": "ガイア、2026 年第 1 四半期の財務結果を報告"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$198.48",
-      "change": "+0.02%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$196.50",
+      "change": "-1.00%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-05-03",
-          "title": "Show HN: 解釈可能な AutoResearch – 読みやすいエージェント ワークフロー"
+          "date": "2026-05-04",
+          "title": "マイクロン CEO、「AI は非常に初期段階にある」と警告、「より多くのメモリが必要になる」 - RAM 危機が解決しないもう一つの不気味な兆候"
         },
         {
-          "date": "2026-05-03",
-          "title": "NVIDIA、共同パッケージ化された光学系を予定より 5 年早く高速化、ファインマン GPU で最初に登場"
+          "date": "2026-05-04",
+          "title": "ベクタースタイラー 1.3.016"
         },
         {
-          "date": "2026-05-03",
-          "title": "Nvidia の生産コストが上昇したのはなぜですか? "
+          "date": "2026-05-04",
+          "title": "NVIDIA cuOpt エージェント スキルを使用してサプライ チェーンの意思決定システムを最適化"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$413.62",
-      "change": "-0.20%",
+      "price": "$411.38",
+      "change": "-0.54%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-05-03",
-          "title": "AIブームは自らの尻尾を食っているのだろうか？ "
+          "date": "2026-05-04",
+          "title": "Microsoft エージェント フレームワーク – AI のビルディング ブロック パート 3"
         },
         {
-          "date": "2026-05-02",
-          "title": "PyPI に pg-raggraph が追加されました"
+          "date": "2026-05-04",
+          "title": "AI のインターネットにこんにちは"
         },
         {
-          "date": "2026-05-02",
-          "title": "Nvidia は AI エンジンを構築しました。"
+          "date": "2026-05-04",
+          "title": "SQL Server 2025 の新機能"
         }
       ]
     }

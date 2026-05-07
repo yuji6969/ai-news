@@ -1,28 +1,28 @@
 {
-  "date": "2026-05-06",
+  "date": "2026-05-07",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$398.04",
-      "change": "+2.47%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$397.99",
+      "change": "-0.01%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-05-05",
-          "title": "Google DeepMind 従業員が軍事 AI 取引に関する労働組合結成に投票"
+          "date": "2026-05-06",
+          "title": "自制への賛歌: ティム・クックの遺産からの教訓"
         },
         {
-          "date": "2026-05-05",
-          "title": "Apple、ユーザーが iOS 27 の機能全体で競合する AI モデルを選択できるようにする"
+          "date": "2026-05-06",
+          "title": "Google はコンサルティング会社を構築しているわけではありません。"
         },
         {
-          "date": "2026-05-05",
-          "title": "Apple、ユーザーが iOS 27 の機能全体で競合する AI モデルを選択できるようにする"
+          "date": "2026-05-06",
+          "title": "デビッド・サックスはどのようにしてホワイトハウスに墜落し、炎上したか"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$612.88",
-      "change": "+1.31%",
+      "price": "$616.81",
+      "change": "+0.64%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-05-05",
-          "title": "ブラックロックのラリー・フィンク氏、ハイパースケーラーとの今後の提携を示唆"
+          "date": "2026-05-06",
+          "title": "ジム・クレイマー氏、大手テック企業はAI支出を安くするわけにはいかないと語る"
         },
         {
-          "date": "2026-05-05",
-          "title": "OpenAIに対するマスク氏の法廷闘争は、高度なAIの制御に関して光よりも熱を生み出す"
+          "date": "2026-05-06",
+          "title": "スナップはAI取引で4億ドル、イラン戦争で月額2000万ドル、株価の24％を失った。 "
         },
         {
-          "date": "2026-05-05",
-          "title": "リサイクル業界では毎年従業員の 40% が失われています。 "
+          "date": "2026-05-06",
+          "title": "自制への賛歌: ティム・クックの遺産からの教訓"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$274.99",
-      "change": "+0.53%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$271.17",
+      "change": "-1.39%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-05-05",
-          "title": "ハイテク巨人はあらゆるビジネスを自分たちのビジネスにした"
+          "date": "2026-05-06",
+          "title": "(PR) Arm、2026年第4四半期および会計年度の業績を報告"
         },
         {
-          "date": "2026-05-05",
-          "title": "OpenAI幹部は、同社は今年、他人の資金のうち500億ドルをコンピューティングに費やしたいと考えていると語る"
+          "date": "2026-05-06",
+          "title": "ウーバーは収益目標を達成できなかった。"
         },
         {
-          "date": "2026-05-05",
-          "title": "OpenAI幹部は、同社は今年、他人の資金のうち500億ドルをコンピューティングに費やしたいと考えていると語る"
+          "date": "2026-05-06",
+          "title": "AI コーディングの急増に伴い、Anthropic CEO が SaaS ピボットを予測"
         }
       ]
     },
@@ -80,20 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$287.51",
-      "change": "+1.17%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$287.44",
+      "change": "-0.02%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-05-05",
-          "title": "AppleがSiri遅延問題で2億5000万ドルの和解に達し、ユーザーはデバイス1台あたり最大95ドルを受け取る可能性がある - 9to5Mac"
+          "date": "2026-05-06",
+          "title": "Appleが2億5000万ドルで和解に合意したことで、一部のiPhone所有者は最大95ドルを受け取る可能性がある"
         },
         {
-          "date": "2026-05-05",
-          "title": "Apple、デバイスを AI プラットフォームに変える計画"
+          "date": "2026-05-06",
+          "title": "Chrome はあなたのコンピュータに 4GB AI モデルを静かにインストールし、削除すると元に戻してしまう"
+        },
+        {
+          "date": "2026-05-06",
+          "title": "AppleがApple Intelligenceによる虚偽広告訴訟の和解に合意し、一部のiPhone所有者は最大95ドルを受け取る可能性がある"
         }
       ]
     },
@@ -101,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$207.83",
-      "change": "+5.77%",
+      "price": "$211.50",
+      "change": "+1.77%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-05-05",
-          "title": "Intel は Computex のあらゆるコンピューティング カテゴリにチップを提供します。"
+          "date": "2026-05-06",
+          "title": "xAI は今ネオクラウドですか? "
         },
         {
-          "date": "2026-05-05",
-          "title": "AMD は MI450 GPU のサンプリングを開始し、MI500 についても顧客と連携、最大規模の AI 導入は推論用"
+          "date": "2026-05-06",
+          "title": "第 1 四半期の受注額が 1 億ドル -- Lightwheel が大規模な物理 AI の始まりを示す"
         },
         {
-          "date": "2026-05-05",
-          "title": "smriti-memory-ai が PyPI に追加されました"
+          "date": "2026-05-06",
+          "title": "ウォール街は決算を受けてAMD株の目標株価引き上げを急いでいる。"
         }
       ]
     },
@@ -126,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$413.96",
-      "change": "+0.63%",
+      "price": "$420.77",
+      "change": "+1.65%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-05-05",
-          "title": "twilio-agent-connect-microsoft が PyPI に追加されました"
+          "date": "2026-05-06",
+          "title": "(PR) Arm、2026年第4四半期および会計年度の業績を報告"
         },
         {
-          "date": "2026-05-05",
-          "title": "ServiceNow が新しい AI 管制塔を使用してエージェントの着陸を許可"
+          "date": "2026-05-06",
+          "title": "Microsoft Visual Studio Professional 2026 + プレミアム コード学習認定バンドル (49 ドル)"
         },
         {
-          "date": "2026-05-05",
-          "title": "ServiceNow が新しい AI 管制塔を使用してエージェントの着陸を許可"
+          "date": "2026-05-06",
+          "title": "Microsoft Visual Studio Professional 2026 + プレミアム コード学習認定バンドル (49 ドル)"
         }
       ]
     }

@@ -1,28 +1,28 @@
 {
-  "date": "2026-05-07",
+  "date": "2026-05-08",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$397.99",
-      "change": "-0.01%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$400.80",
+      "change": "+0.71%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-05-06",
-          "title": "自制への賛歌: ティム・クックの遺産からの教訓"
+          "date": "2026-05-07",
+          "title": "サムスンはNANDのトリックを借りて次世代DRAMをクラックする一方、SKハイニックスはAIメモリ戦争に勝つために垂直積層に賭ける"
         },
         {
-          "date": "2026-05-06",
-          "title": "Google はコンサルティング会社を構築しているわけではありません。"
+          "date": "2026-05-07",
+          "title": "イーロン・マスクは3か月前、人類を「悪」と呼んだ。"
         },
         {
-          "date": "2026-05-06",
-          "title": "デビッド・サックスはどのようにしてホワイトハウスに墜落し、炎上したか"
+          "date": "2026-05-07",
+          "title": "イーロン・マスクは3か月前、人類を「悪」と呼んだ。"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$616.81",
-      "change": "+0.64%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$609.63",
+      "change": "-1.16%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-05-06",
-          "title": "ジム・クレイマー氏、大手テック企業はAI支出を安くするわけにはいかないと語る"
+          "date": "2026-05-07",
+          "title": "Indosat CEO の Vikram Sinha は、インドネシアの現地言語用の AI を構築しています。"
         },
         {
-          "date": "2026-05-06",
-          "title": "スナップはAI取引で4億ドル、イラン戦争で月額2000万ドル、株価の24％を失った。 "
+          "date": "2026-05-07",
+          "title": "CoreWeaveは、コンポーネントのコスト上昇と株価下落による設備投資の増加を示唆"
         },
         {
-          "date": "2026-05-06",
-          "title": "自制への賛歌: ティム・クックの遺産からの教訓"
+          "date": "2026-05-07",
+          "title": "マーケティング ワークフローの自動化: 戦略から実行まで | "
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$271.17",
-      "change": "-1.39%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$272.68",
+      "change": "+0.56%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-05-06",
-          "title": "(PR) Arm、2026年第4四半期および会計年度の業績を報告"
+          "date": "2026-05-07",
+          "title": "Amazon Bedrock が Coinbase、Stripe で AI エージェント決済機能を開始"
         },
         {
-          "date": "2026-05-06",
-          "title": "ウーバーは収益目標を達成できなかった。"
+          "date": "2026-05-07",
+          "title": "Amazon EC2 X8i インスタンスが追加のリージョンで利用可能になりました"
         },
         {
-          "date": "2026-05-06",
-          "title": "AI コーディングの急増に伴い、Anthropic CEO が SaaS ピボットを予測"
+          "date": "2026-05-07",
+          "title": "イーロン・マスクは3か月前、人類を「悪」と呼んだ。"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$287.44",
-      "change": "-0.02%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$293.32",
+      "change": "+2.05%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-05-06",
-          "title": "Appleが2億5000万ドルで和解に合意したことで、一部のiPhone所有者は最大95ドルを受け取る可能性がある"
+          "date": "2026-05-07",
+          "title": "ファーウェイのiPad Proのライバルは見た目は素晴らしいが、手に入らないかもしれない"
         },
         {
-          "date": "2026-05-06",
-          "title": "Chrome はあなたのコンピュータに 4GB AI モデルを静かにインストールし、削除すると元に戻してしまう"
+          "date": "2026-05-07",
+          "title": "AirPods UltraはApple初のAIデバイスになる可能性がある"
         },
         {
-          "date": "2026-05-06",
-          "title": "AppleがApple Intelligenceによる虚偽広告訴訟の和解に合意し、一部のiPhone所有者は最大95ドルを受け取る可能性がある"
+          "date": "2026-05-07",
+          "title": "Fitbit アプリがついに Google Health にブランド変更されました。この大きな変更について知っておくべき 5 つのことと、それが Fitbit ユーザーにとって何を意味するのかを以下に示します。"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$211.50",
-      "change": "+1.77%",
+      "price": "$215.20",
+      "change": "+1.75%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-05-06",
-          "title": "xAI は今ネオクラウドですか? "
+          "date": "2026-05-07",
+          "title": "IREN、NVIDIA と 34 億ドルの AI クラウド契約を締結"
         },
         {
-          "date": "2026-05-06",
-          "title": "第 1 四半期の受注額が 1 億ドル -- Lightwheel が大規模な物理 AI の始まりを示す"
+          "date": "2026-05-07",
+          "title": "Google Could Next と Thinking Machines Lab が Nvidia Vera Rubin を使用"
         },
         {
-          "date": "2026-05-06",
-          "title": "ウォール街は決算を受けてAMD株の目標株価引き上げを急いでいる。"
+          "date": "2026-05-07",
+          "title": "VideoProc コンバーター AI 8.10 (2026050601)"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$420.77",
-      "change": "+1.65%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$415.12",
+      "change": "-1.34%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-05-06",
-          "title": "(PR) Arm、2026年第4四半期および会計年度の業績を報告"
+          "date": "2026-05-07",
+          "title": "PCPJack Credential Stealer が 5 つの CVE を悪用してクラウド システム全体にワームのような拡散を行う"
         },
         {
-          "date": "2026-05-06",
-          "title": "Microsoft Visual Studio Professional 2026 + プレミアム コード学習認定バンドル (49 ドル)"
+          "date": "2026-05-07",
+          "title": "20VC x SaaStr: アメリカ資本主義で最も攻撃的な四半期、パランティアの 145 ルール、そしてブライアン アームストロングがマネージャーオブマネージャーを殺害した理由"
         },
         {
-          "date": "2026-05-06",
-          "title": "Microsoft Visual Studio Professional 2026 + プレミアム コード学習認定バンドル (49 ドル)"
+          "date": "2026-05-07",
+          "title": "Agentguard-observe が PyPI に追加されました"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-08",
+  "date": "2026-05-09",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,12 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-05-07",
-          "title": "サムスンはNANDのトリックを借りて次世代DRAMをクラックする一方、SKハイニックスはAIメモリ戦争に勝つために垂直積層に賭ける"
+          "date": "2026-05-08",
+          "title": "レース戦略からレギュレーションまで: AI が F1 を再構築"
         },
         {
-          "date": "2026-05-07",
-          "title": "イーロン・マスクは3か月前、人類を「悪」と呼んだ。"
-        },
-        {
-          "date": "2026-05-07",
-          "title": "イーロン・マスクは3か月前、人類を「悪」と呼んだ。"
+          "date": "2026-05-08",
+          "title": "Google AI が広告入札と予算ペースを自動化"
         }
       ]
     },
@@ -38,16 +34,12 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-05-07",
-          "title": "Indosat CEO の Vikram Sinha は、インドネシアの現地言語用の AI を構築しています。"
+          "date": "2026-05-08",
+          "title": "ウォール街はインテルとAMDの株価が急上昇する一方、エヌビディアは出遅れているため「AIの交代」と見ている"
         },
         {
-          "date": "2026-05-07",
-          "title": "CoreWeaveは、コンポーネントのコスト上昇と株価下落による設備投資の増加を示唆"
-        },
-        {
-          "date": "2026-05-07",
-          "title": "マーケティング ワークフローの自動化: 戦略から実行まで | "
+          "date": "2026-05-08",
+          "title": "5月8日金曜日のその他のBarks & Bites：第11巡回裁判所がアニー・リーボヴィッツ写真事件を復活させる。"
         }
       ]
     },
@@ -63,16 +55,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-05-07",
-          "title": "Amazon Bedrock が Coinbase、Stripe で AI エージェント決済機能を開始"
+          "date": "2026-05-08",
+          "title": "皮肉たっぷりの事件、アマゾンのデータセンターが高温のためシャットダウン"
         },
         {
-          "date": "2026-05-07",
-          "title": "Amazon EC2 X8i インスタンスが追加のリージョンで利用可能になりました"
+          "date": "2026-05-08",
+          "title": "AWS 金融サービスシンポジウムで期待できること: 5 月 11 日から始まる theCUBE の独占オンデマンド報道をご覧ください"
         },
         {
-          "date": "2026-05-07",
-          "title": "イーロン・マスクは3か月前、人類を「悪」と呼んだ。"
+          "date": "2026-05-08",
+          "title": "Caylent が第 2 回 2026 Globee® Awards for Artificial Intelligence で金賞を受賞"
         }
       ]
     },
@@ -88,16 +80,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-05-07",
-          "title": "ファーウェイのiPad Proのライバルは見た目は素晴らしいが、手に入らないかもしれない"
+          "date": "2026-05-08",
+          "title": "Google、Android、iOS向けSnapseed 4.0をリリース"
         },
         {
-          "date": "2026-05-07",
-          "title": "AirPods UltraはApple初のAIデバイスになる可能性がある"
+          "date": "2026-05-08",
+          "title": "Appleとのチップ取引の予備合意を受け、Intel株が史上最高値に"
         },
         {
-          "date": "2026-05-07",
-          "title": "Fitbit アプリがついに Google Health にブランド変更されました。この大きな変更について知っておくべき 5 つのことと、それが Fitbit ユーザーにとって何を意味するのかを以下に示します。"
+          "date": "2026-05-08",
+          "title": "Apple Watch Series 12 と watchOS 27: 今年後半に期待されること"
         }
       ]
     },
@@ -113,16 +105,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-05-07",
-          "title": "IREN、NVIDIA と 34 億ドルの AI クラウド契約を締結"
+          "date": "2026-05-08",
+          "title": "Nvidia の主力 GPU をゲーム用にテストしましたが、RTX 5090 が勝者ではありませんでした"
         },
         {
-          "date": "2026-05-07",
-          "title": "Google Could Next と Thinking Machines Lab が Nvidia Vera Rubin を使用"
+          "date": "2026-05-08",
+          "title": "Red Hat は AI、仮想化、ハイブリッド クラウドを 1 つのプラットフォームで実現します"
         },
         {
-          "date": "2026-05-07",
-          "title": "VideoProc コンバーター AI 8.10 (2026050601)"
+          "date": "2026-05-08",
+          "title": "Appleとのチップ取引の予備合意を受け、Intel株が史上最高値に"
         }
       ]
     },
@@ -138,16 +130,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-05-07",
-          "title": "PCPJack Credential Stealer が 5 つの CVE を悪用してクラウド システム全体にワームのような拡散を行う"
+          "date": "2026-05-08",
+          "title": "投資家がクラウドの成長とAI支出の見通しを比較検討する中、マイクロソフト株は1%下落"
         },
         {
-          "date": "2026-05-07",
-          "title": "20VC x SaaStr: アメリカ資本主義で最も攻撃的な四半期、パランティアの 145 ルール、そしてブライアン アームストロングがマネージャーオブマネージャーを殺害した理由"
+          "date": "2026-05-08",
+          "title": "Microsoftは、OpenAIがAmazonと「たわごと」のAzureに逃げ出すのではないかと懸念していた"
         },
         {
-          "date": "2026-05-07",
-          "title": "Agentguard-observe が PyPI に追加されました"
+          "date": "2026-05-08",
+          "title": "香港の Votee AI とトロントの Beever AI オープンソース Beever Atlas -- Telegram、Discord、Mattermost、Microsoft Teams、Slack チャットを生きた Wiki に変える"
         }
       ]
     }

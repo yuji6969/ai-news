@@ -1,28 +1,28 @@
 {
-  "date": "2026-05-12",
+  "date": "2026-05-13",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$387.35",
-      "change": "-0.33%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$402.62",
+      "change": "+3.94%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-05-11",
-          "title": "アルファベットとアマゾン、AIインフラ推進に資金提供するため海外債券市場を活用"
+          "date": "2026-05-12",
+          "title": "「それはあまり健全とは言えません」：アマゾンが報告したトークンマックスシングはAI利用をゲーム化する可能性があるとアナリストが警告"
         },
         {
-          "date": "2026-05-11",
-          "title": "アルファベット、サムライ初号で債券プログラムに円を追加、AI構築に資金提供"
+          "date": "2026-05-12",
+          "title": "GoogleはAppleのAI再起動前にGeminiをAndroidの中心に据えようと急ぐ"
         },
         {
-          "date": "2026-05-11",
-          "title": "アルファベット、サムライ初号で債券プログラムに円を追加、AI構築に資金提供"
+          "date": "2026-05-12",
+          "title": "投資家が多額の AI 支出とクラウドの勢いを消化する中、アルファベット株は 0.41% 下落して 385 ドル"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$603.00",
-      "change": "+0.69%",
+      "price": "$616.63",
+      "change": "+2.26%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-05-11",
-          "title": "トランプ大統領の中国訪問に参加するCEOは、2025年5月の中東2兆ドル取引のような取引を発表すべきだ"
+          "date": "2026-05-12",
+          "title": "労働者をAIに置き換えるとひどい裏目に出ていることが大規模研究で判明"
         },
         {
-          "date": "2026-05-11",
-          "title": "GitLab はエージェント時代に向けて人員削減を行っています。"
+          "date": "2026-05-12",
+          "title": "GMはIT部門の従業員600人を解雇し、AIエンジニアを雇用する。"
         },
         {
-          "date": "2026-05-11",
-          "title": "アップルCEOティム・クック氏とイーロン・マスク氏、トランプ大統領の中国訪問に参加へ"
+          "date": "2026-05-12",
+          "title": "Google は自社の将来のすべてを AI に賭けています。"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$265.82",
-      "change": "-1.18%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$270.13",
+      "change": "+1.62%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-05-11",
-          "title": "Strands と Exa を使用して Web 検索対応エージェントを構築する"
+          "date": "2026-05-12",
+          "title": "AWS、Kiro コーディングツールに組み込まれた AI エンジンの範囲を拡大"
         },
         {
-          "date": "2026-05-11",
-          "title": "AI が運営する世界に向けて暗号通貨ウォレットが再構築されました"
+          "date": "2026-05-12",
+          "title": "AWS Kiro は、コードが機能する前にコードの正しさを証明することでソフトウェア開発を加速します"
         },
         {
-          "date": "2026-05-11",
-          "title": "Strands と Amazon Transform カスタムによる大規模なエージェントアプリケーションのモダナイゼーション"
+          "date": "2026-05-12",
+          "title": "Amazon Finance が AWS の生成 AI を使用して規制調査を効率化する方法"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$294.80",
-      "change": "+0.72%",
+      "price": "$298.87",
+      "change": "+1.38%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-05-11",
-          "title": "OpenAI の新しい Daybreak プラットフォームは GPT-5.5 を使用してソフトウェアの脆弱性を発見"
+          "date": "2026-05-12",
+          "title": "Apple、誤解を招くApple Intelligence広告の疑いでブラジルで通報"
         },
         {
-          "date": "2026-05-11",
-          "title": "Wallace Finance、バックテストとワンタップ共有により AI 投資プラットフォームを Android に拡張"
+          "date": "2026-05-12",
+          "title": "2026 年の子供向けベスト Chromebook"
         },
         {
-          "date": "2026-05-11",
-          "title": "Appleの次期Vision Proヘッドセットは数年先になると報じられている"
+          "date": "2026-05-12",
+          "title": "watchOS 26.5 は迷惑なバグを修正し、さらに大きなものへの準備を整えます"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$220.78",
-      "change": "+0.61%",
+      "price": "$225.83",
+      "change": "+2.29%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-05-11",
-          "title": "CUDA は Nvidia がソフトウェア会社であることを証明します"
+          "date": "2026-05-12",
+          "title": "Lenovo の新しい ThinkPad および ThinkStation PC はこれまでよりも優れています"
         },
         {
-          "date": "2026-05-11",
-          "title": "PyPI に追加されたadaptive-utility-agent"
+          "date": "2026-05-12",
+          "title": "Lenovo、Ryzen Pro 9000 および RTX Pro 6000 Blackwell を梱包した ThinkStation P4 を発表"
         },
         {
-          "date": "2026-05-11",
-          "title": "AI モデルの提供におけるパイプラインの摩擦を排除する方法"
+          "date": "2026-05-12",
+          "title": "Nvidia、4日間で時価総額5,910億ドルを追加、Oracleの評価額全体を上回る"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$407.77",
-      "change": "-1.18%",
+      "price": "$405.21",
+      "change": "-0.63%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-05-11",
-          "title": "Microsoft CEO Satya Nadella がイーロン・マスク氏の訴訟に冷や水を浴びせた 4 つの方法"
+          "date": "2026-05-12",
+          "title": "ナデラさんはマイクロソフトが「次のIBM」になるのではないかと懸念していた。裁判では、そうでないことを確かめるために彼がどれだけの金額を支払ったかが明らかになった。"
         },
         {
-          "date": "2026-05-11",
-          "title": "GitLab はエージェント時代に向けて人員削減を行っています。"
+          "date": "2026-05-12",
+          "title": "エンタープライズ AI の進歩: SAP Sapphire 2026 からの新しい SAP on Azure の発表"
         },
         {
-          "date": "2026-05-11",
-          "title": "Azure Cosmos DB を使用した AI アプリの構築: Cosmos Conf 2026 の主要なトレンド"
+          "date": "2026-05-12",
+          "title": "クラウドと AI の成長が好調な第 3 四半期の多額の設備投資を相殺し、マイクロソフトの株価は 409 ドルに上昇"
         }
       ]
     }

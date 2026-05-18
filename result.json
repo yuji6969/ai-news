@@ -1,24 +1,28 @@
 {
-  "date": "2026-05-17",
+  "date": "2026-05-18",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$396.78",
-      "change": "-1.07%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$396.94",
+      "change": "+0.04%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-05-16",
-          "title": "ビッグテックが彼らの生活様式を強圧すると脅しているカウボーイシティの内部...議員らが億万長者に秘密の首脳会談で建設を続けるよう懇願している中"
+          "date": "2026-05-17",
+          "title": "億万長者チェイス・コールマン率いるタイガー・グローバルが半導体株の急騰に1億8000万ドルを賭ける"
         },
         {
-          "date": "2026-05-16",
-          "title": "第1四半期に機関投資家が半導体企業に新たな株式を設立しようと殺到した"
+          "date": "2026-05-17",
+          "title": "ウォーレン・バフェット氏率いるバークシャー・ハサウェイがアルファベット株を3倍以上に増額"
+        },
+        {
+          "date": "2026-05-17",
+          "title": "AIと半導体株の今後には何が待ち受けているのでしょうか?"
         }
       ]
     },
@@ -26,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$614.23",
-      "change": "-0.68%",
+      "price": "$611.21",
+      "change": "-0.49%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-05-16",
-          "title": "ミストラルAIの最高経営責任者（CEO）、ヨーロッパがアメリカのAI「属国」になるのをやめるまでに2年の猶予があると発言"
+          "date": "2026-05-17",
+          "title": "AIの水問題はフェイクだ"
         },
         {
-          "date": "2026-05-16",
-          "title": "Nectar Social が AI マーケティング プラットフォームを拡大するために Menlo Ventures 主導のシリーズ A で 3,000 万ドルを調達"
+          "date": "2026-05-17",
+          "title": "LiveRamp が 2026 年度第 4 四半期の業績を発表"
         },
         {
-          "date": "2026-05-16",
-          "title": "キャシー・ウッドとロス・ガーバーが同じ10銘柄を取り上げる — ありそうもないポートフォリオのクロスオーバーがここにある"
+          "date": "2026-05-17",
+          "title": "AIと移民規制が初級職の仕事に打撃を与えるにつれ、海外への夢はさらに厳しくなる"
         }
       ]
     },
@@ -51,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$264.14",
-      "change": "-1.15%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$264.86",
+      "change": "+0.27%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-05-15",
-          "title": "XMax Inc. が 2026 年第 1 四半期の財務結果を発表"
+          "date": "2026-05-17",
+          "title": "[SageMaker HyperPod] sample-physical-ai-scaffolding-kit ベースで FSx for Lustre 組み込みの最小クラスタを試してみました"
         },
         {
-          "date": "2026-05-15",
-          "title": "大ヒットIPOを受けてセレブラス株が反落。 "
+          "date": "2026-05-17",
+          "title": "AIの水問題はフェイクだ"
         },
         {
-          "date": "2026-05-15",
-          "title": "AWS パートナーセントラルのエージェントが機会創出を加速するようになりました"
+          "date": "2026-05-17",
+          "title": "イーロン・マスク氏、スペースXが航空会社との「減収協定」を受け入れたと語る―その理由はここにある"
         }
       ]
     },
@@ -76,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$300.23",
-      "change": "+0.68%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$297.84",
+      "change": "-0.80%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-05-16",
-          "title": "AI は製品ではなくテクノロジーです"
+          "date": "2026-05-17",
+          "title": "ThinkPad: IBM の Bento Box から Lenovo の AI ワークステーションまで"
         },
         {
-          "date": "2026-05-16",
-          "title": "北米で最高のモバイルアプリマーケティング代理店"
+          "date": "2026-05-17",
+          "title": "人々はスマートフォンを長時間使用するようになっています（それなりの理由があります）"
         },
         {
-          "date": "2026-05-16",
-          "title": "うさぎ用心棒: 怪盗 '84 #3 プレビュー: バディコップの悪魔強盗"
+          "date": "2026-05-17",
+          "title": "Sony Xperia 1 VIIIが公式、Xiaomi 17 Maxが登場 - 第20週のレビュー"
         }
       ]
     },
@@ -101,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$225.32",
-      "change": "-4.42%",
+      "price": "$222.32",
+      "change": "-1.33%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-05-16",
-          "title": "この米国の新興企業は、自宅の横にデータセンターをホストするためにお金を払いたいと考えており、それはまったく邪魔にならないと言っています"
+          "date": "2026-05-17",
+          "title": "[SageMaker HyperPod] sample-physical-ai-scaffolding-kit ベースで FSx for Lustre 組み込みの最小クラスタを試してみました"
         },
         {
-          "date": "2026-05-16",
-          "title": "「これ以上ポータブルな 16 インチ ゲーム用ラップトップは考えられません」 - MSI の新しい Stealth モデルは、かさばらずにすべてのパワーを備えています"
+          "date": "2026-05-17",
+          "title": "ThinkPad: IBM の Bento Box から Lenovo の AI ワークステーションまで"
         },
         {
-          "date": "2026-05-16",
-          "title": "Cerebras Systems、大ヒット IPO により評価額 600 億ドルを達成"
+          "date": "2026-05-17",
+          "title": "Nvidia は今後 4 四半期で 3,680 億ドルの収益を報告すると予想"
         }
       ]
     },
@@ -126,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$421.92",
-      "change": "+3.05%",
+      "price": "$423.54",
+      "change": "+0.38%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
+          "date": "2026-05-17",
+          "title": "a1identity が PyPI に追加されました"
+        },
+        {
+          "date": "2026-05-17",
+          "title": "ビル・ゲイツ財団、マイクロソフトから完全撤退、最後の32億ドルの株式を売却"
+        },
+        {
           "date": "2026-05-16",
           "title": "azure-dynamic-sessions-code-interpreter が PyPI に追加されました"
-        },
-        {
-          "date": "2026-05-15",
-          "title": "ビル・アックマン氏はAIへの懸念が株価を押し下げていた2月以来、ひそかにマイクロソフトを買収してきた"
-        },
-        {
-          "date": "2026-05-15",
-          "title": "ビル・アックマン氏のパーシング・スクエアがマイクロソフト株を公開、「深く組み込まれた」ソフトウェアを宣伝"
         }
       ]
     }

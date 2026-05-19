@@ -1,28 +1,28 @@
 {
-  "date": "2026-05-18",
+  "date": "2026-05-19",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$396.94",
-      "change": "+0.04%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$387.66",
+      "change": "-2.34%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-05-17",
-          "title": "億万長者チェイス・コールマン率いるタイガー・グローバルが半導体株の急騰に1億8000万ドルを賭ける"
+          "date": "2026-05-18",
+          "title": "Google I/O 入門書: Alphabet の AI ショーケースはウォール街を驚かせるチャンス"
         },
         {
-          "date": "2026-05-17",
-          "title": "ウォーレン・バフェット氏率いるバークシャー・ハサウェイがアルファベット株を3倍以上に増額"
+          "date": "2026-05-18",
+          "title": "NextEra、ドミニオン、AI が米国のエネルギー需要を促進する中、巨大な電力ビジネスを創出"
         },
         {
-          "date": "2026-05-17",
-          "title": "AIと半導体株の今後には何が待ち受けているのでしょうか?"
+          "date": "2026-05-18",
+          "title": "NextEraとDominion Energyが合併して世界最大の電力会社を設立"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$611.21",
-      "change": "-0.49%",
+      "price": "$602.61",
+      "change": "-1.41%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-05-17",
-          "title": "AIの水問題はフェイクだ"
+          "date": "2026-05-18",
+          "title": "Google I/O 入門書: Alphabet の AI ショーケースはウォール街を驚かせるチャンス"
         },
         {
-          "date": "2026-05-17",
-          "title": "LiveRamp が 2026 年度第 4 四半期の業績を発表"
+          "date": "2026-05-18",
+          "title": "歴史のエンシティティフィケーション"
         },
         {
-          "date": "2026-05-17",
-          "title": "AIと移民規制が初級職の仕事に打撃を与えるにつれ、海外への夢はさらに厳しくなる"
+          "date": "2026-05-18",
+          "title": "Fiber Connect 2026 は「思考する経済」のビジョンとともに開幕"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$264.86",
-      "change": "+0.27%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$259.34",
+      "change": "-2.08%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-05-17",
-          "title": "[SageMaker HyperPod] sample-physical-ai-scaffolding-kit ベースで FSx for Lustre 組み込みの最小クラスタを試してみました"
+          "date": "2026-05-18",
+          "title": "自宅やオフィス用に購入することはできませんが、AWS は Apple が最も望んでいた M3 Ultra Mac を多数購入しました"
         },
         {
-          "date": "2026-05-17",
-          "title": "AIの水問題はフェイクだ"
+          "date": "2026-05-18",
+          "title": "インテルのオープンソース プロジェクトが正式に廃止: BigDL タイム シリーズ ツールキットなど"
         },
         {
-          "date": "2026-05-17",
-          "title": "イーロン・マスク氏、スペースXが航空会社との「減収協定」を受け入れたと語る―その理由はここにある"
+          "date": "2026-05-18",
+          "title": "AWS の責任者、AI によるジョブの消去という概念を否定"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$297.84",
-      "change": "-0.80%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$298.97",
+      "change": "+0.38%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-05-17",
-          "title": "ThinkPad: IBM の Bento Box から Lenovo の AI ワークステーションまで"
+          "date": "2026-05-18",
+          "title": "Apple、iOS 27でAI機能を強化"
         },
         {
-          "date": "2026-05-17",
-          "title": "人々はスマートフォンを長時間使用するようになっています（それなりの理由があります）"
+          "date": "2026-05-18",
+          "title": "自宅やオフィス用に購入することはできませんが、AWS は Apple が最も望んでいた M3 Ultra Mac を多数購入しました"
         },
         {
-          "date": "2026-05-17",
-          "title": "Sony Xperia 1 VIIIが公式、Xiaomi 17 Maxが登場 - 第20週のレビュー"
+          "date": "2026-05-18",
+          "title": "Apple、WWDC 2026 の公式スケジュールを発表"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$222.32",
-      "change": "-1.33%",
+      "price": "$220.61",
+      "change": "-0.77%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-05-17",
-          "title": "[SageMaker HyperPod] sample-physical-ai-scaffolding-kit ベースで FSx for Lustre 組み込みの最小クラスタを試してみました"
+          "date": "2026-05-18",
+          "title": "HN を表示: FlashAttendant-2 をゼロからキュートで表示"
         },
         {
-          "date": "2026-05-17",
-          "title": "ThinkPad: IBM の Bento Box から Lenovo の AI ワークステーションまで"
+          "date": "2026-05-18",
+          "title": "デルは、Nvidia を搭載した AI サーバー用に 5,000 台のクライアントを確保"
         },
         {
-          "date": "2026-05-17",
-          "title": "Nvidia は今後 4 四半期で 3,680 億ドルの収益を報告すると予想"
+          "date": "2026-05-18",
+          "title": "Vera 到着: エージェント向けに構築された NVIDIA 初の CPU がトップ AI ラボに導入"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$423.54",
-      "change": "+0.38%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$417.42",
+      "change": "-1.44%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-05-17",
-          "title": "a1identity が PyPI に追加されました"
+          "date": "2026-05-18",
+          "title": "Google I/O 入門書: Alphabet の AI ショーケースはウォール街を驚かせるチャンス"
         },
         {
-          "date": "2026-05-17",
-          "title": "ビル・ゲイツ財団、マイクロソフトから完全撤退、最後の32億ドルの株式を売却"
+          "date": "2026-05-18",
+          "title": "Discovery Bank が AI によってアプリのエンゲージメントがどのように変わるかを示す"
         },
         {
-          "date": "2026-05-16",
-          "title": "azure-dynamic-sessions-code-interpreter が PyPI に追加されました"
+          "date": "2026-05-18",
+          "title": "Microsoft Copilot Studio はコンピュータを使用するエージェントを企業に導入します"
         }
       ]
     }

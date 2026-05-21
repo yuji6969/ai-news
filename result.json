@@ -1,28 +1,28 @@
 {
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$388.91",
-      "change": "+0.32%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$387.66",
+      "change": "-0.32%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-05-19",
-          "title": "Google の I/O カンファレンスは、良くも悪くも同社が AI のためにどのように完全に再構築されているかを示しました"
+          "date": "2026-05-20",
+          "title": "Anthropic は、6 月四半期の収益が 130% 増加して 109 億ドルになると予想しています"
         },
         {
-          "date": "2026-05-19",
-          "title": "GoogleとBlackstoneがAIインフラ合弁会社を設立"
+          "date": "2026-05-20",
+          "title": "Nvidia、予測に対する反応は冷淡、投資家の報酬は増額"
         },
         {
-          "date": "2026-05-19",
-          "title": "Google、間もなく登場するパーソナル AI アシスタントなど、多数の AI の進歩を発表"
+          "date": "2026-05-20",
+          "title": "Google、新しい 100 ドルの AI Ultra プランを開始、I/O 2026 で最高価格を 200 ドルに値下げ"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$605.06",
-      "change": "+0.41%",
+      "price": "$607.38",
+      "change": "+0.38%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-05-19",
-          "title": "今日の株式市場: Nvidia 収益へのカウントダウンで S&P 500、ナスダックが上昇"
+          "date": "2026-05-20",
+          "title": "AI: 人工知能支出ブームにより、Nvidia が四半期売上高 1,360 億ドルを記録"
         },
         {
-          "date": "2026-05-19",
-          "title": "今日の株式市場: 原油価格下落、債券下落の緩和を受けてダウ、S&P 500、ナスダックは上昇"
+          "date": "2026-05-20",
+          "title": "混乱の世界への投資"
         },
         {
-          "date": "2026-05-19",
-          "title": "情報筋によると、Meta が 10% を解雇すると、7,000 人の従業員が AI の役割に異動する予定"
+          "date": "2026-05-20",
+          "title": "Nvidia changes revenue reporting to focus on data centers and edge computing"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$265.01",
-      "change": "+2.19%",
+      "price": "$268.46",
+      "change": "+1.30%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-05-19",
-          "title": "AWS DevOps Agent を使用して Datadog と Elasticsearch 全体の根本原因分析を自動化する"
+          "date": "2026-05-20",
+          "title": "Nvidia は、データセンターとエッジ コンピューティングに重点を置くために収益報告を変更します。"
         },
         {
-          "date": "2026-05-19",
-          "title": "CIRT の洞察: AWS Organizations からの不正なアカウント削除を防ぐ方法"
+          "date": "2026-05-20",
+          "title": "Amazon Bedrock AgentCore のポリシーがエージェントワークフローの保護に Cedar を選択した理由"
         },
         {
-          "date": "2026-05-19",
-          "title": "Service Stream はコンピューター ビジョンを使用して現場作業をチェックしています"
+          "date": "2026-05-20",
+          "title": "LayerX Security が AWS Security Hub の新しい拡張プランと統合"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$302.25",
-      "change": "+1.10%",
+      "price": "$304.99",
+      "change": "+0.91%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-05-19",
-          "title": "Show HN: AI コーディング エージェントを使用して 100% ネイティブ macOS Markdown ビューアを構築しました"
+          "date": "2026-05-20",
+          "title": "Apple、AIを活用したアクセシビリティ機能と視線制御の車椅子機能を発表 - 9to5Mac"
         },
         {
-          "date": "2026-05-19",
-          "title": "Google I/O 2026 に対応します"
+          "date": "2026-05-20",
+          "title": "月額料金ゼロのスマートロック5選"
         },
         {
-          "date": "2026-05-19",
-          "title": "Google初のAIスマートグラス、iPhone対応で今秋発売"
+          "date": "2026-05-20",
+          "title": "「すべての病気を解決する」とあなたは言いますか？"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$223.47",
-      "change": "+1.30%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$219.51",
+      "change": "-1.77%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-05-19",
-          "title": "Dell Technologies World 2026 での Michael Dell の基調講演から得た 5 つのポイント"
+          "date": "2026-05-20",
+          "title": "Nvidia、2026 年に H100 のレンタル価格を 20% 値上げ"
         },
         {
-          "date": "2026-05-19",
-          "title": "バーンスタイン氏、ビットコインマイナーはAIインフラストラクチャー競争において有力なブローカーとして浮上する"
+          "date": "2026-05-20",
+          "title": "Nvidia CEO の Huang 氏、エージェント AI は真の価値を生み出し、業界全体で急速に拡大していると語る"
         },
         {
-          "date": "2026-05-19",
-          "title": "AWS オブザーバビリティ ICYMI: 2026 年 1 月～5 月"
+          "date": "2026-05-20",
+          "title": "Nvidia、好調なビジネスの勢いを受けて投資家向けに配当を 150% 増額"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$421.06",
-      "change": "+0.87%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$419.09",
+      "change": "-0.47%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-05-19",
-          "title": "プロが使用する Microsoft 開発ツール + 15 のコーディング コースを 50 ドル (メーカー希望小売価格 2,000 ドル) で所有できます。"
+          "date": "2026-05-20",
+          "title": "エージェント フレームワーク アプリキットが PyPI に追加されました"
         },
         {
-          "date": "2026-05-19",
-          "title": "AIは高価すぎる"
+          "date": "2026-05-20",
+          "title": "マイクロソフトのXbox CEO、アシャ・シャルマ氏が戦略担当として「広く尊敬されている」ゲーム業界アナリストを雇用 - この動きは「Xboxの将来に向けた位置付け」に役立つ"
         },
         {
-          "date": "2026-05-19",
-          "title": "AI競争と広告収入への懸念が高まる中、アルファベット株は1.8％下落して386ドルに"
+          "date": "2026-05-20",
+          "title": "Google、新しい 100 ドルの AI Ultra プランを開始、I/O 2026 で最高価格を 200 ドルに値下げ"
         }
       ]
     }

@@ -1,28 +1,28 @@
 {
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$387.66",
-      "change": "-0.32%",
+      "price": "$382.97",
+      "change": "-1.21%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-05-20",
-          "title": "Anthropic は、6 月四半期の収益が 130% 増加して 109 億ドルになると予想しています"
+          "date": "2026-05-21",
+          "title": "Google の Gemini Spark AI エージェントがゲームチェンジャーになり得る理由"
         },
         {
-          "date": "2026-05-20",
-          "title": "Nvidia、予測に対する反応は冷淡、投資家の報酬は増額"
+          "date": "2026-05-21",
+          "title": "メタレイオフ後、ニューサムは「労働者と雇用を守る」ために AI 命令に署名"
         },
         {
-          "date": "2026-05-20",
-          "title": "Google、新しい 100 ドルの AI Ultra プランを開始、I/O 2026 で最高価格を 200 ドルに値下げ"
+          "date": "2026-05-21",
+          "title": "「低コストのアジア人材」：米国は外国人労働者が米国の仕事を奪うのをどのように支援しているか"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$607.38",
-      "change": "+0.38%",
+      "price": "$610.26",
+      "change": "+0.47%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-05-20",
-          "title": "AI: 人工知能支出ブームにより、Nvidia が四半期売上高 1,360 億ドルを記録"
+          "date": "2026-05-21",
+          "title": "ロー・カンナ氏、Z世代がAIにブーイングをしたのは「無知な」ブーマー世代のせい：彼らは「壊れた経済」を引き渡した"
         },
         {
-          "date": "2026-05-20",
-          "title": "混乱の世界への投資"
+          "date": "2026-05-21",
+          "title": "エネルギーとインフラストラクチャを含む AI 取引で資金が 2 倍になり、Nvidia を上回る"
         },
         {
-          "date": "2026-05-20",
-          "title": "Nvidia changes revenue reporting to focus on data centers and edge computing"
+          "date": "2026-05-21",
+          "title": "AI は高価になってきていますが、救済策は近づいています - ただあなたのためではありません"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$268.46",
-      "change": "+1.30%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$266.32",
+      "change": "-0.80%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-05-20",
-          "title": "Nvidia は、データセンターとエッジ コンピューティングに重点を置くために収益報告を変更します。"
+          "date": "2026-05-21",
+          "title": "Amazon Nova Act が HIPAA の対象になりました"
         },
         {
-          "date": "2026-05-20",
-          "title": "Amazon Bedrock AgentCore のポリシーがエージェントワークフローの保護に Cedar を選択した理由"
+          "date": "2026-05-21",
+          "title": "Amazon SageMaker Unified Studio CI/CD CLI を使用してデータと AI アプリケーションのデプロイを自動化する"
         },
         {
-          "date": "2026-05-20",
-          "title": "LayerX Security が AWS Security Hub の新しい拡張プランと統合"
+          "date": "2026-05-21",
+          "title": "AI エージェントによるインテリジェントな放射線ワークフローの最適化"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$304.99",
-      "change": "+0.91%",
+      "price": "$308.82",
+      "change": "+1.26%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-05-20",
-          "title": "Apple、AIを活用したアクセシビリティ機能と視線制御の車椅子機能を発表 - 9to5Mac"
+          "date": "2026-05-21",
+          "title": "Android XR は自動空間化、ウィンドウの壁の固定、ハンド オクルージョンを実現"
         },
         {
-          "date": "2026-05-20",
-          "title": "月額料金ゼロのスマートロック5選"
+          "date": "2026-05-21",
+          "title": "Anker の新しいイヤホンは、これまで聞いた中で最高の通話品質を備えています"
         },
         {
-          "date": "2026-05-20",
-          "title": "「すべての病気を解決する」とあなたは言いますか？"
+          "date": "2026-05-21",
+          "title": "戦没将兵追悼記念日に先立ち、わずか 510 ドルでプレミアム Intel Core i9 ラップトップを手に入れましょう。Hasee X5 に搭載された CPU は、MacBook Pro の Apple M5 にほぼ匹敵します。"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$219.51",
-      "change": "-1.77%",
+      "price": "$215.33",
+      "change": "-1.90%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-05-20",
-          "title": "Nvidia、2026 年に H100 のレンタル価格を 20% 値上げ"
+          "date": "2026-05-21",
+          "title": "Nvidia、記録的な収益816億ドルを報告、バンク・オブ・アメリカが目標株価を350ドルに引き上げ"
         },
         {
-          "date": "2026-05-20",
-          "title": "Nvidia CEO の Huang 氏、エージェント AI は真の価値を生み出し、業界全体で急速に拡大していると語る"
+          "date": "2026-05-21",
+          "title": "AIが格安スマホを滅ぼす"
         },
         {
-          "date": "2026-05-20",
-          "title": "Nvidia、好調なビジネスの勢いを受けて投資家向けに配当を 150% 増額"
+          "date": "2026-05-21",
+          "title": "WhiteFiber、投資グレードのテクノロジー顧客と総額 1 億 6,000 万ドルを超える AI コンピューティング契約を締結"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$419.09",
-      "change": "-0.47%",
+      "price": "$418.57",
+      "change": "-0.12%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-05-20",
-          "title": "エージェント フレームワーク アプリキットが PyPI に追加されました"
+          "date": "2026-05-21",
+          "title": "Nvidia の収益から得た 5 つのポイントと、それらが AI 業界にとって何を意味するか"
         },
         {
-          "date": "2026-05-20",
-          "title": "マイクロソフトのXbox CEO、アシャ・シャルマ氏が戦略担当として「広く尊敬されている」ゲーム業界アナリストを雇用 - この動きは「Xboxの将来に向けた位置付け」に役立つ"
+          "date": "2026-05-21",
+          "title": "「私たちの仕事はビジネスを好転させることです」: 新しいXboxの最高戦略責任者は、参加は「魅力的だった」と述べ、彼の目標は「名高いフランチャイズの復活」であると語った"
         },
         {
-          "date": "2026-05-20",
-          "title": "Google、新しい 100 ドルの AI Ultra プランを開始、I/O 2026 で最高価格を 200 ドルに値下げ"
+          "date": "2026-05-21",
+          "title": "Windows Weekly 984: 娯楽目的のみ"
         }
       ]
     }

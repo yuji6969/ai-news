@@ -1,28 +1,24 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-26",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$382.97",
-      "change": "-1.21%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$388.88",
+      "change": "+1.54%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-05-23",
-          "title": "歴史家のヘザー・コックス・リチャードソン氏は、脅迫を受けた後、午前3時に生放送をしなかった。"
+          "date": "2026-05-25",
+          "title": "億万長者の投資家ドーア氏、AIを「過小評価されている」と発言"
         },
         {
-          "date": "2026-05-23",
-          "title": "Nuro がロボタクシーの「後発者」であることが利点だと考える理由"
-        },
-        {
-          "date": "2026-05-23",
-          "title": "アルファベット vs マイクロソフト株 2026: クラウド AI の成長がテクノロジー大手の比較を加速"
+          "date": "2026-05-25",
+          "title": "コーヒーブレイク: レジスタンスとリアクション、ローマ法王、年金基金、データセンター、トランプ暗号版"
         }
       ]
     },
@@ -30,24 +26,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$610.26",
-      "change": "+0.47%",
+      "price": "$612.34",
+      "change": "+0.34%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-05-24",
-          "title": "宇宙ロケット、衛星、データセンター、Grok: SpaceX にとって適切な S&P セクター指数は何ですか?"
+          "date": "2026-05-25",
+          "title": "ブランチ・インターナショナル、利益3,000万ドルの中アフリカで人員削減"
         },
         {
-          "date": "2026-05-24",
-          "title": "Apple Watchは発売から11年が経ち、勢いが衰えている。"
+          "date": "2026-05-25",
+          "title": "コーヒーブレイク: レジスタンスとリアクション、ローマ法王、年金基金、データセンター、トランプ暗号版"
         },
         {
-          "date": "2026-05-24",
-          "title": "BofA は、AI を使用すると生産性が 10 倍向上すると述べています。"
+          "date": "2026-05-25",
+          "title": "カナダは世界クラスの AI ストーリーを構築しているが、それを伝えるのが下手"
         }
       ]
     },
@@ -55,24 +51,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$266.32",
-      "change": "-0.80%",
+      "price": "$265.29",
+      "change": "-0.39%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-05-24",
-          "title": "XAI 他のサービスが中止または遅延する中、AI データセンターをより速く、より安くお金を印刷して構築"
+          "date": "2026-05-25",
+          "title": "フロンティア | "
         },
         {
-          "date": "2026-05-24",
-          "title": "アラブ首長国連邦（UAE）にあるアマゾンの2つのデータセンターがドローンによる攻撃を受けた。"
+          "date": "2026-05-25",
+          "title": "リオ ティント、AI を使用した 30 年間の製造システムを文書化"
         },
         {
-          "date": "2026-05-24",
-          "title": "「これは縁故資本主義だ」とベゾス氏がCNBCに生放送で自身の税金法案を擁護して語る"
+          "date": "2026-05-25",
+          "title": "AWS ウィークリーまとめ: イスタンブールの AWS ローカルゾーン、オープンソース ExtendDB、Kiro Web など (2026 年 5 月 25 日)"
         }
       ]
     },
@@ -80,24 +76,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$308.82",
-      "change": "+1.26%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$308.33",
+      "change": "-0.16%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-05-24",
-          "title": "パワー ユーザーが 2026 年に期待する 4 つのインターネット ブラウザ"
+          "date": "2026-05-25",
+          "title": "Apple Intelligenceの画像生成がまもなく「大幅」アップグレードされる：レポート"
         },
         {
-          "date": "2026-05-24",
-          "title": "Best Buy のヘッドホン、ロボ掃除機、テレビなどの戦没将兵追悼記念日週末セール"
+          "date": "2026-05-25",
+          "title": "気を散らすことなくドライブするために使用している、過小評価されている 6 つの Apple CarPlay アプリとウィジェット"
         },
         {
-          "date": "2026-05-24",
-          "title": "watchOS 27 では、Apple Watch に次の新機能が追加されます"
+          "date": "2026-05-25",
+          "title": "Meta が「フォーラム」アプリのような新しい Reddit を開始: 知っておくべきことは次のとおりです"
         }
       ]
     },
@@ -105,24 +101,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$215.33",
-      "change": "-1.90%",
+      "price": "$214.86",
+      "change": "-0.22%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-05-24",
-          "title": "Nvidia の CFO が GPU 需要について明らかにしたことは、すべての AI 投資家が注目すべきことです"
+          "date": "2026-05-25",
+          "title": "Lenovo は、NVIDIA のまだ発表されていない N1X チップを搭載したラップトップで動作していることを誤って確認しました"
         },
         {
-          "date": "2026-05-24",
-          "title": "Computex 2026 での ASUS: ROG Ally 2、SCAR 18、および 6 月 2 日までに注目すべき 5 つのこと"
+          "date": "2026-05-25",
+          "title": "1 つのクエリ、4 つの GPU: ノード間での分散トレーニング ストールのトレース"
         },
         {
-          "date": "2026-05-24",
-          "title": "セミコン依存関係を作成しますか?"
+          "date": "2026-05-25",
+          "title": "カナダは世界クラスの AI ストーリーを構築しているが、それを伝えるのが下手"
         }
       ]
     },
@@ -130,24 +126,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$418.57",
-      "change": "-0.12%",
+      "price": "$416.03",
+      "change": "-0.61%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-05-24",
-          "title": "最新の Microsoft 開発ツールと 15 のコーディング コースを入手 — わずか 50 ドル"
+          "date": "2026-05-25",
+          "title": "⚡ 毎週の要約: Linux の欠陥、Defender 0-Days、ルーター ボットネット、サプライ チェーンの混乱"
         },
         {
-          "date": "2026-05-24",
-          "title": ".NET 8 を使用した AI における RAG および LLM ワークフローを理解する"
+          "date": "2026-05-25",
+          "title": "TeamPCP サプライ チェーン キャンペーン: 2026 年 5 月 24 日までの活動 (5 月 25 日月曜日)"
         },
         {
-          "date": "2026-05-23",
-          "title": "podifyr-ai が PyPI に追加されました"
+          "date": "2026-05-25",
+          "title": "TeamPCP サプライ チェーン キャンペーン: 2026 年 5 月 24 日までの活動 (5 月 25 日月曜日)"
         }
       ]
     }

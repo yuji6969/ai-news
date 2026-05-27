@@ -1,24 +1,28 @@
 {
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$388.88",
-      "change": "+1.54%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$388.83",
+      "change": "-0.01%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-05-25",
-          "title": "億万長者の投資家ドーア氏、AIを「過小評価されている」と発言"
+          "date": "2026-05-26",
+          "title": "マイクロンが 1 兆ドルのクラブに参入する中、他の 9 人のメンバーに対するジム・クレイマーの見解をご覧ください"
         },
         {
-          "date": "2026-05-25",
-          "title": "コーヒーブレイク: レジスタンスとリアクション、ローマ法王、年金基金、データセンター、トランプ暗号版"
+          "date": "2026-05-26",
+          "title": "全体像"
+        },
+        {
+          "date": "2026-05-26",
+          "title": "OpenRouter の評価額が 1 年で 2 倍以上の 13 億ドルに |"
         }
       ]
     },
@@ -26,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$612.34",
-      "change": "+0.34%",
+      "price": "$635.26",
+      "change": "+3.74%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-05-25",
-          "title": "ブランチ・インターナショナル、利益3,000万ドルの中アフリカで人員削減"
+          "date": "2026-05-26",
+          "title": "メタとGoogle AIの安全制御は数分で解除できることがフィナンシャル・タイムズ紙のテストで判明"
         },
         {
-          "date": "2026-05-25",
-          "title": "コーヒーブレイク: レジスタンスとリアクション、ローマ法王、年金基金、データセンター、トランプ暗号版"
+          "date": "2026-05-26",
+          "title": "AI コンテキスト プロファイルを自分で作成しないでください。"
         },
         {
-          "date": "2026-05-25",
-          "title": "カナダは世界クラスの AI ストーリーを構築しているが、それを伝えるのが下手"
+          "date": "2026-05-26",
+          "title": "アプライド マテリアルズ、SCREEN と提携し、EPIC センターに高度なウェーハ洗浄技術を導入"
         }
       ]
     },
@@ -51,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$265.29",
-      "change": "-0.39%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$271.85",
+      "change": "+2.47%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-05-25",
-          "title": "フロンティア | "
+          "date": "2026-05-26",
+          "title": "Amazon EC2 X8i インスタンスが追加のリージョンで利用可能になりました"
         },
         {
-          "date": "2026-05-25",
-          "title": "リオ ティント、AI を使用した 30 年間の製造システムを文書化"
+          "date": "2026-05-26",
+          "title": "AIは今やNBAのシックスマン"
         },
         {
-          "date": "2026-05-25",
-          "title": "AWS ウィークリーまとめ: イスタンブールの AWS ローカルゾーン、オープンソース ExtendDB、Kiro Web など (2026 年 5 月 25 日)"
+          "date": "2026-05-26",
+          "title": "データ境界ドリフトを本番環境に到達する前に捕捉"
         }
       ]
     },
@@ -76,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$308.33",
-      "change": "-0.16%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$310.85",
+      "change": "+0.82%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-05-25",
-          "title": "Apple Intelligenceの画像生成がまもなく「大幅」アップグレードされる：レポート"
+          "date": "2026-05-26",
+          "title": "iOS 27 Siriの再デザインはAppleのWWDCアートに合わせてダークカラースキームを使用"
         },
         {
-          "date": "2026-05-25",
-          "title": "気を散らすことなくドライブするために使用している、過小評価されている 6 つの Apple CarPlay アプリとウィジェット"
+          "date": "2026-05-26",
+          "title": "バンク・オブ・アメリカ、アップルの目標株価を380ドルに引き上げ"
         },
         {
-          "date": "2026-05-25",
-          "title": "Meta が「フォーラム」アプリのような新しい Reddit を開始: 知っておくべきことは次のとおりです"
+          "date": "2026-05-26",
+          "title": "私のお気に入りの Mac アプリ スイッチャーが生産性を大幅にアップグレードしました"
         }
       ]
     },
@@ -101,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$214.86",
-      "change": "-0.22%",
+      "price": "$212.60",
+      "change": "-1.05%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-05-25",
-          "title": "Lenovo は、NVIDIA のまだ発表されていない N1X チップを搭載したラップトップで動作していることを誤って確認しました"
+          "date": "2026-05-26",
+          "title": "IREN、ブラックウェルのシステムをデルから約16億ドルで買収へ"
         },
         {
-          "date": "2026-05-25",
-          "title": "1 つのクエリ、4 つの GPU: ノード間での分散トレーニング ストールのトレース"
+          "date": "2026-05-26",
+          "title": "Nvidia CEO ジェンセン・ファンの今日の言葉: 「ソフトウェアは世界を飲み込んでいますが、AI はソフトウェアを食べようとしています」 — ソフトウェアの差し迫った死を予言する予言的な発言"
         },
         {
-          "date": "2026-05-25",
-          "title": "カナダは世界クラスの AI ストーリーを構築しているが、それを伝えるのが下手"
+          "date": "2026-05-26",
+          "title": "NVIDIA CompileIQ 自動チューニングでカーネルのパフォーマンスをさらに引き出す"
         }
       ]
     },
@@ -126,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$416.03",
-      "change": "-0.61%",
+      "price": "$412.67",
+      "change": "-0.81%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-05-25",
-          "title": "⚡ 毎週の要約: Linux の欠陥、Defender 0-Days、ルーター ボットネット、サプライ チェーンの混乱"
+          "date": "2026-05-26",
+          "title": "マイクロソフトはマグニフィセント7から追い出されるべきだ"
         },
         {
-          "date": "2026-05-25",
-          "title": "TeamPCP サプライ チェーン キャンペーン: 2026 年 5 月 24 日までの活動 (5 月 25 日月曜日)"
+          "date": "2026-05-26",
+          "title": "AI を活用したコンタクト センター向け CX Assurance の調査研究 2026: エージェント型 AI の台頭により、静的監視から継続的監視への移行がどのように必要になるか"
         },
         {
-          "date": "2026-05-25",
-          "title": "TeamPCP サプライ チェーン キャンペーン: 2026 年 5 月 24 日までの活動 (5 月 25 日月曜日)"
+          "date": "2026-05-26",
+          "title": "プレゼンテーション: GPU ワークロードのリアルタイムおよびバッチ処理"
         }
       ]
     }

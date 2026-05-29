@@ -1,28 +1,28 @@
 {
-  "date": "2026-05-28",
+  "date": "2026-05-29",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$390.13",
-      "change": "+0.33%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$380.34",
+      "change": "-2.51%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-05-27",
-          "title": "Googleの新しいアプリアイコンがミーム扱いされる"
+          "date": "2026-05-28",
+          "title": "社会的アニムス"
         },
         {
-          "date": "2026-05-27",
-          "title": "シノプシス、エリオットと和解、ジェシー・コーン氏が取締役に就任予定"
+          "date": "2026-05-28",
+          "title": "私は上院議員の息子ではない：CLJAは上院退役軍人委員会（退役軍人ファースト・フォー・アメリカ）へのプールエージェントの公開書簡を主張"
         },
         {
-          "date": "2026-05-27",
-          "title": "予測: これら 5 社の価値は 2030 年までに 10 兆ドル以上になる"
+          "date": "2026-05-28",
+          "title": "レアアースレースに新たな最有力候補が登場"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$635.29",
-      "change": "+0.00%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$632.51",
+      "change": "-0.44%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-05-27",
-          "title": "CDS活動が記録的なレベルに急増する中、ウォール街はビッグテックに対するヘッジを行っている"
+          "date": "2026-05-28",
+          "title": "トークンマックスシングは終わりました。"
         },
         {
-          "date": "2026-05-27",
-          "title": "CDS活動が125億ドルに急増する中、ウォール街はビッグテックに対するヘッジを行う"
+          "date": "2026-05-28",
+          "title": "最初に成功した AI ウェアラブルはあなたの友達ではない"
         },
         {
-          "date": "2026-05-27",
-          "title": "Snowflake、AWS Graviton CPU と AI アクセラレータで 60 億ドルを消費"
+          "date": "2026-05-28",
+          "title": "OpenAIが1兆ドル規模のIPOを申請してから4日後、サム・アルトマン氏は、雇用の黙示録については「かなり間違っている」が、その他のことについては「ほぼ正しい」と述べた"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$274.00",
-      "change": "+0.79%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$270.64",
+      "change": "-1.23%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-05-27",
-          "title": "Amazon Bedrock がサービス クォータのサポートを拡張"
+          "date": "2026-05-28",
+          "title": "Amazon SageMaker AI でアゼルバイジャン語モデルをトレーニングする"
         },
         {
-          "date": "2026-05-27",
-          "title": "Amazon Bedrock Data Automation を使用して財務書類を処理する"
+          "date": "2026-05-28",
+          "title": "インターネットはマシンのために再構築されています |"
         },
         {
-          "date": "2026-05-27",
-          "title": "Snowflake、AWS Graviton CPU と AI アクセラレータで 60 億ドルを消費"
+          "date": "2026-05-28",
+          "title": "Amazon SageMaker AI MLflow アプリが埋め込まれたカスタムポータルを構築する"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$312.51",
-      "change": "+0.53%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$312.06",
+      "change": "-0.14%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-05-27",
-          "title": "2026 年のベスト SEO API: 実際に使用すべきものはどれですか?"
+          "date": "2026-05-28",
+          "title": "Apple、6月のカンファレンスでSiriのAIの全面見直しを発表"
         },
         {
-          "date": "2026-05-27",
-          "title": "WhatsApp は間もなく、iPhone ユーザーが Meta AI を使ってドキュメントを簡単に共有できるようになります"
+          "date": "2026-05-28",
+          "title": "Apple WWDC 2026: 今年の基調講演に期待することと視聴方法"
         },
         {
-          "date": "2026-05-27",
-          "title": "Google、Gemini for Home に AI カメラ自動化によるビジュアルのスーパーパワーを提供"
+          "date": "2026-05-28",
+          "title": "Apple、新しいSiriを中心にiPhoneインターフェースを再設計：iOS 27リーク"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$214.25",
-      "change": "+0.78%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$211.14",
+      "change": "-1.45%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-05-27",
-          "title": "NVIDIA Dynamo スナップショット: Kubernetes 上の推論ワークロードの高速スタートアップ"
+          "date": "2026-05-28",
+          "title": "Amazon SageMaker AI でアゼルバイジャン語モデルをトレーニングする"
         },
         {
-          "date": "2026-05-27",
-          "title": "SageMaker Notebook インスタンスが P5.4xl インスタンス タイプをサポートするようになりました"
+          "date": "2026-05-28",
+          "title": "16 インチ OLED ディスプレイを搭載した強力な Lenovo Legion Pro 7 RTX 5080 ゲーミング ノートパソコンが 1,000 ドル割引"
         },
         {
-          "date": "2026-05-27",
-          "title": "SageMaker Notebook インスタンスが P5.4xl インスタンス タイプをサポートするようになりました"
+          "date": "2026-05-28",
+          "title": "金や石油と同じように、間もなく AI トークン先物を取引できるようになる |"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$426.99",
-      "change": "+3.47%",
+      "price": "$450.24",
+      "change": "+5.45%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-05-27",
-          "title": "AIバブル"
+          "date": "2026-05-28",
+          "title": "430億ドルのマイクロソフト株をここで買う理由"
         },
         {
-          "date": "2026-05-27",
-          "title": "2026 年にオラクル株を買うか売るか?"
+          "date": "2026-05-28",
+          "title": "Microsoft の Surface PC の次は何でしょうか?"
         },
         {
-          "date": "2026-05-27",
-          "title": "AlpineGate AI テクノロジー製品管理評価レポート"
+          "date": "2026-05-28",
+          "title": "Microsoft Visual Studio Professional 2026 + 15 コーディング コースがわずか 50 ドル"
         }
       ]
     }

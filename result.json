@@ -1,28 +1,28 @@
 {
-  "date": "2026-05-31",
+  "date": "2026-06-01",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$380.34",
-      "change": "-2.51%",
+      "price": "$376.37",
+      "change": "-1.04%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-05-30",
-          "title": "マイクロン、サムスン、SK ハイニックス、TSMC、エヌビディア: ビットとバイトが株式市場に大きな影響を与えるとき"
+          "date": "2026-05-31",
+          "title": "量子コンピューティングは商業化の可能性に達し、これら 3 つの ETF はコンピューティングの移行の頂点に位置します"
         },
         {
-          "date": "2026-05-30",
-          "title": "メタ vs Google 株 2026: AI 時代にどちらのテック巨人がより良い買い物か?"
+          "date": "2026-05-31",
+          "title": "「狂気のバブル、1999 年よりも大きい」：Zoho 創設者スリダール・ヴェンブ氏、AI の将来について恐ろしい警告"
         },
         {
-          "date": "2026-05-30",
-          "title": "CEOの仕事は簡単です。 "
+          "date": "2026-05-31",
+          "title": "イーロン・マスクがスペースXとテスラを合併すれば、利益ゼロで3兆4000億ドルの巨大企業を生み出すことになる"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$632.51",
-      "change": "-0.44%",
+      "price": "$600.47",
+      "change": "-5.07%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-05-30",
-          "title": "キャシー・ウッド、650万ドルの巨大ハイテク株を購入"
+          "date": "2026-05-31",
+          "title": "AIが仕事を代替するのか？ "
         },
         {
-          "date": "2026-05-30",
-          "title": "Meta Platforms, Inc. (META) はプラットフォーム上の金融詐欺で問題を抱えていますか?"
+          "date": "2026-05-31",
+          "title": "チップ株の上昇が歴史的になるにつれ、AIバブル議論が現実味を帯びる"
         },
         {
-          "date": "2026-05-30",
-          "title": "マイクロン、サムスン、SK ハイニックス、TSMC、エヌビディア: ビットとバイトが株式市場に大きな影響を与えるとき"
+          "date": "2026-05-31",
+          "title": "ユーザーを「経済的破滅」に陥れたFacebookとInstagram上の詐欺広告をめぐって、Metaは数十億ポンド規模の英国団体訴訟に直面している"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$270.64",
-      "change": "-1.23%",
+      "price": "$261.26",
+      "change": "-3.47%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-05-30",
-          "title": "キャシー・ウッド、650万ドルの巨大ハイテク株を購入"
+          "date": "2026-05-31",
+          "title": "Team Global Express は AI 活用のためのロジスティクスを整備しています"
         },
         {
-          "date": "2026-05-30",
-          "title": "長期投資家に数千ドルの損失をもたらすAMZYの月収の罠"
+          "date": "2026-05-31",
+          "title": "Team Global Express は AI 活用のためのロジスティクスを整備しています"
         },
         {
-          "date": "2026-05-30",
-          "title": "人間、AI、そして「数字」の問題"
+          "date": "2026-05-31",
+          "title": "AI の需要が高まる中、CBA は 10 年以上のデータをクラウドに送信"
         }
       ]
     },
@@ -80,20 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$312.06",
-      "change": "-0.14%",
+      "price": "$306.31",
+      "change": "-1.84%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-05-30",
-          "title": "サムスン、「アリラン」ワールドツアーに向けて没入型BTSファンアクティベーションを設定"
+          "date": "2026-05-31",
+          "title": "Security Bite 第 1 四半期レビュー: 2026 年 5 月"
         },
         {
-          "date": "2026-05-30",
-          "title": "OPPO、AI を活用した生産性ツールとクロスプラットフォーム機能を備えた ColorOS 16 をインドに導入"
+          "date": "2026-05-31",
+          "title": "Linux アプリのリリースまとめ (2026 年 5 月)"
+        },
+        {
+          "date": "2026-05-31",
+          "title": "TWiT 1086: ビーグルの大移動 - 教皇レオ14世の最初の回勅とフェラーリの最初のEV"
         }
       ]
     },
@@ -101,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$211.14",
-      "change": "-1.45%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$224.36",
+      "change": "+6.26%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-05-30",
-          "title": "HN の表示: 解凍 – 実行中の LLM の Git ブランチ (エージェントのフォーク、プリフィルのスキップ)"
+          "date": "2026-05-31",
+          "title": "ロケットの爆発とハードウェアの価格の高騰により、ひどい新常態が生まれる"
         },
         {
-          "date": "2026-05-30",
-          "title": "Computex 2026 は、NVIDIA の今年最大のイベントになります。"
+          "date": "2026-05-31",
+          "title": "米国、中国企業への先進AIチップ販売阻止に動く"
         },
         {
-          "date": "2026-05-30",
-          "title": "WhiteFiber, Inc. (WYFI): レオポルド・アッシェンブレナー氏が新たな賭けを明らかに"
+          "date": "2026-05-31",
+          "title": "Nvidia と Microsoft が Windows PC 市場に挑戦するために N1X Arm プロセッサをからかう"
         }
       ]
     },
@@ -126,13 +130,17 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$450.24",
-      "change": "+5.45%",
+      "price": "$460.52",
+      "change": "+2.28%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
+        {
+          "date": "2026-05-31",
+          "title": "Microsoft Build 2026: 6 月 2 日の基調講演から期待されること"
+        },
         {
           "date": "2026-05-30",
           "title": "Parloa は、その 3 億 5,000 万ドルの軍資金を SAP、Microsoft、OpenAI にまたがるパートナーシップ Web に変えます"
@@ -140,10 +148,6 @@
         {
           "date": "2026-05-30",
           "title": "人間、AI、そして「数字」の問題"
-        },
-        {
-          "date": "2026-05-29",
-          "title": "Show HN: ソースバイアスメーターを備えたシンプルなニュースアグリゲーター"
         }
       ]
     }

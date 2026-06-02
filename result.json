@@ -1,28 +1,28 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$376.37",
-      "change": "-1.04%",
+      "price": "$361.85",
+      "change": "-3.86%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-05-31",
-          "title": "量子コンピューティングは商業化の可能性に達し、これら 3 つの ETF はコンピューティングの移行の頂点に位置します"
+          "date": "2026-06-01",
+          "title": "アルファベット、進行中のAIインフラ構築に資金を提供するために800億ドルの株式を売却する計画を発表"
         },
         {
-          "date": "2026-05-31",
-          "title": "「狂気のバブル、1999 年よりも大きい」：Zoho 創設者スリダール・ヴェンブ氏、AI の将来について恐ろしい警告"
+          "date": "2026-06-01",
+          "title": "アルファベットは AI 構築のために 800 億ドルを調達する計画 |"
         },
         {
-          "date": "2026-05-31",
-          "title": "イーロン・マスクがスペースXとテスラを合併すれば、利益ゼロで3兆4000億ドルの巨大企業を生み出すことになる"
+          "date": "2026-06-01",
+          "title": "バークシャー・ハサウェイ、アルファベットに100億ドル追加投資、AIへの賭けを深める - CNBC"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$600.47",
-      "change": "-5.07%",
+      "price": "$597.63",
+      "change": "-0.47%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-05-31",
-          "title": "AIが仕事を代替するのか？ "
+          "date": "2026-06-01",
+          "title": "ビッグテックの AI 資金不足がウォール街に訪れるなか、アンスロピックは IPO に注目"
         },
         {
-          "date": "2026-05-31",
-          "title": "チップ株の上昇が歴史的になるにつれ、AIバブル議論が現実味を帯びる"
+          "date": "2026-06-01",
+          "title": "Googleの親会社がAI拡張のために800億ドルの資金調達を計画し、Alphabetの株価が急騰"
         },
         {
-          "date": "2026-05-31",
-          "title": "ユーザーを「経済的破滅」に陥れたFacebookとInstagram上の詐欺広告をめぐって、Metaは数十億ポンド規模の英国団体訴訟に直面している"
+          "date": "2026-06-01",
+          "title": "ベンチャーキャピタルのビル・ガーリー氏、アンスロピックは「人間より優れた種を作る」ことで「神を産んだ」と語る"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$261.26",
-      "change": "-3.47%",
+      "price": "$256.52",
+      "change": "-1.81%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-05-31",
-          "title": "Team Global Express は AI 活用のためのロジスティクスを整備しています"
+          "date": "2026-06-01",
+          "title": "DeepSeekの価格設定変更により、AIハードウェア市場全体に価値が再分配される可能性がある"
         },
         {
-          "date": "2026-05-31",
-          "title": "Team Global Express は AI 活用のためのロジスティクスを整備しています"
+          "date": "2026-06-01",
+          "title": "OpenAI フロンティアモデルと Codex が Amazon Bedrock に登場"
         },
         {
-          "date": "2026-05-31",
-          "title": "AI の需要が高まる中、CBA は 10 年以上のデータをクラウドに送信"
+          "date": "2026-06-01",
+          "title": "Hyland と AWS は、コンテンツを活用したエージェント型エンタープライズをアジア太平洋にもたらし、データが存在する場所で顧客に対応します"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$306.31",
-      "change": "-1.84%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$315.20",
+      "change": "+2.90%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-05-31",
-          "title": "Security Bite 第 1 四半期レビュー: 2026 年 5 月"
+          "date": "2026-06-01",
+          "title": "ソーシャルメディアの年齢認証、無料インターネットの終わりの始まり?"
         },
         {
-          "date": "2026-05-31",
-          "title": "Linux アプリのリリースまとめ (2026 年 5 月)"
+          "date": "2026-06-01",
+          "title": "#WWDC26 のハッシュ文字が来週の基調講演に先立って X で公開されるようになりました"
         },
         {
-          "date": "2026-05-31",
-          "title": "TWiT 1086: ビーグルの大移動 - 教皇レオ14世の最初の回勅とフェラーリの最初のEV"
+          "date": "2026-06-01",
+          "title": "Amazon のベスト スマート グラス 6 選 (大手ブランドなし) 2026"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$224.36",
-      "change": "+6.26%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$222.82",
+      "change": "-0.69%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-05-31",
-          "title": "ロケットの爆発とハードウェアの価格の高騰により、ひどい新常態が生まれる"
+          "date": "2026-06-01",
+          "title": "NVIDIA JetPack 7.2 のメモリ効率を高めてエージェント対応 AI をエッジに導入"
         },
         {
-          "date": "2026-05-31",
-          "title": "米国、中国企業への先進AIチップ販売阻止に動く"
+          "date": "2026-06-01",
+          "title": "Microsoft、ローカル AI 用の Nvidia RTX Spark を搭載した Surface Laptop Ultra を発表"
         },
         {
-          "date": "2026-05-31",
-          "title": "Nvidia と Microsoft が Windows PC 市場に挑戦するために N1X Arm プロセッサをからかう"
+          "date": "2026-06-01",
+          "title": "Flex が COMPUTEX 2026 で次世代 AI インフラストラクチャ向けのスケーラブルな電源ソリューションを展示"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$460.52",
-      "change": "+2.28%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$441.31",
+      "change": "-4.17%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-05-31",
-          "title": "Microsoft Build 2026: 6 月 2 日の基調講演から期待されること"
+          "date": "2026-06-01",
+          "title": "MicrosoftとGoogleはAIコーディングでは出遅れているが、「絶対的に重要」で成長を競っている"
         },
         {
-          "date": "2026-05-30",
-          "title": "Parloa は、その 3 億 5,000 万ドルの軍資金を SAP、Microsoft、OpenAI にまたがるパートナーシップ Web に変えます"
+          "date": "2026-06-01",
+          "title": "GenAI の実装は魔法ではなく、ライフサイクルです"
         },
         {
-          "date": "2026-05-30",
-          "title": "人間、AI、そして「数字」の問題"
+          "date": "2026-06-01",
+          "title": "Windows on Arm、NVIDIA N1X、RTX Spark が投資家の信頼を高め、Microsoft の株価が上昇"
         }
       ]
     }

@@ -1,28 +1,28 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$372.19",
-      "change": "+3.68%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$368.53",
+      "change": "-0.98%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-06-03",
-          "title": "AIデータセンター開発を指導するワイオミング州大統領令"
+          "date": "2026-06-04",
+          "title": "AI企業はウォール街への大規模なデビューに向けて猛スピードで動いている。"
         },
         {
-          "date": "2026-06-03",
-          "title": "Googleの親会社Alphabet、大規模株式発行でAI資金調達目標を847億5000万ドルに引き上げ"
+          "date": "2026-06-04",
+          "title": "ウォーレン・バフェット氏の後継者グレッグ・エイベル氏がバークシャー・ハサウェイに100億ドルのアルファベット株投資を主導―なぜ今ビッグテックへのシフトが加速しているのか？"
         },
         {
-          "date": "2026-06-03",
-          "title": "解説: Google の AI シフトは集団的な混乱を引き起こしている"
+          "date": "2026-06-04",
+          "title": "AIパワーブームでインフラ投資として天然ガスが復活"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$627.57",
-      "change": "+0.74%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$593.00",
+      "change": "-5.51%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-06-03",
-          "title": "AIデータセンター開発を指導するワイオミング州大統領令"
+          "date": "2026-06-04",
+          "title": "AI企業はウォール街への大規模なデビューに向けて猛スピードで動いている。"
         },
         {
-          "date": "2026-06-03",
-          "title": "Googleの親会社Alphabet、大規模株式発行でAI資金調達目標を847億5000万ドルに引き上げ"
+          "date": "2026-06-04",
+          "title": "開発者は依然としてメタの最新 AI モデルへのアクセスを待っている"
         },
         {
-          "date": "2026-06-03",
-          "title": "メタのメタバースリーダーは4か月前に静かに去った"
+          "date": "2026-06-04",
+          "title": "AIスタートアップのFlourishが、ジェフ・ベゾスの支援を受けて5億ドルを調達したと報じられている"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$253.79",
-      "change": "+1.51%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$246.03",
+      "change": "-3.06%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-06-03",
-          "title": "Amazon Cognito マルチリージョンレプリケーションでアプリケーションの復元力を向上させる"
+          "date": "2026-06-04",
+          "title": "Kiro を使用して自然言語を使用して Amazon Redshift にクエリを実行する"
         },
         {
-          "date": "2026-06-03",
-          "title": "オートデスクはアマゾン ウェブ サービスと戦略的提携契約を締結"
+          "date": "2026-06-04",
+          "title": "人員削減後、Pinterest は Amazon の AI チップに 40 億ドルを投資する計画"
         },
         {
-          "date": "2026-06-03",
-          "title": "Amazon SageMaker Unified Studio でノートブックの実行をスケジュールする"
+          "date": "2026-06-04",
+          "title": "AI 支援による E メール開発のための Amazon SES エージェントスキルの使用を開始する"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$311.23",
-      "change": "+0.31%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$307.34",
+      "change": "-1.25%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-06-03",
-          "title": "iOS 27: 噂されているすべてのアプリ機能"
+          "date": "2026-06-04",
+          "title": "何もない Phone (4a) Pro レビュー"
         },
         {
-          "date": "2026-06-03",
-          "title": "これまでに見つけた 2026 年のプライムデーの最高のハイテクセール: Amazon の究極のサマーセールを早めに購入しましょう"
+          "date": "2026-06-04",
+          "title": "Apple WWDC 2026 は大きなイベントになりつつあります: 私たちが学ぶことを期待しているすべてがここにあります"
         },
         {
-          "date": "2026-06-03",
-          "title": "Soundcore Liberty 5 Proは169ドルで2026年のTWSディール"
+          "date": "2026-06-04",
+          "title": "開発者は依然としてメタの最新 AI モデルへのアクセスを待っている"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$218.66",
-      "change": "+1.82%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$205.10",
+      "change": "-6.20%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-06-03",
-          "title": "Nvidia が RTX Spark を発表、Windows PC での AI 統合を推進"
+          "date": "2026-06-04",
+          "title": "Cisco Live 基調講演から得た 5 つのポイント"
         },
         {
-          "date": "2026-06-03",
-          "title": "Microsoft Build 2026 製品の発表"
+          "date": "2026-06-04",
+          "title": "Intel、Arc GPUはPCハードウェアのロードマップから外れないと主張"
         },
         {
-          "date": "2026-06-03",
-          "title": "AIにはコミュニケーションの問題がある"
+          "date": "2026-06-04",
+          "title": "Nvidia と Microsoft が提携してエージェント AI システムを PC とデータセンターに導入"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$428.05",
-      "change": "+0.17%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$416.67",
+      "change": "-2.66%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-06-03",
-          "title": "Microsoft、新しい推論モデルとエージェントを使用した社内 AI 開発に移行"
+          "date": "2026-06-04",
+          "title": "ラリー・エリソン、孫正義、マイケル・セイラー AI仮想通貨億万長者が2026年の市場でレガシー資産をどのように再形成するのか？"
         },
         {
-          "date": "2026-06-03",
-          "title": "これを Grep してください: Microsoft が (ほとんどの) Linux コマンドを Windows に移植"
+          "date": "2026-06-04",
+          "title": "マイクロソフト (MSFT) は自社開発の AI モデルのスイートを発表する予定"
         },
         {
-          "date": "2026-06-03",
-          "title": "メイヨー クリニックとマイクロソフトがフロンティア医療 AI モデルで提携"
+          "date": "2026-06-04",
+          "title": "9,600億ドル：AI投資を再構築する可能性のあるIPO申請でAnthropicがOpenAIを破る"
         }
       ]
     }

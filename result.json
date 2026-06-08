@@ -1,28 +1,28 @@
 {
-  "date": "2026-06-07",
+  "date": "2026-06-08",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$368.53",
-      "change": "-0.98%",
+      "price": "$363.31",
+      "change": "-1.42%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-06-06",
-          "title": "FRBのメアリー・デイリー氏がAI株投資家に率直なメッセージを送った"
+          "date": "2026-06-07",
+          "title": "スペースXのIPOはまた、投資家がSPCXを買うために株を投げ売りするため、株式市場全体で大きな価格変動を引き起こす大規模な売り出しイベントとなるだろう。"
         },
         {
-          "date": "2026-06-06",
-          "title": "パイパー・サンドラー氏、アルファベット（GOOGL）株でPTを引き上げ"
+          "date": "2026-06-07",
+          "title": "米ドルが17%暴落、6月8日はさらに悪化する可能性も"
         },
         {
-          "date": "2026-06-06",
-          "title": "ジム・クレイマーは「アルファベットは多額の資金を調達できる」と信じている"
+          "date": "2026-06-07",
+          "title": "ビル・マーハーの新しいルール: 子どもたちは AI をどのように「修正」しなければならないか"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$593.00",
-      "change": "-5.51%",
+      "price": "$585.39",
+      "change": "-1.28%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-06-06",
-          "title": "メタプラットフォーム (META): 今買うのに最適な大企業株の 1 つ"
+          "date": "2026-06-07",
+          "title": "CoreWeave, Inc. (CRWV) は今買うのに適した銘柄ですか?"
         },
         {
-          "date": "2026-06-06",
-          "title": "パイパー・サンドラー氏、アルファベット（GOOGL）株でPTを引き上げ"
+          "date": "2026-06-07",
+          "title": "中国がイーロン・マスク氏を破り、世界初の商用脳チップを発売"
         },
         {
-          "date": "2026-06-06",
-          "title": "明らかに：大臣が「中間層の巨大な空洞化」を警告、アイルランドの雇用に対するAIの脅威に対抗する政府の急進的な計画"
+          "date": "2026-06-07",
+          "title": "ビッグテックが資本を求めて競争する中、メタはAIの拡大に資金を提供するために大規模な株式の発行を検討している"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$246.03",
-      "change": "-3.06%",
+      "price": "$245.22",
+      "change": "-0.33%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-06-06",
-          "title": "初心者向けのベスト成長株5選"
+          "date": "2026-06-07",
+          "title": "ログ ファイル分析: AI ボットを追跡し、クロール ギャップを修正 |"
         },
         {
-          "date": "2026-06-05",
-          "title": "F1 の最速の頭脳は人工的に作られた"
+          "date": "2026-06-07",
+          "title": "週の振り返り: Cisco SD-WAN ゼロデイ悪用、パッチ火曜日の予測"
         },
         {
-          "date": "2026-06-05",
-          "title": "歴史によれば、この止められないダウの巨人は今すぐ購入するのが間違いありません"
+          "date": "2026-06-07",
+          "title": "アマゾン、インディアナ州にデータセンター建設計画、エネルギーコストに多額の費用を支払う予定"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$307.34",
-      "change": "-1.25%",
+      "price": "$301.54",
+      "change": "-1.89%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-06-06",
-          "title": "DVDFab 13.0.6.1"
+          "date": "2026-06-07",
+          "title": "ハッカデイ リンク: 2026 年 6 月 7 日"
         },
         {
-          "date": "2026-06-06",
-          "title": "最速のモバイル チップセットのランキング: スマートフォンのプロセッサのパフォーマンスを比較"
+          "date": "2026-06-07",
+          "title": "スティーブ・ジョブズの今日の言葉: 「私にとってコンピューターとは、私たちがこれまでに発明した中で最も注目に値するツールです。それは私たちの精神にとって自転車に相当します。」 - テクノロジーが私たち全員をどのように拡張してきたか"
         },
         {
-          "date": "2026-06-06",
-          "title": "iOS 27 は月曜日に登場: 新機能、互換性など"
+          "date": "2026-06-07",
+          "title": "Apple WWDC ライブ ブログ: iOS 27 から Siri、スマート グラスまで、私たちが期待しているすべて"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$205.10",
-      "change": "-6.20%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$208.64",
+      "change": "+1.73%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-06-06",
-          "title": "VideoForge AI プロ 1.0.3"
+          "date": "2026-06-07",
+          "title": "NAVER、急増する世界的な AI 需要に対応するため、NVIDIA と AI インフラストラクチャを拡張"
         },
         {
-          "date": "2026-06-06",
-          "title": "PyPI に freeride-h が追加されました"
+          "date": "2026-06-07",
+          "title": "SK Telecom と NVIDIA、韓国の AI イノベーションを推進する AI インフラストラクチャを構築"
         },
         {
-          "date": "2026-06-06",
-          "title": "Google が SpaceX に 9 億 2,000 万ドルを支払った裏話は何ですか? "
+          "date": "2026-06-07",
+          "title": "私たちのシステム編集者ははるばる台湾まで飛んだが、それでも AI から逃れられなかった"
         }
       ]
     },
@@ -130,13 +130,17 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$416.67",
-      "change": "-2.66%",
+      "price": "$411.74",
+      "change": "-1.18%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
+        {
+          "date": "2026-06-07",
+          "title": "ログ ファイル分析: AI ボットを追跡し、クロール ギャップを修正 |"
+        },
         {
           "date": "2026-06-06",
           "title": "自己複製する Miasma ワームがサプライ チェーン攻撃で 73 の Microsoft GitHub リポジトリを攻撃"
@@ -144,10 +148,6 @@
         {
           "date": "2026-06-06",
           "title": "Miasma ワーム、大規模なサプライ チェーン攻撃で 73 の Microsoft GitHub リポジトリを攻撃"
-        },
-        {
-          "date": "2026-06-05",
-          "title": "IronWorm と新しい Miasma ワームの亜種がサプライ チェーン攻撃で npm を攻撃"
         }
       ]
     }

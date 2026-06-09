@@ -1,28 +1,28 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$363.31",
-      "change": "-1.42%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$364.26",
+      "change": "+0.26%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-06-07",
-          "title": "スペースXのIPOはまた、投資家がSPCXを買うために株を投げ売りするため、株式市場全体で大きな価格変動を引き起こす大規模な売り出しイベントとなるだろう。"
+          "date": "2026-06-08",
+          "title": "テクノロジー大手OpenAIが米国での新規株式公開を申請"
         },
         {
-          "date": "2026-06-07",
-          "title": "米ドルが17%暴落、6月8日はさらに悪化する可能性も"
+          "date": "2026-06-08",
+          "title": "AI巨人が公開市場に向かう中、OpenAIがAnthropic後に米国IPOを申請"
         },
         {
-          "date": "2026-06-07",
-          "title": "ビル・マーハーの新しいルール: 子どもたちは AI をどのように「修正」しなければならないか"
+          "date": "2026-06-08",
+          "title": "Anthropicの1週間後、ChatGPTメーカーOpenAIが極秘にIPOを申請"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$585.39",
-      "change": "-1.28%",
+      "price": "$584.59",
+      "change": "-0.14%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-06-07",
-          "title": "CoreWeave, Inc. (CRWV) は今買うのに適した銘柄ですか?"
+          "date": "2026-06-08",
+          "title": "テクノロジー大手OpenAIが米国での新規株式公開を申請"
         },
         {
-          "date": "2026-06-07",
-          "title": "中国がイーロン・マスク氏を破り、世界初の商用脳チップを発売"
+          "date": "2026-06-08",
+          "title": "Meta と ABC がパートナーシップを締結し、建設工芸の専門家を訓練し雇用を創出するアカデミーを立ち上げる"
         },
         {
-          "date": "2026-06-07",
-          "title": "ビッグテックが資本を求めて競争する中、メタはAIの拡大に資金を提供するために大規模な株式の発行を検討している"
+          "date": "2026-06-08",
+          "title": "AI巨人が公開市場に向かう中、OpenAIがAnthropic後に米国IPOを申請"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$245.22",
-      "change": "-0.33%",
+      "price": "$244.19",
+      "change": "-0.42%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-06-07",
-          "title": "ログ ファイル分析: AI ボットを追跡し、クロール ギャップを修正 |"
+          "date": "2026-06-08",
+          "title": "AWS がオープンソース AI エージェントを展開して AI コーディングの成果を向上"
         },
         {
-          "date": "2026-06-07",
-          "title": "週の振り返り: Cisco SD-WAN ゼロデイ悪用、パッチ火曜日の予測"
+          "date": "2026-06-08",
+          "title": "AWS ウィークリーまとめ: Amazon RDS for SQL Server、AWS IoT Device SDK for Swift などの BYOM (2026 年 6 月 8 日)"
         },
         {
-          "date": "2026-06-07",
-          "title": "アマゾン、インディアナ州にデータセンター建設計画、エネルギーコストに多額の費用を支払う予定"
+          "date": "2026-06-08",
+          "title": "ICYMI: 2026 年 5 月 @AWS セキュリティ"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$301.54",
-      "change": "-1.89%",
+      "price": "$290.55",
+      "change": "-3.64%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-06-07",
-          "title": "ハッカデイ リンク: 2026 年 6 月 7 日"
+          "date": "2026-06-08",
+          "title": "AirPods Pro 4のリークで赤外線カメラが明らかに、9月までに何が予想されるか"
         },
         {
-          "date": "2026-06-07",
-          "title": "スティーブ・ジョブズの今日の言葉: 「私にとってコンピューターとは、私たちがこれまでに発明した中で最も注目に値するツールです。それは私たちの精神にとって自転車に相当します。」 - テクノロジーが私たち全員をどのように拡張してきたか"
+          "date": "2026-06-08",
+          "title": "新しいSiri、AIプラットフォームが投資家に感動を与えず、Apple株が下落"
         },
         {
-          "date": "2026-06-07",
-          "title": "Apple WWDC ライブ ブログ: iOS 27 から Siri、スマート グラスまで、私たちが期待しているすべて"
+          "date": "2026-06-08",
+          "title": "Apple のアップグレードされた Siri AI は、さらなる機能を約束します。"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$208.64",
-      "change": "+1.73%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$208.19",
+      "change": "-0.22%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-06-07",
-          "title": "NAVER、急増する世界的な AI 需要に対応するため、NVIDIA と AI インフラストラクチャを拡張"
+          "date": "2026-06-08",
+          "title": "SK Telecom は通信会社から AI インフラストラクチャ大手への転換に伴い、AI トレーニングに Nvidia Blackwell GPU を導入"
         },
         {
-          "date": "2026-06-07",
-          "title": "SK Telecom と NVIDIA、韓国の AI イノベーションを推進する AI インフラストラクチャを構築"
+          "date": "2026-06-08",
+          "title": "Naver Corp.、韓国における AI 優位性のために Nvidia の DSX プラットフォームを使用してデータセンターを構築"
         },
         {
-          "date": "2026-06-07",
-          "title": "私たちのシステム編集者ははるばる台湾まで飛んだが、それでも AI から逃れられなかった"
+          "date": "2026-06-08",
+          "title": "SKT がギガワット規模の AI クラウドで Nvidia と提携"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$411.74",
-      "change": "-1.18%",
+      "price": "$403.41",
+      "change": "-2.02%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-06-07",
-          "title": "ログ ファイル分析: AI ボットを追跡し、クロール ギャップを修正 |"
+          "date": "2026-06-08",
+          "title": "テクノロジー大手OpenAIが米国での新規株式公開を申請"
         },
         {
-          "date": "2026-06-06",
-          "title": "自己複製する Miasma ワームがサプライ チェーン攻撃で 73 の Microsoft GitHub リポジトリを攻撃"
+          "date": "2026-06-08",
+          "title": "AI巨人が公開市場に向かう中、OpenAIがAnthropic後に米国IPOを申請"
         },
         {
-          "date": "2026-06-06",
-          "title": "Miasma ワーム、大規模なサプライ チェーン攻撃で 73 の Microsoft GitHub リポジトリを攻撃"
+          "date": "2026-06-08",
+          "title": "AI大手が公開市場に向かう中、Anthropicに続いてOpenAIが米国IPOを申請"
         }
       ]
     }

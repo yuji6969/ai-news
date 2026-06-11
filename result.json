@@ -1,28 +1,24 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$356.38",
-      "change": "-2.16%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$357.77",
+      "change": "+0.39%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-06-09",
-          "title": "ブロードコムとマーベルが AI チップ市場をリードし、2026 年度には記録的な収益を達成"
+          "date": "2026-06-10",
+          "title": "TSMCの生産能力が逼迫する中、GoogleはIntel Foundryに2028年に300万以上のTPUの生産を命令"
         },
         {
-          "date": "2026-06-09",
-          "title": "Googleの新しいAIを活用した検索バーはジャーナリズム業界をさらにひっくり返す恐れがある"
-        },
-        {
-          "date": "2026-06-09",
-          "title": "自動運転タクシーがロンドンにやってくる"
+          "date": "2026-06-10",
+          "title": "FinOps AI はエージェントコストの発生に伴いトークンエコノミクスを超える"
         }
       ]
     },
@@ -30,24 +26,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$570.98",
-      "change": "-2.33%",
+      "price": "$568.43",
+      "change": "-0.45%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-06-09",
-          "title": "AI ハイパースケーラーが 1,590 億ドルの負債を発行、昨年より 47% 増加"
+          "date": "2026-06-10",
+          "title": "OpenAI が提案した IPO は彼らに 3 つのチャンスをもたらしますが、まだ確実に捕まえる必要はありません"
         },
         {
-          "date": "2026-06-09",
-          "title": "Googleの新しいAIを活用した検索バーはジャーナリズム業界をさらにひっくり返す恐れがある"
+          "date": "2026-06-10",
+          "title": "アルバータ州では「ギガワット規模」の AI データセンターが建設中になる可能性がある"
         },
         {
-          "date": "2026-06-09",
-          "title": "アポロとブラックストーン、ブロードコムの新たな提携でアンスロピックの350億ドル規模の容量拡張を支持"
+          "date": "2026-06-10",
+          "title": "米国への海外投資、4年間の減少を経て2,320億ドルに急増"
         }
       ]
     },
@@ -55,24 +51,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$238.00",
-      "change": "-2.53%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$241.51",
+      "change": "+1.47%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-06-09",
-          "title": "Stockland は SAP へのブリッジとして AI アシスタントを構築"
+          "date": "2026-06-10",
+          "title": "Data + AI Summit 2026 での AWS と Databricks: 現実世界の AI イノベーションの加速"
         },
         {
-          "date": "2026-06-09",
-          "title": "Amazon SageMaker AI の NVIDIA Isaac Lab を使用してロボット強化学習をスケールする"
+          "date": "2026-06-10",
+          "title": "Amazon OpenSearch Service がエージェントによる可観測性を実現する MCP アプリを開始"
         },
         {
-          "date": "2026-06-09",
-          "title": "Amazon SageMaker Unified Studio ノートブックが EMR サーバーレスをサポートするようになりました"
+          "date": "2026-06-10",
+          "title": "OpenAI は Oracle と提携して、クラウド ユーザーの AI モデルへのアクセスを簡素化します"
         }
       ]
     },
@@ -80,24 +76,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$291.58",
-      "change": "+0.35%",
+      "price": "$295.63",
+      "change": "+1.39%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-06-09",
-          "title": "ディーター・ラムスはコンピューターを避けています。"
+          "date": "2026-06-10",
+          "title": "Eufy、オンデバイス処理に特化した顔読み取りスマートロックラインを拡張"
         },
         {
-          "date": "2026-06-09",
-          "title": "WWDC26: Apple による今年のプラットフォーム一般教書に関する短い要約をご覧ください"
+          "date": "2026-06-10",
+          "title": "24 か月にわたって 99 ドルのプランで、インストア番号を JB HI-FI Mobile に切り替えると、Magic8 Pro 5G 512GB が 0 ドルで利用できます"
         },
         {
-          "date": "2026-06-09",
-          "title": "NVIDIA Confidential Computing が Apple のプライベート クラウド コンピューティングの拡大を支援"
+          "date": "2026-06-10",
+          "title": "iPhoneにiOS 27ベータ版をインストールする方法"
         }
       ]
     },
@@ -105,24 +101,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$200.42",
-      "change": "-3.73%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$204.87",
+      "change": "+2.22%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-06-09",
-          "title": "TSMC、コストとAI需要の上昇を背景に価格上昇の可能性を示唆"
+          "date": "2026-06-10",
+          "title": "HPE の Unleash AI は「AI パイロットの罠」を狙う"
         },
         {
-          "date": "2026-06-09",
-          "title": "NVIDIA Confidential Computing が Apple のプライベート クラウド コンピューティングの拡大を支援"
+          "date": "2026-06-10",
+          "title": "Google の DiffusionGemma AI は毎秒 1,000 トークンを達成 - しかも無料"
         },
         {
-          "date": "2026-06-09",
-          "title": "Amazon SageMaker AI の NVIDIA Isaac Lab を使用してロボット強化学習をスケールする"
+          "date": "2026-06-10",
+          "title": "デルの Microsoft/AMD コラボレーション: theCUBE の Dell Technologies World の報道から見逃したかもしれない 3 つの洞察"
         }
       ]
     },
@@ -130,24 +126,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$397.36",
-      "change": "-1.50%",
+      "price": "$390.34",
+      "change": "-1.77%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-06-09",
-          "title": "AI投資への懸念が株価を圧迫し、マイクロソフトは時価総額3兆ドルを下回る"
+          "date": "2026-06-10",
+          "title": "OpenAI は Oracle と提携して、クラウド ユーザーの AI モデルへのアクセスを簡素化します"
         },
         {
-          "date": "2026-06-09",
-          "title": "AIマルウェアワームはリアルタイムで新たな標的に適応するとサイバーセキュリティ専門家が語る"
+          "date": "2026-06-10",
+          "title": "Microsoft、データ保持の懸念から従業員のクロード・ファブルを制限 - The Verge"
         },
         {
-          "date": "2026-06-09",
-          "title": "ChatGPT の所有者は、株式公開で AI の利益を得る競争に参加し、評価額 1 兆ドルを目指す"
+          "date": "2026-06-10",
+          "title": "ウォール街はAIのIPOに先立って、トークンエコノミーの短期集中コースを必要としている。 "
         }
       ]
     }

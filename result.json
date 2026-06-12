@@ -1,24 +1,28 @@
 {
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$357.77",
-      "change": "+0.39%",
+      "price": "$359.68",
+      "change": "+0.53%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-06-10",
-          "title": "TSMCの生産能力が逼迫する中、GoogleはIntel Foundryに2028年に300万以上のTPUの生産を命令"
+          "date": "2026-06-11",
+          "title": "アルファベット株主、水使用量報告とAIガバナンス監視に関する提案を拒否"
         },
         {
-          "date": "2026-06-10",
-          "title": "FinOps AI はエージェントコストの発生に伴いトークンエコノミクスを超える"
+          "date": "2026-06-11",
+          "title": "Anthropic はデータセンターのリースを追求し、Google からの資金援助を求める"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "Anthropicはデータセンターのリースを追求し、Googleからの資金援助を求めているとThe Informationが報じている"
         }
       ]
     },
@@ -26,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$568.43",
-      "change": "-0.45%",
+      "price": "$566.98",
+      "change": "-0.26%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-06-10",
-          "title": "OpenAI が提案した IPO は彼らに 3 つのチャンスをもたらしますが、まだ確実に捕まえる必要はありません"
+          "date": "2026-06-11",
+          "title": "Helix が AI インフラストラクチャを構築するために 100 億ドル以上の資金を調達してローンチ"
         },
         {
-          "date": "2026-06-10",
-          "title": "アルバータ州では「ギガワット規模」の AI データセンターが建設中になる可能性がある"
+          "date": "2026-06-11",
+          "title": "SpaceX の混乱した IPO (そしてさらに混乱した CEO) を理解する"
         },
         {
-          "date": "2026-06-10",
-          "title": "米国への海外投資、4年間の減少を経て2,320億ドルに急増"
+          "date": "2026-06-11",
+          "title": "投資家が宇宙の将来に賭ける中、SpaceXは巨大IPOで750億ドルを調達"
         }
       ]
     },
@@ -51,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$241.51",
-      "change": "+1.47%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$238.55",
+      "change": "-1.23%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-06-10",
-          "title": "Data + AI Summit 2026 での AWS と Databricks: 現実世界の AI イノベーションの加速"
+          "date": "2026-06-11",
+          "title": "Amazon Quick が Snowflake Cortex AI と統合されるようになりました"
         },
         {
-          "date": "2026-06-10",
-          "title": "Amazon OpenSearch Service がエージェントによる可観測性を実現する MCP アプリを開始"
+          "date": "2026-06-11",
+          "title": "AWS DevOps エージェントとカスタム MCP を使用して EKS ノードの問題を迅速に診断する"
         },
         {
-          "date": "2026-06-10",
-          "title": "OpenAI は Oracle と提携して、クラウド ユーザーの AI モデルへのアクセスを簡素化します"
+          "date": "2026-06-11",
+          "title": "オンデマンドおよびバッチ パイプラインを使用してデータを動的に抽出する"
         }
       ]
     },
@@ -76,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$295.63",
-      "change": "+1.39%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$291.13",
+      "change": "-1.52%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-06-10",
-          "title": "Eufy、オンデバイス処理に特化した顔読み取りスマートロックラインを拡張"
+          "date": "2026-06-11",
+          "title": "Tech News Weekly 441: Siri AI: 第一印象"
         },
         {
-          "date": "2026-06-10",
-          "title": "24 か月にわたって 99 ドルのプランで、インストア番号を JB HI-FI Mobile に切り替えると、Magic8 Pro 5G 512GB が 0 ドルで利用できます"
+          "date": "2026-06-11",
+          "title": "Appleのクレイグ・フェデリギ氏「SiriはあなたのAIのガールフレンドにはならない」"
         },
         {
-          "date": "2026-06-10",
-          "title": "iPhoneにiOS 27ベータ版をインストールする方法"
+          "date": "2026-06-11",
+          "title": "Apple：「DMAにより、iOS 27およびiPadOS 27のSiri AIはEUで遅延」"
         }
       ]
     },
@@ -101,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$204.87",
-      "change": "+2.22%",
+      "price": "$205.19",
+      "change": "+0.16%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-06-10",
-          "title": "HPE の Unleash AI は「AI パイロットの罠」を狙う"
+          "date": "2026-06-11",
+          "title": "MSI の特別版 Titan 18HX ゲーミング ラップトップは信じられないほど最高で、私は夢中になっています"
         },
         {
-          "date": "2026-06-10",
-          "title": "Google の DiffusionGemma AI は毎秒 1,000 トークンを達成 - しかも無料"
+          "date": "2026-06-11",
+          "title": "Microsoft は、Copilot+ PC にロックされていたローカル AI 機能を Nvidia GPU で実行できるようになりました"
         },
         {
-          "date": "2026-06-10",
-          "title": "デルの Microsoft/AMD コラボレーション: theCUBE の Dell Technologies World の報道から見逃したかもしれない 3 つの洞察"
+          "date": "2026-06-11",
+          "title": "Python を話してください: #551: スタートアップ レーンを散策 - 2026"
         }
       ]
     },
@@ -126,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$390.34",
-      "change": "-1.77%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$390.74",
+      "change": "+0.10%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-06-10",
-          "title": "OpenAI は Oracle と提携して、クラウド ユーザーの AI モデルへのアクセスを簡素化します"
+          "date": "2026-06-11",
+          "title": "Python を話してください: #551: スタートアップ レーンを散策 - 2026"
         },
         {
-          "date": "2026-06-10",
-          "title": "Microsoft、データ保持の懸念から従業員のクロード・ファブルを制限 - The Verge"
+          "date": "2026-06-11",
+          "title": "2026 年のベスト Python AI フレームワーク"
         },
         {
-          "date": "2026-06-10",
-          "title": "ウォール街はAIのIPOに先立って、トークンエコノミーの短期集中コースを必要としている。 "
+          "date": "2026-06-11",
+          "title": "オラクルのAI支出が予想を上回り、債務懸念が高まり仮想通貨市場に波及"
         }
       ]
     }

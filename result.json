@@ -1,28 +1,28 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$369.35",
-      "change": "+2.69%",
+      "price": "$373.25",
+      "change": "+1.06%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-06-14",
-          "title": "サンダー・ピチャイ、2026 年スタンフォード大学卒業式演説で「カリフォルニアの楽観主義」とハードでエキサイティングな仕事について語る"
+          "date": "2026-06-15",
+          "title": "マグニフィセント・セブンの5銘柄が後れを取る中、グーグルとエヌビディアがS&P500をアウトパフォーム"
         },
         {
-          "date": "2026-06-14",
-          "title": "Anthropic が大規模なデータセンター推進を支援するために Google に頼る"
+          "date": "2026-06-15",
+          "title": "Google、AIインフラ構築に資金を提供するために850億ドルの株式調達を計画"
         },
         {
-          "date": "2026-06-14",
-          "title": "AI 企業が上場を目指して競う中、他に誰がこれに参加するでしょうか? "
+          "date": "2026-06-15",
+          "title": "Google、アラバマ州の AI データセンター拡張に 20 億ドルを投資"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$593.48",
-      "change": "+4.67%",
+      "price": "$600.21",
+      "change": "+1.13%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-06-14",
-          "title": "インド総括: Meta-Reliance AI データセンター、Anthropic-TCS 提携、EV 拡大、Starlink の遅延とサプライチェーンの変化"
+          "date": "2026-06-15",
+          "title": "Nvidia は 5 年ぶりとなる 250 億ドルの債券売却を計画"
         },
         {
-          "date": "2026-06-14",
-          "title": "英国の銀行、返金規則発効後、詐欺事件が急増"
+          "date": "2026-06-15",
+          "title": "Nvidia、AIチップの生産継続のために200億ドルの調達を目指す"
         },
         {
-          "date": "2026-06-14",
-          "title": "ベル・ポッター氏は、この人気のASX 200株は40％のリターンをもたらす可能性があると述べています"
+          "date": "2026-06-15",
+          "title": "CEOは今、方針を転換し、AI支出を削減することを余儀なくされている"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$246.02",
-      "change": "+3.13%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$246.00",
+      "change": "-0.01%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-06-14",
-          "title": "ウォール街のトップアナリストはこれら3銘柄の成長見通しに自信を持っている"
+          "date": "2026-06-15",
+          "title": "Amazon、メリーランド州に新しいデータセンターキャンパスを建設するために200億ドルを投資"
         },
         {
-          "date": "2026-06-14",
-          "title": "アマゾン、データセンター向けの次世代光ファイバーケーブルの構築で数十億ドル規模のコーニング契約に署名"
+          "date": "2026-06-15",
+          "title": "Show HN: シンプル、軽量、最新のターンキー Java Web サーバー ライブラリ"
         },
         {
-          "date": "2026-06-14",
-          "title": "アマゾン、インドのフルフィルメントセンターで在庫管理の自動化利用を拡大"
+          "date": "2026-06-15",
+          "title": "AWS Summit NYC で期待されること: 6 月 18 日の theCUBE に参加してください"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$296.42",
-      "change": "+1.82%",
+      "price": "$299.24",
+      "change": "+0.95%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-06-14",
-          "title": "Linux 7.1 は新しい NTFS ドライバー、Steam Deck OLED オーディオ修正などを提供します"
+          "date": "2026-06-15",
+          "title": "iOS 27 の Siri AI: 機能、要件、およびその仕組み"
         },
         {
-          "date": "2026-06-14",
-          "title": "Apple、この秋に 3 つの未発表 iOS 27 機能を搭載"
+          "date": "2026-06-15",
+          "title": "iOS 27はまだ完成していない: 追加機能は9月に登場する可能性がある"
         },
         {
-          "date": "2026-06-14",
-          "title": "Claude Code は、ホーム アシスタントの設定に隠れている静かな問題を発見しましたが、私は何ヶ月もそれらを無視してきました"
+          "date": "2026-06-15",
+          "title": "Wi-Fi スマート電球内の禁止図書ライブラリ"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$212.45",
-      "change": "+3.54%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$207.41",
+      "change": "-2.37%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-06-14",
-          "title": "Nvidia の RTX 50 シリーズの発表は、「常に次世代を待つ」ルールが死んだ理由を示しています"
+          "date": "2026-06-15",
+          "title": "RTX 20 シリーズは正式に Nvidia の Windows 7 になりました"
         },
         {
-          "date": "2026-06-14",
-          "title": "ジム・クレイマー氏、市場の「鍵」はSpaceXではなくNVIDIA（NVDA）であると主張"
+          "date": "2026-06-15",
+          "title": "Hydra Host CEO、カスタム ハイパースケーラー チップに対してデータセンターに警告"
         },
         {
-          "date": "2026-06-14",
-          "title": "Nvidia の RTX Spark はゲーマーではなく AI とクリエイター向けに構築されています - それが重要です"
+          "date": "2026-06-15",
+          "title": "Nvidiaの200億ドルの債券売却がビットコインマイナーのAI移行を後押し"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$399.76",
-      "change": "+2.31%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$393.83",
+      "change": "-1.48%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-06-14",
-          "title": "メタ社のAIへの140億ドルの賭けは果たして報われるのか?"
+          "date": "2026-06-15",
+          "title": "マイクロソフト、経費、クラウド事業、AIをめぐり株主から訴えられる"
         },
         {
-          "date": "2026-06-14",
-          "title": "Wanda-fabric が PyPI に追加されました"
+          "date": "2026-06-15",
+          "title": "2026 綛6 禹礇絅磧彜羂 (マイクロソフト、2026.06.09)"
         },
         {
-          "date": "2026-06-14",
-          "title": "メタがアレクサンドル・ワンを利用して新しいAIモデルを構築してから1年後、ザッカーバーグはそれを売らなければならなくなった"
+          "date": "2026-06-15",
+          "title": "プロンプトエンジニアリングに簡潔さと言語効率を適用する"
         }
       ]
     }

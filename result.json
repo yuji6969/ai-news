@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-06-17",
-          "title": "プロシェアーズは3日間で4回目のMANGOS ETFを申請し、発効日は2026年8月31日となる"
+          "date": "2026-06-18",
+          "title": "ゲームクリップ AI スタートアップ General Intuition が評価額 20 億ドルで 3 億ドル調達交渉中"
         },
         {
-          "date": "2026-06-17",
-          "title": "Appleの投資家はAIの約束に我慢できなくなってきている"
+          "date": "2026-06-18",
+          "title": "スーパーリサーチが PyPI に追加されました"
         },
         {
-          "date": "2026-06-17",
-          "title": "アンクル・サム、アルファベットスピンオフのAIが新しい半導体材料を発掘できることに5億ドルを賭ける"
+          "date": "2026-06-18",
+          "title": "Google が全力を尽くす: AI 支援製品ではなく、AI 運用システム"
         }
       ]
     },
@@ -38,16 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-06-17",
-          "title": "Chi-Hua Chien さんは Facebook の到来を目にしました。"
+          "date": "2026-06-18",
+          "title": "SpaceX、OpenAI、Anthropic: S&P 500 への採用に関する疑問と投資への影響!"
         },
         {
-          "date": "2026-06-17",
-          "title": "Anthropic が炭素除去に 9 億 1,500 万ドル資金を提供するビッグテック連合に参加"
+          "date": "2026-06-18",
+          "title": "押し寄せる訴訟とインターネット追跡: デジタル時代の CIPA"
         },
         {
-          "date": "2026-06-17",
-          "title": "AI素材発見スタートアップCuspAIが4億ドルを調達と報じられている"
+          "date": "2026-06-18",
+          "title": "AMI Labs の Yann LeCun 氏が VivaTech で AI の次のフロンティアとして「ワールド モデル」を主張"
         }
       ]
     },
@@ -63,16 +63,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-06-17",
-          "title": "AWS がコードの脆弱性をマシンスピードで発見して修正する Continuum を開始"
+          "date": "2026-06-18",
+          "title": "NVIDIA RTX PRO 4500 Blackwell Server Edition GPU によって高速化された Amazon EC2 G7 インスタンスを発表"
         },
         {
-          "date": "2026-06-17",
-          "title": "AmazonとQuEraは2028年までに有用な量子誤り訂正を約束、暗号通貨は注目すべき"
+          "date": "2026-06-18",
+          "title": "Coupa のエージェントの勢いが 27 年度第 1 四半期の業績を加速"
         },
         {
-          "date": "2026-06-17",
-          "title": "自律的な AWS エージェントがコードベースの最新化を自動化"
+          "date": "2026-06-18",
+          "title": "Amazon EC2 G7 インスタンスが一般提供開始されました"
         }
       ]
     },
@@ -88,16 +88,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-06-17",
-          "title": "AIはさまざまな形でAppleに損害を与えている：iPhoneの価格上昇を強いられる可能性がある"
+          "date": "2026-06-18",
+          "title": "MacOS Golden Gate 27 互換 Mac リスト: あなたの Mac は MacOS 27 を実行しますか?"
         },
         {
-          "date": "2026-06-17",
-          "title": "iPadOS 27 と互換性のある iPad モデル: あなたの iPad は iPadOS 27 を実行しますか?"
+          "date": "2026-06-18",
+          "title": "Google Health の最新アップデートは、昼寝、指標、データのさらなる制御に関するものです"
         },
         {
-          "date": "2026-06-17",
-          "title": "あなたは Apple 買収の引き金を引くとよいかもしれません — 同社は価格を上げる予定です"
+          "date": "2026-06-18",
+          "title": "フルーツのスペック スライスとダイス リンゴの製品の特徴"
         }
       ]
     },
@@ -113,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-06-17",
-          "title": "世界のトップクラウドプロバイダーが世界最速の AI プラットフォームである NVIDIA の Vera Rubin NVL72 を導入"
+          "date": "2026-06-18",
+          "title": "中国の Z.AI が GLM-5.2 をリリース：Claude Opus に匹敵するモデル - Nvidia チップを使用しない"
         },
         {
-          "date": "2026-06-17",
-          "title": "Lip-Bu Tan 氏は半導体業界から撤退しかけたが、「インテルを救ってほしい」という 1 つの嘆願により CEO に引き戻され、現在はトップクラスの CPU/GPU アーキテクトを採用中"
+          "date": "2026-06-18",
+          "title": "NVIDIA RTX PRO 4500 Blackwell Server Edition GPU によって高速化された Amazon EC2 G7 インスタンスを発表"
         },
         {
-          "date": "2026-06-17",
-          "title": "PUBG が要望の高い NVIDIA Ace AI チームメイトを獲得"
+          "date": "2026-06-18",
+          "title": "Amazon EC2 G7 インスタンスが一般提供開始されました"
         }
       ]
     },
@@ -138,16 +138,12 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-06-17",
-          "title": "OpenAIとAnthropicによる米国の懸念の中、Microsoftが中国でAIモデル事業を構築"
+          "date": "2026-06-18",
+          "title": "Microsoft、GitHub による AI 開発の爆発的な成長への対応を支援するために AWS に協力を要請"
         },
         {
-          "date": "2026-06-17",
-          "title": "Grok は、Azure や Oracle を含む主要なクラウド プラットフォームへの可用性を拡大します"
-        },
-        {
-          "date": "2026-06-17",
-          "title": "ほとんどのエンタープライズ AI プロジェクトが苦戦する理由: .NET、React、Azure OpenAI を使用した AI アプリケーションの構築からの教訓"
+          "date": "2026-06-18",
+          "title": "ワシントンが中国のAIを脅威として扱っているにもかかわらず、バイトダンスはマイクロソフトの最大のAI顧客である"
         }
       ]
     }

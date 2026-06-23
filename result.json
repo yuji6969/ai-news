@@ -1,28 +1,28 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-23",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$368.03",
-      "change": "+1.17%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$346.13",
+      "change": "-1.02%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-06-20",
-          "title": "Google Cloud のこの指標は、今年の 1,850 億ドルの資本支出がそれだけの価値があることを証明しています"
+          "date": "2026-06-22",
+          "title": "AIの2番目のスターがライバルに去った後、アルファベットの株価が下落"
         },
         {
-          "date": "2026-06-20",
-          "title": "利下げが必要なのは誰ですか? "
+          "date": "2026-06-22",
+          "title": "子どものオンライン安全法案が議会で注目を集める"
         },
         {
-          "date": "2026-06-20",
-          "title": "米国の科学者ジョン・ジャンパー氏がGoogle DeepMindを退社し、Anthropicに移る"
+          "date": "2026-06-22",
+          "title": "AIの2番目のスターがライバルに去った後、アルファベットの株価が下落"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$577.22",
-      "change": "+1.70%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$562.20",
+      "change": "-0.29%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-06-20",
-          "title": "AI のジョージ カーリン モデル"
+          "date": "2026-06-22",
+          "title": "今日の株式市場: ライブアップデート"
         },
         {
-          "date": "2026-06-20",
-          "title": "ウェルズ・ファーゴの新たなS&P500指数目標は投資家に明確なシグナルを送る"
+          "date": "2026-06-22",
+          "title": "S&P 500、ナスダックはアルファベットとメガキャップ・ハイテクに引きずられて下落して取引を終えた。"
         },
         {
-          "date": "2026-06-20",
-          "title": "AI支出の急増で現金が食い荒らされる中、大手ハイテク株の買い戻しが消滅"
+          "date": "2026-06-22",
+          "title": "AI チップメーカー Groq が 6 億 5,000 万ドルの調達を確認、Nvidia の 200 億ドルの不採用契約を受けて人員を再配置 |"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$244.39",
-      "change": "+2.90%",
+      "price": "$234.11",
+      "change": "+0.57%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-06-20",
-          "title": "SMPTE はその標準に自由にアクセスできるようにします"
+          "date": "2026-06-22",
+          "title": "完全なライフサイクル制御で分離されたサンドボックスを実行: AWS Lambda が MicroVM を導入"
         },
         {
-          "date": "2026-06-20",
-          "title": "Amazon が「人間参加型」AI ガバナンスを嫌う理由"
+          "date": "2026-06-22",
+          "title": "Gradial がエージェントティック マーケティング プラットフォームに 6,500 万ドルのシリーズ C を獲得"
         },
         {
-          "date": "2026-06-20",
-          "title": "AWS Transform カスタムを使用して Lambda 関数のランタイムを大規模にアップグレードする"
+          "date": "2026-06-22",
+          "title": "AI エージェント向けのペイパーインテリジェンスの構築: Ampersend が Amazon Bedrock AgentCore Payments を使用する方法"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$298.01",
-      "change": "+0.70%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$294.30",
+      "change": "-0.91%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-06-20",
-          "title": "AI のジョージ カーリン モデル"
+          "date": "2026-06-22",
+          "title": "iOS 27 ベータ 2 のすべての新機能"
         },
         {
-          "date": "2026-06-20",
-          "title": "iOS 27 ベータ版の 10 日間の天国と地獄 [Cult of Mac ポッドキャスト No. 25]"
+          "date": "2026-06-22",
+          "title": "Apple が Intel Mac を廃止、macOS 27 の終了は現実的"
         },
         {
-          "date": "2026-06-20",
-          "title": "インディーズアプリのスポットライト: 「Brink」は iPhone ポッドキャストのリスニングに機能豊富なエクスペリエンスをもたらします"
+          "date": "2026-06-22",
+          "title": "Cloudflare は、プライバシー最優先のボット対策プロトコルで Chrome、Firefox、Edge と連携します。"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$210.69",
-      "change": "+2.95%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$200.04",
+      "change": "-4.13%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-06-20",
-          "title": "NVIDIA のオープンソース NVK Vulkan ドライバーが、Linux ゲーマー向けに Mesa 26.2 で実験的な DLSS サポートを取得"
+          "date": "2026-06-22",
+          "title": "GeForce RTX 5090 GPU、64GB RAM、4TB SSD を搭載した Alienware Area-51 ゲーミング PC が 2,500 ドル割引"
         },
         {
-          "date": "2026-06-20",
-          "title": "HIVE (HIVE) BUZZ HPC が主権 AI インフラストラクチャ向けに 2 億 2,000 万ドルの GPU クラウド契約を確保"
+          "date": "2026-06-22",
+          "title": "DFlash 投機的デコーディングを使用して、NVIDIA Blackwell で推論パフォーマンスを最大 15 倍に向上"
         },
         {
-          "date": "2026-06-20",
-          "title": "Bitdeer、2月以降に採掘されたビットコインをすべて売却、総額2億500万ドル以上"
+          "date": "2026-06-22",
+          "title": "Arm サーバーがデータセンター市場収益の 45% 以上を獲得 — GPU クラスターとハイエンド AI インフラストラクチャが x86 からの地殻変動を促進"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$379.40",
-      "change": "+0.13%",
+      "price": "$373.94",
+      "change": "+1.80%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-06-20",
-          "title": "sama が PyPI に追加されました"
+          "date": "2026-06-22",
+          "title": "Microsoft、XBox ゲームの人員削減と人材育成を受け入れる"
         },
         {
-          "date": "2026-06-20",
-          "title": "Microsoft の AI 戦略は、Windows と Office を犠牲にしてベータテストのように感じられる"
+          "date": "2026-06-22",
+          "title": "マイクロソフト (MSFT) が株主訴訟に直面。 "
         },
         {
-          "date": "2026-06-20",
-          "title": "AI ブームはドットコム型の崩壊に向かう? "
+          "date": "2026-06-22",
+          "title": "2026 年 6 月 15 日の週の脆弱性の概要"
         }
       ]
     }

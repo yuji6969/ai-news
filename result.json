@@ -1,28 +1,28 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$353.65",
-      "change": "+4.82%",
+      "price": "$357.37",
+      "change": "+1.05%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-06-28",
-          "title": "Google、Meta による Gemini AI モデルの使用を制限: レポート"
+          "date": "2026-06-29",
+          "title": "今日の米国株：イランの緊張緩和を受けて米国株は上昇して終了。"
         },
         {
-          "date": "2026-06-28",
-          "title": "AIとイランはエネルギー転換を加速する"
+          "date": "2026-06-29",
+          "title": "Gemini は米国ユーザー向けに画像作成をパーソナライズします"
         },
         {
-          "date": "2026-06-28",
-          "title": "Anthropic は歴史上最も価値のあるソフトウェア会社になる可能性があり、これらの株にはエクスポージャーがあります"
+          "date": "2026-06-29",
+          "title": "指数がボラティリティを振り払う中、アルファベットはダウデビューで1680億ドルを追加"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$562.60",
-      "change": "+2.24%",
+      "price": "$563.29",
+      "change": "+0.12%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-06-28",
-          "title": "Nvidia、Meta、Microsoft、OpenAI で 990 億ドルのバックログを確保"
+          "date": "2026-06-29",
+          "title": "AI の巨人が目前に迫る: なぜその素晴らしい超収益が脅威にさらされているのか"
         },
         {
-          "date": "2026-06-28",
-          "title": "Tokenmaxxing は死んだ、Tokenmaxxing 万歳"
+          "date": "2026-06-29",
+          "title": "光を放ちましょう: 購入者は、極度の暑さの中でそよ風と安らぎを求めています"
         },
         {
-          "date": "2026-06-28",
-          "title": "マイクロンは一時的に時価総額でメタやテスラを上回った。"
+          "date": "2026-06-29",
+          "title": "韓国のテクノロジー大手、「ラマゲドン」緩和に5,500億ドル以上をコミット |"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$240.14",
-      "change": "+3.20%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$238.34",
+      "change": "-0.75%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-06-28",
-          "title": "プライムデーのことは忘れてください。 "
+          "date": "2026-06-29",
+          "title": "AWS WAF が Amazon Bedrock AgentCore Gateway のサポートを追加"
         },
         {
-          "date": "2026-06-28",
-          "title": "Anthropic は歴史上最も価値のあるソフトウェア会社になる可能性があり、これらの株にはエクスポージャーがあります"
+          "date": "2026-06-29",
+          "title": "AWS Summit DC で期待すること: 6 月 30 日から 7 月 1 日までの theCUBE に参加してください"
         },
         {
-          "date": "2026-06-28",
-          "title": "なぜウォール街は米国のメモリメーカーMicronが次のNvidiaであると考えているのか |"
+          "date": "2026-06-29",
+          "title": "攻撃者が SimpleHelp の欠陥を悪用して AI コーディング アシスタントやクラウドから情報を盗む"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$281.74",
-      "change": "-0.72%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$289.36",
+      "change": "+2.70%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-06-28",
-          "title": "Galaxy の価格が予測できる時代は終わった、戻ってくるとは期待しないでください"
+          "date": "2026-06-29",
+          "title": "Intelの低価格ノートPC向けの新しいCPU「Wildcat Lake」をテストしてみた。"
         },
         {
-          "date": "2026-06-28",
-          "title": "AIとイランはエネルギー転換を加速する"
+          "date": "2026-06-29",
+          "title": "Apple、AIを利用したエクスプロイトを先制するためにセキュリティアップデートを加速"
         },
         {
-          "date": "2026-06-28",
-          "title": "GitHub – librepods-org/librepods: Apple のエコシステムから解放された AirPods"
+          "date": "2026-06-29",
+          "title": "Google、Gemini のパーソナライズされた画像生成を米国のすべてのユーザーに無料化"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$194.97",
-      "change": "+1.27%",
+      "price": "$200.09",
+      "change": "+2.63%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-06-28",
-          "title": "Nvidia、Meta、Microsoft、OpenAI で 990 億ドルのバックログを確保"
+          "date": "2026-06-29",
+          "title": "台湾当局がNVIDIA GPUの中国輸出密輸取り締まりに事務所を襲撃する中、Super Microが協力を主張"
         },
         {
-          "date": "2026-06-28",
-          "title": "Trialmatchai が PyPI に追加されました"
+          "date": "2026-06-29",
+          "title": "NVIDIA Nsight 開発者ツールを使用したニューラル再構成パイプラインの最適化"
         },
         {
-          "date": "2026-06-28",
-          "title": "Nvidiaが支援するFirmusはインドネシアに360MWのAIデータセンターを建設し、300億ドルのオフテイク取引を見込んでいる"
+          "date": "2026-06-29",
+          "title": "Photoshop v27.7 Win 用の Adob​​e 削除ツール AI"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$368.57",
-      "change": "-1.18%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$373.02",
+      "change": "+1.21%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-06-28",
-          "title": "tabayyan が PyPI に追加されました"
+          "date": "2026-06-29",
+          "title": "Show HN: Khazad – Redis ベクター セット上の LLM 呼び出し用の透過的セマンティック キャッシュ"
         },
         {
-          "date": "2026-06-28",
-          "title": "ripienaar/free-for-dev: Devops および infradev にとって興味深い無料枠がある SaaS、PaaS、および IaaS 製品のリスト"
+          "date": "2026-06-29",
+          "title": "Microsoft Corporation (MSFT) でお金を失いましたか?"
         },
         {
-          "date": "2026-06-27",
-          "title": "Nvidia を超えて: OpenAI、Google、Amazon などの AI 巨人がカスタム チップを開発している理由"
+          "date": "2026-06-29",
+          "title": "Anthropic の Claude モデルは、Microsoft Azure 経由で Nvidia GB300 Blackwell Ultra システム上で実行されるようになりました"
         }
       ]
     }

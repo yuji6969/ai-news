@@ -1,28 +1,28 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$361.21",
-      "change": "+1.07%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$359.91",
+      "change": "-0.36%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-06-30",
-          "title": "ジム・クレイマー氏、AI業界は変化していると語る - そして現在これらの銘柄が主導権を握っている"
+          "date": "2026-07-01",
+          "title": "AIの暴走によるビッグテック企業の二酸化炭素排出量の急増"
         },
         {
-          "date": "2026-06-30",
-          "title": "ポーカー AI を開発した DeepMind のトリオは、現在クオンツ ヘッジ ファンドで儲けています。"
+          "date": "2026-07-01",
+          "title": "アルファベットの株価予測: 予測は 20% の上昇を示しています"
         },
         {
-          "date": "2026-06-30",
-          "title": "ウォール街の優良企業インデックス、リスクの高い AI 成長マシンにベライゾンを追い出す"
+          "date": "2026-07-01",
+          "title": "アルファベット vs. "
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$612.91",
-      "change": "+8.81%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$582.90",
+      "change": "-4.90%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-06-30",
-          "title": "世界的な詐欺師が米国のテクノロジーを利用して人々を騙し取る方法"
+          "date": "2026-07-01",
+          "title": "トランプ氏の927ページに及ぶ情報開示は、ダイレクトインデックスや仮想通貨資産運用会社にとってはごく普通の火曜日に過ぎない"
         },
         {
-          "date": "2026-06-30",
-          "title": "Meta の Python への 10 年間の取り組み"
+          "date": "2026-07-01",
+          "title": "AIによる信用ラッシュが債券市場に悪影響を与えず、銀行株を押し上げている理由"
         },
         {
-          "date": "2026-06-30",
-          "title": "世界のデータセンター建設市場への投資は2031年までに3,237億2,000万米ドルに達し、CAGR 14.46%で成長 |"
+          "date": "2026-07-01",
+          "title": "12 Immigrant Founders Driving America’s A.I."
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$241.70",
-      "change": "+1.41%",
+      "price": "$242.67",
+      "change": "+0.40%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-06-30",
-          "title": "CIA長官、最先端AIを核兵器に喩える"
+          "date": "2026-07-01",
+          "title": "Amazon Bedrock AgentCore がデフォルトのランタイムクォータ制限を引き上げる"
         },
         {
-          "date": "2026-06-30",
-          "title": "すべてのスタック操作で CloudFormation と CDK のデプロイ前検証を行うことで、インフラストラクチャをより迅速に出荷します"
+          "date": "2026-07-01",
+          "title": "Microsoft Security 2026 年 6 月: 新機能とパッチ火曜日の記録"
         },
         {
-          "date": "2026-06-30",
-          "title": "AWS CloudFormation Express モードでインフラストラクチャのデプロイを最大 4 倍加速します"
+          "date": "2026-07-01",
+          "title": "予備のコンピューティング能力を販売して AI 収益を生み出すメタ探索オプション"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$294.38",
-      "change": "+1.73%",
+      "price": "$308.63",
+      "change": "+4.84%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-06-30",
-          "title": "Microsoft、Dellの699ドルの新型ノートPCを宣伝してAppleのMacBook Neoに反撃"
+          "date": "2026-07-01",
+          "title": "ベスト バックリンク API 6 つについて私が思うこと: 私の正直な比較"
         },
         {
-          "date": "2026-06-30",
-          "title": "人間と AI のインタラクションを設計するための 39 の原則"
+          "date": "2026-07-01",
+          "title": "再設計されたM7 MacBook Proが驚くほど間もなく発売される可能性がある"
         },
         {
-          "date": "2026-06-30",
-          "title": "Motorola G Stylus 2026 レビュー"
+          "date": "2026-07-01",
+          "title": "Honor Magic V6 レビュー: 素晴らしいデザイン、ひどいタイミング、そしてなぜ待つ必要があるのか"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$197.58",
-      "change": "-1.25%",
+      "price": "$194.83",
+      "change": "-1.39%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-06-30",
-          "title": "推論チップのスタートアップ Etched が 8 億ドルの資金を調達して発足"
+          "date": "2026-07-01",
+          "title": "オープンソース クラウドの需要が急増する中、Togetter AI がシリーズ C で 8 億ドルを調達"
         },
         {
-          "date": "2026-06-30",
-          "title": "OpenAI は Nvidia GPU 効率により推論コストを 50% 以上削減: 情報"
+          "date": "2026-07-01",
+          "title": "Nvidia のサイレント AI 植民地主義が東アジアを化石燃料地獄に閉じ込めている"
         },
         {
-          "date": "2026-06-30",
-          "title": "AI エージェントの強化: CoreWeave による Nvidia Vera Rubin の検証は、ラックスケール コンピューティングの新たな章を示唆しています"
+          "date": "2026-07-01",
+          "title": "SIGGRAPH 2026 は、コンピューター グラフィックス、シミュレーション、創造的な表現を通じてロボット工学の未来を探ります"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$384.28",
-      "change": "+3.02%",
+      "price": "$390.49",
+      "change": "+1.62%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-06-30",
-          "title": "トレーダーたちはリサ・スーに大きく賭ける: なぜこの大手チップ企業が Nvidia のデータセンターの支配力を吸い上げようとしているのか"
+          "date": "2026-07-01",
+          "title": "予備のコンピューティング能力を販売して AI 収益を生み出すメタ探索オプション"
         },
         {
-          "date": "2026-06-30",
-          "title": "一人の人は朝食前に何本のアプリに依存していますか?"
+          "date": "2026-07-01",
+          "title": "メタ、クラウド事業で大手テクノロジー企業のライバルに対抗する計画"
         },
         {
-          "date": "2026-06-30",
-          "title": "この銘柄は2026年下半期を支配するだろう"
+          "date": "2026-07-01",
+          "title": "ウォール街はこのAI大国に対して目標株価を引き上げ続けている"
         }
       ]
     }

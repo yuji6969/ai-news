@@ -1,28 +1,24 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$359.91",
-      "change": "-0.36%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$366.46",
+      "change": "+1.82%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-07-04",
-          "title": "Meta の次の AI への賭けには、投資家にとって大きな落とし穴が 1 つあります"
+          "date": "2026-07-05",
+          "title": "Anthropic がエンタープライズ AI 開発における Alphabet Inc. (GOOGL) の Google Cloud の位置付けを強化"
         },
         {
-          "date": "2026-07-04",
-          "title": "疑惑の帝国、利便性の同盟国：インドから見た250年のアメリカ"
-        },
-        {
-          "date": "2026-07-04",
-          "title": "FactSet が Google Cloud (GOOGL) と提携して Gemini AI を金融プラットフォームに統合"
+          "date": "2026-07-05",
+          "title": "「AIは本物だが、バリュエーションはバブルだ」上昇相場は持続可能なのか、もしそれが崩れたらインドの投資家はどうなるのか？"
         }
       ]
     },
@@ -30,24 +26,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$582.90",
-      "change": "-4.90%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$600.29",
+      "change": "+2.98%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-07-04",
-          "title": "アリババがクロードコードを禁止：バックドアの恐怖を解説"
+          "date": "2026-07-05",
+          "title": "テキサス州のデータセンターのパワーブームに乗る5つのエネルギー株"
         },
         {
-          "date": "2026-07-04",
-          "title": "Meta の次の AI への賭けには、投資家にとって大きな落とし穴が 1 つあります"
+          "date": "2026-07-05",
+          "title": "Alphabet、Amazon、Meta、Microsoft、Oracle による AI 設備投資は 2027 年までに米国 GDP の 3% に達する見込み"
         },
         {
-          "date": "2026-07-04",
-          "title": "ピークレベルから35％下落したにもかかわらず、アームが強い買い手である理由"
+          "date": "2026-07-05",
+          "title": "中国の新たな規則が侵害される中、バイトダンスとアリババがカスタムAIコンパニオンを殺害"
         }
       ]
     },
@@ -55,24 +51,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$242.67",
-      "change": "+0.40%",
+      "price": "$244.16",
+      "change": "+0.61%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-07-04",
-          "title": "AgentCore Gatewayの推論ターゲットを試してみました"
+          "date": "2026-07-05",
+          "title": "十分な電力を確保するための大手ハイテク企業の 3 兆ドル規模の闘争"
         },
         {
-          "date": "2026-07-04",
-          "title": "取締役会メンバーが最新のデジタル ガバナンス エクスペリエンスに期待していること"
+          "date": "2026-07-05",
+          "title": "十分な電力を確保するための大手ハイテク企業の 3 兆ドル規模の闘争"
         },
         {
-          "date": "2026-07-03",
-          "title": "すべての施設管理者が安全システムについて知っておくべきこと"
+          "date": "2026-07-05",
+          "title": "AmazonがMechanical Turkの新規顧客受け入れを停止、ブロックチェーンベースの代替手段への扉を開く"
         }
       ]
     },
@@ -80,24 +76,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$308.63",
-      "change": "+4.84%",
+      "price": "$312.66",
+      "change": "+1.31%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-07-04",
-          "title": "新しいラップトップまたはデスクトップで大金を節約して、今年の独立記念日を祝いましょう"
+          "date": "2026-07-05",
+          "title": "残りの 50 以上の独立記念日のテレビ セールで、真夜中までに最大 1,500 ドル節約できます"
         },
         {
-          "date": "2026-07-04",
-          "title": "iPhone 18eとiPhone 18には9GB RAMが搭載されるが、2つの機能は利用できない"
+          "date": "2026-07-05",
+          "title": "HP、LG、Samsung などのテクノロジーが最大 50% オフになる Amazon の独立記念日セールの最終募集"
         },
         {
-          "date": "2026-07-04",
-          "title": "13インチ M4 iPad Air 512GB が 230 ドルオフ"
+          "date": "2026-07-05",
+          "title": "Apple の iPhone 18 Pro の価格戦略: 価格引き上げが予想よりも小さい理由"
         }
       ]
     },
@@ -105,24 +101,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$194.83",
-      "change": "-1.39%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$195.55",
+      "change": "+0.37%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-07-04",
-          "title": "現在購入できる最高の AI ノートパソコン"
+          "date": "2026-07-05",
+          "title": "AMDとIntelは2026年上半期にNvidiaを潰し、その波及効果は仮想通貨にも及ぶ"
         },
         {
-          "date": "2026-07-04",
-          "title": "llmviz が PyPI に追加されました"
+          "date": "2026-07-05",
+          "title": "Nero AI Motion Tracker v1.3.5.0 クラック済み"
         },
         {
-          "date": "2026-07-04",
-          "title": "2026 年のヒューマノイド ロボット: 知っておくべき AI ロボットの最大の進歩"
+          "date": "2026-07-05",
+          "title": "NVIDIA RTX 3060 12GB が Newegg で 329 ドルで発見され、再発売が確認されました"
         }
       ]
     },
@@ -130,24 +126,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$390.49",
-      "change": "+1.62%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$386.74",
+      "change": "-0.96%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-07-04",
-          "title": "ミストラルAIとは何ですか？ "
+          "date": "2026-07-05",
+          "title": "GitHub - Auto-Explore/GitComet: GitComet は、GIT ワークフロー用の最速のオープンソース ユーザー インターフェイスです。"
         },
         {
-          "date": "2026-07-03",
-          "title": "初期のスノーフレーク投資家が 50% の回復を達成"
+          "date": "2026-07-05",
+          "title": "クロードが Microsoft Foundry の GA を達成: ヨーロッパの企業は Microsoft Foundry を導入できない"
         },
         {
-          "date": "2026-07-03",
-          "title": "アンスロピック、カスタムAIチップ開発でサムスンと協議中"
+          "date": "2026-07-05",
+          "title": "クロードが Microsoft Foundry の GA を達成: ヨーロッパの企業は Microsoft Foundry を導入できない"
         }
       ]
     }

@@ -1,28 +1,28 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$367.03",
-      "change": "+0.16%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$361.92",
+      "change": "-1.39%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-07-06",
-          "title": "米国の新しい AI 発電所はオーストラリアと同等の排出量を生み出す"
+          "date": "2026-07-07",
+          "title": "ジム・クレイマー氏、サムスンに対する市場の反応はAIのリーダーシップの変化を示唆している可能性があると語る"
         },
         {
-          "date": "2026-07-06",
-          "title": "S&P 500 の株価収益率は 22 倍で割高に見えます。"
+          "date": "2026-07-07",
+          "title": "アルファベット vs."
         },
         {
-          "date": "2026-07-06",
-          "title": "Microsoft が決して語らなかった Windows 11 の 35 の隠れた機能"
+          "date": "2026-07-07",
+          "title": "アマゾンは債券売却で250億ドルの調達を目指しているとブルームバーグニュースが報じた"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$615.58",
-      "change": "+2.55%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$603.12",
+      "change": "-2.02%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-07-06",
-          "title": "ソフトウェア エンジニアは、急成長している企業で働くことで、依然として大金を稼ぐことができます"
+          "date": "2026-07-07",
+          "title": "億万長者のサマーキャンプが始まり、ハイテクリーダーと超富裕層がアイダホ州の田舎にやってくる"
         },
         {
-          "date": "2026-07-06",
-          "title": "複数年の設備投資サイクルを促進する AI インフラストラクチャの需要: Seseri"
+          "date": "2026-07-07",
+          "title": "Apple は真にパーソナルな AI を私たちに提供してくれるでしょうか?"
         },
         {
-          "date": "2026-07-06",
-          "title": "マイクロソフト、4,800人の人員削減、Xbox本体の全面見直しへ"
+          "date": "2026-07-07",
+          "title": "中国はAI輸出に対する静かな取り締まりで米国に倣う可能性がある"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$245.98",
-      "change": "+0.75%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$243.62",
+      "change": "-0.96%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-07-06",
-          "title": "ワンクリックで顔のハグから Amazon SageMaker Studio へ"
+          "date": "2026-07-07",
+          "title": "Amazon、AIインフラに資金を提供するために250億ドルの債券販売を開始"
         },
         {
-          "date": "2026-07-06",
-          "title": "モデルに忘れるように教える: Amazon Nova を使用した選択的アンラーニング"
+          "date": "2026-07-07",
+          "title": "アマゾン ウェブ サービス、オープン データ アクセスのレジストリ用の MCP サーバーを起動"
         },
         {
-          "date": "2026-07-06",
-          "title": "Amazon SageMaker HyperPod が、細分化されたプレフィルとデコードをサポートするようになりました"
+          "date": "2026-07-07",
+          "title": "Amazon S3 Vectors が AWS GovCloud (米国) リージョンで利用可能になりました"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$310.66",
-      "change": "-0.64%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$313.39",
+      "change": "+0.88%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-07-06",
-          "title": "レポート: 2026 年第 1 四半期の Edge AI スマートウォッチ出荷のほぼすべてを Apple Watch が占めました"
+          "date": "2026-07-07",
+          "title": "テストされレビューされた、2026 年の最高のフィットネス トラッカー"
         },
         {
-          "date": "2026-07-06",
-          "title": "Siri AI が watchOS 27 Beta 3 で Apple Watch に登場"
+          "date": "2026-07-07",
+          "title": "写真"
         },
         {
-          "date": "2026-07-06",
-          "title": "watchOS 27 は Apple Watch に 3 つの新しいヘルスアップグレードを追加します"
+          "date": "2026-07-07",
+          "title": "Navee のサマー セールでは、電動スーパースクーター UT5 Max をプライムデーの最安値の 1,300 ドルから継続、さらに価格は 420 ドルから"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$196.93",
-      "change": "+0.71%",
+      "price": "$204.12",
+      "change": "+3.65%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-07-06",
-          "title": "AMDの市場評価額は2026年末までに1兆ドルに達する可能性がある"
+          "date": "2026-07-07",
+          "title": "クレイマー氏は、在庫の遅れにもかかわらず、すべては依然としてNvidiaを中心に展開していると語る"
         },
         {
-          "date": "2026-07-06",
-          "title": "SIGGRAPH 2026、グラフィックス、AI、シミュレーションの未来を紹介するスポンサー付きの基調講演を発表"
+          "date": "2026-07-07",
+          "title": "エージェント AI 時代にストレージが推進される"
         },
         {
-          "date": "2026-07-06",
-          "title": "不均一なテンソル並列処理による大規模 LLM トレーニングでのグッドプットの強化"
+          "date": "2026-07-07",
+          "title": null
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$388.84",
-      "change": "+0.54%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$383.34",
+      "change": "-1.41%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-07-06",
-          "title": "4sysops のカスタマイズ: AI 検索、ホームページ フィルター、パーソナライズされたニュースレター"
+          "date": "2026-07-07",
+          "title": "Palantir CEO の Alex Karp 氏は、Anthropic と OpenAI がほとんどの企業にもたらす脅威について間違っています。"
         },
         {
-          "date": "2026-07-06",
-          "title": "Microsoft、Xbox部門のリセットの中で4,800人を削減、テクノロジー業界の広範なAIへの転換を示唆"
+          "date": "2026-07-07",
+          "title": "Microsoft、一部のアプリで OpenAI と Anthropic を独自の AI に置き換え始める"
         },
         {
-          "date": "2026-07-06",
-          "title": "Show HN: Loopers – AI エージェント ランタイム用のオープンソースのフェールクローズ ファイアウォール"
+          "date": "2026-07-07",
+          "title": "トランプ大統領は最も話題のAI企業を3週間禁止した。"
         }
       ]
     }

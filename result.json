@@ -1,28 +1,28 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$361.92",
-      "change": "-1.39%",
+      "price": "$358.89",
+      "change": "-0.84%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-07-07",
-          "title": "ジム・クレイマー氏、サムスンに対する市場の反応はAIのリーダーシップの変化を示唆している可能性があると語る"
+          "date": "2026-07-08",
+          "title": "「プロジェクト・ニンバスをやめろ！」：「AI for Good」サミットでアマゾン大量虐殺共謀の抗議者が絞め刑に処せられる"
         },
         {
-          "date": "2026-07-07",
-          "title": "アルファベット vs."
+          "date": "2026-07-08",
+          "title": "AIの国境を越えた拡張に伴い、Metaはカナダ初の大規模データセンターを建設中"
         },
         {
-          "date": "2026-07-07",
-          "title": "アマゾンは債券売却で250億ドルの調達を目指しているとブルームバーグニュースが報じた"
+          "date": "2026-07-08",
+          "title": "アマゾンの250億ドルの「サプライズ」債券販売は、買い手を呼び込むために追加利回りをぶら下げ、AIブームに関する警告信号を点滅させた"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$603.12",
-      "change": "-2.02%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$631.48",
+      "change": "+4.70%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-07-07",
-          "title": "億万長者のサマーキャンプが始まり、ハイテクリーダーと超富裕層がアイダホ州の田舎にやってくる"
+          "date": "2026-07-08",
+          "title": "メタはカナダ初のデータセンターに100億ドルの投資を計画"
         },
         {
-          "date": "2026-07-07",
-          "title": "Apple は真にパーソナルな AI を私たちに提供してくれるでしょうか?"
+          "date": "2026-07-08",
+          "title": "メタ、米国外では最大規模となるカナダ初のAIデータセンター建設に数十億ドルを計画"
         },
         {
-          "date": "2026-07-07",
-          "title": "中国はAI輸出に対する静かな取り締まりで米国に倣う可能性がある"
+          "date": "2026-07-08",
+          "title": "Meta はアルバータ州にカナダ初のデータセンターを建設中です。"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$243.62",
-      "change": "-0.96%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$247.04",
+      "change": "+1.40%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-07-07",
-          "title": "Amazon、AIインフラに資金を提供するために250億ドルの債券販売を開始"
+          "date": "2026-07-08",
+          "title": "AWS と Anthropic が Amazon Bedrock 用の Claude Apps Gateway を開始し、企業が AI 支出をより厳しく管理できるようになります"
         },
         {
-          "date": "2026-07-07",
-          "title": "アマゾン ウェブ サービス、オープン データ アクセスのレジストリ用の MCP サーバーを起動"
+          "date": "2026-07-08",
+          "title": "AWS 向け Claude アプリ ゲートウェイの紹介"
         },
         {
-          "date": "2026-07-07",
-          "title": "Amazon S3 Vectors が AWS GovCloud (米国) リージョンで利用可能になりました"
+          "date": "2026-07-08",
+          "title": "SE Radio 728: AI エージェント向けの AWS Strands SDK についての Clare Liguori"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$313.39",
-      "change": "+0.88%",
+      "price": "$316.22",
+      "change": "+0.90%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-07-07",
-          "title": "テストされレビューされた、2026 年の最高のフィットネス トラッカー"
+          "date": "2026-07-08",
+          "title": "Apple、iOS 27、macOS Golden Gate、watchOS 27 などのベータ 3 をリリース: ここにすべての新機能"
         },
         {
-          "date": "2026-07-07",
-          "title": "写真"
+          "date": "2026-07-08",
+          "title": "追跡から逃れるためにスマート TV ダンバーを作りました。"
         },
         {
-          "date": "2026-07-07",
-          "title": "Navee のサマー セールでは、電動スーパースクーター UT5 Max をプライムデーの最安値の 1,300 ドルから継続、さらに価格は 420 ドルから"
+          "date": "2026-07-08",
+          "title": "Samsung の Galaxy Unpacked 2026 年夏までにすべてがリークされ、1 つの交換が私を壁に突き上げる"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$204.12",
-      "change": "+3.65%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$202.78",
+      "change": "-0.66%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-07-07",
-          "title": "クレイマー氏は、在庫の遅れにもかかわらず、すべては依然としてNvidiaを中心に展開していると語る"
+          "date": "2026-07-08",
+          "title": "BofA、NVIDIA 株は 7 年ぶりの低評価で魅力的な購入機会と主張"
         },
         {
-          "date": "2026-07-07",
-          "title": "エージェント AI 時代にストレージが推進される"
+          "date": "2026-07-08",
+          "title": "Topaz ビデオ – 詳細レビュー"
         },
         {
-          "date": "2026-07-07",
-          "title": null
+          "date": "2026-07-08",
+          "title": "Solidigm は、エージェント推論がストレージを表舞台に押し上げ、インテリジェンス層をターゲットにしています"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$383.34",
-      "change": "-1.41%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$384.36",
+      "change": "+0.27%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-07-07",
-          "title": "Palantir CEO の Alex Karp 氏は、Anthropic と OpenAI がほとんどの企業にもたらす脅威について間違っています。"
+          "date": "2026-07-08",
+          "title": "社内規程からAIが実務型テストを自動生成「ISMS/PMS AIオンラインテストシステム」を2026年8月末にリリース"
         },
         {
-          "date": "2026-07-07",
-          "title": "Microsoft、一部のアプリで OpenAI と Anthropic を独自の AI に置き換え始める"
+          "date": "2026-07-08",
+          "title": "Google vs. Microsoft: AI 経済戦争には明らかな勝者 (そして明確な買い手)"
         },
         {
-          "date": "2026-07-07",
-          "title": "トランプ大統領は最も話題のAI企業を3週間禁止した。"
+          "date": "2026-07-08",
+          "title": "AI ネイティブのクラウド アーキテクチャの説明"
         }
       ]
     }

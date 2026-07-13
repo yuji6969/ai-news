@@ -1,28 +1,28 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$357.18",
-      "change": "-0.48%",
+      "price": "$352.51",
+      "change": "-1.31%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-07-11",
-          "title": "ジム・クレイマー氏、投資家はマグ7を完全に誤解していると語る"
+          "date": "2026-07-12",
+          "title": "AIバブルはもうすぐ崩壊するのか？"
         },
         {
-          "date": "2026-07-11",
-          "title": "前任者のウォーレン・バフェット氏がアップルに賭けた後、バークシャーCEOのグレッグ・エイベル氏が選ぶ最良の銘柄はグーグルになるだろうか？"
+          "date": "2026-07-12",
+          "title": "Alphabet Inc. (GOOGL) D.E. Shaw’s Holdings のトップ AI 株"
         },
         {
-          "date": "2026-07-10",
-          "title": "アルファベットは必要なかった: XLK のリターンは 29.35%、GOOGL の 14.26%"
+          "date": "2026-07-12",
+          "title": "SpaceX の Starmind プロジェクトが Amazon や Google などのクラウド巨人を脅かす"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$669.21",
-      "change": "+5.97%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$656.73",
+      "change": "-1.86%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-07-11",
-          "title": "アンクル・サムがベンチャーキャピタリストに転向すると、何が問題になるでしょうか?"
+          "date": "2026-07-12",
+          "title": "AIバブルはもうすぐ崩壊するのか？"
         },
         {
-          "date": "2026-07-11",
-          "title": "Nvidia、CoreWeave、Nebius: GPU ブームの循環資金調達の内部"
+          "date": "2026-07-12",
+          "title": "Meta Platforms Inc. (META) は D.E. Shaw’s Holdings のトップ AI 銘柄です"
         },
         {
-          "date": "2026-07-11",
-          "title": "アマゾンはAIに多額の資金を投じているため、現金でも十分ではない。"
+          "date": "2026-07-12",
+          "title": "米国経済は AI 支出に中毒になっています。"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$245.34",
-      "change": "-0.69%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$247.31",
+      "change": "+0.80%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-07-11",
-          "title": "ジム・クレイマー氏、投資家はマグ7を完全に誤解していると語る"
+          "date": "2026-07-12",
+          "title": "Meta は AI への支出で 1 年間罰を受けました。"
         },
         {
-          "date": "2026-07-11",
-          "title": "、Amazon (AMZN)、エージェントティック AI 導入のための戦略的コラボレーションを拡大"
+          "date": "2026-07-12",
+          "title": "アマゾンは5万7000人の雇用を削減、雇用を維持した人々も元気ではない"
         },
         {
-          "date": "2026-07-11",
-          "title": "Kyndryl と Amazon が提携してエージェント AI の導入を推進"
+          "date": "2026-07-12",
+          "title": "ウォール街のトップアナリストはこれら3銘柄が長期的に続くことに自信を持っている"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$315.32",
-      "change": "-0.28%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$317.31",
+      "change": "+0.63%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-07-11",
-          "title": "トム・ハンクスの第二次世界大戦を描いた全 10 部構成の傑作がストリーミングで止まらない統治を続ける"
+          "date": "2026-07-12",
+          "title": "サンボックスのレビュー"
         },
         {
-          "date": "2026-07-11",
-          "title": "Apple、大ヒット事件でOpenAIを営業秘密窃盗で提訴"
+          "date": "2026-07-12",
+          "title": "TwoMillionKit: 資格なしで MacOS 27 Foundation モデルでプライベート クラウド コンピューティングを使用する"
         },
         {
-          "date": "2026-07-11",
-          "title": "Web プラットフォーム上で AI を使用して AAA 品質のゲームを作成できますか?"
+          "date": "2026-07-12",
+          "title": "Todoist 対 TickTick (2026): どちらが価値があるでしょうか?"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$210.96",
-      "change": "+4.03%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$203.53",
+      "change": "-3.52%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-07-11",
-          "title": "噂されている AMD RDNA 5 の仕様は、パフォーマンスが大幅に向上していることを示していますが、ある詳細が眉をひそめています"
+          "date": "2026-07-12",
+          "title": "オーレリアン・ボンパール: 7月6日から7月12日まで"
         },
         {
-          "date": "2026-07-11",
-          "title": "快適-居心地の良い 5.7.0"
+          "date": "2026-07-12",
+          "title": "サムスンはPC用の専用AIチップを開発しており、HPとレノボはすでにそれをテストしている"
         },
         {
-          "date": "2026-07-11",
-          "title": "AI貿易の焦点はチップからインフラストラクチャに移り、2つの銘柄が利益を上げている"
+          "date": "2026-07-12",
+          "title": "Lenovo の Legion 7a ゲーミング ラップトップには、RTX 5070 12GB GPU オプションが付属しています。ただし、Ryzen AI 9 CPU との組み合わせの価格は 3,375 ドルで、以前は SKU が RTX 5060 に限定されていました。"
         }
       ]
     },
@@ -130,8 +130,8 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$385.10",
-      "change": "+0.19%",
+      "price": "$390.99",
+      "change": "+1.53%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",

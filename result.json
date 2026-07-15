@@ -1,28 +1,28 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$359.51",
-      "change": "+1.99%",
+      "price": "$370.92",
+      "change": "+3.17%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-07-13",
-          "title": "ジム・クレイマー氏、最近の苦戦にもかかわらず、市場で大きな勝者を見つけるには依然としてテクノロジーが最適な場所であると語る"
+          "date": "2026-07-14",
+          "title": "S&P、オラクルをBBBに格下げ – ジャンクレベルからわずか1ノッチ上"
         },
         {
-          "date": "2026-07-13",
-          "title": "AI関連の負債が1.2兆ドルに達し、財務安定性への懸念が高まる"
+          "date": "2026-07-14",
+          "title": "ケビン・ウォーシュ氏は、FRBは高インフレとトランプ大統領の圧力に対して「容認できない」と述べながらも、FRBが利上げを完了したかどうかについては語らない"
         },
         {
-          "date": "2026-07-13",
-          "title": "Google、TPU 販売活動で Nvidia 顧客をターゲットに、AI チップ戦争の大きな変化を示唆"
+          "date": "2026-07-14",
+          "title": "ヘッジファンドによると、アルファベット（GOOGL）が購入するのに最適な独占銘柄の1つである理由は次のとおりです"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$661.04",
-      "change": "+0.66%",
+      "price": "$681.31",
+      "change": "+3.07%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-07-13",
-          "title": "AI は企業の PPC フルフィルメントの向上に役立つでしょうか?"
+          "date": "2026-07-14",
+          "title": "Meta AI のモデルはアジア物理オリンピックの理論試験で 30/30 点満点を獲得"
         },
         {
-          "date": "2026-07-13",
-          "title": "AI関連の負債が1.2兆ドルに達し、財務安定性への懸念が高まる"
+          "date": "2026-07-14",
+          "title": "PJMは電力供給目標を達成できず、原子炉7基相当の容量が不足"
         },
         {
-          "date": "2026-07-13",
-          "title": "AP テクノロジー概要ブリーフ (東部夏時間午前 10 時 16 分)"
+          "date": "2026-07-14",
+          "title": "マイクロンの2,500億ドル投資が半導体セクターを後押しし、米国株が上昇"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$247.49",
-      "change": "+0.07%",
+      "price": "$254.96",
+      "change": "+3.02%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-07-13",
-          "title": "OpenAI GPT-5.6 Sol、Terra、および Luna が Amazon Bedrock で一般入手可能になりました"
+          "date": "2026-07-14",
+          "title": "AWS Security Hub は、ネイティブの Azure モニタリングと AI ワークロード保護を追加します"
         },
         {
-          "date": "2026-07-13",
-          "title": "Show HN: BillAI Bass、ストランド エージェントを使用した AI 搭載のビッグマウス ビリー バス"
+          "date": "2026-07-14",
+          "title": "Amazon EC2 M8in、M8idn、M8ib、M8idb インスタンスが追加のリージョンで利用可能になりました"
         },
         {
-          "date": "2026-07-13",
-          "title": "Amazon SQS が 20 周年を迎える: 20 年にわたる大規模な信頼性の高いメッセージング"
+          "date": "2026-07-14",
+          "title": "PyPI にシードデータが追加されました"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$314.86",
-      "change": "-0.77%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$327.50",
+      "change": "+4.01%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-07-13",
-          "title": "iOS 27のパブリックベータ版が到着、信頼できるほど安定している"
+          "date": "2026-07-14",
+          "title": "OpenAI初のハードウェアデバイスは半分スピーカー、半分ロボットのように聞こえる"
         },
         {
-          "date": "2026-07-13",
-          "title": "Siri AI、プラットフォームの改善などを備えた OS 27 パブリック ベータ版がリリースされました"
+          "date": "2026-07-14",
+          "title": "OpenAI がスマート スピーカー パーティーに参加: Amazon、Google、Apple に続いて AI コンパニオン時代へ"
         },
         {
-          "date": "2026-07-13",
-          "title": "4 つの簡単なステップで iOS 27 パブリック ベータ版をダウンロード"
+          "date": "2026-07-14",
+          "title": "Preymaker が VFX クリエイティブのテウンス ヴァン レンズバーグとロバート ブルースを歓迎"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$211.80",
-      "change": "+4.06%",
+      "price": "$212.50",
+      "change": "+0.33%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-07-13",
-          "title": "Nvidia、ソフトウェアの最適化によりトークンのスループットを 5 倍に向上、AI 推論の経済性を再構築"
+          "date": "2026-07-14",
+          "title": "Linux 開発者 Linus Torvalds の今日の言葉: 「NVIDIA は、これまで我々が取引した中で最悪の企業だ」 - 壁に囲まれた庭園で不満を発散"
         },
         {
-          "date": "2026-07-13",
-          "title": "エージェント スキルを使用した 1 日での NVIDIA Cosmos 3 のポストトレーニング"
+          "date": "2026-07-14",
+          "title": "OLED で RTX HDR を試した後、すべてのゲームでネイティブ HDR を無効にしましたが、元に戻りません"
         },
         {
-          "date": "2026-07-13",
-          "title": "RL エージェント スキルと NVIDIA NeMo を使用して自動調査ワークフローを実行する方法"
+          "date": "2026-07-14",
+          "title": "RAM の価格は依然として異常だったので、ChatGPT、Claude、Gemini に 1,500 ドルの PC を作ってもらいました。成功したのは 1 台だけでした"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$384.93",
-      "change": "-1.55%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$395.63",
+      "change": "+2.78%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-07-13",
-          "title": "異常検知から初動対応までを自動化する「MF自己防御型サーバ統合監視システム」を8月31日に正式リリース"
+          "date": "2026-07-14",
+          "title": "2026 年 7 月の Microsoft パッチ火曜日 — Snort ルールと顕著な脆弱性"
         },
         {
-          "date": "2026-07-13",
-          "title": "サティア・ナデラ氏は、AI を使用する企業に衝撃的な警告を発しました。"
+          "date": "2026-07-14",
+          "title": "Microsoft 2026 年 7 月のパッチ火曜日、大規模な 570 件の欠陥、3 件のゼロデイを修正"
         },
         {
-          "date": "2026-07-13",
-          "title": "ナデラ氏、AI には 2 回支払う、マイクロソフトは罠の構築に協力したと語る"
+          "date": "2026-07-14",
+          "title": "メタ株は3週間で21％急騰：シェイ・ボロア氏はメタ株を「市場の最新の最愛株」と呼ぶ"
         }
       ]
     }

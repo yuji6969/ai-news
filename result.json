@@ -1,28 +1,28 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$346.77",
-      "change": "-2.17%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$351.99",
+      "change": "+1.51%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-07-18",
-          "title": "インテルとグーグルはチップ設計におけるAI連携を強化"
+          "date": "2026-07-19",
+          "title": "バンク・オブ・アメリカ、決算を前にグーグル株の株式を2倍に"
         },
         {
-          "date": "2026-07-18",
-          "title": "バークシャーはポートフォリオの30％をアップルに投資している、アルファベット：専門家は個人投資家にとって「適切な戦略」ではないと言うが…"
+          "date": "2026-07-19",
+          "title": "ウォーレン・バフェット氏、バークシャーのアルファベット株購入は「私が始めた」と称賛"
         },
         {
-          "date": "2026-07-18",
-          "title": "アルファベットの800億ドルの株式調達はAIブームによる巨額の資本需要に焦点を当てる"
+          "date": "2026-07-19",
+          "title": "バンク・オブ・アメリカ、決算を前にグーグル株を倍増"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$646.01",
-      "change": "-2.79%",
+      "price": "$645.85",
+      "change": "-0.02%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-07-18",
-          "title": "AI データセンターは悪役ではなくヒーローです"
+          "date": "2026-07-19",
+          "title": "Nebius Group は本当に 2030 年までに 10 倍になれるでしょうか?"
         },
         {
-          "date": "2026-07-18",
-          "title": "AI 投資家は選り好みを強めています。 "
+          "date": "2026-07-19",
+          "title": "ゴールドマン・サックス、AI の債務津波について警告 — AI ブームはあるのか?"
         },
         {
-          "date": "2026-07-18",
-          "title": "AI分野におけるAppleの立場に対する感情は変化しており、同社は競合他社に比べて「設備投資の影響が少ない」ため、収益化の優位性が得られているとアナリストは語る"
+          "date": "2026-07-19",
+          "title": "心配な投資家が2026年の残り期間、アマゾンではなくアップルを買うべき理由"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$247.23",
-      "change": "-1.06%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$249.99",
+      "change": "+1.12%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-07-18",
-          "title": "ドミエッタ・ルケティック氏、トムソン・ロイターのラテンアメリカ担当マーケティング戦略担当副社長に任命 - 欧州の報道"
+          "date": "2026-07-19",
+          "title": "ショックを受けた AWS 顧客は天文学的な請求額の見積もりを受け取る"
         },
         {
-          "date": "2026-07-18",
-          "title": "成功を加速する: ラマー大学のオンライン MBA"
+          "date": "2026-07-19",
+          "title": "Amazonの数兆ドルの設備投資ギャンブル vs Shopifyの無駄のない収益性戦略"
         },
         {
-          "date": "2026-07-18",
-          "title": "AI市場におけるメタ、人類の爆弾ニュース"
+          "date": "2026-07-19",
+          "title": "AI の才能に関する説明が間違っているため、Alphabet の購入をやめられない"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$333.74",
-      "change": "+0.14%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$326.59",
+      "change": "-2.14%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-07-18",
-          "title": "AIマニアが世界的な意思決定を骨抜きにしている"
+          "date": "2026-07-19",
+          "title": "もう無理をする必要はありません — Arc Search は AI をブラウザー エクスペリエンスの中心に置きます"
         },
         {
-          "date": "2026-07-18",
-          "title": "macOS ゴールデン ゲート 27.0 パブリック ベータ 1"
+          "date": "2026-07-19",
+          "title": "退屈なコンピューティングの静かな復活: ポート、キーボード、修復可能性が再び重要になる理由"
         },
         {
-          "date": "2026-07-18",
-          "title": "中国はAIエージェントを中心にスマートフォンを再構築している。 "
+          "date": "2026-07-19",
+          "title": "Oura Ring 5 レビュー: これまでよりも薄く、長持ちし、優れています"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$202.81",
-      "change": "-2.21%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$203.28",
+      "change": "+0.23%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-07-18",
-          "title": "ASML、AIチップの需要が記録的な成果をもたらす中、第2四半期に16台の高度なEUVマシンを販売"
+          "date": "2026-07-19",
+          "title": "3つの主要な輸出管理法案が国防権限法で前進し、仮想通貨マイニングチップの供給を脅かす"
         },
         {
-          "date": "2026-07-18",
-          "title": "AMD、Arm、Intel がエージェント AI の王冠をめぐって争っており、勝者はチップ以上の形を変える"
+          "date": "2026-07-19",
+          "title": "ジェンセン・ファン来日後に注目すべきこと |"
         },
         {
-          "date": "2026-07-18",
-          "title": "AMD の次の再発明: AI 時代の新しい戦略"
+          "date": "2026-07-19",
+          "title": "NVIDIA RTX Spark N1X Cinebench のスコアが判明、Apple M3 MAX と一致"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$393.82",
-      "change": "-1.82%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$402.29",
+      "change": "+2.15%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-07-17",
-          "title": "HN を表示: LIA – 自己ホスト型マルチエージェント AI アシスタント (FastAPI および LangGraph)"
+          "date": "2026-07-19",
+          "title": "Power BI の Copilot: より高速でスマートなレポートを実現する AI アシスタント"
         },
         {
-          "date": "2026-07-17",
-          "title": "億万長者投資家ビル・アックマンのトップ 5 の賭け: 買うか、保留するか、それともやめるか?"
+          "date": "2026-07-19",
+          "title": "週のレビュー: 重大度の高い WordPress の脆弱性、偽の OAuth ID によるサインイン ログのバイパス"
         },
         {
-          "date": "2026-07-17",
-          "title": "AIの反発が激化し、中国は米国指導者とIBM戦車を追い詰める"
+          "date": "2026-07-19",
+          "title": "世界支出が2.5兆ドルを超える中、2026年に世界中で注目すべきAI企業トップ30"
         }
       ]
     }

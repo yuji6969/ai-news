@@ -1,28 +1,28 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$347.15",
-      "change": "-1.38%",
+      "price": "$342.09",
+      "change": "-1.46%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-07-20",
-          "title": "アルファベット社（GOOG）に対する証券詐欺捜査は続く – 損失を被った株主はフランク・R・クルーズ法律事務所に連絡するよう促される"
+          "date": "2026-07-21",
+          "title": "イーサは1.9,000ドルの抵抗を突破。 "
         },
         {
-          "date": "2026-07-20",
-          "title": "Alphabet Inc. (GOOG) の損失を被った株主 – 証券詐欺調査についてハワード G. スミス法律事務所にお問い合わせください"
+          "date": "2026-07-21",
+          "title": "AI競争が激化する中、Alphabetが3つのGeminiモデルを発売"
         },
         {
-          "date": "2026-07-20",
-          "title": "Googleは、Geminiをより効率的にするために設計された新しいAIチップの開発に取り組んでいます"
+          "date": "2026-07-21",
+          "title": "ブラックロック、カーハート、フォード、グーグルが熟練労働者向けの取り組みを開始"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$643.81",
-      "change": "-0.32%",
+      "price": "$627.17",
+      "change": "-2.58%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-07-20",
-          "title": "インデックスファンドにおけるSpaceXの説明"
+          "date": "2026-07-21",
+          "title": "AMD は、オープンソースおよびハイブリッド テクノロジのシステム戦略で AI の勢いを活用します"
         },
         {
-          "date": "2026-07-20",
-          "title": "Broadcom の AI ミックス シフト: AVGO の急成長する AI チップ ビジネスが投資理論をどう変えるか"
+          "date": "2026-07-21",
+          "title": "買うべき半導体株5銘柄と無視すべき半導体株1銘柄"
         },
         {
-          "date": "2026-07-20",
-          "title": "インテル (INTC) 株は第 2 四半期決算前に買いですか?"
+          "date": "2026-07-21",
+          "title": "SKハイニックスはAIブームのさなか米国から収益の65%を生み出しており、仮想通貨マイナーは購入しているわけではない"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$247.55",
-      "change": "-0.98%",
+      "price": "$244.85",
+      "change": "-1.09%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-07-20",
-          "title": "Amazon GuardDuty 調査エージェントの紹介: オンデマンドの AI を活用した脅威評価"
+          "date": "2026-07-21",
+          "title": "Temporal はエンタープライズ AI エージェントの背後にある混乱に対処します"
         },
         {
-          "date": "2026-07-20",
-          "title": "Amazon、誤ってAWSユーザーに10億ドルの請求書をぶつける"
+          "date": "2026-07-21",
+          "title": "米国の議員らは大手テクノロジー企業への攻撃疑惑でEUの処罰を求める"
         },
         {
-          "date": "2026-07-20",
-          "title": "Amazon EC2 R8i および R8i-flex インスタンスが追加のリージョンで利用可能になりました"
+          "date": "2026-07-21",
+          "title": "Amazon RDS が Microsoft SQL Server 2025 のサポートを追加"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$327.74",
-      "change": "+0.35%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$325.89",
+      "change": "-0.56%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-07-20",
-          "title": "iOS 27 ベータ 4 アップデートが iPhone および iPad にダウンロード可能"
+          "date": "2026-07-21",
+          "title": "★ 欧州委員会: 「Android 上の AI の相互運用性と Google 検索の共有に関する Google へのガイダンス」"
         },
         {
-          "date": "2026-07-20",
-          "title": "スマートホームジムはますます賢くなっています: これらの専門家が選ぶものは一銭の価値もありません"
+          "date": "2026-07-21",
+          "title": "Apple、Intel、Nvidia を放っておいても大丈夫ですか?"
         },
         {
-          "date": "2026-07-20",
-          "title": "Apple、iPhone、iPad 向け iOS 26.6 RC をリリース"
+          "date": "2026-07-21",
+          "title": "Dell Pro 5 16 (AMD) レビュー: デルのプロ ラップトップ シリーズのデスクファースト AMD オプション"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$207.29",
-      "change": "+1.97%",
+      "price": "$212.06",
+      "change": "+2.30%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-07-20",
-          "title": "AMD、MI455X と第 6 世代 EPYC を搭載した次世代 AI パワーハウス Helios を発表、NVIDIA のラックスケールの優位性に挑戦"
+          "date": "2026-07-21",
+          "title": "System76 Thelio Mira をテストしました: これは私の夢のカスタム Linux デスクトップです"
         },
         {
-          "date": "2026-07-20",
-          "title": "AMDのHeliosはNvidiaに対抗するためにオープンAIラックに大きく賭ける"
+          "date": "2026-07-21",
+          "title": "Apple、Intel、Nvidia を放っておいても大丈夫ですか?"
         },
         {
-          "date": "2026-07-20",
-          "title": "セガからのこの 500 万ドルの投資がなければ Nvidia は存在しなかったかもしれません"
+          "date": "2026-07-21",
+          "title": "AMD は、オープンソースおよびハイブリッド テクノロジのシステム戦略で AI の勢いを活用します"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$397.75",
-      "change": "-1.13%",
+      "price": "$390.34",
+      "change": "-1.86%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-07-20",
-          "title": "AMD、MI455X と第 6 世代 EPYC を搭載した次世代 AI パワーハウス Helios を発表、NVIDIA のラックスケールの優位性に挑戦"
+          "date": "2026-07-21",
+          "title": "Microsoft、Copilot のコスト削減のために中国の AI モデルの統合を評価"
         },
         {
-          "date": "2026-07-20",
-          "title": "マイクロソフトは副操縦士にGPTとクロードを中国のキミK3と交換することで6億ドルも節約しようとしているが、トランプ政権からの非難の危険を冒している"
+          "date": "2026-07-21",
+          "title": "Nvidia は、Vera Rubin がフル稼働しており、OpenAI は第 3 四半期に大規模に導入される予定であると述べています"
         },
         {
-          "date": "2026-07-20",
-          "title": "Microsoft、Anthropic テスト AMD チップとして Azure 上の AMD Helios を採用"
+          "date": "2026-07-21",
+          "title": "AMD、NVIDIA の優位性に対抗する Advancing AI Summit を準備"
         }
       ]
     }

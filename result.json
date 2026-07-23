@@ -1,28 +1,28 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$342.09",
-      "change": "-1.46%",
+      "price": "$317.69",
+      "change": "-7.13%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-07-21",
-          "title": "イーサは1.9,000ドルの抵抗を突破。 "
+          "date": "2026-07-22",
+          "title": "Google は AI コストの高騰で資金を使い果たしている"
         },
         {
-          "date": "2026-07-21",
-          "title": "AI競争が激化する中、Alphabetが3つのGeminiモデルを発売"
+          "date": "2026-07-22",
+          "title": "Googleは980億ドルの棚ぼたを一文で埋めた"
         },
         {
-          "date": "2026-07-21",
-          "title": "ブラックロック、カーハート、フォード、グーグルが熟練労働者向けの取り組みを開始"
+          "date": "2026-07-22",
+          "title": "アルファベット、AI投資は成果をあげていると語る"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$627.17",
-      "change": "-2.58%",
+      "price": "$606.10",
+      "change": "-3.36%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-07-21",
-          "title": "AMD は、オープンソースおよびハイブリッド テクノロジのシステム戦略で AI の勢いを活用します"
+          "date": "2026-07-22",
+          "title": "米国株先物はアルファベット下落、原油は上昇：市場は一巡"
         },
         {
-          "date": "2026-07-21",
-          "title": "買うべき半導体株5銘柄と無視すべき半導体株1銘柄"
+          "date": "2026-07-22",
+          "title": "米国とイランの攻撃激化で原油価格が95ドルを超え急騰"
         },
         {
-          "date": "2026-07-21",
-          "title": "SKハイニックスはAIブームのさなか米国から収益の65%を生み出しており、仮想通貨マイナーは購入しているわけではない"
+          "date": "2026-07-22",
+          "title": "すべてのスタートアップが知っておくべきマーケティングオートメーションツールトップ12"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$244.85",
-      "change": "-1.09%",
+      "price": "$233.66",
+      "change": "-4.57%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-07-21",
-          "title": "Temporal はエンタープライズ AI エージェントの背後にある混乱に対処します"
+          "date": "2026-07-22",
+          "title": "Cribl Stream を使用して Amazon CloudWatch をネイティブコネクタを超えて拡張する"
         },
         {
-          "date": "2026-07-21",
-          "title": "米国の議員らは大手テクノロジー企業への攻撃疑惑でEUの処罰を求める"
+          "date": "2026-07-22",
+          "title": "X-energy、AI加速による先進的核配備のためプロジェクト・プロメテウスに参加"
         },
         {
-          "date": "2026-07-21",
-          "title": "Amazon RDS が Microsoft SQL Server 2025 のサポートを追加"
+          "date": "2026-07-22",
+          "title": "OpenAI は AI に 7,500 億ドルを費やしたいと考えています。"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$325.89",
-      "change": "-0.56%",
+      "price": "$321.66",
+      "change": "-1.30%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-07-21",
-          "title": "★ 欧州委員会: 「Android 上の AI の相互運用性と Google 検索の共有に関する Google へのガイダンス」"
+          "date": "2026-07-22",
+          "title": "Dell Pro 7 14 AMD レビュー: 2.8 ポンドのビジネス ノートパソコンに Ryzen AI 9 HX PRO 470 を搭載"
         },
         {
-          "date": "2026-07-21",
-          "title": "Apple、Intel、Nvidia を放っておいても大丈夫ですか?"
+          "date": "2026-07-22",
+          "title": "Apple Storeアプリに間もなくAIを活用したショッピングアシスタントが搭載される可能性がある"
         },
         {
-          "date": "2026-07-21",
-          "title": "Dell Pro 5 16 (AMD) レビュー: デルのプロ ラップトップ シリーズのデスクファースト AMD オプション"
+          "date": "2026-07-22",
+          "title": "iOS 27 の CarPlay の新機能はすべてここにあります"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$212.06",
-      "change": "+2.30%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$208.76",
+      "change": "-1.56%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-07-21",
-          "title": "System76 Thelio Mira をテストしました: これは私の夢のカスタム Linux デスクトップです"
+          "date": "2026-07-22",
+          "title": "RTX 5090 GPU と 64 GB の RAM を搭載した Alienware Area-51 Ryzen X3D ゲーミング PC が 1,500 ドル割引"
         },
         {
-          "date": "2026-07-21",
-          "title": "Apple、Intel、Nvidia を放っておいても大丈夫ですか?"
+          "date": "2026-07-22",
+          "title": "Dell Pro 7 14 AMD レビュー: 2.8 ポンドのビジネス ノートパソコンに Ryzen AI 9 HX PRO 470 を搭載"
         },
         {
-          "date": "2026-07-21",
-          "title": "AMD は、オープンソースおよびハイブリッド テクノロジのシステム戦略で AI の勢いを活用します"
+          "date": "2026-07-22",
+          "title": "Prime Intellect Lab を使用して数分で NVIDIA Nemotron 3 Nano のカスタマイズを開始"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$390.34",
-      "change": "-1.86%",
+      "price": "$381.58",
+      "change": "-2.24%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-07-21",
-          "title": "Microsoft、Copilot のコスト削減のために中国の AI モデルの統合を評価"
+          "date": "2026-07-22",
+          "title": "2026 年のトップレガシーモダナイゼーションツール"
         },
         {
-          "date": "2026-07-21",
-          "title": "Nvidia は、Vera Rubin がフル稼働しており、OpenAI は第 3 四半期に大規模に導入される予定であると述べています"
+          "date": "2026-07-22",
+          "title": "AMD の Microsoft の勝利は NVIDIA に対する優位性を示しており、当社の目標価格はそれを反映しています"
         },
         {
-          "date": "2026-07-21",
-          "title": "AMD、NVIDIA の優位性に対抗する Advancing AI Summit を準備"
+          "date": "2026-07-22",
+          "title": "AMD、Anthropic に 2 ギガワットの Instinct MI450 GPU を供給 - すでに MI355X GPU を使用している Claude 開発者に最大 50 億ドルを投資する予定"
         }
       ]
     }

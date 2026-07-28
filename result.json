@@ -1,28 +1,28 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$326.56",
-      "change": "+2.13%",
+      "price": "$333.71",
+      "change": "+2.19%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-07-26",
-          "title": "アルファベット、10のプロジェクトにわたる2.4ギガワットのリースを支援、AIに軸足を置く仮想通貨マイナーとの関係を深める"
+          "date": "2026-07-27",
+          "title": "YouTube Premium には、2027 年初めから追加料金なしで Peacock が含まれます。これは Peacock にとって最大の配信契約です。"
         },
         {
-          "date": "2026-07-26",
-          "title": "S&P 500種の純利益率はアルファベット主導で2026年第2四半期に16%に達する見通し"
+          "date": "2026-07-27",
+          "title": "原油価格の急落で株価は低迷"
         },
         {
-          "date": "2026-07-26",
-          "title": "アルファベット、AI支出を増やすも依然として需要に応えられない：「我々は依然として供給制約環境にある」"
+          "date": "2026-07-27",
+          "title": "AI ベンダーはサブスクリプションから従量課金制に切り替えています。 "
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$593.87",
-      "change": "-0.22%",
+      "price": "$593.41",
+      "change": "-0.08%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-07-26",
-          "title": "ビッグテックの収益がAI支出を巡る反乱市場に激突"
+          "date": "2026-07-27",
+          "title": "ジム・クレイマー氏、AIの循環融資の熱狂はドットコムバブルを反映していると警告"
         },
         {
-          "date": "2026-07-26",
-          "title": "FRBの決定、ハイテク企業の決算、その他今週見逃せない項目"
+          "date": "2026-07-27",
+          "title": "Nvidia、5,000億ドルのOpenAIデータセンターを支援するために交渉中 — CEOのジェンスン・ファンが中国で使用され物議を醸しているオープンソースAIへの支持を表明した数日後"
         },
         {
-          "date": "2026-07-26",
-          "title": "マグニフィセント 7 の取引は破綻 — 賢明な投資家が次に目を向けるべきはここにある"
+          "date": "2026-07-27",
+          "title": "AI関連の債券亀裂が浮上し、メタ、マイクロソフトの収益が迫る"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$231.39",
-      "change": "-0.31%",
+      "price": "$230.86",
+      "change": "-0.23%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-07-26",
-          "title": "アマゾン株、収益を目前に大きなハードルに突き当たった"
+          "date": "2026-07-27",
+          "title": "Myriad Genetics は、コストが膨れ上がった後、AI プラットフォームを再構築しました。"
         },
         {
-          "date": "2026-07-26",
-          "title": "Google が CCaaS 5.0 をリリース、処理タイミングと API チャット ルーティングを追加"
+          "date": "2026-07-27",
+          "title": "AWS Security Hub MCP アプリにより、クロードがローカルで漏洩経路を調査できるようになりました"
         },
         {
-          "date": "2026-07-26",
-          "title": "FRBの決定、ハイテク企業の決算、その他今週見逃せない項目"
+          "date": "2026-07-27",
+          "title": "Myriad Genetics は、コストが膨れ上がった後、AI プラットフォームを再構築しました。"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$336.91",
-      "change": "+1.17%",
+      "price": "$340.08",
+      "change": "+0.94%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-07-26",
-          "title": "2026 年のベスト パスワード マネージャー: 認証情報のセキュリティに関する専門家の推奨事項。"
+          "date": "2026-07-27",
+          "title": "OpenAI の最初のハードウェア デバイスは 230 ドルでデビューしました。"
         },
         {
-          "date": "2026-07-26",
-          "title": "Apple は常にプライバシーを脅かさないスマート グラスを作ることができるでしょうか?"
+          "date": "2026-07-27",
+          "title": "道端で見つかった NVIDIA RTX Spark ノートパソコンが正式発売前にレビューされる"
         },
         {
-          "date": "2026-07-26",
-          "title": "Appleはスマートグラスを差別化するためにプライバシーを重視している"
+          "date": "2026-07-27",
+          "title": "Apple、世界で最も価値のある企業の座を取り戻す"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$196.51",
-      "change": "-4.99%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$197.01",
+      "change": "+0.25%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-07-26",
-          "title": "Show HN: Codex が 2010 MacBook Pro ドライバーの問題をカーネル パッチで修正しました"
+          "date": "2026-07-27",
+          "title": "Nvidia GPU でできることをおそらく知らなかった 5 つのこと"
         },
         {
-          "date": "2026-07-26",
-          "title": "Show HN: HART OS – フロンティア AI がデータセンターを必要としないように構築されたオープンソース AI OS"
+          "date": "2026-07-27",
+          "title": "道端で見つかった NVIDIA RTX Spark ノートパソコンが正式発売前にレビューされる"
         },
         {
-          "date": "2026-07-26",
-          "title": "骨壷を捨ててください！"
+          "date": "2026-07-27",
+          "title": "HN を表示: Fancontrol-rs Rust Windows ファン コントロール specdrivendesigned オープン ソース"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$389.10",
-      "change": "+1.94%",
+      "price": "$393.35",
+      "change": "+1.09%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-07-26",
-          "title": "AI支出の増加で米国のテクノロジー大手が投資家の監視に直面"
+          "date": "2026-07-27",
+          "title": "Microsoft の初のサイバーセキュリティ モデルが新しい Project Perception エージェントを強化"
         },
         {
-          "date": "2026-07-26",
-          "title": "UBS、AIデーの重要なシグナルを受けてAMD株価目標の再設定を急ぐ"
+          "date": "2026-07-27",
+          "title": "Microsoft CEO、単一の AI に依存する企業は失敗する可能性があると警告"
         },
         {
-          "date": "2026-07-26",
-          "title": "マイクロソフトはAIにすべてを賭けた。"
+          "date": "2026-07-27",
+          "title": "MAI-Cyber​​-1-Flash は Microsoft の AI セキュリティ コストを半分に削減します"
         }
       ]
     }

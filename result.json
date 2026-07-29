@@ -1,28 +1,28 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$333.71",
-      "change": "+2.19%",
+      "price": "$336.71",
+      "change": "+0.90%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-07-27",
-          "title": "YouTube Premium には、2027 年初めから追加料金なしで Peacock が含まれます。これは Peacock にとって最大の配信契約です。"
+          "date": "2026-07-28",
+          "title": "シャッフルボード: Kontoor が COO を過ぎて取締役会に就任、Agility Robotics が CFO 雇用で上場準備"
         },
         {
-          "date": "2026-07-27",
-          "title": "原油価格の急落で株価は低迷"
+          "date": "2026-07-28",
+          "title": "「AI投資を巡る多くのパニック」: 半導体不況がナスダックをどのように調整に向かわせているのか"
         },
         {
-          "date": "2026-07-27",
-          "title": "AI ベンダーはサブスクリプションから従量課金制に切り替えています。 "
+          "date": "2026-07-28",
+          "title": "人間的でOpenAIのスタッフが米国にAIの進歩ペースを加速させるよう求める書簡を共有"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$593.41",
-      "change": "-0.08%",
+      "price": "$585.61",
+      "change": "-1.31%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-07-27",
-          "title": "ジム・クレイマー氏、AIの循環融資の熱狂はドットコムバブルを反映していると警告"
+          "date": "2026-07-28",
+          "title": "「エージェント AI」の造語者は、あなたの仕事を奪うことはないと賭けている"
         },
         {
-          "date": "2026-07-27",
-          "title": "Nvidia、5,000億ドルのOpenAIデータセンターを支援するために交渉中 — CEOのジェンスン・ファンが中国で使用され物議を醸しているオープンソースAIへの支持を表明した数日後"
+          "date": "2026-07-28",
+          "title": "Coursera、共同創設者 Andrew Ngs の新しい AI 教育会社を 1 億ドルの投資で支援"
         },
         {
-          "date": "2026-07-27",
-          "title": "AI関連の債券亀裂が浮上し、メタ、マイクロソフトの収益が迫る"
+          "date": "2026-07-28",
+          "title": "マーケティング チームは、より迅速に行動するために AI を導入しました。 "
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$230.86",
-      "change": "-0.23%",
+      "price": "$226.65",
+      "change": "-1.82%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-07-27",
-          "title": "Myriad Genetics は、コストが膨れ上がった後、AI プラットフォームを再構築しました。"
+          "date": "2026-07-28",
+          "title": "ヘルスケアにおける世界のデジタルトランスフォーメーション市場規模/シェアは、CAGR 14.13%で2035年までに2,709億ドル相当：ヘルスケアの見通し（分析、見通し、リーダー、レポート、トレンド、予測、セグメンテーション、成長率、SWOT分析）"
         },
         {
-          "date": "2026-07-27",
-          "title": "AWS Security Hub MCP アプリにより、クロードがローカルで漏洩経路を調査できるようになりました"
+          "date": "2026-07-28",
+          "title": "衛星画像はイランがバーレーンにあるアマゾンのデータセンターを本当に爆破したことを示唆"
         },
         {
-          "date": "2026-07-27",
-          "title": "Myriad Genetics は、コストが膨れ上がった後、AI プラットフォームを再構築しました。"
+          "date": "2026-07-28",
+          "title": "AgentCore Gateway が MCP 2026-07-28 仕様をサポートする方法"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$340.08",
-      "change": "+0.94%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$338.19",
+      "change": "-0.56%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-07-27",
-          "title": "OpenAI の最初のハードウェア デバイスは 230 ドルでデビューしました。"
+          "date": "2026-07-28",
+          "title": "Apple が Nvidia を追い抜く—7 月末までにどちらが大きくなるでしょうか?"
         },
         {
-          "date": "2026-07-27",
-          "title": "道端で見つかった NVIDIA RTX Spark ノートパソコンが正式発売前にレビューされる"
+          "date": "2026-07-28",
+          "title": "Instapaper のアップデートにより、リキッド グラス、ホーム画面ウィジェット、新しいフォントなどが追加されました"
         },
         {
-          "date": "2026-07-27",
-          "title": "Apple、世界で最も価値のある企業の座を取り戻す"
+          "date": "2026-07-28",
+          "title": "Readwise 読者レビュー"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$197.01",
-      "change": "+0.25%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$190.01",
+      "change": "-3.55%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-07-27",
-          "title": "Nvidia GPU でできることをおそらく知らなかった 5 つのこと"
+          "date": "2026-07-28",
+          "title": "これが映画製作の未来なのでしょうか？"
         },
         {
-          "date": "2026-07-27",
-          "title": "道端で見つかった NVIDIA RTX Spark ノートパソコンが正式発売前にレビューされる"
+          "date": "2026-07-28",
+          "title": "Halo: Campaign Evolved PC 設定ガイド"
         },
         {
-          "date": "2026-07-27",
-          "title": "HN を表示: Fancontrol-rs Rust Windows ファン コントロール specdrivendesigned オープン ソース"
+          "date": "2026-07-28",
+          "title": "Apple が Nvidia を追い抜く—7 月末までにどちらが大きくなるでしょうか?"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$393.35",
-      "change": "+1.09%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$390.54",
+      "change": "-0.71%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-07-27",
-          "title": "Microsoft の初のサイバーセキュリティ モデルが新しい Project Perception エージェントを強化"
+          "date": "2026-07-28",
+          "title": "2026 年に AI の設備投資が壁にぶつかった場合、最もリスクが高いハイパースケーラー 5 銘柄"
         },
         {
-          "date": "2026-07-27",
-          "title": "Microsoft CEO、単一の AI に依存する企業は失敗する可能性があると警告"
+          "date": "2026-07-28",
+          "title": "MSFT の次の期限: SueWallSt が Microsoft Corporation の株主に証券集団訴訟を警告"
         },
         {
-          "date": "2026-07-27",
-          "title": "MAI-Cyber​​-1-Flash は Microsoft の AI セキュリティ コストを半分に削減します"
+          "date": "2026-07-28",
+          "title": "億万長者のビル・アックマンに従って、彼のお気に入りのマグ 7 銘柄 2 銘柄を紹介する必要がありますか?"
         }
       ]
     }

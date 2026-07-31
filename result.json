@@ -1,28 +1,28 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$333.66",
-      "change": "-0.91%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$356.13",
+      "change": "+6.73%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-07-29",
-          "title": "アルファベット、マイクロソフト、アマゾン、メタ、オラクルは「推定1兆6500億ドルの負債を隠している」とエンロンの歴史的な大失敗と比較される"
+          "date": "2026-07-30",
+          "title": "Amazon、クラウドコンピューティング部門の力強い成長により第2四半期に好調な利益と純売上高を報告"
         },
         {
-          "date": "2026-07-29",
-          "title": "マイクロソフトは設備投資の予測を変更せず、AI 支出に歯止めをかけた最初のデータセンター大手の 1 つとなる"
+          "date": "2026-07-30",
+          "title": "マイクロソフトの 4,800 億ドルの集会が議論を煽る：金融ニヒリズムか、それとも真の AI の堀がついに見えてくるか？"
         },
         {
-          "date": "2026-07-29",
-          "title": "AIからの資金流入が続き、株価が上昇、マイクロソフトのクラウド予測が予想を上回った"
+          "date": "2026-07-30",
+          "title": "アマゾンのAWS、AI需要の多さを理由に2021年以来最速の成長を記録"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$539.03",
-      "change": "-7.95%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$556.71",
+      "change": "+3.28%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-07-29",
-          "title": "Freehand、企業の調達と支払いを自動化するために 7,500 万ドルを調達"
+          "date": "2026-07-30",
+          "title": "Amazon、クラウドコンピューティング部門の力強い成長により第2四半期に好調な利益と純売上高を報告"
         },
         {
-          "date": "2026-07-29",
-          "title": "大規模な AI 投資で不安定な市場でメタ株タンク、混合第 2 四半期"
+          "date": "2026-07-30",
+          "title": "AIデータセンターとの戦いは世界的に広がる"
         },
         {
-          "date": "2026-07-29",
-          "title": "大規模な AI 投資で不安定な市場でメタ株タンク、混合第 2 四半期 - 締切"
+          "date": "2026-07-30",
+          "title": "状況認識の喪失"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$235.50",
-      "change": "+3.90%",
+      "price": "$271.58",
+      "change": "+15.32%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-07-29",
-          "title": "アマゾン、オープンソースのサプライチェーン攻撃の背後に北朝鮮のハッカー集団を特定"
+          "date": "2026-07-30",
+          "title": "あなたがクラウドホストである限り、投資家は AI を好みます |"
         },
         {
-          "date": "2026-07-29",
-          "title": "Forge LLM API が GA になりました: Atlassian で AI ネイティブ アプリを構築する方法は次のとおりです"
+          "date": "2026-07-30",
+          "title": "Amazon、クラウドとAIの成長で期待を上回る"
         },
         {
-          "date": "2026-07-29",
-          "title": "アマゾン ウェブ サービス CMO、小規模チームで AI マーケティング機能を構築"
+          "date": "2026-07-30",
+          "title": "速度と安全性のバランス: AI コーディング エージェントの制御フレームワーク"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$333.43",
-      "change": "-1.41%",
+      "price": "$308.91",
+      "change": "-7.35%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-07-29",
-          "title": "新しい iPhone のアンダークラス"
+          "date": "2026-07-30",
+          "title": "Siri AI はヘビーユーザーには有料のサブスクリプションが必要な場合があります"
         },
         {
-          "date": "2026-07-29",
-          "title": "Tech Bros がマルクス主義の戦略を実行する"
+          "date": "2026-07-30",
+          "title": "Apple、売上高は16%増の1,094億ドル"
         },
         {
-          "date": "2026-07-29",
-          "title": "私は Samsung Galaxy S26 Ultra と iPhone 17 Pro Max を使用しました。"
+          "date": "2026-07-30",
+          "title": "ティム・クック氏、AI パワーユーザー向けの iCloud Plus 層について示唆"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$195.04",
-      "change": "+2.65%",
+      "price": "$200.75",
+      "change": "+2.93%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-07-29",
-          "title": "Cerebras と AMD が提携して世界最速の細分化された AI 推論ソリューションを構築"
+          "date": "2026-07-30",
+          "title": "間違った最適化をやめれば、4K ゲームはもうとらえどころのないものではありません"
         },
         {
-          "date": "2026-07-29",
-          "title": "Cerebras と AMD が提携して世界最速の細分化された AI 推論ソリューションを構築"
+          "date": "2026-07-30",
+          "title": "Supermicro、精密設計された AI ラック シリーズで DCBBS を拡張し、導入とオンライン化までの時間を短縮"
         },
         {
-          "date": "2026-07-29",
-          "title": "Cerebras と AMD が提携して世界最速の細分化された AI 推論ソリューションを構築"
+          "date": "2026-07-30",
+          "title": "研究者たちはAIに科学をやらせてみた。"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$451.10",
-      "change": "+15.51%",
+      "price": "$464.72",
+      "change": "+3.02%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-07-29",
-          "title": "Microsoft は Anthropic への投資から 32 億ドルを計上しているが、OpenAI は賛否両論だった |"
+          "date": "2026-07-30",
+          "title": "Amazon、クラウドコンピューティング部門の力強い成長により第2四半期に好調な利益と純売上高を報告"
         },
         {
-          "date": "2026-07-29",
-          "title": "AMDのHeliosラックはNVIDIAのVera Rubinよりも40%高いと伝えられているが、Microsoftは両方の導入を約束することでリスクを回避している"
+          "date": "2026-07-30",
+          "title": "マイクロソフトの 4,800 億ドルの集会が議論を煽る：金融ニヒリズムか、それとも真の AI の堀がついに見えてくるか？"
         },
         {
-          "date": "2026-07-29",
-          "title": "Microsoft のクラウドが新たなマイルストーンに到達—Azure の年間収益が 1,000 億ドルを突破"
+          "date": "2026-07-30",
+          "title": "アーサー・メンシュのミストラルは主権AIにとってヨーロッパの最善の策である"
         }
       ]
     }

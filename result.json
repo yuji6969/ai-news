@@ -1,28 +1,28 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$356.13",
-      "change": "+6.73%",
+      "price": "$373.51",
+      "change": "+4.88%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-08-01",
-          "title": "AI 設備投資に関する投資家ウォーレン・バフェット氏の今日の言葉: 「これは本当のお金です...そのようなお金は鉄道事業にさえ投じられていません」 - AI に関する彼の長期的な強気の理論の概要"
+          "date": "2026-08-02",
+          "title": "Google が 1 日かけて衛星画像のなりすましを簡単に - ニューヨーク・タイムズ"
         },
         {
-          "date": "2026-08-01",
-          "title": "AI のドットコム既視感"
+          "date": "2026-08-02",
+          "title": "ビッグテックの 2 兆ドル規模の AI 刷新がすべてを変えた"
         },
         {
-          "date": "2026-08-01",
-          "title": "Google、Google Earthを短期間でAIスロップ工場に変えた - ギズモード"
+          "date": "2026-08-02",
+          "title": "ビッグテックの AI 軍拡競争が激化する中、データセンターのコストは 1 四半期で 1,700 億ドルを超えて急増"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$556.71",
-      "change": "+3.28%",
+      "price": "$590.24",
+      "change": "+6.02%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-08-01",
-          "title": "アマゾンは2026年の設備投資を200億ドル調達したが、CEOのアンディ・ジャシーはその費用について語ろうとせず：「共有できるものは何もない...」"
+          "date": "2026-08-02",
+          "title": "私がこれらの ASX ETF を 8 月に買いと評価する理由"
         },
         {
-          "date": "2026-08-01",
-          "title": "AI 設備投資に関する投資家ウォーレン・バフェット氏の今日の言葉: 「これは本当のお金です...そのようなお金は鉄道事業にさえ投じられていません」 - AI に関する彼の長期的な強気の理論の概要"
+          "date": "2026-08-02",
+          "title": "世界の投資家が注目する韓国ドラマ"
         },
         {
-          "date": "2026-08-01",
-          "title": "モメンタムクラッシュ：もう終わったのか？"
+          "date": "2026-08-02",
+          "title": "ビッグテックの 2 兆ドル規模の AI 刷新がすべてを変えた"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$271.58",
-      "change": "+15.32%",
+      "price": "$284.02",
+      "change": "+4.58%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-08-01",
-          "title": "アマゾンは2026年の設備投資を200億ドル調達したが、CEOのアンディ・ジャシーはその費用について語ろうとせず：「共有できるものは何もない...」"
+          "date": "2026-08-02",
+          "title": "説明者: データセンターとは何ですか? なぜ今みんなが大騒ぎしているのですか?"
         },
         {
-          "date": "2026-08-01",
-          "title": "モメンタムクラッシュ：もう終わったのか？"
+          "date": "2026-08-02",
+          "title": "CareCloud の侵害により 345,000 件の医療および財務データが流出"
         },
         {
-          "date": "2026-08-01",
-          "title": "Ring ドアベルは、実際に見るべき 1 つのもの、つまり玄関先を遮断しています。"
+          "date": "2026-08-02",
+          "title": "ビッグテックの 2 兆ドル規模の AI 刷新がすべてを変えた"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$308.91",
-      "change": "-7.35%",
+      "price": "$303.42",
+      "change": "-1.78%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-08-01",
-          "title": "90 年代に戻る: コンピューターが楽しかった時代に敬意を表して、フランケンシュタインの怪物であるゲーミング PC をレトロなベージュの美しいものに変えました。"
+          "date": "2026-08-02",
+          "title": "世界最大のバッテリーメーカーの支援を受けたスタートアップが、Nvidiaの5000ドルのAI DGX Spark PCと競合する超安価なミニPCを発売したばかり"
         },
         {
-          "date": "2026-08-01",
-          "title": "ティム・クック氏の最終決算会見で、AppleはSiriに料金を請求する可能性があると述べた"
+          "date": "2026-08-02",
+          "title": "Show HN: Rextio – CPython フォールバックを備えた Rust を使用して Python コードをネイティブにコンパイルする"
         },
         {
-          "date": "2026-08-01",
-          "title": "Meta Ray-Ban Scriber Optics を 3 週間着用した後、これ以上に恋に落ちることはありませんでした。スマート グラスがこれほど物議を醸さなければよかったのにと思います"
+          "date": "2026-08-02",
+          "title": "これらの App Store の隠れた逸品は、AI 時代にも優れたソフトウェアの余地がまだあることを証明しています"
         }
       ]
     },
@@ -105,7 +105,7 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$200.75",
+      "price": "$206.64",
       "change": "+2.93%",
       "change_icon": "📈",
       "positive": true,
@@ -113,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-08-01",
-          "title": "90 年代に戻る: コンピューターが楽しかった時代に敬意を表して、フランケンシュタインの怪物であるゲーミング PC をレトロなベージュの美しいものに変えました。"
+          "date": "2026-08-02",
+          "title": "4 ゲーム中に GPU リソースを解放するために常に変更する Discord 設定"
         },
         {
-          "date": "2026-08-01",
-          "title": "AMD、GPUの価格高騰でついにメモリ不足に陥る"
+          "date": "2026-08-02",
+          "title": "MSI Cyborg 15 (2026) レビュー: この有能な低予算ゲーマーは、自分の兄弟に勝る"
         },
         {
-          "date": "2026-08-01",
-          "title": "インテル、AI イニシアチブにより 2028 年までに利益が得られると予測"
+          "date": "2026-08-02",
+          "title": "MSI Cyborg 15 (2026) レビュー: この有能な低予算ゲーマーは、自分の兄弟に勝る"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$464.72",
-      "change": "+3.02%",
+      "price": "$487.65",
+      "change": "+4.93%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
+          "date": "2026-08-02",
+          "title": "AI 王たちの金ぴかに輝く人生: ハイテク大物たちがどのようにしてパームビーチの邸宅やトランプ氏とのプライベートジェットでのゴルフから新たなジェット機乗りのエリートになったのか"
+        },
+        {
+          "date": "2026-08-02",
+          "title": "Show HN: CleanSlate – IDE、CLI、SDK 用のオープンソース コーディング エージェント"
+        },
+        {
           "date": "2026-08-01",
           "title": "Alphabet vs. の次の四半期を決定づける本当の AI コストの問題"
-        },
-        {
-          "date": "2026-08-01",
-          "title": "MarketBeat 週間の振り返り – 07/27 ～ 07/31"
-        },
-        {
-          "date": "2026-08-01",
-          "title": "Microsoft の 2026 年度決算は、AI が試験運用から本番環境に移行していることを示しています"
         }
       ]
     }

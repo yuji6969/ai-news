@@ -1,28 +1,28 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$377.65",
-      "change": "+1.11%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$362.43",
+      "change": "-4.03%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-08-03",
-          "title": "今日の株式市場: ライブアップデート"
+          "date": "2026-08-04",
+          "title": "投資家への警告: ポメランツ法律事務所がアルファベット社の投資家に代わって請求を調査 - GOOG"
         },
         {
-          "date": "2026-08-03",
-          "title": "ビッグテックのAnthropicとOpenAIの株式が企業収益の構図を歪めている"
+          "date": "2026-08-04",
+          "title": "ホワイトハウス、先進モデルの安全性についてAI企業と会合へ"
         },
         {
-          "date": "2026-08-03",
-          "title": "Teads、連邦裁判所の反トラスト判決を受けて金銭的損害賠償を求めてGoogleに対して訴訟を起こす"
+          "date": "2026-08-04",
+          "title": "ビッグテックのキャッシュフロー懸念にもかかわらず、米国株式市場は過去最高値に近づく"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$587.94",
-      "change": "-0.39%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$588.77",
+      "change": "+0.14%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-08-03",
-          "title": "ジム・クレイマー氏は、市場はビッグテック企業のAI投資を受け入れ始めていると語る。"
+          "date": "2026-08-04",
+          "title": "Shutterstock が 2026 年第 2 四半期の財務結果を報告"
         },
         {
-          "date": "2026-08-03",
-          "title": "米国の製造業は4年ぶりの高水準に達、AIの発展が成長の主な推進力だが、価格変動が迫っている：調査"
+          "date": "2026-08-04",
+          "title": "7月にホエールロックが21.7％下落、AI株の急落で株式ピッキングのヘッジファンドが打撃"
         },
         {
-          "date": "2026-08-03",
-          "title": "スナップ社の株価は利益を上回る利益と好調な売上予測を受けて10％上昇"
+          "date": "2026-08-04",
+          "title": "AI 時代を定義する 4:1 のレバレッジ比率"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$277.42",
-      "change": "-2.32%",
+      "price": "$272.65",
+      "change": "-1.72%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-08-03",
-          "title": "AWS Transform を使用して技術的負債を自律的に分析および修復する – 継続的な最新化"
+          "date": "2026-08-04",
+          "title": "Chainguard がサプライチェーンパートナーとして AWS Security Hub Extended に参加"
         },
         {
-          "date": "2026-08-03",
-          "title": "スマートバード、テクノロジー業界のベテラン、エリザベス・モラ氏とダン・カスン氏を取締役会の選出に指名"
+          "date": "2026-08-04",
+          "title": "Calvary Health Care が 20,000 人のスタッフとボランティア向けのデジタル アシスタントをプレビュー"
         },
         {
-          "date": "2026-08-03",
-          "title": "AWS はバイブコーディングのスタートアップ Superblocks を支援しており、その影響は大きい |"
+          "date": "2026-08-04",
+          "title": "Amazon、クロードの単純なコーディング作業を完了させるために誤って180万ドルを支払ったことを認める"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$309.38",
-      "change": "+1.96%",
+      "price": "$311.00",
+      "change": "+0.52%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-08-03",
-          "title": "Liene PixCut S1 レビュー: 家庭用と職場用のコンパクトで大勢の人に喜ばれるフォト ステッカー プリンターおよびカッター"
+          "date": "2026-08-04",
+          "title": "Apple の Safari に切り替える 3 つのデメリット"
         },
         {
-          "date": "2026-08-03",
-          "title": "Appleのカメラ搭載AirPodsが数週間後に発売される可能性がある"
+          "date": "2026-08-04",
+          "title": "MBW 1036: トウモロコシは単なるトウモロコシ - Apple の 2026 年第 3 四半期の業績"
         },
         {
-          "date": "2026-08-03",
-          "title": "HN を表示: Svelte-rs – Rust の Svelte コンパイラ"
+          "date": "2026-08-04",
+          "title": "Appleが9月に発表すると予想されるすべてのこと"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$211.94",
-      "change": "+2.56%",
+      "price": "$219.22",
+      "change": "+3.43%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-08-03",
-          "title": "米国の模型メーカーがパニックになる中、中国はオープンモデルの電撃で熱を高める"
+          "date": "2026-08-04",
+          "title": "イーロン・マスク氏、SpaceX が NVIDIA GPU に独占的に関与し、「彼らは最高だ」と述べ、2027 年までに 10GW の AI コンピューティングを実現"
         },
         {
-          "date": "2026-08-03",
-          "title": "(PR) Stormcraft PC、Valkyrie シリーズ ゲーミング デスクトップを発売"
+          "date": "2026-08-04",
+          "title": "チャットを超えて: Foundry Local と C# を使用したライブ Speech-to-Text"
         },
         {
-          "date": "2026-08-03",
-          "title": "Alienware RTX 5090 ゲーミング PC が 4,780 ドルに値下げ、GPU を単体で購入するのとほぼ同じ価格"
+          "date": "2026-08-04",
+          "title": "サムスン電子、次世代AIメモリ技術を発表、売上高10億ドル突破"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$492.81",
-      "change": "+1.06%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$487.46",
+      "change": "-1.09%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-08-03",
-          "title": "AI ハイパースケーラーが収益の勢いに乗り、Amazon が 30 億ドルを突破、メタが 7% 上昇"
+          "date": "2026-08-04",
+          "title": "Azure AI Foundry Model Router と GraphRAG 用の Microsoft Agent Framework を使用したプロンプト ルーティングのワークフロー選択の構築"
         },
         {
-          "date": "2026-08-03",
-          "title": "ハイパースケーラーの設備投資が7,250億ドルに近づく中、アマゾン、メタ、マイクロソフトの株価は好調なAI収益を受けて急騰"
+          "date": "2026-08-04",
+          "title": "AMDが2026年第2四半期の財務結果を報告"
         },
         {
-          "date": "2026-08-03",
-          "title": "MSFT 株主への警告: 2026 年 8 月 11 日、マイクロソフト コーポレーション証券集団訴訟における主訴原告の締め切り - Levi & Korsinsky にお問い合わせください"
+          "date": "2026-08-04",
+          "title": "コールセンター向けのベスト ナレッジ マネジメント システム 7 選 [2026 年の比較]"
         }
       ]
     }

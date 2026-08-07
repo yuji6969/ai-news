@@ -1,28 +1,28 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-07",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$362.43",
-      "change": "-4.03%",
+      "price": "$357.75",
+      "change": "-1.29%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-08-04",
-          "title": "投資家への警告: ポメランツ法律事務所がアルファベット社の投資家に代わって請求を調査 - GOOG"
+          "date": "2026-08-06",
+          "title": "CNBCデイリーオープン：ホルムズ島でイランとオマーンが協議中。 "
         },
         {
-          "date": "2026-08-04",
-          "title": "ホワイトハウス、先進モデルの安全性についてAI企業と会合へ"
+          "date": "2026-08-05",
+          "title": "Google AI のベテランがリーダーシップの大幅な交代で退職"
         },
         {
-          "date": "2026-08-04",
-          "title": "ビッグテックのキャッシュフロー懸念にもかかわらず、米国株式市場は過去最高値に近づく"
+          "date": "2026-08-05",
+          "title": "Google、ジェフ・ディーン氏が退社し、デミス・ハサビス氏が2階に異動することでAIチームに大きな変革があったことを明らかに"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$588.77",
-      "change": "+0.14%",
+      "price": "$589.90",
+      "change": "+0.19%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-08-04",
-          "title": "Shutterstock が 2026 年第 2 四半期の財務結果を報告"
+          "date": "2026-08-05",
+          "title": "Meta の Muse Code は 20 セントの AI コーディング層で開始"
         },
         {
-          "date": "2026-08-04",
-          "title": "7月にホエールロックが21.7％下落、AI株の急落で株式ピッキングのヘッジファンドが打撃"
+          "date": "2026-08-05",
+          "title": "アルファベット、デミス・ハサビス氏が会長職に就き、AIのリーダーシップを再編"
         },
         {
-          "date": "2026-08-04",
-          "title": "AI 時代を定義する 4:1 のレバレッジ比率"
+          "date": "2026-08-05",
+          "title": "Microsoft AI幹部、効率化推進の一環としてOpenAIの最上位モデルをデフォルトで使用するよう開発者に指示"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$272.65",
-      "change": "-1.72%",
+      "price": "$272.26",
+      "change": "-0.14%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-08-04",
-          "title": "Chainguard がサプライチェーンパートナーとして AWS Security Hub Extended に参加"
+          "date": "2026-08-05",
+          "title": "CVE-2026-18954 - Amazon AWS Labs DocumentDB MCP サーバーの集約パイプライン ツールでの不正な認証"
         },
         {
-          "date": "2026-08-04",
-          "title": "Calvary Health Care が 20,000 人のスタッフとボランティア向けのデジタル アシスタントをプレビュー"
+          "date": "2026-08-05",
+          "title": "AWS が Anthropic および OpenAI と提携して、Continuum をコーディングツールに導入"
         },
         {
-          "date": "2026-08-04",
-          "title": "Amazon、クロードの単純なコーディング作業を完了させるために誤って180万ドルを支払ったことを認める"
+          "date": "2026-08-05",
+          "title": "クラウドの成長にもかかわらず、四半期売上高減少でキンドリル株は5.4%下落"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$311.00",
-      "change": "+0.52%",
+      "price": "$312.41",
+      "change": "+0.45%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-08-04",
-          "title": "Apple の Safari に切り替える 3 つのデメリット"
+          "date": "2026-08-06",
+          "title": "Abode が独自の屋外センサーでホーム セキュリティの新時代に拡大"
         },
         {
-          "date": "2026-08-04",
-          "title": "MBW 1036: トウモロコシは単なるトウモロコシ - Apple の 2026 年第 3 四半期の業績"
+          "date": "2026-08-05",
+          "title": "Apple Intelligence を生産性のために使用する方法 (2026 年完全ガイド)"
         },
         {
-          "date": "2026-08-04",
-          "title": "Appleが9月に発表すると予想されるすべてのこと"
+          "date": "2026-08-05",
+          "title": "『攻殻機動隊』オリジナルサウンドトラックアルバムのジャケットと収録曲を公開"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$219.22",
-      "change": "+3.43%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$218.99",
+      "change": "-0.10%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-08-04",
-          "title": "イーロン・マスク氏、SpaceX が NVIDIA GPU に独占的に関与し、「彼らは最高だ」と述べ、2027 年までに 10GW の AI コンピューティングを実現"
+          "date": "2026-08-06",
+          "title": "CPU が帰ってきました: LLM 推論のための CPU と GPU の分割を再考する"
         },
         {
-          "date": "2026-08-04",
-          "title": "チャットを超えて: Foundry Local と C# を使用したライブ Speech-to-Text"
+          "date": "2026-08-05",
+          "title": "ジム・クレイマー氏、市場最大のチャンスには複数の勝者が現れる余地があると語る"
         },
         {
-          "date": "2026-08-04",
-          "title": "サムスン電子、次世代AIメモリ技術を発表、売上高10億ドル突破"
+          "date": "2026-08-05",
+          "title": "Meta が AI コーディング エージェント Muse をデビュー: Claude Code および Codex との比較は次のとおりです"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$487.46",
-      "change": "-1.09%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$499.86",
+      "change": "+2.54%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-08-04",
-          "title": "Azure AI Foundry Model Router と GraphRAG 用の Microsoft Agent Framework を使用したプロンプト ルーティングのワークフロー選択の構築"
+          "date": "2026-08-05",
+          "title": "AWS が Anthropic および OpenAI と提携して、開発者向けの AI ネイティブのセキュリティ プラットフォームを構築"
         },
         {
-          "date": "2026-08-04",
-          "title": "AMDが2026年第2四半期の財務結果を報告"
+          "date": "2026-08-05",
+          "title": "Microsoft AI幹部、効率化推進の一環としてOpenAIの最上位モデルをデフォルトで使用するよう開発者に指示"
         },
         {
-          "date": "2026-08-04",
-          "title": "コールセンター向けのベスト ナレッジ マネジメント システム 7 選 [2026 年の比較]"
+          "date": "2026-08-05",
+          "title": "Microsoft、OpenAI が AI 売上高の 70% を占め、売上高は 240 億ドルであることを明らかに"
         }
       ]
     }

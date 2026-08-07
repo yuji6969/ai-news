@@ -5,8 +5,8 @@
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$357.75",
-      "change": "-1.29%",
+      "price": "$354.30",
+      "change": "-0.96%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
@@ -14,15 +14,15 @@
       "news": [
         {
           "date": "2026-08-06",
-          "title": "CNBCデイリーオープン：ホルムズ島でイランとオマーンが協議中。 "
+          "title": "ジェフ・ディーンの新しいスタートアップについて知っておくべき5つのこと"
         },
         {
-          "date": "2026-08-05",
-          "title": "Google AI のベテランがリーダーシップの大幅な交代で退職"
+          "date": "2026-08-06",
+          "title": "レポートでは、OpenAI の最初のデバイスに関する新しい価格とデザインの詳細が共有されています"
         },
         {
-          "date": "2026-08-05",
-          "title": "Google、ジェフ・ディーン氏が退社し、デミス・ハサビス氏が2階に異動することでAIチームに大きな変革があったことを明らかに"
+          "date": "2026-08-06",
+          "title": "AI支出が加速する中、アルファベットが債券市場に復帰"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$589.90",
-      "change": "+0.19%",
+      "price": "$592.10",
+      "change": "+0.37%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-08-05",
-          "title": "Meta の Muse Code は 20 セントの AI コーディング層で開始"
+          "date": "2026-08-06",
+          "title": "マイケル・バーリー氏、AIインフラブームに賭けてネビウスとオラクルのショートポジションをオープン"
         },
         {
-          "date": "2026-08-05",
-          "title": "アルファベット、デミス・ハサビス氏が会長職に就き、AIのリーダーシップを再編"
+          "date": "2026-08-06",
+          "title": "ハイテク大手はAIに資金を提供するために数千億ドルを借りており、債券市場は緊張している"
         },
         {
-          "date": "2026-08-05",
-          "title": "Microsoft AI幹部、効率化推進の一環としてOpenAIの最上位モデルをデフォルトで使用するよう開発者に指示"
+          "date": "2026-08-06",
+          "title": "HubSpot AEO と Scrunch: あなたのワークフローに適したツールはどれですか?"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$272.26",
-      "change": "-0.14%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$274.48",
+      "change": "+0.82%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-08-05",
-          "title": "CVE-2026-18954 - Amazon AWS Labs DocumentDB MCP サーバーの集約パイプライン ツールでの不正な認証"
+          "date": "2026-08-06",
+          "title": "Amazon ECS が Amazon EC2 G6f インスタンスでフラクショナル GPU スケジューリングをサポートするようになりました"
         },
         {
-          "date": "2026-08-05",
-          "title": "AWS が Anthropic および OpenAI と提携して、Continuum をコーディングツールに導入"
+          "date": "2026-08-06",
+          "title": "Amazon EC2 G7 インスタンスが AWS ヨーロッパ (スペイン) リージョンで利用可能になりました"
         },
         {
-          "date": "2026-08-05",
-          "title": "クラウドの成長にもかかわらず、四半期売上高減少でキンドリル株は5.4%下落"
+          "date": "2026-08-06",
+          "title": "セキュリティ業界が AI エージェント制御について議論する中、OpenAI/Hugging Face 攻撃に関する新たな詳細が明らかに"
         }
       ]
     },
@@ -80,8 +80,8 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$312.41",
-      "change": "+0.45%",
+      "price": "$313.33",
+      "change": "+0.29%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
@@ -89,15 +89,15 @@
       "news": [
         {
           "date": "2026-08-06",
-          "title": "Abode が独自の屋外センサーでホーム セキュリティの新時代に拡大"
+          "title": "iMessage を実行する Android アプリ Sunbird がオープンベータ版で復活"
         },
         {
-          "date": "2026-08-05",
-          "title": "Apple Intelligence を生産性のために使用する方法 (2026 年完全ガイド)"
+          "date": "2026-08-06",
+          "title": "Siri AI 互換性チェック: 成功する iPhone、iPad、Mac、Watch"
         },
         {
-          "date": "2026-08-05",
-          "title": "『攻殻機動隊』オリジナルサウンドトラックアルバムのジャケットと収録曲を公開"
+          "date": "2026-08-06",
+          "title": "なぜ Apple は Telegram を禁止し続けるのに、X を禁止しないのでしょうか?"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$218.99",
-      "change": "-0.10%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$223.96",
+      "change": "+2.27%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
           "date": "2026-08-06",
-          "title": "CPU が帰ってきました: LLM 推論のための CPU と GPU の分割を再考する"
+          "title": "Amazon ECS が Amazon EC2 G6f インスタンスでフラクショナル GPU スケジューリングをサポートするようになりました"
         },
         {
-          "date": "2026-08-05",
-          "title": "ジム・クレイマー氏、市場最大のチャンスには複数の勝者が現れる余地があると語る"
+          "date": "2026-08-06",
+          "title": "完全にアップグレード可能な PC の最終世代が現在構築中です"
         },
         {
-          "date": "2026-08-05",
-          "title": "Meta が AI コーディング エージェント Muse をデビュー: Claude Code および Codex との比較は次のとおりです"
+          "date": "2026-08-06",
+          "title": "Amazon EC2 G7 インスタンスが AWS ヨーロッパ (スペイン) リージョンで利用可能になりました"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$499.86",
-      "change": "+2.54%",
+      "price": "$499.99",
+      "change": "+0.03%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-08-05",
-          "title": "AWS が Anthropic および OpenAI と提携して、開発者向けの AI ネイティブのセキュリティ プラットフォームを構築"
+          "date": "2026-08-06",
+          "title": "喜劇か悲劇か？ "
         },
         {
-          "date": "2026-08-05",
-          "title": "Microsoft AI幹部、効率化推進の一環としてOpenAIの最上位モデルをデフォルトで使用するよう開発者に指示"
+          "date": "2026-08-06",
+          "title": "マイクロソフトのAIの成長は当面は投資家を取り戻している"
         },
         {
-          "date": "2026-08-05",
-          "title": "Microsoft、OpenAI が AI 売上高の 70% を占め、売上高は 240 億ドルであることを明らかに"
+          "date": "2026-08-06",
+          "title": "Microsoft、Amazon、Google が実際に Reddit を買収する可能性はあるのでしょうか?"
         }
       ]
     }

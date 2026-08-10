@@ -1,28 +1,28 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$354.30",
-      "change": "-0.96%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$357.52",
+      "change": "+0.91%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-08-08",
-          "title": "Broadcom (AVGO)、AI チップ ブームとソフトウェア セキュリティの推進を組み合わせる"
+          "date": "2026-08-09",
+          "title": "バークシャー、235億ドルの株式購入で14四半期の連続売却記録を更新 - 非公開価格で1社に100億ドルが流入"
         },
         {
-          "date": "2026-08-08",
-          "title": "Alphabet CEO サンダー・ピチャイ氏、AI インフラ支出の増加、Nvidia と Broadcom への波及効果を示唆"
+          "date": "2026-08-09",
+          "title": "Sundar Pichai の Alphabet は Google Cloud の収益を前年比 82% 増加させました。"
         },
         {
-          "date": "2026-08-08",
-          "title": "アルファベット、2026年の設備投資を1,950億～2,050億ドルに引き上げ、NvidiaとBroadcomに利益をもたらす"
+          "date": "2026-08-09",
+          "title": "マイクロン（MU）、景気循環の圧力を相殺する戦略的な自動車取引と AI の勢いを確保"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$592.10",
-      "change": "+0.37%",
+      "price": "$594.92",
+      "change": "+0.48%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-08-08",
-          "title": "Microsoft が「マグニフィセント セブン」に AI 投資の様子を示す"
+          "date": "2026-08-09",
+          "title": "トランプ大統領、データセンターは石油よりも大きい可能性があると述べ、各州に減税とAIの成長加速を要請「もし私が知事だったら…」"
         },
         {
-          "date": "2026-08-08",
-          "title": "Broadcom (AVGO)、AI チップ ブームとソフトウェア セキュリティの推進を組み合わせる"
+          "date": "2026-08-09",
+          "title": "米国金利が高止まりする中、円は2024年夏の高騰を繰り返す可能性は低い"
         },
         {
-          "date": "2026-08-08",
-          "title": "アマゾンのデータセンターには国内最悪の汚染発電所がある可能性がある"
+          "date": "2026-08-09",
+          "title": "VFIAX のことは忘れてください。バンガードは、3,000 ドルの通行料や、購入時の 75 ドルの手数料フィデリティ料金なしで、同じ S&P 500 ファンドを販売します。"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$274.48",
-      "change": "+0.82%",
+      "price": "$278.09",
+      "change": "+1.32%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-08-08",
-          "title": "成長が加速するにつれてAWSとの連携が深まる"
+          "date": "2026-08-09",
+          "title": "BofA、JPモルガン、オッペンハイマーがお気に入りのAI株3銘柄を挙げ、そのうちの1銘柄の目標額は255ドル"
         },
         {
-          "date": "2026-08-08",
-          "title": "SentinelOne (S) は成長の加速に伴い AWS との連携を強化"
+          "date": "2026-08-09",
+          "title": "Sundar Pichai の Alphabet は Google Cloud の収益を前年比 82% 増加させました。"
         },
         {
-          "date": "2026-08-08",
-          "title": "Lumen (LUMN)、CEO が倍増する中、AWS へのプッシュを拡大"
+          "date": "2026-08-09",
+          "title": "ジェフ・ベゾスが自身のアマゾン記録を更新"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$313.33",
-      "change": "+0.29%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$308.26",
+      "change": "-1.62%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-08-08",
-          "title": "iOS 27: 最も忘れやすいベータ版"
+          "date": "2026-08-09",
+          "title": "Show HN: Wardline、侵害された AI エージェントを自動ブロックする Go プロキシ"
         },
         {
-          "date": "2026-08-08",
-          "title": "Google Pixel 11 シリーズと Watch 5: 期待されるもの"
+          "date": "2026-08-09",
+          "title": "GoogleのPixel 11 Proがスマートフォンを永遠に変えるか"
         },
         {
-          "date": "2026-08-08",
-          "title": "プライバシーに関する大規模な反乱: 人々は、録音するメガネ、盗聴するイヤホン、そして私たちの生活を見ているテレビに反発しています。AI 研究の CEO とデジタル権利擁護者によると、これに対して私たちにできることは次のとおりです。"
+          "date": "2026-08-09",
+          "title": "LG - 3.1.3 チャンネル SC9S ドルビーアトモス サウンドバー、ワイヤレス サブウーファー、WOW オーケストラ - 280 ドルから"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$223.96",
-      "change": "+2.27%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$217.55",
+      "change": "-2.86%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-08-08",
-          "title": "Perfx が PyPI に追加されました"
+          "date": "2026-08-09",
+          "title": "Ornith 9B は私の 16GB ラップトップに 35B 近い答えをもたらし、画像も読み取ります"
         },
         {
-          "date": "2026-08-08",
-          "title": "AMDはNvidiaに挑戦するために大胆な行動をとったばかりです"
+          "date": "2026-08-09",
+          "title": "IREN (IREN) 対 CORZ および APLD: AI クラウドの構築は契約需要を利益に変えることができるか?"
         },
         {
-          "date": "2026-08-08",
-          "title": "AMD (AMD) が Taalas を買収: AI 推論は Nvidia との次の戦場となるのか?"
+          "date": "2026-08-09",
+          "title": "この RTX 5060 搭載ゲーミング ラップトップは 165 Hz ディスプレイを搭載しており、現在 600 ドル引きです"
         }
       ]
     },
@@ -130,8 +130,8 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$499.99",
-      "change": "+0.03%",
+      "price": "$506.06",
+      "change": "+1.21%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",

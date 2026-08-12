@@ -1,28 +1,28 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$343.80",
-      "change": "-3.84%",
+      "price": "$343.54",
+      "change": "-0.08%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-08-10",
-          "title": "JPモルガン、AI投資の成果が出始めたためS&P500の目標を引き上げ"
+          "date": "2026-08-11",
+          "title": "Google、「Americas Connect」イニシアチブのもと、アメリカ大陸を横断する新しい海底ケーブルリンクを発表"
         },
         {
-          "date": "2026-08-10",
-          "title": "MicrosoftはAIチップの生産量を増やす計画、2027年に30万個を目標"
+          "date": "2026-08-11",
+          "title": "Gemini は 10 億人のユーザーで ChatGPT を検出しますが、指標は一致しません"
         },
         {
-          "date": "2026-08-10",
-          "title": "アナリストは、Alphabet (GOOG) が 2 つの大きな AI 問題に直面していると警告しています。 "
+          "date": "2026-08-11",
+          "title": "Gemini は月間ユーザー数 10 億人を突破し、Google 史上最も急成長している製品となる"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$599.12",
-      "change": "+0.71%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$578.85",
+      "change": "-3.38%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-08-10",
-          "title": "Nvidia、AI構築のために大手銀行から5,000億ドルを獲得"
+          "date": "2026-08-11",
+          "title": "S&P 500 指数のリスクの 58% を AI 企業が占めていることがレポートで判明"
         },
         {
-          "date": "2026-08-10",
-          "title": "マーク・ザッカーバーグは生き方を理解していない"
+          "date": "2026-08-11",
+          "title": "AIスタートアップのマナス、メタとの取引解消に伴い独立事業を再開へ"
         },
         {
-          "date": "2026-08-10",
-          "title": "「データセンターから食料を取り出すことはできない」: テック企業の農場への2,600万ドルのオファーを家族が拒否"
+          "date": "2026-08-11",
+          "title": "Anthropic、AI が生成したテキストに目に見えない透かしを埋め込み始める - 業界が AI の失策を取り締まろうと争う中"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$272.27",
-      "change": "-2.09%",
+      "price": "$267.28",
+      "change": "-1.83%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-08-10",
-          "title": "AWS は、新しい Continuum 統合により OpenAI、Anthropic コーディング ツールにセキュリティを組み込みます"
+          "date": "2026-08-11",
+          "title": "Google、「Americas Connect」イニシアチブのもと、アメリカ大陸を横断する新しい海底ケーブルリンクを発表"
         },
         {
-          "date": "2026-08-10",
-          "title": "SageMaker AI を使用して Amazon EKS でインタラクティブ IDE を実行し、AI ワークフローを強化します"
+          "date": "2026-08-11",
+          "title": "OpenAI と AWS でサイバー防御を加速: Daybreak Red と Daybreak Blue が Amazon Bedrock の対象顧客に利用可能になりました"
         },
         {
-          "date": "2026-08-10",
-          "title": "nOps が Amazon Bedrock AgentCore を使用して FinOps エージェントを 75% 高速に出荷した方法"
+          "date": "2026-08-11",
+          "title": "Amazon Bedrock が IAM の主コスト配分を岩盤マントルエンドポイントに拡大"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$304.91",
-      "change": "-1.09%",
+      "price": "$302.25",
+      "change": "-0.87%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-08-10",
-          "title": "iOS 27 ベータ 5 のすべての新機能"
+          "date": "2026-08-11",
+          "title": "T-Mobile 対 Verizon: どの大手電話会社が最適ですか?"
         },
         {
-          "date": "2026-08-10",
-          "title": "macOS 27 Golden Gate ベータ 5 はリリースに先立って安定性を目指す"
+          "date": "2026-08-11",
+          "title": "MacOS 27 Golden Gate、iOS 27、iPadOS 27の第3回パブリックベータ版がテスト可能に"
         },
         {
-          "date": "2026-08-10",
-          "title": "Galaxy Watch Ultra 2 レビュー: 欲しかったすべての改善点"
+          "date": "2026-08-11",
+          "title": "Samsung Galaxy Watch7 40mm Bluetooth AI スマートウォッチ、190 ドル + 送料無料"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$217.50",
-      "change": "-0.02%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$224.09",
+      "change": "+3.03%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-08-10",
-          "title": "GIGABYTE、RTX 5070 搭載 AERO X16 ゲーミング ノートパソコンを 500 ドル値下げし、わずか 1499 ドルに値下げ"
+          "date": "2026-08-11",
+          "title": "ジェンスン・ファンの5,000億ドルのAI資金調達計画が中国による大きなリスクに直面している理由"
         },
         {
-          "date": "2026-08-10",
-          "title": "Intel Nova Lake 16 コア CPU には、驚異的な 40W Xe3P iGPU が搭載されていると言われています"
+          "date": "2026-08-11",
+          "title": "Super Micro は、2026 年度に 10 億ドルを超える収益をあげた顧客が 9 社と、昨年の 4 社から増加したと報告しています。"
         },
         {
-          "date": "2026-08-10",
-          "title": "Modder が NVIDIA の GeForce NOW サンドボックスからの脱出に成功、10 ドルのサブスクリプションをレンタル可能なハイエンド Windows クラウド PC に変える"
+          "date": "2026-08-11",
+          "title": "ジェンスン・ファンの5,000億ドルのAI資金調達計画が中国による大きなリスクに直面している理由"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$503.81",
-      "change": "-0.44%",
+      "price": "$492.43",
+      "change": "-2.26%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-08-10",
-          "title": "Java 用 GitHub Copilot SDK の使用"
+          "date": "2026-08-11",
+          "title": "CaptiveCrunch: Midnight Blizzard がホテルの Wi-Fi キャプティブ ポータルを武器化し、Microsoft 365 認証情報を盗む"
         },
         {
-          "date": "2026-08-10",
-          "title": "来年の Google Cloud 収益の 48% は、まだ利益を上げたことのないたった 2 社による可能性がある"
+          "date": "2026-08-11",
+          "title": "Microsoft PowerToys は間もなく、Copilot+ PC を強化するのと同じ AI を最大限に活用する予定です"
         },
         {
-          "date": "2026-08-10",
-          "title": "2026 年 8 月 3 日の週の脆弱性の概要"
+          "date": "2026-08-11",
+          "title": "Google のウェスチングハウスへの賭け - ティム・オライリー著"
         }
       ]
     }

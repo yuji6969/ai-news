@@ -1,28 +1,28 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$343.54",
-      "change": "-0.08%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$346.36",
+      "change": "+0.82%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-08-11",
-          "title": "Google、「Americas Connect」イニシアチブのもと、アメリカ大陸を横断する新しい海底ケーブルリンクを発表"
+          "date": "2026-08-12",
+          "title": "AIの大規模な再編につながったGoogle幹部の動きの内部"
         },
         {
-          "date": "2026-08-11",
-          "title": "Gemini は 10 億人のユーザーで ChatGPT を検出しますが、指標は一致しません"
+          "date": "2026-08-12",
+          "title": "AIの大規模な再編につながったGoogle幹部の動きの内部"
         },
         {
-          "date": "2026-08-11",
-          "title": "Gemini は月間ユーザー数 10 億人を突破し、Google 史上最も急成長している製品となる"
+          "date": "2026-08-12",
+          "title": "AIの大規模な再編につながったGoogle幹部の動きの内部"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$578.85",
-      "change": "-3.38%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$594.97",
+      "change": "+2.78%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-08-11",
-          "title": "S&P 500 指数のリスクの 58% を AI 企業が占めていることがレポートで判明"
+          "date": "2026-08-12",
+          "title": "Creatorverse: The Onion の InfoWars は、私たちが必要とするオルタナティブ コメディ ハブになりつつあります"
         },
         {
-          "date": "2026-08-11",
-          "title": "AIスタートアップのマナス、メタとの取引解消に伴い独立事業を再開へ"
+          "date": "2026-08-12",
+          "title": "レーベル向け AI 音楽マーケティングがどのように曲の人気を促進するか"
         },
         {
-          "date": "2026-08-11",
-          "title": "Anthropic、AI が生成したテキストに目に見えない透かしを埋め込み始める - 業界が AI の失策を取り締まろうと争う中"
+          "date": "2026-08-12",
+          "title": "AI ブーム: Nvidia がウォール街のパートナーから 5,000 億ドルの資金調達を計画"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$267.28",
-      "change": "-1.83%",
+      "price": "$265.13",
+      "change": "-0.80%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-08-11",
-          "title": "Google、「Americas Connect」イニシアチブのもと、アメリカ大陸を横断する新しい海底ケーブルリンクを発表"
+          "date": "2026-08-12",
+          "title": "AWS IAM ロールマネージャーが IAM ロールの開始点を再考する方法"
         },
         {
-          "date": "2026-08-11",
-          "title": "OpenAI と AWS でサイバー防御を加速: Daybreak Red と Daybreak Blue が Amazon Bedrock の対象顧客に利用可能になりました"
+          "date": "2026-08-12",
+          "title": "Jeremy Schneider: Postgres チェックポイントのフォローアップと照合の視覚化と Codex Luna"
         },
         {
-          "date": "2026-08-11",
-          "title": "Amazon Bedrock が IAM の主コスト配分を岩盤マントルエンドポイントに拡大"
+          "date": "2026-08-12",
+          "title": "Node.js作成者がCloudflareからDurable Objectを解放"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$302.25",
-      "change": "-0.87%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$305.26",
+      "change": "+1.00%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-08-11",
-          "title": "T-Mobile 対 Verizon: どの大手電話会社が最適ですか?"
+          "date": "2026-08-12",
+          "title": "Apple、iCloudプライベートリレーの脆弱性をめぐり訴訟に直面"
         },
         {
-          "date": "2026-08-11",
-          "title": "MacOS 27 Golden Gate、iOS 27、iPadOS 27の第3回パブリックベータ版がテスト可能に"
+          "date": "2026-08-12",
+          "title": "Creatorverse: The Onion の InfoWars は、私たちが必要とするオルタナティブ コメディ ハブになりつつあります"
         },
         {
-          "date": "2026-08-11",
-          "title": "Samsung Galaxy Watch7 40mm Bluetooth AI スマートウォッチ、190 ドル + 送料無料"
+          "date": "2026-08-12",
+          "title": "Google、新しいPixel 11スマートフォンで秋のハードウェアシーズンを開始"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$224.09",
-      "change": "+3.03%",
+      "price": "$225.30",
+      "change": "+0.54%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-08-11",
-          "title": "ジェンスン・ファンの5,000億ドルのAI資金調達計画が中国による大きなリスクに直面している理由"
+          "date": "2026-08-12",
+          "title": "マイケル・バーリー氏、NVIDIA株に対するスターク氏の評価を下げる"
         },
         {
-          "date": "2026-08-11",
-          "title": "Super Micro は、2026 年度に 10 億ドルを超える収益をあげた顧客が 9 社と、昨年の 4 社から増加したと報告しています。"
+          "date": "2026-08-12",
+          "title": "この 2020 Nvidia チップは依然として強力です。"
         },
         {
-          "date": "2026-08-11",
-          "title": "ジェンスン・ファンの5,000億ドルのAI資金調達計画が中国による大きなリスクに直面している理由"
+          "date": "2026-08-12",
+          "title": "エンタープライズ AI コストの高騰に対する Nvidia の最新ソリューションは...ルーター?"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$492.43",
-      "change": "-2.26%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$496.88",
+      "change": "+0.90%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-08-11",
-          "title": "CaptiveCrunch: Midnight Blizzard がホテルの Wi-Fi キャプティブ ポータルを武器化し、Microsoft 365 認証情報を盗む"
+          "date": "2026-08-12",
+          "title": "オープンウェイト対プロプライエタリ AI: トークンのコストが企業に AI モデルの選択の再考を強いている理由"
+        },
+        {
+          "date": "2026-08-12",
+          "title": "54 人のアナリスト、たった 1 つの評決: マイクロソフトの好転はまだ終わっていない"
         },
         {
           "date": "2026-08-11",
-          "title": "Microsoft PowerToys は間もなく、Copilot+ PC を強化するのと同じ AI を最大限に活用する予定です"
-        },
-        {
-          "date": "2026-08-11",
-          "title": "Google のウェスチングハウスへの賭け - ティム・オライリー著"
+          "title": "CaptiveCrunch: Midnight Blizzard がホテルの Wi-Fi キャプティブ ポータルを武器にして Microsoft 365 認証情報を盗む"
         }
       ]
     }

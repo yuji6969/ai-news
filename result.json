@@ -1,28 +1,28 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$345.90",
-      "change": "-0.13%",
+      "price": "$344.00",
+      "change": "-0.55%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-08-15",
-          "title": "AIバブルが経済を支えている。"
+          "date": "2026-08-16",
+          "title": "ウォール街最大のファンドがブロードコムを売却し、台湾半導体を傘下に加えた。 "
         },
         {
-          "date": "2026-08-15",
-          "title": "セルゲイ・ブリン氏はグーグルがジェミニをさらに強化することを望んでいる。"
+          "date": "2026-08-16",
+          "title": "スタンリー・ドラッケンミラー氏、主要ハイテク株に1億2000万ドルの賭けを構築"
         },
         {
-          "date": "2026-08-15",
-          "title": "ウォーレン・バフェット氏率いるバークシャー・ハサウェイ、第2四半期に170億ドルの買い占めでアルファベット株をほぼ2倍に"
+          "date": "2026-08-16",
+          "title": "TechCrunch Mobility: 電動エアタクシーの飛行経路の変化 |"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$589.85",
-      "change": "-0.86%",
+      "price": "$568.97",
+      "change": "-3.54%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-08-15",
-          "title": "Nvidia は過去 1 年間で 270 億ドルの購入を行い、個人投資家の需要をリード"
+          "date": "2026-08-16",
+          "title": "AI エージェントは嘘をつき、騙し、盗みます。"
         },
         {
-          "date": "2026-08-15",
-          "title": "メタは極右メディアのニュースマックスでAIを訓練する"
+          "date": "2026-08-16",
+          "title": "AI ディープフェイク詐欺がオーストラリアの最も公的な顔を偽装している"
         },
         {
-          "date": "2026-08-15",
-          "title": "債券トレーダーはAI企業に対する700億ドル以上の影の信用バックストップに苦悩している"
+          "date": "2026-08-16",
+          "title": "ピーター・ティール氏、急騰する大手ハイテク株に1億1,800万ドルを投資"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$262.65",
-      "change": "-0.94%",
+      "price": "$261.31",
+      "change": "-0.51%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-08-15",
-          "title": "HN を表示: マシン上のジョブ アプリケーションを追跡する Chrome 拡張機能"
+          "date": "2026-08-16",
+          "title": "CoreBreak は配管層で AI エージェントのガードレールをバイパスしますが、モデルレベルの防御では役に立ちません"
         },
         {
-          "date": "2026-08-15",
-          "title": "第2四半期にアルファベット株を購入した億万長者はウォーレン・バフェット氏だけではなかった"
+          "date": "2026-08-16",
+          "title": "Meta のカスタム シリコンが Nvidia の AI 優位性に挑戦をもたらす"
         },
         {
-          "date": "2026-08-15",
-          "title": "では、これらすべてのトークンを誰が買うのでしょうか?"
+          "date": "2026-08-16",
+          "title": "スタンリー・ドラッケンミラー氏、主要ハイテク株に1億2000万ドルの賭けを構築"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$305.93",
-      "change": "+0.22%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$305.59",
+      "change": "-0.11%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-08-15",
-          "title": "axon-ai-agent が PyPI に追加されました"
+          "date": "2026-08-16",
+          "title": "iCloud プライベート リレーの漏洩により、実際の IP が公開される可能性があります"
         },
         {
-          "date": "2026-08-15",
-          "title": "AI とその贅沢な買い物で大金持ちになった若い億万長者たちを紹介します"
+          "date": "2026-08-16",
+          "title": "OpenAI が ChatGPT デスクトップ アプリにコンピューター履歴機能を導入"
         },
         {
-          "date": "2026-08-15",
-          "title": "モバイルヘルスおよびフィットネスセンサー市場：米国、日本、韓国、英国、ドイツの成長（2026～2033年）"
+          "date": "2026-08-16",
+          "title": "Apple Watch Series 12のリークにより、アップグレード者にとっての驚きの変更が明らかに"
         }
       ]
     },
@@ -105,20 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$225.16",
-      "change": "-0.06%",
+      "price": "$225.01",
+      "change": "-0.07%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-08-15",
-          "title": "ジム・クレイマー氏、2026 年に注目すべき AI 銘柄 6 銘柄を明らかに"
+          "date": "2026-08-16",
+          "title": "32 GB RAM、ミニ LED ディスプレイ: RTX 5070 Ti および Core Ultra 9 を搭載した 18 インチ ゲーム ラップトップが 600 ドルの大幅な値下げを獲得"
         },
         {
-          "date": "2026-08-15",
-          "title": "AIバブルが経済を支えている。"
+          "date": "2026-08-16",
+          "title": "RTX 5070 Ti、32 GB RAM: 18 インチ Neo 18 ゲーミング ラップトップが $600 割引、スポーツ 2 TB ストレージ"
+        },
+        {
+          "date": "2026-08-16",
+          "title": "AI の背後にある力に NVIDIA が 30 億ドルを賭ける"
         }
       ]
     },
@@ -126,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$495.40",
-      "change": "-0.30%",
+      "price": "$480.35",
+      "change": "-3.04%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
+          "date": "2026-08-16",
+          "title": "SpaceX はデータセンターに最大 5,000 億ドルを費やす予定です。"
+        },
+        {
           "date": "2026-08-15",
-          "title": "では、これらすべてのトークンを誰が買うのでしょうか?"
+          "title": "では、誰がこれらすべてのトークンを購入するのでしょうか?"
         },
         {
           "date": "2026-08-15",
           "title": "HN を表示: DigitalEscapeTools – プライバシー ツール"
-        },
-        {
-          "date": "2026-08-14",
-          "title": "Microsoft (MSFT) の AI 戦略: クラウドの成長、大きな賭け、および主要なリスク"
         }
       ]
     }

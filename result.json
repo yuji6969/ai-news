@@ -1,28 +1,28 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$344.00",
-      "change": "-0.55%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$344.20",
+      "change": "+0.06%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-08-16",
-          "title": "ウォール街最大のファンドがブロードコムを売却し、台湾半導体を傘下に加えた。 "
+          "date": "2026-08-17",
+          "title": "カリフォルニアの億万長者への課税に関する投票が世界中で注目されている理由"
         },
         {
-          "date": "2026-08-16",
-          "title": "スタンリー・ドラッケンミラー氏、主要ハイテク株に1億2000万ドルの賭けを構築"
+          "date": "2026-08-17",
+          "title": "昨年830億ドルの減税を受けた企業"
         },
         {
-          "date": "2026-08-16",
-          "title": "TechCrunch Mobility: 電動エアタクシーの飛行経路の変化 |"
+          "date": "2026-08-17",
+          "title": "億万長者のスタンリー・ドラッケンミラー、セス・クラマン、デビッド・テッパーは全員、アルファベット株に投資している。"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$568.97",
-      "change": "-3.54%",
+      "price": "$543.67",
+      "change": "-4.45%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-08-16",
-          "title": "AI エージェントは嘘をつき、騙し、盗みます。"
+          "date": "2026-08-17",
+          "title": "米国最高配当株の今年は好調"
         },
         {
-          "date": "2026-08-16",
-          "title": "AI ディープフェイク詐欺がオーストラリアの最も公的な顔を偽装している"
+          "date": "2026-08-17",
+          "title": "Groq が AI チップからネオクラウドへの軸足を加速するために 3 億 5,000 万ドルを調達 |"
         },
         {
-          "date": "2026-08-16",
-          "title": "ピーター・ティール氏、急騰する大手ハイテク株に1億1,800万ドルを投資"
+          "date": "2026-08-17",
+          "title": "Groq が AI チップからネオクラウドへの軸足を加速するために 3 億 5,000 万ドルを調達"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$261.31",
-      "change": "-0.51%",
+      "price": "$259.45",
+      "change": "-0.71%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-08-16",
-          "title": "CoreBreak は配管層で AI エージェントのガードレールをバイパスしますが、モデルレベルの防御では役に立ちません"
+          "date": "2026-08-17",
+          "title": "Amazon EC2 Auto Scaling がバッチインスタンスの終了をサポートするようになりました"
         },
         {
-          "date": "2026-08-16",
-          "title": "Meta のカスタム シリコンが Nvidia の AI 優位性に挑戦をもたらす"
+          "date": "2026-08-17",
+          "title": "スタンリー・ドラッケンミラー、デビッド・テッパー、ピーター・ティールが同じAIへの賭けに集結"
         },
         {
-          "date": "2026-08-16",
-          "title": "スタンリー・ドラッケンミラー氏、主要ハイテク株に1億2000万ドルの賭けを構築"
+          "date": "2026-08-17",
+          "title": "NVIDIA Nemotron 3.5 Lightning が Amazon SageMaker JumpStart で利用可能になりました"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$305.59",
-      "change": "-0.11%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$310.03",
+      "change": "+1.45%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-08-16",
-          "title": "iCloud プライベート リレーの漏洩により、実際の IP が公開される可能性があります"
+          "date": "2026-08-17",
+          "title": "Pixel 11 Pro XL と iPhone 17 Pro Max: Google と Apple の主力スマートフォンを比較してみました"
         },
         {
-          "date": "2026-08-16",
-          "title": "OpenAI が ChatGPT デスクトップ アプリにコンピューター履歴機能を導入"
+          "date": "2026-08-17",
+          "title": "Beatbot Sora 70 レビュー: 表面スキミング機能を備えたオールインワンのロボットプールクリーナー"
         },
         {
-          "date": "2026-08-16",
-          "title": "Apple Watch Series 12のリークにより、アップグレード者にとっての驚きの変更が明らかに"
+          "date": "2026-08-17",
+          "title": "Beatbot Sora 70 レビュー: 表面スキミング機能を備えたオールインワンのロボットプールクリーナー"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$225.01",
-      "change": "-0.07%",
+      "price": "$219.74",
+      "change": "-2.34%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-08-16",
-          "title": "32 GB RAM、ミニ LED ディスプレイ: RTX 5070 Ti および Core Ultra 9 を搭載した 18 インチ ゲーム ラップトップが 600 ドルの大幅な値下げを獲得"
+          "date": "2026-08-17",
+          "title": "AI コーディング エージェントが NVIDIA ALCHEMI ツールキットを使用して材料シミュレーションを可能にする方法"
         },
         {
-          "date": "2026-08-16",
-          "title": "RTX 5070 Ti、32 GB RAM: 18 インチ Neo 18 ゲーミング ラップトップが $600 割引、スポーツ 2 TB ストレージ"
+          "date": "2026-08-17",
+          "title": "テック億万長者がキャンパスで A.I. の次章に資金提供"
         },
         {
-          "date": "2026-08-16",
-          "title": "AI の背後にある力に NVIDIA が 30 億ドルを賭ける"
+          "date": "2026-08-17",
+          "title": "ベクタースタイラー 1.3.024"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$480.35",
-      "change": "-3.04%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$481.63",
+      "change": "+0.27%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-08-16",
-          "title": "SpaceX はデータセンターに最大 5,000 億ドルを費やす予定です。"
+          "date": "2026-08-17",
+          "title": "LiteLLM サプライチェーン攻撃 – 最も影響を受けるのはテクノロジー、銀行、ヘルスケア"
         },
         {
-          "date": "2026-08-15",
-          "title": "では、誰がこれらすべてのトークンを購入するのでしょうか?"
+          "date": "2026-08-17",
+          "title": "Tiger Global は大手テクノロジー企業をこのチップ株と交換しました。"
         },
         {
-          "date": "2026-08-15",
-          "title": "HN を表示: DigitalEscapeTools – プライバシー ツール"
+          "date": "2026-08-17",
+          "title": "アマゾンは3兆ドルを突破。"
         }
       ]
     }

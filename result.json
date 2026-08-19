@@ -1,28 +1,28 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$344.20",
-      "change": "+0.06%",
+      "price": "$344.72",
+      "change": "+0.15%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-08-17",
+          "date": "2026-08-18",
+          "title": "人間のIPO前の信用枠は100億ドルを超える見込み"
+        },
+        {
+          "date": "2026-08-18",
           "title": "カリフォルニアの億万長者への課税に関する投票が世界中で注目されている理由"
         },
         {
-          "date": "2026-08-17",
-          "title": "昨年830億ドルの減税を受けた企業"
-        },
-        {
-          "date": "2026-08-17",
-          "title": "億万長者のスタンリー・ドラッケンミラー、セス・クラマン、デビッド・テッパーは全員、アルファベット株に投資している。"
+          "date": "2026-08-18",
+          "title": "アックマン氏はグーグルから去ったばかりだ"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$543.67",
-      "change": "-4.45%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$546.03",
+      "change": "+0.43%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-08-17",
-          "title": "米国最高配当株の今年は好調"
+          "date": "2026-08-18",
+          "title": "ダグ・フォード氏、カナダ人をトランプ大統領から守るためにオンタリオ州にはデータセンターが必要だと語る"
         },
         {
-          "date": "2026-08-17",
-          "title": "Groq が AI チップからネオクラウドへの軸足を加速するために 3 億 5,000 万ドルを調達 |"
+          "date": "2026-08-18",
+          "title": "マディソン スクエア ガーデン エンターテイメント (MSGE) は 1 週間で 11.61% 上昇: 知っておくべきこと"
         },
         {
-          "date": "2026-08-17",
-          "title": "Groq が AI チップからネオクラウドへの軸足を加速するために 3 億 5,000 万ドルを調達"
+          "date": "2026-08-18",
+          "title": "人類関連のニュースがルメンタム、コーニング、AXTに影響を与え光学株が急落"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$259.45",
-      "change": "-0.71%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$265.84",
+      "change": "+2.46%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-08-17",
-          "title": "Amazon EC2 Auto Scaling がバッチインスタンスの終了をサポートするようになりました"
+          "date": "2026-08-18",
+          "title": "AgentCore Gateway のリクエスト Lambda インターセプターを使用してツール統合のためのカスタム認証を実装する"
         },
         {
-          "date": "2026-08-17",
-          "title": "スタンリー・ドラッケンミラー、デビッド・テッパー、ピーター・ティールが同じAIへの賭けに集結"
+          "date": "2026-08-18",
+          "title": "今月の AWS オブザーバビリティ: 2026 年 7 月"
         },
         {
-          "date": "2026-08-17",
-          "title": "NVIDIA Nemotron 3.5 Lightning が Amazon SageMaker JumpStart で利用可能になりました"
+          "date": "2026-08-18",
+          "title": "AgentCore 支払いが Amazon Bedrock AgentCore で一般提供されるようになりました"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$310.03",
-      "change": "+1.45%",
+      "price": "$316.83",
+      "change": "+2.19%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-08-17",
-          "title": "Pixel 11 Pro XL と iPhone 17 Pro Max: Google と Apple の主力スマートフォンを比較してみました"
+          "date": "2026-08-18",
+          "title": "アマゾンのAIトレーニング施設での希少本がスキャンされ破棄される"
         },
         {
-          "date": "2026-08-17",
-          "title": "Beatbot Sora 70 レビュー: 表面スキミング機能を備えたオールインワンのロボットプールクリーナー"
+          "date": "2026-08-18",
+          "title": "Apple、iOS 27、iPadOS 27、macOS 27、tvOS 27の4回目のパブリックベータ版をリリース"
         },
         {
-          "date": "2026-08-17",
-          "title": "Beatbot Sora 70 レビュー: 表面スキミング機能を備えたオールインワンのロボットプールクリーナー"
+          "date": "2026-08-18",
+          "title": "フロンティア |"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$219.74",
-      "change": "-2.34%",
+      "price": "$217.56",
+      "change": "-0.99%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-08-17",
-          "title": "AI コーディング エージェントが NVIDIA ALCHEMI ツールキットを使用して材料シミュレーションを可能にする方法"
+          "date": "2026-08-18",
+          "title": "ソフトウェアの目的は何ですか"
         },
         {
-          "date": "2026-08-17",
-          "title": "テック億万長者がキャンパスで A.I. の次章に資金提供"
+          "date": "2026-08-18",
+          "title": "オンデバイス ロボット制御用の NVIDIA Cosmos 3 Edge のポストトレーニング"
         },
         {
-          "date": "2026-08-17",
-          "title": "ベクタースタイラー 1.3.024"
+          "date": "2026-08-18",
+          "title": "Enterprise SSD の価格は昨年 6.5 倍に上昇: VDURA は 30TB TLC ドライブを 22,600 ドルで固定"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$481.63",
-      "change": "+0.27%",
+      "price": "$484.31",
+      "change": "+0.56%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-08-17",
-          "title": "LiteLLM サプライチェーン攻撃 – 最も影響を受けるのはテクノロジー、銀行、ヘルスケア"
+          "date": "2026-08-18",
+          "title": "Microsoftは統合中で、すぐにさらに高価になるため、私は買い続けます"
         },
         {
-          "date": "2026-08-17",
-          "title": "Tiger Global は大手テクノロジー企業をこのチップ株と交換しました。"
+          "date": "2026-08-18",
+          "title": "プレゼンテーション: ファブからトークンへ - 市場の現状"
         },
         {
-          "date": "2026-08-17",
-          "title": "アマゾンは3兆ドルを突破。"
+          "date": "2026-08-18",
+          "title": "OpenAI が消滅したらどうなるのか?"
         }
       ]
     }

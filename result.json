@@ -1,28 +1,28 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$344.72",
-      "change": "+0.15%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$340.67",
+      "change": "-1.17%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-08-18",
-          "title": "人間のIPO前の信用枠は100億ドルを超える見込み"
+          "date": "2026-08-19",
+          "title": "Gemini は 1 年間無料の学生プランを提供します"
         },
         {
-          "date": "2026-08-18",
-          "title": "カリフォルニアの億万長者への課税に関する投票が世界中で注目されている理由"
+          "date": "2026-08-19",
+          "title": "AIの王冠を追うGoogle、マーベルとブロードコムを争わせる"
         },
         {
-          "date": "2026-08-18",
-          "title": "アックマン氏はグーグルから去ったばかりだ"
+          "date": "2026-08-19",
+          "title": "ウォーレン・バフェット氏お気に入りの人工知能（AI）株を買って決して売らない2つの理由"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$546.03",
-      "change": "+0.43%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$545.83",
+      "change": "-0.04%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-08-18",
-          "title": "ダグ・フォード氏、カナダ人をトランプ大統領から守るためにオンタリオ州にはデータセンターが必要だと語る"
+          "date": "2026-08-19",
+          "title": "トランプ氏、ライトタッチ規制推進でAIは「インターネットよりも大きくなる」可能性があると発言"
         },
         {
-          "date": "2026-08-18",
-          "title": "マディソン スクエア ガーデン エンターテイメント (MSGE) は 1 週間で 11.61% 上昇: 知っておくべきこと"
+          "date": "2026-08-19",
+          "title": "Creatorverse: アレックス・クーパーと体調不良の混乱を打破する"
         },
         {
-          "date": "2026-08-18",
-          "title": "人類関連のニュースがルメンタム、コーニング、AXTに影響を与え光学株が急落"
+          "date": "2026-08-19",
+          "title": "データセンターの反発が中期決算で重要な役割を果たす構え：「データセンターすら必要ない」"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$265.84",
-      "change": "+2.46%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$260.11",
+      "change": "-2.16%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-08-18",
-          "title": "AgentCore Gateway のリクエスト Lambda インターセプターを使用してツール統合のためのカスタム認証を実装する"
+          "date": "2026-08-19",
+          "title": "AgentCore の Web 検索のドメインおよび公開日フィルター"
         },
         {
-          "date": "2026-08-18",
-          "title": "今月の AWS オブザーバビリティ: 2026 年 7 月"
+          "date": "2026-08-19",
+          "title": "Quick Automate と IDP Accelerator を使用してドキュメント処理を自動化する"
         },
         {
-          "date": "2026-08-18",
-          "title": "AgentCore 支払いが Amazon Bedrock AgentCore で一般提供されるようになりました"
+          "date": "2026-08-19",
+          "title": "Amazon Bedrock Agent を呼び出すための非同期パターンサーバーレス パイプラインのコア エージェント"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$316.83",
-      "change": "+2.19%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$311.30",
+      "change": "-1.75%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-08-18",
-          "title": "アマゾンのAIトレーニング施設での希少本がスキャンされ破棄される"
+          "date": "2026-08-19",
+          "title": "SetShot は macOS 設定の変更を追跡します"
         },
         {
-          "date": "2026-08-18",
-          "title": "Apple、iOS 27、iPadOS 27、macOS 27、tvOS 27の4回目のパブリックベータ版をリリース"
+          "date": "2026-08-19",
+          "title": "Apple Watch Series 11、9月のイベントを前に過去最低値を記録"
         },
         {
-          "date": "2026-08-18",
-          "title": "フロンティア |"
+          "date": "2026-08-19",
+          "title": "macOS Golden Gate は新しいアプリを Mac に追加します。"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$217.56",
-      "change": "-0.99%",
+      "price": "$216.85",
+      "change": "-0.33%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-08-18",
-          "title": "ソフトウェアの目的は何ですか"
+          "date": "2026-08-19",
+          "title": "awdk が PyPI に追加されました"
         },
         {
-          "date": "2026-08-18",
-          "title": "オンデバイス ロボット制御用の NVIDIA Cosmos 3 Edge のポストトレーニング"
+          "date": "2026-08-19",
+          "title": "5月のラウンドから6倍に跳ね上がる65億ドルの評価額交渉は難航"
         },
         {
-          "date": "2026-08-18",
-          "title": "Enterprise SSD の価格は昨年 6.5 倍に上昇: VDURA は 30TB TLC ドライブを 22,600 ドルで固定"
+          "date": "2026-08-19",
+          "title": "AI 推論競争は GPU を超えてデータセンター インフラストラクチャを再構築する"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$484.31",
-      "change": "+0.56%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$481.15",
+      "change": "-0.65%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-08-18",
-          "title": "Microsoftは統合中で、すぐにさらに高価になるため、私は買い続けます"
+          "date": "2026-08-19",
+          "title": "2026 年のベスト ローカル LLM ツール: ランタイム、アプリ、エージェント"
         },
         {
-          "date": "2026-08-18",
-          "title": "プレゼンテーション: ファブからトークンへ - 市場の現状"
+          "date": "2026-08-19",
+          "title": "Microsoft が、2026 年の Frost Radar™: Cloud Workload Protection Platforms でリーダーに選出"
         },
         {
-          "date": "2026-08-18",
-          "title": "OpenAI が消滅したらどうなるのか?"
+          "date": "2026-08-19",
+          "title": "アマゾンは投資家に強気になる大きな理由を与えた"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-08-21",
-          "title": "Young Americans don’t trust tech titan ‘super villians’ — and it could be fueling socialism: poll"
+          "date": "2026-08-22",
+          "title": "Nvidia customers notified about AI-related price hikes above 15%"
         },
         {
-          "date": "2026-08-21",
-          "title": "Anthropic Taps Google Chip Veteran as Part of Push Into Hardware"
+          "date": "2026-08-22",
+          "title": "Anthropic hires Google chip veteran Amir Salek as part of push into hardware"
         },
         {
-          "date": "2026-08-21",
-          "title": "How the AI borrowing binge helps drive US government bond yields"
+          "date": "2026-08-22",
+          "title": "Broadcom eyes $80 billion debt deal to fuel Anthropic’s AI chip ambitions"
         }
       ]
     },
@@ -38,16 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-08-21",
-          "title": "Anthropic hires Google chip veteran to advance hardware efforts"
+          "date": "2026-08-22",
+          "title": "Blue-chip companies enlist junk bond investors to raise billions for AI projects"
         },
         {
-          "date": "2026-08-21",
-          "title": "Four provinces set different rules for data centres"
+          "date": "2026-08-22",
+          "title": "Nvidia Stock Trades at a Reasonable Valuation With Ample Growth Headroom"
         },
         {
-          "date": "2026-08-21",
-          "title": "How the AI borrowing binge helps drive US government bond yields"
+          "date": "2026-08-22",
+          "title": "AI’s Absurd Spending Boom? Hyperscalers Are Spending 102% of Cloud Revenue on Capex"
         }
       ]
     },
@@ -63,16 +63,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-08-21",
-          "title": "Finovate Global Germany: Spend Management, Embedded Finance, and Instant Payments"
+          "date": "2026-08-22",
+          "title": "David Tepper dumps SanDisk after 591% rally, pivots Appaloosa into AI chip stocks"
         },
         {
-          "date": "2026-08-21",
-          "title": "Amazon Connect Customer now lets managers chat with their data"
+          "date": "2026-08-22",
+          "title": "Amazon Stock Is Historically Cheap. Is This a Once-in-a-Decade Buying Opportunity?"
         },
         {
-          "date": "2026-08-21",
-          "title": "prowler v5.39.1"
+          "date": "2026-08-22",
+          "title": "pearls added to PyPI"
         }
       ]
     },
@@ -88,16 +88,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-08-21",
-          "title": "Bank of America predicts a bolder Apple under new CEO John Ternus"
+          "date": "2026-08-22",
+          "title": "'Pervert Glasses' Are Ruining Wearable Tech. The Best Smart Frames Ditch Cameras Entirely"
         },
         {
-          "date": "2026-08-21",
-          "title": "Apple Cuts Jobs In Siri, Vision Pro Immersive Video and Gaming Teams"
+          "date": "2026-08-22",
+          "title": "Apple's Vision Pro, Siri Teams Set for Major Job Cuts"
         },
         {
-          "date": "2026-08-21",
-          "title": "langchain-hyperlight added to PyPI"
+          "date": "2026-08-22",
+          "title": "Show HN: I turned Apple-style scroll-video websites into a reusable AI skill"
         }
       ]
     },
@@ -113,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-08-21",
-          "title": "Nvidia just showed that the harness, not the AI model, is now the real hero - TechCrunch"
+          "date": "2026-08-22",
+          "title": "The VRAM question finally has a real answer — and it's not what GPU marketing suggests"
         },
         {
-          "date": "2026-08-21",
-          "title": "brainpatch added to PyPI"
+          "date": "2026-08-22",
+          "title": "Nvidia AI server prices are rising more than 15% from early next year"
         },
         {
-          "date": "2026-08-21",
-          "title": "Nvidia’s AVO proves that the harness matters more than raw intelligence"
+          "date": "2026-08-22",
+          "title": "Unusual log in activities and other signals"
         }
       ]
     },
@@ -138,16 +138,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-08-21",
-          "title": "Meta pays Microsoft hundreds of millions a year to rent AI models"
+          "date": "2026-08-22",
+          "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely"
         },
         {
-          "date": "2026-08-21",
-          "title": "AMD Lost SpaceX to Nvidia. Is Its AI Challenge Already Falling Apart?"
+          "date": "2026-08-22",
+          "title": "Microsoft Has Something Nvidia Doesn’t and Here’s Why it Matters"
         },
         {
-          "date": "2026-08-21",
-          "title": "Oracle Shares Rise as Dip Buyers Return Despite Stock Remaining Down Nearly 60% From Its September Peak"
+          "date": "2026-08-22",
+          "title": "Anthropic and OpenAI’s combined ARR tops $115B, closing in on Microsoft"
         }
       ]
     }

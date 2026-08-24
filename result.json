@@ -1,28 +1,28 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$344.82",
-      "change": "+1.22%",
+      "price": "$348.06",
+      "change": "+0.94%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-08-22",
-          "title": "Nvidia customers notified about AI-related price hikes above 15%"
+          "date": "2026-08-23",
+          "title": "ET WLF: India's growth story holds firm as AI boom redirects global capital"
         },
         {
-          "date": "2026-08-22",
-          "title": "Anthropic hires Google chip veteran Amir Salek as part of push into hardware"
+          "date": "2026-08-23",
+          "title": "Nvidia customers warned about AI-related price hikes above 15% on chips: report"
         },
         {
-          "date": "2026-08-22",
-          "title": "Broadcom eyes $80 billion debt deal to fuel Anthropic’s AI chip ambitions"
+          "date": "2026-08-23",
+          "title": "Nvidia to raise AI server prices by over 15% as memory chip costs soar"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$549.90",
-      "change": "+0.75%",
+      "price": "$559.02",
+      "change": "+1.66%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-08-22",
-          "title": "Blue-chip companies enlist junk bond investors to raise billions for AI projects"
+          "date": "2026-08-23",
+          "title": "ET WLF: India's growth story holds firm as AI boom redirects global capital"
         },
         {
-          "date": "2026-08-22",
-          "title": "Nvidia Stock Trades at a Reasonable Valuation With Ample Growth Headroom"
+          "date": "2026-08-23",
+          "title": "PurpleLlama"
         },
         {
-          "date": "2026-08-22",
-          "title": "AI’s Absurd Spending Boom? Hyperscalers Are Spending 102% of Cloud Revenue on Capex"
+          "date": "2026-08-23",
+          "title": "Alibaba launches $10B Hong Kong share placement to fund AI spending"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$258.63",
-      "change": "-0.57%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$262.07",
+      "change": "+1.33%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-08-22",
-          "title": "David Tepper dumps SanDisk after 591% rally, pivots Appaloosa into AI chip stocks"
+          "date": "2026-08-23",
+          "title": "lowkey v0.5.229"
         },
         {
-          "date": "2026-08-22",
-          "title": "Amazon Stock Is Historically Cheap. Is This a Once-in-a-Decade Buying Opportunity?"
+          "date": "2026-08-23",
+          "title": "Skill ministry, Amazon launch nationwide cloud, AI skilling programme"
         },
         {
-          "date": "2026-08-22",
-          "title": "pearls added to PyPI"
+          "date": "2026-08-23",
+          "title": "AI Chip Architectures"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$309.35",
-      "change": "-0.63%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$310.34",
+      "change": "+0.32%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-08-22",
-          "title": "'Pervert Glasses' Are Ruining Wearable Tech. The Best Smart Frames Ditch Cameras Entirely"
+          "date": "2026-08-23",
+          "title": "Structured 4.5.4"
         },
         {
-          "date": "2026-08-22",
-          "title": "Apple's Vision Pro, Siri Teams Set for Major Job Cuts"
+          "date": "2026-08-23",
+          "title": "The Poco F8 Pro is the best affordable flagship phone I’ve used in recent memory — for many reasons"
         },
         {
-          "date": "2026-08-22",
-          "title": "Show HN: I turned Apple-style scroll-video websites into a reusable AI skill"
+          "date": "2026-08-23",
+          "title": "Slovakia finds Russian backdoor in traffic speed cameras"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$214.72",
-      "change": "-0.98%",
+      "price": "$208.48",
+      "change": "-2.91%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-08-22",
-          "title": "The VRAM question finally has a real answer — and it's not what GPU marketing suggests"
+          "date": "2026-08-23",
+          "title": "Goldman Sachs spots huge twist ahead of Nvidia’s earnings"
         },
         {
-          "date": "2026-08-22",
-          "title": "Nvidia AI server prices are rising more than 15% from early next year"
+          "date": "2026-08-23",
+          "title": "NVIDIA Becomes A Buyer Of Last Resort For Its Own GPUs By Earmarking $7 Billion For Poolside, Just As Sam Altman Admits He Was Wrong On The AI Timeline"
         },
         {
-          "date": "2026-08-22",
-          "title": "Unusual log in activities and other signals"
+          "date": "2026-08-23",
+          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog"
         }
       ]
     },
@@ -130,13 +130,17 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$483.24",
-      "change": "+0.43%",
+      "price": "$487.31",
+      "change": "+0.84%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
+        {
+          "date": "2026-08-23",
+          "title": "Week in review: Records allegedly stolen from Azure tenants, Medusa ransomware hits 500+ orgs"
+        },
         {
           "date": "2026-08-22",
           "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely"
@@ -144,10 +148,6 @@
         {
           "date": "2026-08-22",
           "title": "Microsoft Has Something Nvidia Doesn’t and Here’s Why it Matters"
-        },
-        {
-          "date": "2026-08-22",
-          "title": "Anthropic and OpenAI’s combined ARR tops $115B, closing in on Microsoft"
         }
       ]
     }

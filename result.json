@@ -1,28 +1,28 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-27",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$346.96",
-      "change": "-0.32%",
+      "price": "$342.00",
+      "change": "-1.43%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-08-24",
-          "title": "Apple Reportedly Will Raise iPhone Prices, but Just How Much?"
+          "date": "2026-08-26",
+          "title": "Off-balance sheet commitments tied to AI hit $3.1 trillion across nine tech giants"
         },
         {
-          "date": "2026-08-24",
-          "title": "Stanley Druckenmiller and Cathie Wood agree on 2 tech giant stocks"
+          "date": "2026-08-25",
+          "title": "Prediction: Amazon Stock Could Be the Sleeper Winner of the AI Boom"
         },
         {
-          "date": "2026-08-24",
-          "title": "Snap Rises 4%, Meta Platforms and Alphabet Tick Up, Reddit Slips as the Social Media Trade Splits"
+          "date": "2026-08-25",
+          "title": "3 Billionaire Investors Just Bought the Same Stock. Should You?"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$570.05",
-      "change": "+1.97%",
+      "price": "$576.14",
+      "change": "+1.07%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-08-24",
-          "title": "Trump’s Latest Financial Disclosure Reveal Dubiously Timed Stock Sales"
+          "date": "2026-08-25",
+          "title": "Danny Moses identifies 10-year yield, Nvidia as key market assets"
         },
         {
-          "date": "2026-08-24",
-          "title": "Nvidia’s real contribution to US GDP is being hidden by an accounting quirk"
+          "date": "2026-08-25",
+          "title": "Options traders anticipate muted Nvidia earnings reaction amid AI focus"
         },
         {
-          "date": "2026-08-24",
-          "title": "Texas Gov. Greg Abbott says data center builders ‘dug their own grave’ with public opinion"
+          "date": "2026-08-25",
+          "title": "US stocks today: US stocks close higher as tech rebound puts Nvidia in focus"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$261.06",
-      "change": "-0.39%",
+      "price": "$260.28",
+      "change": "-0.30%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-08-24",
-          "title": "Tech Choices"
+          "date": "2026-08-26",
+          "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down"
         },
         {
-          "date": "2026-08-24",
-          "title": "Amazon Jumps 1.8% as AWS Growth Overpowers Tech Anxiety"
+          "date": "2026-08-25",
+          "title": "tirith v0.4.0"
         },
         {
-          "date": "2026-08-24",
-          "title": "Introducing new Ray capabilities on SageMaker HyperPod"
+          "date": "2026-08-25",
+          "title": "Is Java Enterprise Ready for AI? Absolutely"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$309.90",
-      "change": "-0.14%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$313.45",
+      "change": "+1.15%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-08-24",
-          "title": "The TCL Note A1 is a kinder, gentler tablet"
+          "date": "2026-08-26",
+          "title": "Mac Mini 2026 Malaysia: M6 and M5 Pro, priced from RM3,799"
         },
         {
-          "date": "2026-08-24",
-          "title": "Tech Choices"
+          "date": "2026-08-26",
+          "title": "Apple Mac Studio with M5 Max & M5 Ultra"
         },
         {
-          "date": "2026-08-24",
-          "title": "Apple Vision Pro and Software Layoffs"
+          "date": "2026-08-26",
+          "title": "Your Ultimate Guide to the Best Siri Voice Commands at Home - CNET"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$213.05",
-      "change": "+2.19%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$209.66",
+      "change": "-1.59%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-08-24",
-          "title": "Nvidia gives away AI models for free to boost GPU sales"
+          "date": "2026-08-26",
+          "title": "Upcoming Jetson Orin Nano 2 boosts edge AI performance to 78 TOPS"
         },
         {
-          "date": "2026-08-24",
-          "title": "New Windows 11 setting could give unified-memory PCs more VRAM"
+          "date": "2026-08-26",
+          "title": "Real-time PEM fuel cell fault classification in smart manufacturing plant by using uncertainty aware federated deep learning"
         },
         {
-          "date": "2026-08-24",
-          "title": "qvunex added to PyPI"
+          "date": "2026-08-26",
+          "title": "How AI inference works, clearly explained"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$491.71",
-      "change": "+0.90%",
+      "price": "$496.37",
+      "change": "+0.95%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-08-24",
-          "title": "Microsoft employees reveal how much cash they're burning on AI"
+          "date": "2026-08-25",
+          "title": "Prediction: Amazon Stock Could Be the Sleeper Winner of the AI Boom"
         },
         {
-          "date": "2026-08-24",
-          "title": "Leaked Microsoft pay data shows how much hundreds of employees report making in AI, cloud, and other teams"
+          "date": "2026-08-25",
+          "title": "Top Investors Name 5 AI Stocks That Could Win No Matter Which Model Leads"
         },
         {
-          "date": "2026-08-24",
-          "title": "From dotnet run to Foundry Hosted Agent in 3 lines of C#"
+          "date": "2026-08-25",
+          "title": "Shadow Agents, Standing Privileges, and the Governance Gap Between Deployment and Discovery"
         }
       ]
     }

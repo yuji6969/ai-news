@@ -1,28 +1,28 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$340.65",
-      "change": "-0.39%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$346.59",
+      "change": "+1.74%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-08-27",
-          "title": "NvidiaがAIスタートアップHugging Faceの買収に向けて交渉中、報道によると"
+          "date": "2026-08-28",
+          "title": "US Federal Trade Commission probes YouTube over social media policies"
         },
         {
           "date": "2026-08-27",
-          "title": "Thinking Machines Lab の共同創設者バレット・ゾフ氏が Google に入社"
+          "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Alphabet Inc. - GOOG"
         },
         {
           "date": "2026-08-27",
-          "title": "Thinking Machines Lab の共同創設者バレット・ゾフ氏が Google に入社"
+          "title": "OpenAI, Anthropic urge cyber defence action as AI models improve"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$571.10",
-      "change": "-0.87%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$578.02",
+      "change": "+1.21%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
+          "date": "2026-08-28",
+          "title": "How Meta's seemingly unstoppable march to monetise children's unhealthy online habits took a historic - and $18billion - stumble"
+        },
+        {
           "date": "2026-08-27",
-          "title": "GetHookd、より説得力のある問題解決型広告を実現する AI 広告ジェネレーターを発表"
+          "title": "Jed York booted from Silicon Valley tech board after 49ers CEO’s trailer park hooker arrest"
         },
         {
-          "date": "2026-08-26",
-          "title": "経済学者ブラッド・オルセン氏、自身の画像を利用したAIディープフェイク詐欺に恐怖"
-        },
-        {
-          "date": "2026-08-26",
-          "title": "Nvidia株は決算を受けて序盤に急落した後、急騰。 "
+          "date": "2026-08-27",
+          "title": "Meta Backs Off Plan to Replace Staff With AI"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$256.26",
-      "change": "-1.54%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$266.43",
+      "change": "+3.97%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-08-27",
-          "title": "NVIDIA と AWS、AI パートナーシップを拡大。 "
+          "date": "2026-08-28",
+          "title": "OpenAI mulls selling compute capacity down the road, but not anytime soon"
+        },
+        {
+          "date": "2026-08-28",
+          "title": "AI/ML Software Engineer"
         },
         {
           "date": "2026-08-27",
-          "title": "AWS と Nvidia が AI パートナーシップを拡大、さらに 200 万個の GPU を計画"
-        },
-        {
-          "date": "2026-08-26",
-          "title": "アマゾンは「需要の急増」を理由に Nvidia チップの注文を 3 倍に増やしたばかりです。"
+          "title": "Build agentic creative workflows with Amazon Quick and fal"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$314.58",
-      "change": "+0.36%",
+      "price": "$319.70",
+      "change": "+1.63%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
+          "date": "2026-08-28",
+          "title": "Issue 765"
+        },
+        {
           "date": "2026-08-27",
-          "title": "「Take Control of Siri AI」と「Apple Intelligence」電子ブックが発売 ↦"
+          "title": "How to spy on your aging parents — ethically"
         },
         {
-          "date": "2026-08-26",
-          "title": "VMware Explore 中に期待できること: 8 月 31 日から 9 月 31 日まで theCUBE に参加してください。 "
-        },
-        {
-          "date": "2026-08-26",
-          "title": "iOS 27のリマインダーの新機能はすべてここにあります"
+          "date": "2026-08-27",
+          "title": "Lawsuit says Oura sleep tracking has 'a coin flip's chance of being correct'"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$227.98",
-      "change": "+8.74%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$217.55",
+      "change": "-4.57%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-08-27",
-          "title": "NVIDIA と AWS、AI パートナーシップを拡大。 "
+          "date": "2026-08-28",
+          "title": "vmware-privateai 0.2.1"
         },
         {
           "date": "2026-08-27",
-          "title": "Nvidia、来年の売上高は 70% 増加すると予測、AI 支出ブームはまだ何年も続くことを示唆"
+          "title": "Nvidia adds $442B in market value, marking second-largest one-day gain in US history"
         },
         {
           "date": "2026-08-27",
-          "title": "解説: Nvidia は GPU 使用率を上げるためにオープン モデルに賭けています"
+          "title": "Nvidia promises further growth after blockbuster quarter"
         }
       ]
     },
@@ -130,8 +130,8 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$505.06",
-      "change": "+1.75%",
+      "price": "$513.53",
+      "change": "+1.68%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
@@ -139,15 +139,15 @@
       "news": [
         {
           "date": "2026-08-27",
-          "title": "株式会社NR、電話AIエージェント「BOTCHAN AICALL」導入で顧客接客から後処理までの自動対応完了率80%超えを実現"
+          "title": "Chinese open-source AI is starting to win over U.S. businesses"
         },
         {
-          "date": "2026-08-26",
-          "title": "NVIDIA の 960 億ドルの四半期は、コンピューティングの大家説がもはや憶測ではないことを証明しています"
+          "date": "2026-08-27",
+          "title": "Rishi Sunak updates LinkedIn to reflect advisory roles at Microsoft and Anthropic"
         },
         {
-          "date": "2026-08-26",
-          "title": "Talk Python to Me: #560: 研究用 OS の構築: Django から 30,000 サンプルまで"
+          "date": "2026-08-27",
+          "title": "Perplexity Wants a $30 Billion Valuation Before Its 2028 IPO. Nvidia May Help It Get There"
         }
       ]
     }

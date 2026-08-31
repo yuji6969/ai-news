@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-31",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-08-28",
-          "title": "US stocks today: US stocks end lower as Warsh keeps inflation fight front and centre"
+          "date": "2026-08-29",
+          "title": "Alphabet Stock: 3 Reasons to Buy Before It Hits a New All-Time High"
         },
         {
-          "date": "2026-08-28",
-          "title": "NVIDIA (NVDA), Palantir Technologies (PLTR), and the AI Achilles’ Heel: Steve Eisman’s Concentration Warning Explained"
+          "date": "2026-08-29",
+          "title": "Here’s why Canada needs to break up with Google"
         },
         {
-          "date": "2026-08-28",
-          "title": "Is Proving AI Can Strengthen Its Search Business"
+          "date": "2026-08-29",
+          "title": "The S&P 500 keeps climbing on days when stocks broadly struggle. Here’s what’s going on."
         }
       ]
     },
@@ -38,16 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-08-28",
-          "title": "Nvidia’s revenue forecast raises speculation about SpaceX impact"
+          "date": "2026-08-29",
+          "title": "Mark Zuckerberg sends shocking message to Meta employees"
         },
         {
-          "date": "2026-08-28",
-          "title": "Yes, We’re in an AI Bubble. Just Look to 1980s Japan."
+          "date": "2026-08-29",
+          "title": "The S&P 500 keeps climbing on days when stocks broadly struggle. Here’s what’s going on."
         },
         {
-          "date": "2026-08-28",
-          "title": "Meta’s AI workforce overhaul collapses under the weight of its own ambition"
+          "date": "2026-08-29",
+          "title": "Silicon Valley wealth managers say elite tech workers are making these 5 money moves as AI mania continues"
         }
       ]
     },
@@ -63,12 +63,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-08-28",
-          "title": "Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region"
+          "date": "2026-08-29",
+          "title": "Hugging Face built a $4.5 billion empire on free AI models. Now Nvidia is buying it for $12.9 billion"
         },
         {
-          "date": "2026-08-28",
-          "title": "AWS Route 53 DNS service reimagined...as a file system?"
+          "date": "2026-08-29",
+          "title": "Google, Amazon, OpenAI are making AI chips — so why isn’t Nvidia losing sleep?"
+        },
+        {
+          "date": "2026-08-29",
+          "title": "Nvidia Is Getting Bigger Without Getting Expensive"
         }
       ]
     },
@@ -84,16 +88,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-08-28",
-          "title": "Show HN: Darwin-VM – run the latest iOS and macOS in QEMU"
+          "date": "2026-08-29",
+          "title": "Will Apple’s ‘revamped’ Health app with AI health coach debut next month?"
         },
         {
-          "date": "2026-08-28",
-          "title": "Apple Might Skip the iPhone 18 This Year. Is the iPhone 17 Still Worth It?"
+          "date": "2026-08-29",
+          "title": "Apple Was Always 1 Step Behind in AI. In Chipmaking, It’s Now 1 Step Ahead."
         },
         {
-          "date": "2026-08-28",
-          "title": "Apple Watch Ultra 4 rumors: sensors, silicon, and a quieter redesign"
+          "date": "2026-08-29",
+          "title": "Blink Battery Doorbell 2K+ Review: High-Res Security on a Budget"
         }
       ]
     },
@@ -109,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-08-28",
-          "title": "pulumi-labs-nvidia-aicr 0.3.0"
+          "date": "2026-08-29",
+          "title": "MSI intros new workstation PC with an incredible 496 GB of RAM and 72-core CPU"
         },
         {
-          "date": "2026-08-28",
-          "title": "Nvidia’s revenue forecast raises speculation about SpaceX impact"
+          "date": "2026-08-29",
+          "title": "NVIDIA DLSS 5 Neural Rendering In 10 Modern Games – The Best Unofficial DLSS 5 ON vs OFF Comparisons So Far"
         },
         {
-          "date": "2026-08-28",
-          "title": "Stock Win as AI Demand Continues to Outpace GPU Supply?"
+          "date": "2026-08-29",
+          "title": "Bitcoin miner IREN still gets 82% of revenue from BTC after clearing room for Microsoft AI cloud"
         }
       ]
     },
@@ -134,16 +138,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-08-28",
-          "title": "Anthropic’s $45B Nscale Deal Adds an Eighth Compute Corridor — and a Pattern of Betting on Startups"
+          "date": "2026-08-29",
+          "title": "azath added to PyPI"
+        },
+        {
+          "date": "2026-08-29",
+          "title": "Oracle vs. Microsoft: Big Tech’s AI Cloud Battle Has a New Underdog"
         },
         {
           "date": "2026-08-28",
-          "title": "Nvidia's Hugging Face Acquisition Is Logical, Ambitious, and Headed Straight Into a Minefield"
-        },
-        {
-          "date": "2026-08-28",
-          "title": "Nvidia Revenue Growth Doubles"
+          "title": "Nvidia just demolished one of Wall Street’s biggest AI fears"
         }
       ]
     }

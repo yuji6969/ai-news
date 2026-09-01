@@ -1,28 +1,28 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$346.59",
-      "change": "+1.74%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$339.35",
+      "change": "-2.09%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-08-29",
-          "title": "Alphabet Stock: 3 Reasons to Buy Before It Hits a New All-Time High"
+          "date": "2026-08-31",
+          "title": "チェッカー・フィン: 有利なスタートには解体ではなく改革が必要"
         },
         {
-          "date": "2026-08-29",
-          "title": "Here’s why Canada needs to break up with Google"
+          "date": "2026-08-30",
+          "title": "PayPalは530億ドルのセーフティネットを失ったばかり"
         },
         {
-          "date": "2026-08-29",
-          "title": "The S&P 500 keeps climbing on days when stocks broadly struggle. Here’s what’s going on."
+          "date": "2026-08-30",
+          "title": "AI の電力需要が Caterpillar (CAT) をどのようにして高倍率の技術戦略に変えたのか"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$578.02",
-      "change": "+1.21%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$572.34",
+      "change": "-0.98%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-08-29",
-          "title": "Mark Zuckerberg sends shocking message to Meta employees"
+          "date": "2026-08-30",
+          "title": "マスク氏、アルトマン氏、ファン氏らが米国主催のG20技術会議で講演予定"
         },
         {
-          "date": "2026-08-29",
-          "title": "The S&P 500 keeps climbing on days when stocks broadly struggle. Here’s what’s going on."
+          "date": "2026-08-30",
+          "title": "「紛争のさなか、100億ドルを超える取引が多数…これは驚くべきことだ」：JPモルガンのアヌ・アイエンガー最高経営責任者"
         },
         {
-          "date": "2026-08-29",
-          "title": "Silicon Valley wealth managers say elite tech workers are making these 5 money moves as AI mania continues"
+          "date": "2026-08-30",
+          "title": "「紛争のさなか、100億ドルを超える取引が多数…これは驚くべきことだ」：JPモルガンのアヌ・アイエンガー最高経営責任者"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$266.43",
-      "change": "+3.97%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$259.77",
+      "change": "-2.50%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-08-29",
-          "title": "Hugging Face built a $4.5 billion empire on free AI models. Now Nvidia is buying it for $12.9 billion"
+          "date": "2026-08-31",
+          "title": "AI/ML ソフトウェアエンジニア"
         },
         {
-          "date": "2026-08-29",
-          "title": "Google, Amazon, OpenAI are making AI chips — so why isn’t Nvidia losing sleep?"
+          "date": "2026-08-30",
+          "title": "ASUS と MSI が NVIDIA RTX Spark チップの最初のバッチをすべて焼き尽くしてさらに欲しがる中、OpenAI は数万台の Apple Mac mini と Mac Studio デバイスを溜め込んでいる"
         },
         {
-          "date": "2026-08-29",
-          "title": "Nvidia Is Getting Bigger Without Getting Expensive"
+          "date": "2026-08-30",
+          "title": "Amazon、AWS データセンター拡張のために 200 万個の Nvidia GPU を購入"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$319.70",
-      "change": "+1.63%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$316.85",
+      "change": "-0.89%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-08-29",
-          "title": "Will Apple’s ‘revamped’ Health app with AI health coach debut next month?"
+          "date": "2026-08-30",
+          "title": "AIヘルスコーチは「続かない健康習慣」を変えられるのか？"
         },
         {
-          "date": "2026-08-29",
-          "title": "Apple Was Always 1 Step Behind in AI. In Chipmaking, It’s Now 1 Step Ahead."
+          "date": "2026-08-30",
+          "title": "モルティス v20260818.08"
         },
         {
-          "date": "2026-08-29",
-          "title": "Blink Battery Doorbell 2K+ Review: High-Res Security on a Budget"
+          "date": "2026-08-30",
+          "title": "ハイレゾオーディオと8マイクANCを備えたソニーWH-1000XM5ヘッドフォンが最安値近くまで下落"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$217.55",
-      "change": "-4.57%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$220.78",
+      "change": "+1.48%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-08-29",
-          "title": "MSI intros new workstation PC with an incredible 496 GB of RAM and 72-core CPU"
+          "date": "2026-08-31",
+          "title": "vmware-privateai 1.0.4"
         },
         {
-          "date": "2026-08-29",
-          "title": "NVIDIA DLSS 5 Neural Rendering In 10 Modern Games – The Best Unofficial DLSS 5 ON vs OFF Comparisons So Far"
+          "date": "2026-08-30",
+          "title": "普及言語モデルを構築する方法"
         },
         {
-          "date": "2026-08-29",
-          "title": "Bitcoin miner IREN still gets 82% of revenue from BTC after clearing room for Microsoft AI cloud"
+          "date": "2026-08-30",
+          "title": "ASUS と MSI が NVIDIA RTX Spark チップの最初のバッチをすべて焼き尽くしてさらに欲しがる中、OpenAI は数万台の Apple Mac mini と Mac Studio デバイスを溜め込んでいる"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$513.53",
-      "change": "+1.68%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$507.29",
+      "change": "-1.22%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
           "date": "2026-08-29",
-          "title": "azath added to PyPI"
+          "title": "PyPI に azath が追加されました"
         },
         {
           "date": "2026-08-29",
-          "title": "Oracle vs. Microsoft: Big Tech’s AI Cloud Battle Has a New Underdog"
+          "title": "オラクル対マイクロソフト: ビッグテックの AI クラウドの戦いに新たな弱者が登場"
         },
         {
           "date": "2026-08-28",
-          "title": "Nvidia just demolished one of Wall Street’s biggest AI fears"
+          "title": "Nvidia は、ウォール街の AI に対する最大の懸念の 1 つを打ち破ったところです"
         }
       ]
     }

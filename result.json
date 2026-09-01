@@ -5,8 +5,8 @@
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$339.35",
-      "change": "-2.09%",
+      "price": "$335.02",
+      "change": "-1.28%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
@@ -14,15 +14,15 @@
       "news": [
         {
           "date": "2026-08-31",
-          "title": "チェッカー・フィン: 有利なスタートには解体ではなく改革が必要"
+          "title": "Broadcom earnings on September 2 expected to reveal $16B AI semiconductor quarter"
         },
         {
-          "date": "2026-08-30",
-          "title": "PayPalは530億ドルのセーフティネットを失ったばかり"
+          "date": "2026-08-31",
+          "title": "Apple’s New CEO Inherits an AI Strategy Built on Outsiders"
         },
         {
-          "date": "2026-08-30",
-          "title": "AI の電力需要が Caterpillar (CAT) をどのようにして高倍率の技術戦略に変えたのか"
+          "date": "2026-08-31",
+          "title": "Nvidia buys $3.5B in MediaTek bonds to deepen AI chip collaboration"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$572.34",
-      "change": "-0.98%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$578.54",
+      "change": "+1.08%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-08-30",
-          "title": "マスク氏、アルトマン氏、ファン氏らが米国主催のG20技術会議で講演予定"
+          "date": "2026-08-31",
+          "title": "How to Size GPUs for AI Inference and TCO Without Overspending"
         },
         {
-          "date": "2026-08-30",
-          "title": "「紛争のさなか、100億ドルを超える取引が多数…これは驚くべきことだ」：JPモルガンのアヌ・アイエンガー最高経営責任者"
+          "date": "2026-08-31",
+          "title": "Bank of England Governor Warns AI Represents Threat to the Global Economy"
         },
         {
-          "date": "2026-08-30",
-          "title": "「紛争のさなか、100億ドルを超える取引が多数…これは驚くべきことだ」：JPモルガンのアヌ・アイエンガー最高経営責任者"
+          "date": "2026-08-31",
+          "title": "FSB Warns Frontier AI Could Threaten Global Financial Stability"
         }
       ]
     },
@@ -55,8 +55,8 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$259.77",
-      "change": "-2.50%",
+      "price": "$254.92",
+      "change": "-1.87%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
@@ -64,15 +64,15 @@
       "news": [
         {
           "date": "2026-08-31",
-          "title": "AI/ML ソフトウェアエンジニア"
+          "title": "Deliver real-time data to streaming tables for Apache Iceberg with Amazon Kinesis Data Streams"
         },
         {
-          "date": "2026-08-30",
-          "title": "ASUS と MSI が NVIDIA RTX Spark チップの最初のバッチをすべて焼き尽くしてさらに欲しがる中、OpenAI は数万台の Apple Mac mini と Mac Studio デバイスを溜め込んでいる"
+          "date": "2026-08-31",
+          "title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick"
         },
         {
-          "date": "2026-08-30",
-          "title": "Amazon、AWS データセンター拡張のために 200 万個の Nvidia GPU を購入"
+          "date": "2026-08-31",
+          "title": "Who pays for US power boom? Blue, red states offer starkly different ways to lower utility bills amid AI surge"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$316.85",
-      "change": "-0.89%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$325.13",
+      "change": "+2.61%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-08-30",
-          "title": "AIヘルスコーチは「続かない健康習慣」を変えられるのか？"
+          "date": "2026-08-31",
+          "title": "Viaim Rise AI Earbuds Turn Conversations Into Notes, Tasks, and Code Prompts"
         },
         {
-          "date": "2026-08-30",
-          "title": "モルティス v20260818.08"
+          "date": "2026-08-31",
+          "title": "Samsung introduces cheaper Galaxy Book 6 to rival the Apple MacBook Neo"
         },
         {
-          "date": "2026-08-30",
-          "title": "ハイレゾオーディオと8マイクANCを備えたソニーWH-1000XM5ヘッドフォンが最安値近くまで下落"
+          "date": "2026-08-31",
+          "title": "Samsung U8000H Series Crystal UHD 50\" 4K UHD Smart TV for $248 + free shipping"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$220.78",
-      "change": "+1.48%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$217.44",
+      "change": "-1.51%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
           "date": "2026-08-31",
-          "title": "vmware-privateai 1.0.4"
+          "title": "Nvidia is building an IP licensing empire on the back of NVLink"
         },
         {
-          "date": "2026-08-30",
-          "title": "普及言語モデルを構築する方法"
+          "date": "2026-08-31",
+          "title": "NVIDIA's latest 616.56 driver reportedly delivers up to an 8.1% performance improvement in path tracing workloads"
         },
         {
-          "date": "2026-08-30",
-          "title": "ASUS と MSI が NVIDIA RTX Spark チップの最初のバッチをすべて焼き尽くしてさらに欲しがる中、OpenAI は数万台の Apple Mac mini と Mac Studio デバイスを溜め込んでいる"
+          "date": "2026-08-31",
+          "title": "cmcp v0.4.0"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$507.29",
-      "change": "-1.22%",
+      "price": "$501.02",
+      "change": "-1.24%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-08-29",
-          "title": "PyPI に azath が追加されました"
+          "date": "2026-08-31",
+          "title": "CrowdStrike launches Falcon IQ as Falcon lands on Google Cloud and Snowflake"
         },
         {
-          "date": "2026-08-29",
-          "title": "オラクル対マイクロソフト: ビッグテックの AI クラウドの戦いに新たな弱者が登場"
+          "date": "2026-08-31",
+          "title": "OpenAI to End Cursor Access to Its AI Models After SpaceX 60 Billion Dollar Acquisition, Citing Musk"
         },
         {
-          "date": "2026-08-28",
-          "title": "Nvidia は、ウォール街の AI に対する最大の懸念の 1 つを打ち破ったところです"
+          "date": "2026-08-31",
+          "title": "Podcast: Scott Jenson on Evolving Desktop OS, Local-First, & Agentic UX"
         }
       ]
     }

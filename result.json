@@ -1,28 +1,28 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$335.02",
-      "change": "-1.28%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$337.12",
+      "change": "+0.63%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-08-31",
-          "title": "Broadcom earnings on September 2 expected to reveal $16B AI semiconductor quarter"
+          "date": "2026-09-01",
+          "title": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs"
         },
         {
-          "date": "2026-08-31",
-          "title": "Apple’s New CEO Inherits an AI Strategy Built on Outsiders"
+          "date": "2026-09-01",
+          "title": "Alphabet’s Gemini 4 clears pretraining, but the harder work is just beginning"
         },
         {
-          "date": "2026-08-31",
-          "title": "Nvidia buys $3.5B in MediaTek bonds to deepen AI chip collaboration"
+          "date": "2026-09-01",
+          "title": "Why the rise in government debt is freaking out the bond market"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$578.54",
-      "change": "+1.08%",
+      "price": "$592.85",
+      "change": "+2.47%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-08-31",
-          "title": "How to Size GPUs for AI Inference and TCO Without Overspending"
+          "date": "2026-09-01",
+          "title": "Big Tech’s Debate Over “Open” and “Safe” AI Leaves Corporate Power Unquestioned"
         },
         {
-          "date": "2026-08-31",
-          "title": "Bank of England Governor Warns AI Represents Threat to the Global Economy"
+          "date": "2026-09-01",
+          "title": "Silicon Valley fascism is waging war on democracy"
         },
         {
-          "date": "2026-08-31",
-          "title": "FSB Warns Frontier AI Could Threaten Global Financial Stability"
+          "date": "2026-09-01",
+          "title": "Enterprise Architecture in the AI Era: Tools, Capabilities, and the Road to Autonomy"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$254.92",
-      "change": "-1.87%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$254.98",
+      "change": "+0.02%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-08-31",
-          "title": "Deliver real-time data to streaming tables for Apache Iceberg with Amazon Kinesis Data Streams"
+          "date": "2026-09-01",
+          "title": "Anthropic promises zero data retention – but customers must check it worked"
         },
         {
-          "date": "2026-08-31",
-          "title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick"
+          "date": "2026-09-01",
+          "title": "Developing Enterprise Frontier Safeguards with our customers"
         },
         {
-          "date": "2026-08-31",
-          "title": "Who pays for US power boom? Blue, red states offer starkly different ways to lower utility bills amid AI surge"
+          "date": "2026-09-01",
+          "title": "Introducing Claude Fable 5.1 on AWS"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$325.13",
-      "change": "+2.61%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$324.96",
+      "change": "-0.05%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-08-31",
-          "title": "Viaim Rise AI Earbuds Turn Conversations Into Notes, Tasks, and Code Prompts"
+          "date": "2026-09-01",
+          "title": "Google Launches New Accessibility Features"
         },
         {
-          "date": "2026-08-31",
-          "title": "Samsung introduces cheaper Galaxy Book 6 to rival the Apple MacBook Neo"
+          "date": "2026-09-01",
+          "title": "Supermicro just launched a $93,000 AI desktop that makes even the priciest Mac Studio look like pocket change"
         },
         {
-          "date": "2026-08-31",
-          "title": "Samsung U8000H Series Crystal UHD 50\" 4K UHD Smart TV for $248 + free shipping"
+          "date": "2026-09-01",
+          "title": "Apple September 9 Event: iPhone 18 Pro and iPhone Fold Rumors"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$217.44",
-      "change": "-1.51%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$224.41",
+      "change": "+3.21%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-08-31",
-          "title": "Nvidia is building an IP licensing empire on the back of NVLink"
+          "date": "2026-09-01",
+          "title": "Are We There Yet? Startup Wants to Launch an 80,000-Year Mission to Alpha Centauri"
         },
         {
-          "date": "2026-08-31",
-          "title": "NVIDIA's latest 616.56 driver reportedly delivers up to an 8.1% performance improvement in path tracing workloads"
+          "date": "2026-09-01",
+          "title": "Supermicro just launched a $93,000 AI desktop that makes even the priciest Mac Studio look like pocket change"
         },
         {
-          "date": "2026-08-31",
-          "title": "cmcp v0.4.0"
+          "date": "2026-09-01",
+          "title": "Realise the full potential of AI with inference economics and Penguin Solutions"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$501.02",
-      "change": "-1.24%",
+      "price": "$496.82",
+      "change": "-0.84%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-08-31",
-          "title": "CrowdStrike launches Falcon IQ as Falcon lands on Google Cloud and Snowflake"
+          "date": "2026-09-01",
+          "title": "azurator added to PyPI"
         },
         {
-          "date": "2026-08-31",
-          "title": "OpenAI to End Cursor Access to Its AI Models After SpaceX 60 Billion Dollar Acquisition, Citing Musk"
+          "date": "2026-09-01",
+          "title": "Big Tech’s Debate Over “Open” and “Safe” AI Leaves Corporate Power Unquestioned"
         },
         {
-          "date": "2026-08-31",
-          "title": "Podcast: Scott Jenson on Evolving Desktop OS, Local-First, & Agentic UX"
+          "date": "2026-09-01",
+          "title": "Cybersecurity jobs available right now: September 1, 2026"
         }
       ]
     }

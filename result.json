@@ -1,28 +1,28 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
       "price": "$338.46",
-      "change": "-1.17%",
+      "change": "-1.11%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-03",
-          "title": "Judge orders changes to Google’s digital ads business, spares it from breakup"
+          "date": "2026-09-04",
+          "title": "The Billboards of Silicon Valley"
         },
         {
-          "date": "2026-09-03",
-          "title": "Google Was Found to Hold an Illegal Monopoly and Kept It Anyway. Is the Antitrust Nightmare Finally Over?"
+          "date": "2026-09-04",
+          "title": "The shaky business model behind AI"
         },
         {
-          "date": "2026-09-03",
-          "title": "Sundar Pichai Promised a Gemini Flagship in June, and Alphabet Is on Its Worst Streak Since 2015"
+          "date": "2026-09-04",
+          "title": "Wall Street Is Misreading Alphabet’s Supposed Achilles Heel"
         }
       ]
     },
@@ -38,16 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-09-03",
-          "title": "Canada sets framework for responsible data centre development"
+          "date": "2026-09-04",
+          "title": "Nscale seeks $3.5B in financing ahead of planned US IPO"
         },
         {
-          "date": "2026-09-03",
-          "title": "Americans urge caution as Australia braces for data centre boom"
+          "date": "2026-09-04",
+          "title": "The Billboards of Silicon Valley"
         },
         {
-          "date": "2026-09-03",
-          "title": "Zuckerberg's secret White House call..."
+          "date": "2026-09-04",
+          "title": "AI adoption is forcing leaders to rethink workplace change"
         }
       ]
     },
@@ -63,16 +63,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-09-03",
-          "title": "Incident response guide for AWS CloudTrail investigations – Part 2"
+          "date": "2026-09-04",
+          "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore"
         },
         {
-          "date": "2026-09-03",
-          "title": "Incident response guide for AWS CloudTrail investigations – Part 1"
+          "date": "2026-09-04",
+          "title": "From silos to insights: Federated data access patterns for AI agents"
         },
         {
-          "date": "2026-09-03",
-          "title": "Amazon Quick turns Outlook into an agentic AI email assistant"
+          "date": "2026-09-04",
+          "title": "Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluence data sources"
         }
       ]
     },
@@ -88,16 +88,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-09-03",
-          "title": "Ugreen Just Put a Price Tag on the Subscription-Free Smart Home – and It Starts at $899"
+          "date": "2026-09-04",
+          "title": "Your Body Is the New Tech Platform: The Wildest Wearables at IFA 2026"
         },
         {
-          "date": "2026-09-03",
-          "title": "A Smart Innovation at IFA Wants to Light Your Home With All-New Sensor Combos"
+          "date": "2026-09-04",
+          "title": "iPhone Ultra, iPhone 18 Pro, and More: Apple's September 9 Event Preview"
         },
         {
-          "date": "2026-09-03",
-          "title": "M6 vs. M5 Pro Mac Mini Buyer's Guide"
+          "date": "2026-09-04",
+          "title": "Apple’s Foldable iPhone Ultra Launch May Be Days Away, if You Can Get One"
         }
       ]
     },
@@ -113,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-09-03",
-          "title": "We Just Got Our First Real Look at AI PCs With Nvidia’s RTX Spark ‘Superchip’ - WIRED"
+          "date": "2026-09-04",
+          "title": "DLSS 5 officially launches inside NBA 2K27, limited to RTX 50-series GPUs for now — Nvidia promises to bring neutral rendering tech to RTX 40-series soon"
         },
         {
-          "date": "2026-09-03",
-          "title": "Hugging Face is too important to fall into Nvidia's hands"
+          "date": "2026-09-04",
+          "title": "Perplexity builds custom serving infrastructure to make AI search faster and cheaper"
         },
         {
-          "date": "2026-09-03",
-          "title": "UGREEN’s smart home hubs put an AI data center in your kitchen to protect your privacy"
+          "date": "2026-09-04",
+          "title": "HP’s latest OmniBooks get RTX Spark, 128 GB LPDDR5X RAM and 3K OLED displays"
         }
       ]
     },
@@ -138,16 +138,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-09-03",
-          "title": "Four Major AI Models Suffer Rare Overlapping Downtime"
+          "date": "2026-09-04",
+          "title": "Dell Technologies delivers world’s first Nvidia Vera Rubin NVL72 racks to CoreWeave"
         },
         {
-          "date": "2026-09-03",
-          "title": "GPT-6 Astra review"
+          "date": "2026-09-04",
+          "title": "Report: OpenAI agents took over a website, used it to collaborate on benchmarks"
         },
         {
-          "date": "2026-09-03",
-          "title": "OpenAI declares the “AGI era” with the release of GPT-6 Astra"
+          "date": "2026-09-04",
+          "title": "Microsoft tells court Copilot rarely copies books while selling OpenAI’s most capable model"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-05",
-          "title": "Why Gabelli’s Global Content & Connectivity Fund Likes Alphabet (GOOGL)"
+          "date": "2026-09-06",
+          "title": "Goldman Sachs (GS) Partner: AI Risks Leaving the Next Generation of Bankers Unable to Think for Themselves"
         },
         {
-          "date": "2026-09-05",
-          "title": "‘AI Laggard’ Apple Is Sitting Pretty, But AAPL Stock Might Be Running Out of Room to Outperform"
+          "date": "2026-09-06",
+          "title": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet"
         },
         {
-          "date": "2026-09-05",
-          "title": "Abel: Two ways Berkshire hopes to cash in on AI"
+          "date": "2026-09-06",
+          "title": "Gap Taps New Old Navy CEO to Turn Around Sluggish Sales"
         }
       ]
     },
@@ -38,16 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-09-05",
-          "title": "The biggest gaming news from August 2026"
+          "date": "2026-09-06",
+          "title": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?"
         },
         {
-          "date": "2026-09-05",
-          "title": "Adobe Inc. (ADBE) Acquires Rilo to Accelerate Agentic AI — What It Means for Investors"
+          "date": "2026-09-06",
+          "title": "The Data Center Boom Is Coming For Small-Town Water"
         },
         {
-          "date": "2026-09-05",
-          "title": "‘AI Laggard’ Apple Is Sitting Pretty, But AAPL Stock Might Be Running Out of Room to Outperform"
+          "date": "2026-09-06",
+          "title": "Mohamed El-Erian says an influx of hyperscaler bonds is competing with U.S. Treasuries — and pushing rates higher"
         }
       ]
     },
@@ -63,16 +63,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-09-05",
-          "title": "Amazon Stock At 20x P/E: A Textbook GARP Opportunity"
+          "date": "2026-09-06",
+          "title": "Anthropic commits over $100B to AWS as IPO prospectus prepares to reveal deal details"
         },
         {
-          "date": "2026-09-05",
-          "title": "Amazon Stock At 20x P/E: A Textbook GARP Opportunity"
+          "date": "2026-09-06",
+          "title": "Potential Anthropic IPO investors seek detailed revenue metrics ahead of blockbuster listing"
         },
         {
-          "date": "2026-09-04",
-          "title": "AWS Plans 2 Million More NVIDIA GPUs. Is This Better News for AMZN’s Cloud Growth or NVDA’s Backlog?"
+          "date": "2026-09-06",
+          "title": "postbase added to PyPI"
         }
       ]
     },
@@ -88,16 +88,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-09-05",
-          "title": "An Apple Watch Ultra 4 Could Outshine the Series 12 This Year, but at What Price?"
+          "date": "2026-09-06",
+          "title": "The best Labor Day Costco deals 2026: TVs, smartwatches, Apple devices, and more - ZDNET"
         },
         {
-          "date": "2026-09-05",
-          "title": "Ever wanted earbuds with a touchscreen case? Even if you haven’t, JBL's affordable Live Buds 4 are worth a look; think stellar sound and top features"
+          "date": "2026-09-06",
+          "title": "Three Sleeps Until iPhone 18 Pro: Here's What We Know"
         },
         {
-          "date": "2026-09-05",
-          "title": "Apple Wants to Wrap Your Room in Sound with New HomePods, Says Leak"
+          "date": "2026-09-06",
+          "title": "Show HN: Notifyd – one-binary notification service on Postgres, operated via MCP"
         }
       ]
     },
@@ -113,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-09-05",
-          "title": "Acer's tiny RTX Spark PC takes aim at Mac Studio with Blackwell and 128GB unified memory"
+          "date": "2026-09-06",
+          "title": "Nvidia CEO Jensen Huang declares AGI has arrived for many practical tasks"
         },
         {
-          "date": "2026-09-05",
-          "title": "AMD’s Threadripper Halo Station & Ryzen AI MAX PCs Take The Spotlight at IFA, As They Bring Powerful & Local AI Capabilities Close To Everyone"
+          "date": "2026-09-06",
+          "title": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?"
         },
         {
-          "date": "2026-09-05",
-          "title": "Chip-equipment stocks outperform Nvidia as AI rally broadens beyond its poster child"
+          "date": "2026-09-06",
+          "title": "canirunllm added to PyPI"
         }
       ]
     },
@@ -138,16 +138,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-09-05",
-          "title": "OpenAI’s GPT-6 Astra Spawns Armies Of Agents That Run On Local CPUs, Handing Intel And AMD A Demand Windfall"
+          "date": "2026-09-06",
+          "title": "OpenAI to set misalignment disclosure rules after agents took over a wiki"
         },
         {
-          "date": "2026-09-05",
-          "title": "OpenAI GPT-6 Astra Hits GA in Microsoft Foundry: Computer Use, Agentic Execution, and $10 to $75 per Million Tokens"
+          "date": "2026-09-06",
+          "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything"
         },
         {
-          "date": "2026-09-05",
-          "title": "OpenAI acknowledges wiki incident, calls for transparency on AI behavior"
+          "date": "2026-09-06",
+          "title": "OpenAI Agents Take Over German Wiki To Talk to Each Other"
         }
       ]
     }

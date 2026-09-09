@@ -1,28 +1,28 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$338.36",
-      "change": "-0.03%",
+      "price": "$330.65",
+      "change": "-2.28%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-07",
-          "title": "BofA stays bullish on a cloud titan that is down 25%"
+          "date": "2026-09-08",
+          "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal | TechCrunch"
         },
         {
-          "date": "2026-09-07",
-          "title": "Microsoft Stock Is Building a Trillion-Dollar AI Opportunity. Is $600 Next?"
+          "date": "2026-09-08",
+          "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal"
         },
         {
-          "date": "2026-09-07",
-          "title": "Alphabet May Be the Mag 7 Stock Investors Are Underestimating"
+          "date": "2026-09-08",
+          "title": "Google and Accenture are putting 1,000 engineers inside client offices"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$613.48",
-      "change": "-0.53%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$653.69",
+      "change": "+6.55%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-09-07",
-          "title": "Japan Moves to Commercializing Low-Power Optical Computing"
+          "date": "2026-09-08",
+          "title": "Google-Backed Nuclear Plant Gets Nearly $2 Billion Loan From the Energy Department"
         },
         {
-          "date": "2026-09-07",
-          "title": "25 Restaurant Marketing Ideas to Increase Revenue"
+          "date": "2026-09-08",
+          "title": "Foreign 'AI slopaganda' network targets Australian politicians"
         },
         {
-          "date": "2026-09-07",
-          "title": "Wall Street Is Worried About AMD. Here’s Why Long-Term Investors Shouldn’t Be"
+          "date": "2026-09-08",
+          "title": "Meta pushes into personal AI agents as company faces public reckoning over privacy and safety"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$256.97",
-      "change": "-0.60%",
+      "price": "$252.40",
+      "change": "-1.78%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-09-07",
-          "title": "AI Can Build Your Next Feature in Hours. Should You Join In?"
+          "date": "2026-09-08",
+          "title": "Qualcomm inks AI chip, optical networking deal with Amazon"
         },
         {
-          "date": "2026-09-07",
-          "title": "Bernie Sanders Wants to Ban Superintelligence. What It Means for Microsoft and Amazon"
+          "date": "2026-09-08",
+          "title": "Aegis aegis-v0.14.1-alpha"
         },
         {
-          "date": "2026-09-07",
-          "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)"
+          "date": "2026-09-08",
+          "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock"
         }
       ]
     },
@@ -80,20 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$316.22",
-      "change": "-1.17%",
+      "price": "$315.34",
+      "change": "-0.28%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-09-07",
-          "title": "[iOS] DiscountTrolley PRO Lifetime Free (Was $29.99/Year) – Coles, Woolworths & ALDI Price Comparison @ Apple App Store"
+          "date": "2026-09-08",
+          "title": "Deep-Live-Cam v2.7.5-Ultimate"
         },
         {
-          "date": "2026-09-07",
-          "title": "yj_nearbyglasses v1.0.10"
+          "date": "2026-09-08",
+          "title": "Aegis aegis-v0.14.1-alpha"
+        },
+        {
+          "date": "2026-09-08",
+          "title": "The 5 coolest things we found at IFA 2026"
         }
       ]
     },
@@ -101,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$225.73",
-      "change": "-2.01%",
+      "price": "$223.67",
+      "change": "-0.91%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-09-07",
-          "title": "GPUThor breaks the error correction Nvidia recommended against Rowhammer"
+          "date": "2026-09-08",
+          "title": "Deep-Live-Cam v2.7.5-Ultimate"
         },
         {
-          "date": "2026-09-07",
-          "title": "Neoclouds gain leverage over major cloud providers for Nvidia servers"
+          "date": "2026-09-08",
+          "title": "AMD Needs Rust-y Developers"
         },
         {
-          "date": "2026-09-07",
-          "title": "’s AI Opportunity Expands Across Infrastructure"
+          "date": "2026-09-08",
+          "title": "NVIDIA Is Buying the Distribution Layer of AI"
         }
       ]
     },
@@ -126,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$493.95",
-      "change": "-1.15%",
+      "price": "$491.65",
+      "change": "-0.47%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-09-07",
-          "title": "Neoclouds gain leverage over major cloud providers for Nvidia servers"
+          "date": "2026-09-08",
+          "title": "Amazon Web Services rebuilds Bedrock in 76 days with just six engineers"
         },
         {
-          "date": "2026-09-07",
-          "title": "Wall Street Is Worried About AMD. Here’s Why Long-Term Investors Shouldn’t Be"
+          "date": "2026-09-08",
+          "title": "AMD Has Something Nvidia Doesn’t. Is the Stock Finally Ready to Break Out?"
         },
         {
-          "date": "2026-09-07",
-          "title": "OpenAI submits EU incident report after AI agents hijacked a German website for six weeks"
+          "date": "2026-09-08",
+          "title": "Dark-Moon v1.4.0"
         }
       ]
     }

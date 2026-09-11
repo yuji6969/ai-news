@@ -1,28 +1,28 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$332.60",
-      "change": "+0.59%",
+      "price": "$338.50",
+      "change": "+1.77%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-09",
-          "title": "Google to Invest Record $15 Billion In AI Infrastructure In Finland"
+          "date": "2026-09-10",
+          "title": "Digital data leeches: trading on our profiles"
         },
         {
-          "date": "2026-09-09",
-          "title": "Finland: Google announces €13 billion AI, energy investment"
+          "date": "2026-09-10",
+          "title": "Google Just Made a Massive AI Bet Wall Street May Be Missing"
         },
         {
-          "date": "2026-09-09",
-          "title": "Finland: Google announces €13 billion AI, energy investment"
+          "date": "2026-09-10",
+          "title": "Six Days After Cramer Warned Nuclear Is Too Hard to Build, Google Signed Its First Nuclear Deal Ever"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$644.38",
-      "change": "-1.42%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$648.03",
+      "change": "+0.57%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-09-09",
-          "title": "OpenAI just showed why one of its former researchers thinks AI could kill everyone"
+          "date": "2026-09-10",
+          "title": "Oracle confirms no impact on capital raising plans amid AI growth"
         },
         {
-          "date": "2026-09-09",
-          "title": "Three Visions of the Agent Home: Convenience, Control, or Cost?"
+          "date": "2026-09-10",
+          "title": "Oracle books over $30B in AI cloud contracts in Q1 as infrastructure revenue more than doubles"
         },
         {
-          "date": "2026-09-09",
-          "title": "US stocks today: US stocks retreat as oil crosses $100, yields rise ahead of inflation data"
+          "date": "2026-09-10",
+          "title": "What an Ex-Anthropic Researcher’s Warning About Human Extinction Really Means"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$251.89",
-      "change": "-0.20%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$256.78",
+      "change": "+1.94%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-09-09",
-          "title": "Three insights you may have missed from theCUBE’s coverage of VMware Explore"
+          "date": "2026-09-10",
+          "title": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference"
         },
         {
-          "date": "2026-09-09",
-          "title": "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM"
+          "date": "2026-09-10",
+          "title": "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching"
         },
         {
-          "date": "2026-09-09",
-          "title": "Introducing Amazon EBS Volume Clones across AWS accounts"
+          "date": "2026-09-10",
+          "title": "Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$326.57",
-      "change": "+3.56%",
+      "price": "$332.27",
+      "change": "+1.75%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-09-09",
-          "title": "wlsqm 1.1.0"
+          "date": "2026-09-10",
+          "title": "Screen-free fitness tracker brings essential feature from smartwatches"
         },
         {
-          "date": "2026-09-09",
-          "title": "Apple iPhone Duo that folds unveiled, along with iPhone 18 Pro"
+          "date": "2026-09-10",
+          "title": "Latest Apple Watch Can Grab Snippets of Conversation Without Both Speakers' Consent"
         },
         {
-          "date": "2026-09-09",
-          "title": "iPhone 18 Pro and iPhone Duo: The MacStories Overview"
+          "date": "2026-09-10",
+          "title": "Apple Seeds Release Candidates of iOS 27, iPadOS 27, macOS 27, watchOS 27, tvOS 27, and visionOS 27"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$218.36",
-      "change": "-2.37%",
+      "price": "$218.29",
+      "change": "-0.03%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-09-09",
-          "title": "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM"
+          "date": "2026-09-10",
+          "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory"
         },
         {
-          "date": "2026-09-09",
-          "title": "NVIDIA CUDA 13.4 Packs CUDA Support For Windows-on-Arm Ahead of RTX Spark Launch, While Giving Devs Early Access To Vera Rubin Too"
+          "date": "2026-09-10",
+          "title": "Modders get DLSS 5 to run on faster NVFP4 format, but performance improves by just 2% on RTX 50 series cards"
         },
         {
-          "date": "2026-09-09",
-          "title": "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving"
+          "date": "2026-09-10",
+          "title": "Jensen Huang just answered Michael Burry's Nvidia bear case"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$492.44",
-      "change": "+0.16%",
+      "price": "$495.63",
+      "change": "+0.65%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-09-09",
-          "title": "Threat Matrix: Mapping threats across cloud web applications"
+          "date": "2026-09-10",
+          "title": "OpenAI Releases GPT-6 Astra for Coding and Computer Use"
         },
         {
-          "date": "2026-09-09",
-          "title": "OpenAI rogue agent activity wider-ranging than disclosed"
+          "date": "2026-09-10",
+          "title": "CoreWeave Sinks 5% Despite Burry Pulling In His AI Short, Oracle Eases Into Earnings, Cloudflare Holds Steady"
         },
         {
-          "date": "2026-09-09",
-          "title": "OpenAI rogue agent activity wider-ranging than disclosed"
+          "date": "2026-09-10",
+          "title": "The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI"
         }
       ]
     }

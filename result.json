@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-10",
-          "title": "Digital data leeches: trading on our profiles"
+          "date": "2026-09-11",
+          "title": "Former Google chief scientist Jeff Dean is raising again for his new AI startup, seeking around a $50 billion valuation"
         },
         {
-          "date": "2026-09-10",
-          "title": "Google Just Made a Massive AI Bet Wall Street May Be Missing"
+          "date": "2026-09-11",
+          "title": "Putin's China pivot complicates PM Modi's strategic balancing act"
         },
         {
-          "date": "2026-09-10",
-          "title": "Six Days After Cramer Warned Nuclear Is Too Hard to Build, Google Signed Its First Nuclear Deal Ever"
+          "date": "2026-09-11",
+          "title": "High-Grade Monthly: Summer sprint continues post-Labor Day as rates soar"
         }
       ]
     },
@@ -38,16 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-09-10",
-          "title": "Oracle confirms no impact on capital raising plans amid AI growth"
+          "date": "2026-09-11",
+          "title": "Evergreen Digital Media Corp. Partners With Adwave Digital Inc. in a Strategic Capital and Licensing Partnership"
         },
         {
-          "date": "2026-09-10",
-          "title": "Oracle books over $30B in AI cloud contracts in Q1 as infrastructure revenue more than doubles"
+          "date": "2026-09-11",
+          "title": "Fox News AI Newsletter: Researcher delivers extinction warning"
         },
         {
-          "date": "2026-09-10",
-          "title": "What an Ex-Anthropic Researcher’s Warning About Human Extinction Really Means"
+          "date": "2026-09-11",
+          "title": "Cheetah Mobile Q2 Earnings Call Highlights"
         }
       ]
     },
@@ -63,16 +63,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-09-10",
-          "title": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference"
+          "date": "2026-09-11",
+          "title": "Exclusive-Nvidia in talks to invest in Anthropic’s mega IPO, sources say"
         },
         {
-          "date": "2026-09-10",
-          "title": "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching"
+          "date": "2026-09-11",
+          "title": "cynative v1.11.3"
         },
         {
-          "date": "2026-09-10",
-          "title": "Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0"
+          "date": "2026-09-11",
+          "title": "Rivian’s AI Agents Cut 15 Days From Every Close"
         }
       ]
     },
@@ -88,16 +88,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-09-10",
-          "title": "Screen-free fitness tracker brings essential feature from smartwatches"
+          "date": "2026-09-11",
+          "title": "Apple Watch Series 12 and Ultra 4 Want to Tell You When to Slow Down"
         },
         {
-          "date": "2026-09-10",
-          "title": "Latest Apple Watch Can Grab Snippets of Conversation Without Both Speakers' Consent"
+          "date": "2026-09-11",
+          "title": "How to Prepare for MacOS 27 Golden Gate"
         },
         {
-          "date": "2026-09-10",
-          "title": "Apple Seeds Release Candidates of iOS 27, iPadOS 27, macOS 27, watchOS 27, tvOS 27, and visionOS 27"
+          "date": "2026-09-11",
+          "title": "Lenovo’s Googlebook 15 Gets a New Specs Leak. Brace Your Wallet for Impact"
         }
       ]
     },
@@ -113,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-09-10",
-          "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory"
+          "date": "2026-09-11",
+          "title": "Oracle renews expiring AI contracts at 20% higher rates as GPU demand surges"
         },
         {
-          "date": "2026-09-10",
-          "title": "Modders get DLSS 5 to run on faster NVFP4 format, but performance improves by just 2% on RTX 50 series cards"
+          "date": "2026-09-11",
+          "title": "Nvidia Becomes the World’s Most Active $100 Million-Plus VC Investor"
         },
         {
-          "date": "2026-09-10",
-          "title": "Jensen Huang just answered Michael Burry's Nvidia bear case"
+          "date": "2026-09-11",
+          "title": "flash-rt added to PyPI"
         }
       ]
     },
@@ -138,16 +138,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-09-10",
-          "title": "OpenAI Releases GPT-6 Astra for Coding and Computer Use"
+          "date": "2026-09-11",
+          "title": "Oracle increases job cuts amid cash crunch from AI data centers"
         },
         {
-          "date": "2026-09-10",
-          "title": "CoreWeave Sinks 5% Despite Burry Pulling In His AI Short, Oracle Eases Into Earnings, Cloudflare Holds Steady"
+          "date": "2026-09-11",
+          "title": "Microsoft head of communications Frank Shaw leaving after nearly 30 years of shaping the software giant’s public messaging"
         },
         {
-          "date": "2026-09-10",
-          "title": "The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI"
+          "date": "2026-09-11",
+          "title": "OpenAI pauses $200 ChatGPT Pro sign-ups as Astra demand strains its systems"
         }
       ]
     }

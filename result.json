@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-11",
-          "title": "Former Google chief scientist Jeff Dean is raising again for his new AI startup, seeking around a $50 billion valuation"
+          "date": "2026-09-12",
+          "title": "Here's who stands to make money from the Anthropic IPO"
         },
         {
-          "date": "2026-09-11",
-          "title": "Putin's China pivot complicates PM Modi's strategic balancing act"
+          "date": "2026-09-12",
+          "title": "$2.3 Billion in Daily Profits: Why Betting Against the Magnificent 7 Keeps Failing"
         },
         {
-          "date": "2026-09-11",
-          "title": "High-Grade Monthly: Summer sprint continues post-Labor Day as rates soar"
+          "date": "2026-09-12",
+          "title": "Why Cathie Wood Is Selling Google and Buying More Meta Platforms Stock"
         }
       ]
     },
@@ -38,16 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-09-11",
-          "title": "Evergreen Digital Media Corp. Partners With Adwave Digital Inc. in a Strategic Capital and Licensing Partnership"
+          "date": "2026-09-12",
+          "title": "Cathie Wood sells $28.7 million of megacap tech stock"
         },
         {
-          "date": "2026-09-11",
-          "title": "Fox News AI Newsletter: Researcher delivers extinction warning"
+          "date": "2026-09-12",
+          "title": "Dell Technologies Sees AI Boom Building as $95B Server Backlog Signals Demand"
         },
         {
-          "date": "2026-09-11",
-          "title": "Cheetah Mobile Q2 Earnings Call Highlights"
+          "date": "2026-09-12",
+          "title": "Nvidia takes new role as AI’s $5 trillion bill comes due"
         }
       ]
     },
@@ -63,16 +63,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-09-11",
-          "title": "Exclusive-Nvidia in talks to invest in Anthropic’s mega IPO, sources say"
+          "date": "2026-09-12",
+          "title": "tirith v0.4.2"
         },
         {
-          "date": "2026-09-11",
-          "title": "cynative v1.11.3"
+          "date": "2026-09-12",
+          "title": "Nvidia in talks to invest in Anthropic’s mega IPO"
         },
         {
-          "date": "2026-09-11",
-          "title": "Rivian’s AI Agents Cut 15 Days From Every Close"
+          "date": "2026-09-12",
+          "title": "The Agent Governance Stack Is Forming: Four Products, Two Weeks, One Pattern"
         }
       ]
     },
@@ -88,16 +88,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-09-11",
-          "title": "Apple Watch Series 12 and Ultra 4 Want to Tell You When to Slow Down"
+          "date": "2026-09-12",
+          "title": "sprezzature-colors added to PyPI"
         },
         {
-          "date": "2026-09-11",
-          "title": "How to Prepare for MacOS 27 Golden Gate"
+          "date": "2026-09-12",
+          "title": "AirPods 5 vs. AirPods 4, and whether the upgrade is worth doing"
         },
         {
-          "date": "2026-09-11",
-          "title": "Lenovo’s Googlebook 15 Gets a New Specs Leak. Brace Your Wallet for Impact"
+          "date": "2026-09-12",
+          "title": "Apple Watch 12 vs 11: The Readiness Score is the feature I’ve been waiting for"
         }
       ]
     },
@@ -113,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-09-11",
-          "title": "Oracle renews expiring AI contracts at 20% higher rates as GPU demand surges"
+          "date": "2026-09-12",
+          "title": "Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage"
         },
         {
-          "date": "2026-09-11",
-          "title": "Nvidia Becomes the World’s Most Active $100 Million-Plus VC Investor"
+          "date": "2026-09-12",
+          "title": "How To Unlock DLSS Multi Frame Generation on RTX 40, RTX 30 & RTX 20 GPUs"
         },
         {
-          "date": "2026-09-11",
-          "title": "flash-rt added to PyPI"
+          "date": "2026-09-12",
+          "title": "Nvidia takes new role as AI’s $5T bill comes due"
         }
       ]
     },
@@ -138,16 +138,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
+          "date": "2026-09-12",
+          "title": "Jim Cramer Wondered Whether Microsoft Corporation (NASDAQ:MSFT) Isn’t “That” Dependent On AI"
+        },
+        {
+          "date": "2026-09-12",
+          "title": "vgs-bc-mcp added to PyPI"
+        },
+        {
           "date": "2026-09-11",
           "title": "Oracle increases job cuts amid cash crunch from AI data centers"
-        },
-        {
-          "date": "2026-09-11",
-          "title": "Microsoft head of communications Frank Shaw leaving after nearly 30 years of shaping the software giant’s public messaging"
-        },
-        {
-          "date": "2026-09-11",
-          "title": "OpenAI pauses $200 ChatGPT Pro sign-ups as Astra demand strains its systems"
         }
       ]
     }

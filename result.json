@@ -5,24 +5,24 @@
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$344.98",
+      "change": "-1.26%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-13",
-          "title": "Trump Sees Race Against China as Key Issue on AI Regulation"
+          "date": "2026-09-14",
+          "title": "The 9 Libel-by-AI Cases in the U.S. Since 2023 (6 Still Going Forward)"
         },
         {
-          "date": "2026-09-13",
-          "title": "Forget Chatbot Benchmarks. Google Just Found 1,000 Ways Into Microsoft’s Best Customers."
+          "date": "2026-09-14",
+          "title": "Slow the AI race? Investors weigh the potential cost"
         },
         {
-          "date": "2026-09-13",
-          "title": "Google DeepMind cofounder Demis Hassabis backs Anthropic boss Dario Amodei's calls for AI slowdown"
+          "date": "2026-09-14",
+          "title": "Whoever Spends Smarter Wins the Microsoft-Alphabet Cloud Fight. Here Is Who Is Ahead."
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$670.24",
+      "change": "+0.70%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-09-13",
-          "title": "There Is No AI (It's Just People) with Jaron Lanier"
+          "date": "2026-09-14",
+          "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom"
         },
         {
-          "date": "2026-09-13",
-          "title": "Bill Ackman trims Big Tech position to invest in AI contenders"
+          "date": "2026-09-14",
+          "title": "Bell announces $50 billion buildout to produce Canada’s largest data centre in Saskatchewan"
         },
         {
-          "date": "2026-09-13",
-          "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown"
+          "date": "2026-09-14",
+          "title": "Trump’s Voter Fraud Quest Is Turning Illegal, Whistleblower Says"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$248.42",
+      "change": "-2.02%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-09-13",
-          "title": "Anthropic Locks Down $517 Billion in Compute Ahead of IPO — and It’s Still Not Enough"
+          "date": "2026-09-14",
+          "title": "Temporal Raises $550M at $12.55B Valuation, Signaling Durable Execution as Core Agent Infrastructure"
         },
         {
-          "date": "2026-09-13",
-          "title": "Alibaba and Amazon are spending billions on AI infrastructure, and the bills are coming due"
+          "date": "2026-09-14",
+          "title": "Percona and HexaCluster: Faster, Safer Oracle Migration"
         },
         {
-          "date": "2026-09-13",
-          "title": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?"
+          "date": "2026-09-14",
+          "title": "Zip Security Joins CrowdStrike's Project QuiltWorks to Secure SMBs Against Frontier AI Risk"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$331.34",
+      "change": "-0.52%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-09-13",
-          "title": "iOS 27 Available Tomorrow With These 8 New Features"
+          "date": "2026-09-14",
+          "title": "iOS 27 AI Camera Summaries Cost $9.99 for One Camera, $59.99 for Five - MacRumors"
         },
         {
-          "date": "2026-09-13",
-          "title": "The iPhone 18 Pro's game-changing feature isn't the variable aperture camera, special version of Siri AI or 'desktop-class' processor — it's that huge leap in battery life"
+          "date": "2026-09-14",
+          "title": "iOS 27 is Compatible With These iPhone Models"
         },
         {
-          "date": "2026-09-13",
-          "title": "CorelDRAW Graphics Suite 27.2.0"
+          "date": "2026-09-14",
+          "title": "Apple Home’s new security camera features cost up to $60 a month"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$212.17",
+      "change": "+0.57%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
           "date": "2026-09-14",
-          "title": "From fine-tuned model to cheaper and faster inference: Speculator training on Red Hat OpenShift AI with Kubeflow"
+          "title": "Samsung backs AI chip rival in $250M funding round as GPU alternatives rise"
         },
         {
           "date": "2026-09-14",
-          "title": "From bare metal to diverse AI revenue streams: Navigating the GPU cloud platform challenge"
+          "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom"
         },
         {
-          "date": "2026-09-13",
-          "title": "runprint added to PyPI"
+          "date": "2026-09-14",
+          "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom"
         }
       ]
     },
@@ -130,8 +130,8 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$497.12",
+      "change": "-1.64%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
@@ -139,15 +139,15 @@
       "news": [
         {
           "date": "2026-09-14",
-          "title": "From bare metal to diverse AI revenue streams: Navigating the GPU cloud platform challenge"
+          "title": "Palantir, Nvidia, Booz Allen restrict Anthropic and OpenAI models"
         },
         {
-          "date": "2026-09-13",
-          "title": "Forget Chatbot Benchmarks. Google Just Found 1,000 Ways Into Microsoft’s Best Customers."
+          "date": "2026-09-14",
+          "title": "Microsoft AI CEO Agrees: AI Is Getting Dangerous and Needs to Be Controlled"
         },
         {
-          "date": "2026-09-13",
-          "title": "ARES"
+          "date": "2026-09-14",
+          "title": "Microsoft’s new AI rulebook rejects the research its $5bn partner is doing"
         }
       ]
     }

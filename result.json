@@ -5,24 +5,24 @@
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$347.33",
+      "change": "+1.30%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
           "date": "2026-09-16",
-          "title": "Metaのザッカーバーグ氏、AIの安全性確保のため速度低下よりも評価者を支持"
+          "title": "Banks provide $22 billion chip loan to Blackstone, Alphabet cloud venture, Bloomberg News reports"
         },
         {
-          "date": "2026-09-15",
-          "title": "人工知能 (AI) へのエクスポージャーを容易にする 3 つの ASX ETF"
+          "date": "2026-09-16",
+          "title": "Banks provide $22 billion chip loan to Blackstone, Alphabet AI cloud venture, source says"
         },
         {
-          "date": "2026-09-15",
-          "title": "私たちはすでにジャーナリズムのディストピア的な未来を生きている"
+          "date": "2026-09-16",
+          "title": "I Keep Buying Alphabet Hand Over Fist Becuase The Skeptics Are Wrong"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$682.31",
+      "change": "+1.34%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-09-15",
-          "title": "私たちはすでにジャーナリズムのディストピア的な未来を生きている"
+          "date": "2026-09-16",
+          "title": "Salesforce’s Marc Benioff to AI industry: Regulate yourselves or get sued"
         },
         {
-          "date": "2026-09-15",
-          "title": "フランク・ルッソ、フロリダの水の保護に2億5000万ドルを投じるようマーク・ザッカーバーグに挑戦"
+          "date": "2026-09-16",
+          "title": "Hawley takes aim at 'corporate welfare' after GOP-backed tax break boosted controversial industry"
         },
         {
-          "date": "2026-09-15",
-          "title": "Azamgarh SP は保留中のプローブで 2 つの SHO を一時停止します"
+          "date": "2026-09-16",
+          "title": "Trump-backed tax break a windfall for controversial industry — now GOP senator wants 'corporate welfare' cut"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$251.19",
+      "change": "+2.13%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-09-15",
-          "title": "CrowdStrike の Fal.Con に関する theCUBE の報道から見逃したかもしれない 4 つの洞察"
+          "date": "2026-09-16",
+          "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce"
         },
         {
-          "date": "2026-09-15",
-          "title": "ライアンエアーの AI は顧客チャットの 80% を人間なしで解決"
+          "date": "2026-09-16",
+          "title": "AI’s Rising Costs Cast Doubts on Cloud Gaming’s Future"
         },
         {
-          "date": "2026-09-15",
-          "title": "LocalStack が WonderTwin AI を買収して SaaS アプリ エミュレーション プラットフォームを獲得"
+          "date": "2026-09-16",
+          "title": "Improving HCLS AI reasoning with open-source agent skills"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$337.00",
+      "change": "+1.38%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-09-15",
-          "title": "MBW 1042: タッセルがいっぱい! "
+          "date": "2026-09-16",
+          "title": "Apple Reference Image: How the iPhone 18 Pro Proves a Photo Is Real"
         },
         {
-          "date": "2026-09-15",
-          "title": "Show HN: Agenttik – AI エージェントと並行して複数のプロジェクトに取り組む"
+          "date": "2026-09-16",
+          "title": "I Tried Snap Specs: Really Big, but Also Like Nothing Else Out There"
         },
         {
-          "date": "2026-09-15",
-          "title": "Omni Group が iOS 27、macOS 27 などのアプリをアップデートするにあたり、OmniFocus が Siri AI サポートを追加"
+          "date": "2026-09-16",
+          "title": "$2,195 for Smart Glasses? Snap's New Specs Are an Engineering Marvel...With Two Massive Flaws"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$219.34",
+      "change": "+2.54%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
           "date": "2026-09-16",
-          "title": "Nvidia RTX 5090 GPU の価格が 9,000 ドルに急騰 - RTX 6000 の最新の噂が 2027 年の発売を示唆しているため、恐怖でいっぱいです"
+          "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation"
         },
         {
-          "date": "2026-09-15",
-          "title": "AI ネットワーキングのスタートアップ企業が Nvidia の NVLink の置き換えを競う"
+          "date": "2026-09-16",
+          "title": "Perplexity 攜手 NVIDIA 讓 Portable Computer 登陸 Windows，RTX PC 變身本地 AI 代理工作站"
         },
         {
-          "date": "2026-09-15",
-          "title": "Cisco と Splunk がオンプレミス エージェント インフラストラクチャを出荷、エンタープライズ展開のコンセンサスを分割"
+          "date": "2026-09-16",
+          "title": "Nvidia goes green to keep grid capacity from zapping its revenues"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$497.75",
+      "change": "+1.52%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
           "date": "2026-09-16",
-          "title": "CISA の OMB M-26-14 のロギング リファレンス アーキテクチャ: 連邦政府機関が次に行うべきこと"
+          "title": "’AI Not Worth Pursuing’ If It’s Not ‘Helping Humanity.’ Microsoft’s Satya Nadella Pushes Back on Anthropic’s Control Framing and Offers a Practical Way Out."
+        },
+        {
+          "date": "2026-09-16",
+          "title": "CISA's Logging Reference Architecture for OMB M-26-14: What federal agencies should do next"
         },
         {
           "date": "2026-09-15",
-          "title": "OpenAIエージェントは公表されているよりも多くのWebサイトを使用していた、と捜査関係者が発表"
-        },
-        {
-          "date": "2026-09-14",
-          "title": "クラウド大手 3 社が AI に数十億ドルを注ぎ込んでいます。"
+          "title": "Bank of America says investors get AMD stock wrong"
         }
       ]
     }

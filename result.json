@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-17",
-          "title": "Google ordered to overhaul global ad empire after judge finds it abused illegal monopoly"
+          "date": "2026-09-18",
+          "title": "アドテク企業がスマート AI への賭けを模索中"
         },
         {
-          "date": "2026-09-17",
-          "title": "A judge ruled Google broke antitrust law, then let it keep its entire ad-tech business"
+          "date": "2026-09-18",
+          "title": "史上最大となる可能性のあるハイテクIPOを前に、投資家は人類へのエクスポージャーを求めて先を争う"
         },
         {
-          "date": "2026-09-17",
-          "title": "Price Prediction: As AI Backlog Soars, Oracle Set for 50% Upside"
+          "date": "2026-09-18",
+          "title": "Waymo はほとんどの理解を超えた取り組みを行っており、私はアルファベットを拳に渡し続けています"
         }
       ]
     },
@@ -38,16 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-09-17",
-          "title": "Crusoe raises $3.9B to build massive data centers and small modular \"AI factories\" | TechCrunch"
+          "date": "2026-09-18",
+          "title": "消費者がボットに購入内容を引き渡すことにまだ慣れていないにもかかわらず、カード会社は AI ショッピングの基準を設定するために「土地の奪い合い」を行っている"
         },
         {
-          "date": "2026-09-17",
-          "title": "Natural Gas Is Cheap – Why Is Your Bill So High?"
+          "date": "2026-09-18",
+          "title": "AI が全員を殺さないためには独占禁止法の免除が必要ですか????"
         },
         {
-          "date": "2026-09-17",
-          "title": "Goldman’s top strategist just added hard numbers to his earnings-bubble warning"
+          "date": "2026-09-18",
+          "title": "CleanSpark のメタ データセンター向けジャンクボンドのデビュー商品は 4 倍の需要を集める"
         }
       ]
     },
@@ -63,16 +63,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-09-17",
-          "title": "Run open weight models on AWS Bedrock in AWS European Sovereign Cloud"
+          "date": "2026-09-18",
+          "title": "Amazon SageMaker Inference: 2026 年累計のリリースをレビュー"
         },
         {
-          "date": "2026-09-17",
-          "title": "New low-cost burstable Amazon EC2 T8i instances are generally available"
+          "date": "2026-09-18",
+          "title": "Amazon、求職者と24時間365日面接するAIエージェントを展開"
         },
         {
-          "date": "2026-09-17",
-          "title": "Amazon calls for rigorous AI testing, avoids backing slower development"
+          "date": "2026-09-18",
+          "title": "MCP vs REST/HTTP API vs Kafka: Agentic AI 統合のためのアーキテクト ガイド"
         }
       ]
     },
@@ -88,16 +88,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-09-17",
-          "title": "How to be an AI minimalist"
+          "date": "2026-09-18",
+          "title": "この AI 搭載ミニ スプリット AC はエネルギー使用量を 38% 削減でき、期間限定で割引されます"
         },
         {
-          "date": "2026-09-17",
-          "title": "iPhone 18 Pro vs. Pixel 11 Pro: The New Apple and Google Pro Phones Are Quite Different"
+          "date": "2026-09-18",
+          "title": "HP Envy 6165 ワイヤレス AI 対応オールインワン インクジェット プリンター、80 ドル + 送料無料"
         },
         {
-          "date": "2026-09-17",
-          "title": "Pixel 11 Pro vs. Pixel 10 Pro"
+          "date": "2026-09-18",
+          "title": "Pebble Time 2 レビュー: オタクはただ楽しみたいだけ"
         }
       ]
     },
@@ -113,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-09-17",
-          "title": "The Best Ways To View Gaussian Splats On Quest"
+          "date": "2026-09-18",
+          "title": "AIコンピューティングの需要に応えるため、NscaleがニューヨークでIPOを申請"
         },
         {
-          "date": "2026-09-17",
-          "title": "RTX 5090s are going for as much as $9000, as AI server builders reportedly buy Nvidia's flagship by the pallet, but the photos behind the story may be AI-generated"
+          "date": "2026-09-18",
+          "title": "オランダの小さなスタートアップが、Nvidia AI GPUの座を奪おうとしてSamsungを後援者として募る – しかしEuclydは推論チップを2028年まで発売しない"
         },
         {
-          "date": "2026-09-17",
-          "title": "Microsoft is bringing in NVIDIA's Jensen Huang for its biggest Windows event since 2024"
+          "date": "2026-09-18",
+          "title": "Amazon SageMaker Inference: 2026 年累計のリリースをレビュー"
         }
       ]
     },
@@ -139,15 +139,15 @@
       "news": [
         {
           "date": "2026-09-17",
-          "title": "Andrew Yang Says Escaped AI Agents Seeded the Internet With Self-Replicating Code"
+          "title": "アンドリュー・ヤン氏、逃亡したAIエージェントがインターネットに自己複製コードを撒いたと語る"
         },
         {
           "date": "2026-09-17",
-          "title": "A Senior Engineer’s Guide to Foundry IQ, MCP, and the OpenAI Agents SDK"
+          "title": "Foundry IQ、MCP、OpenAI Agents SDK に関するシニア エンジニア ガイド"
         },
         {
           "date": "2026-09-17",
-          "title": "HubSpot, OpenAI Deepen CRM-ChatGPT Integration"
+          "title": "HubSpot、OpenAIがCRMとChatGPTの統合を深化"
         }
       ]
     }

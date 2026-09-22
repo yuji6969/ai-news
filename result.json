@@ -5,24 +5,24 @@
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$351.16",
+      "change": "-1.07%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-20",
-          "title": "’s Google Bets on Finland’s Cold Weather and Nuclear Power for its Next AI Buildout"
+          "date": "2026-09-21",
+          "title": "I Understand Meta’s Problems But I’m Going to Keep On Accumulating For One Reason"
         },
         {
-          "date": "2026-09-20",
-          "title": "Alphabet (GOOGL)’s Google Bets on Finland’s Cold Weather and Nuclear Power for its Next AI Buildout"
+          "date": "2026-09-21",
+          "title": "US Weighs Antitrust Guidance on AI Safety, Top DOJ Official Says"
         },
         {
-          "date": "2026-09-20",
-          "title": "Amazon (AMZN)’s Debut Sterling Bond Sale Prices Bigger, But Demand Cools from Alphabet’s"
+          "date": "2026-09-21",
+          "title": "The Tech Selloff Is Only Strengthening My Belief In Alphabet"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$736.59",
+      "change": "-0.63%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-09-20",
-          "title": "Apple (AAPL)’s New CEO Bets Big on a $1,999 Foldable iPhone"
+          "date": "2026-09-21",
+          "title": "Meta’s Muse AI Agent Triggers Intel, Chip Stock Rally. AMD Hits $1T Market Cap. - Barron's"
         },
         {
-          "date": "2026-09-20",
-          "title": "60 Minutes Transcript: The data center uproar"
+          "date": "2026-09-21",
+          "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses"
         },
         {
-          "date": "2026-09-20",
-          "title": "Data center developers want to make it hard to track them: elected official"
+          "date": "2026-09-21",
+          "title": "Meta’s Muse AI agent fuels chip stock rally as AMD hits $1 trillion market cap"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$254.98",
+      "change": "-1.34%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-09-20",
-          "title": "60 Minutes Transcript: The data center uproar"
+          "date": "2026-09-21",
+          "title": "MRH Trowe Lets Employees Build Their Own Agent Factory"
         },
         {
-          "date": "2026-09-20",
-          "title": "Data center developers want to make it hard to track them: elected official"
+          "date": "2026-09-21",
+          "title": "1.58-million-staff Amazon will soon have more Nvidia GPUs than employees — AWS to buy more than 3 million additional chips before 2029 in addition to thousands of existing H100, H200"
         },
         {
-          "date": "2026-09-20",
-          "title": "Amazon (AMZN)’s Debut Sterling Bond Sale Prices Bigger, But Demand Cools from Alphabet’s"
+          "date": "2026-09-21",
+          "title": "How real-time data engineering is powering the future of global transportation"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$339.75",
+      "change": "+0.23%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-09-20",
-          "title": "Apple (AAPL)’s New CEO Bets Big on a $1,999 Foldable iPhone"
+          "date": "2026-09-21",
+          "title": "Apple’s new watches are always listening"
         },
         {
-          "date": "2026-09-20",
-          "title": "TCPViewer v1.18.0"
+          "date": "2026-09-21",
+          "title": "mlx-commander 0.3.22"
         },
         {
-          "date": "2026-09-20",
-          "title": "Show HN: Native Mac menu bar app for the Anker Prime 160W (local BLE)"
+          "date": "2026-09-21",
+          "title": "Apple customers can now submit claims for $250M settlement in deceptive marketing suit"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$228.87",
+      "change": "+0.66%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-09-20",
-          "title": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM"
+          "date": "2026-09-21",
+          "title": "Are data centers draining Arizona's water?"
         },
         {
-          "date": "2026-09-20",
-          "title": "Jensen Huang Just Announced Fantastic News for Nvidia Shareholders"
+          "date": "2026-09-21",
+          "title": "Meta’s Muse AI agent fuels chip stock rally as AMD hits $1 trillion market cap"
         },
         {
-          "date": "2026-09-20",
-          "title": "Custom home server built from spare parts"
+          "date": "2026-09-21",
+          "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$498.00",
+      "change": "-0.72%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-09-19",
-          "title": "The Agent Economy Runs on Concrete: Why $660 Billion Is Pouring Into Physical Infrastructure"
+          "date": "2026-09-21",
+          "title": "AWS debuts Strands Harness, an open-source AI agent that can be deployed in any environment"
         },
         {
-          "date": "2026-09-17",
-          "title": "Andrew Yang Says Escaped AI Agents Seeded the Internet With Self-Replicating Code"
+          "date": "2026-09-21",
+          "title": "AMD surges above $600, approaches $1T market cap"
         },
         {
-          "date": "2026-09-17",
-          "title": "A Senior Engineer’s Guide to Foundry IQ, MCP, and the OpenAI Agents SDK"
+          "date": "2026-09-21",
+          "title": "Azure, AI Capex, and What to Expect Out of Microsoft Through The End of 2026"
         }
       ]
     }

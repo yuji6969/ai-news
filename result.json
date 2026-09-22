@@ -1,28 +1,28 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$349.54",
-      "change": "+0.64%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$nan",
+      "change": "+nan%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-19",
-          "title": "I captured 72 hours of idle Android packets behind pfSense"
+          "date": "2026-09-20",
+          "title": "’s Google Bets on Finland’s Cold Weather and Nuclear Power for its Next AI Buildout"
         },
         {
-          "date": "2026-09-19",
-          "title": "Google’s Gemini AI hacked 3 companies during security tests"
+          "date": "2026-09-20",
+          "title": "Alphabet (GOOGL)’s Google Bets on Finland’s Cold Weather and Nuclear Power for its Next AI Buildout"
         },
         {
-          "date": "2026-09-19",
-          "title": "Kara Swisher: AI Isn’t Going to Destroy Humanity—But the People Building It Might"
+          "date": "2026-09-20",
+          "title": "Amazon (AMZN)’s Debut Sterling Bond Sale Prices Bigger, But Demand Cools from Alphabet’s"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$665.75",
-      "change": "-2.43%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-09-19",
-          "title": "SEO Content Marketing Strategy That Actually Compounds | Nerdify"
+          "date": "2026-09-20",
+          "title": "Apple (AAPL)’s New CEO Bets Big on a $1,999 Foldable iPhone"
         },
         {
-          "date": "2026-09-19",
-          "title": "Meta stock delivers a bold case for a $900 target"
+          "date": "2026-09-20",
+          "title": "60 Minutes Transcript: The data center uproar"
         },
         {
-          "date": "2026-09-19",
-          "title": "Meta Stock Could Hit $800 This Year -- And It All Begins on Sept. 23"
+          "date": "2026-09-20",
+          "title": "Data center developers want to make it hard to track them: elected official"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$253.71",
-      "change": "+1.00%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$nan",
+      "change": "+nan%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-09-19",
-          "title": "The Agent Economy Runs on Concrete: Why $660 Billion Is Pouring Into Physical Infrastructure"
+          "date": "2026-09-20",
+          "title": "60 Minutes Transcript: The data center uproar"
         },
         {
-          "date": "2026-09-19",
-          "title": "Anthropic Gave Claude a Shopping Brain. It Deliberately Left Out the Wallet."
+          "date": "2026-09-20",
+          "title": "Data center developers want to make it hard to track them: elected official"
         },
         {
-          "date": "2026-09-19",
-          "title": "AMD Targets NVIDIA Vera In Latest EPYC Venice “Agentic AI” Benchmarks, Zen 6 Leads With 20% Higher Per-Core & Over 2x Gains In Platform-Level Performance"
+          "date": "2026-09-20",
+          "title": "Amazon (AMZN)’s Debut Sterling Bond Sale Prices Bigger, But Demand Cools from Alphabet’s"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$336.13",
-      "change": "-0.26%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-09-19",
-          "title": "Show HN: I created an open source locally usable full fledged AI platform"
+          "date": "2026-09-20",
+          "title": "Apple (AAPL)’s New CEO Bets Big on a $1,999 Foldable iPhone"
         },
         {
-          "date": "2026-09-19",
-          "title": "Albanese visits Apple HQ, warns Australia can't sit on sidelines of AI race"
+          "date": "2026-09-20",
+          "title": "TCPViewer v1.18.0"
         },
         {
-          "date": "2026-09-19",
-          "title": "PM urges China and US to strike deal in AI race"
+          "date": "2026-09-20",
+          "title": "Show HN: Native Mac menu bar app for the Anker Prime 160W (local BLE)"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$222.27",
-      "change": "+1.34%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$nan",
+      "change": "+nan%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-09-19",
-          "title": "Show HN: I created an open source locally usable full fledged AI platform"
+          "date": "2026-09-20",
+          "title": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM"
         },
         {
-          "date": "2026-09-19",
-          "title": "Show HN: Detecting Volumetric DDoS via Covariance Manifold Topology Collapse"
+          "date": "2026-09-20",
+          "title": "Jensen Huang Just Announced Fantastic News for Nvidia Shareholders"
         },
         {
-          "date": "2026-09-19",
-          "title": "VideoProc Converter AI 8.12"
+          "date": "2026-09-20",
+          "title": "Custom home server built from spare parts"
         }
       ]
     },
@@ -130,8 +130,8 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$493.78",
-      "change": "-0.80%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",

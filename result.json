@@ -1,28 +1,28 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-24",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$351.16",
-      "change": "-1.07%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-21",
-          "title": "I Understand Meta’s Problems But I’m Going to Keep On Accumulating For One Reason"
+          "date": "2026-09-22",
+          "title": "Global South more optimistic about AI than the US, Google exec says"
         },
         {
-          "date": "2026-09-21",
-          "title": "US Weighs Antitrust Guidance on AI Safety, Top DOJ Official Says"
+          "date": "2026-09-22",
+          "title": "Big Tech’s AI-Debt Binge Set To Hit New Eye-Popping Milestone"
         },
         {
-          "date": "2026-09-21",
-          "title": "The Tech Selloff Is Only Strengthening My Belief In Alphabet"
+          "date": "2026-09-22",
+          "title": "Google to Fund Power-Capacity Increases at Two Georgia Nuclear Plants"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$736.59",
-      "change": "-0.63%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-09-21",
-          "title": "Meta’s Muse AI Agent Triggers Intel, Chip Stock Rally. AMD Hits $1T Market Cap. - Barron's"
+          "date": "2026-09-22",
+          "title": "'It Should Be Illegal': Trump's 1,156 July Stock Trades Involved AI, Big Oil, Weapons-Makers, and More"
         },
         {
-          "date": "2026-09-21",
-          "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses"
+          "date": "2026-09-22",
+          "title": "Facing ‘seismic shifts’ in tech sector, Seattle mayor freezes JumpStart tax rates in new budget"
         },
         {
-          "date": "2026-09-21",
-          "title": "Meta’s Muse AI agent fuels chip stock rally as AMD hits $1 trillion market cap"
+          "date": "2026-09-22",
+          "title": "The current balance of power in open models"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$254.98",
-      "change": "-1.34%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-09-21",
-          "title": "MRH Trowe Lets Employees Build Their Own Agent Factory"
+          "date": "2026-09-23",
+          "title": "Amazon CloudWatch Omni: AI-first observability for agents and applications"
         },
         {
-          "date": "2026-09-21",
-          "title": "1.58-million-staff Amazon will soon have more Nvidia GPUs than employees — AWS to buy more than 3 million additional chips before 2029 in addition to thousands of existing H100, H200"
+          "date": "2026-09-22",
+          "title": "Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications"
         },
         {
-          "date": "2026-09-21",
-          "title": "How real-time data engineering is powering the future of global transportation"
+          "date": "2026-09-22",
+          "title": "Introducing Amazon CloudWatch Omni: Observability for the AI Era"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$339.75",
-      "change": "+0.23%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$nan",
+      "change": "+nan%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-09-21",
-          "title": "Apple’s new watches are always listening"
+          "date": "2026-09-23",
+          "title": "Peloton Launches First Foldable Treadmill, Adds More AI Features"
         },
         {
-          "date": "2026-09-21",
-          "title": "mlx-commander 0.3.22"
+          "date": "2026-09-22",
+          "title": "Is Battery Life Worse in MacOS 27 Golden Gate? Try These Tips"
         },
         {
-          "date": "2026-09-21",
-          "title": "Apple customers can now submit claims for $250M settlement in deceptive marketing suit"
+          "date": "2026-09-22",
+          "title": "HP OfficeJet Pro 9125e Wireless AI-Enabled AiO Inkjet Printer for $190 + free shipping"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$228.87",
-      "change": "+0.66%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$nan",
+      "change": "+nan%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-09-21",
-          "title": "Are data centers draining Arizona's water?"
+          "date": "2026-09-22",
+          "title": "instinct-ai added to PyPI"
         },
         {
-          "date": "2026-09-21",
-          "title": "Meta’s Muse AI agent fuels chip stock rally as AMD hits $1 trillion market cap"
+          "date": "2026-09-22",
+          "title": "Wall Street’s GPU Futures Push Stalls at the CFTC"
         },
         {
-          "date": "2026-09-21",
-          "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton"
+          "date": "2026-09-22",
+          "title": "These are the stock market's winners and losers in the AI agent economy"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$498.00",
-      "change": "-0.72%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-09-21",
-          "title": "AWS debuts Strands Harness, an open-source AI agent that can be deployed in any environment"
+          "date": "2026-09-22",
+          "title": "Anthropic releases Claude Opus 5.5 and OpenAI counters with two cheaper GPT-6 models"
         },
         {
-          "date": "2026-09-21",
-          "title": "AMD surges above $600, approaches $1T market cap"
+          "date": "2026-09-22",
+          "title": "Marc Benioff says Salesforce's investment in Anthropic was a plan B that could pay off in ‘tens of billions’"
         },
         {
-          "date": "2026-09-21",
-          "title": "Azure, AI Capex, and What to Expect Out of Microsoft Through The End of 2026"
+          "date": "2026-09-22",
+          "title": "Anthropic Cuts AI Processing Costs 40% With Opus 5.5 Debut"
         }
       ]
     }

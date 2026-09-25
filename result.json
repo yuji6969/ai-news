@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-22",
-          "title": "Global South more optimistic about AI than the US, Google exec says"
+          "date": "2026-09-23",
+          "title": "Wall Street ends down as oil prices, Treasury yields rise"
         },
         {
-          "date": "2026-09-22",
-          "title": "Big Tech’s AI-Debt Binge Set To Hit New Eye-Popping Milestone"
+          "date": "2026-09-23",
+          "title": "The Real AI Threat: China"
         },
         {
-          "date": "2026-09-22",
-          "title": "Google to Fund Power-Capacity Increases at Two Georgia Nuclear Plants"
+          "date": "2026-09-23",
+          "title": "Google Beam expands to six countries"
         }
       ]
     },
@@ -38,16 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-09-22",
-          "title": "'It Should Be Illegal': Trump's 1,156 July Stock Trades Involved AI, Big Oil, Weapons-Makers, and More"
+          "date": "2026-09-23",
+          "title": "Meta’s AI chief Alexandr Wang teases the company’s most capable model yet"
         },
         {
-          "date": "2026-09-22",
-          "title": "Facing ‘seismic shifts’ in tech sector, Seattle mayor freezes JumpStart tax rates in new budget"
+          "date": "2026-09-23",
+          "title": "Meta Platforms CEO Mark Zuckerberg claims personal superintelligence is within reach"
         },
         {
-          "date": "2026-09-22",
-          "title": "The current balance of power in open models"
+          "date": "2026-09-23",
+          "title": "Donald Trump greets Xi Jinping at plane as Chinese leader arrives for state visit"
         }
       ]
     },
@@ -64,15 +64,15 @@
       "news": [
         {
           "date": "2026-09-23",
-          "title": "Amazon CloudWatch Omni: AI-first observability for agents and applications"
+          "title": "ICYMI: August 2026 @AWS Security"
         },
         {
-          "date": "2026-09-22",
-          "title": "Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications"
+          "date": "2026-09-23",
+          "title": "From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock"
         },
         {
-          "date": "2026-09-22",
-          "title": "Introducing Amazon CloudWatch Omni: Observability for the AI Era"
+          "date": "2026-09-23",
+          "title": "Configure domain-level VPC networking in Amazon SageMaker Unified Studio"
         }
       ]
     },
@@ -88,16 +88,12 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-09-23",
-          "title": "Peloton Launches First Foldable Treadmill, Adds More AI Features"
+          "date": "2026-09-24",
+          "title": "Meta Connect 2026: The 7 biggest announcements"
         },
         {
-          "date": "2026-09-22",
-          "title": "Is Battery Life Worse in MacOS 27 Golden Gate? Try These Tips"
-        },
-        {
-          "date": "2026-09-22",
-          "title": "HP OfficeJet Pro 9125e Wireless AI-Enabled AiO Inkjet Printer for $190 + free shipping"
+          "date": "2026-09-24",
+          "title": "How Meta took the lead in the race for the post-smartphone world"
         }
       ]
     },
@@ -113,16 +109,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-09-22",
-          "title": "instinct-ai added to PyPI"
+          "date": "2026-09-23",
+          "title": "The AI factory is becoming the computer and it’s changing the semiconductor race"
         },
         {
-          "date": "2026-09-22",
-          "title": "Wall Street’s GPU Futures Push Stalls at the CFTC"
+          "date": "2026-09-23",
+          "title": "AMD's next-gen RDNA 5 'AT2' GPU leak points to up to 25% faster performance than the Radeon RX 9070 XT"
         },
         {
-          "date": "2026-09-22",
-          "title": "These are the stock market's winners and losers in the AI agent economy"
+          "date": "2026-09-23",
+          "title": "NVIDIA Smooth Motion Now Runs on RTX 30 Series GPUs Thanks to NVSmooth30 Mod, RTX 3050 Laptop and RTX 3080 Confirmed Working"
         }
       ]
     },
@@ -138,16 +134,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-09-22",
-          "title": "Anthropic releases Claude Opus 5.5 and OpenAI counters with two cheaper GPT-6 models"
+          "date": "2026-09-23",
+          "title": "Stifel upgrades Microsoft to buy from hold, signaling confidence in Azure and AI growth"
         },
         {
-          "date": "2026-09-22",
-          "title": "Marc Benioff says Salesforce's investment in Anthropic was a plan B that could pay off in ‘tens of billions’"
+          "date": "2026-09-23",
+          "title": "Fine tune your own custom LLM with Canonical Charmed Kubeflow and Feast"
         },
         {
-          "date": "2026-09-22",
-          "title": "Anthropic Cuts AI Processing Costs 40% With Opus 5.5 Debut"
+          "date": "2026-09-23",
+          "title": "Designing agent-first platforms: What changes when agents do the work"
         }
       ]
     }

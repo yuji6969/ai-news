@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-23",
-          "title": "Wall Street ends down as oil prices, Treasury yields rise"
+          "date": "2026-09-24",
+          "title": "Waymo is scaling fast. Here’s what the fleet data shows. | TechCrunch"
         },
         {
-          "date": "2026-09-23",
-          "title": "The Real AI Threat: China"
+          "date": "2026-09-24",
+          "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face - The Verge"
         },
         {
-          "date": "2026-09-23",
-          "title": "Google Beam expands to six countries"
+          "date": "2026-09-24",
+          "title": "The Irish Times view on social media regulation: always one step behind"
         }
       ]
     },
@@ -38,16 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-09-23",
-          "title": "Meta’s AI chief Alexandr Wang teases the company’s most capable model yet"
+          "date": "2026-09-24",
+          "title": "These startups are building the security layer for AI agents"
         },
         {
-          "date": "2026-09-23",
-          "title": "Meta Platforms CEO Mark Zuckerberg claims personal superintelligence is within reach"
+          "date": "2026-09-24",
+          "title": "US stocks: S&P 500 ends nearly flat as US-Iran talks help stocks pare losses"
         },
         {
-          "date": "2026-09-23",
-          "title": "Donald Trump greets Xi Jinping at plane as Chinese leader arrives for state visit"
+          "date": "2026-09-24",
+          "title": "A Wrench in the Data Center Machine"
         }
       ]
     },
@@ -63,16 +63,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-09-23",
-          "title": "ICYMI: August 2026 @AWS Security"
+          "date": "2026-09-24",
+          "title": "Akamai Technologies issues warrant to Anthropic for 5% of common stock in massive cloud deal"
         },
         {
-          "date": "2026-09-23",
-          "title": "From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock"
+          "date": "2026-09-24",
+          "title": "81% of CIOs lack full oversight of AI agents built outside IT, Dataiku says"
         },
         {
-          "date": "2026-09-23",
-          "title": "Configure domain-level VPC networking in Amazon SageMaker Unified Studio"
+          "date": "2026-09-24",
+          "title": "Show HN: ThimbleDb, an encrypted lightweight low latency open source database"
         }
       ]
     },
@@ -89,11 +89,15 @@
       "news": [
         {
           "date": "2026-09-24",
-          "title": "Meta Connect 2026: The 7 biggest announcements"
+          "title": "The best tablets for every day use, streaming, work and more"
         },
         {
           "date": "2026-09-24",
-          "title": "How Meta took the lead in the race for the post-smartphone world"
+          "title": "coding-router added to PyPI"
+        },
+        {
+          "date": "2026-09-24",
+          "title": "Meta launches camera-free AI glasses, Muse Charm pendant amid privacy pushback"
         }
       ]
     },
@@ -109,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-09-23",
-          "title": "The AI factory is becoming the computer and it’s changing the semiconductor race"
+          "date": "2026-09-25",
+          "title": "NVIDIA RTX 5090 Sells Out at Walmart for $4,299 After 10,000 Shoppers Add It to Cart"
         },
         {
-          "date": "2026-09-23",
-          "title": "AMD's next-gen RDNA 5 'AT2' GPU leak points to up to 25% faster performance than the Radeon RX 9070 XT"
+          "date": "2026-09-24",
+          "title": "Durabook launches a workstation laptop with three real screens - Z14I-DX3 is a rugged mobile device featuring a trio of 14-inch full HD displays with an optional Nvidia RTX 5000 Ada GPU for command posts and drone teams"
         },
         {
-          "date": "2026-09-23",
-          "title": "NVIDIA Smooth Motion Now Runs on RTX 30 Series GPUs Thanks to NVSmooth30 Mod, RTX 3050 Laptop and RTX 3080 Confirmed Working"
+          "date": "2026-09-24",
+          "title": "Google’s Project Suncatcher Is Sending AI Chips Into Space Next Week"
         }
       ]
     },
@@ -134,16 +138,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-09-23",
-          "title": "Stifel upgrades Microsoft to buy from hold, signaling confidence in Azure and AI growth"
+          "date": "2026-09-24",
+          "title": "Pentagon seeks $29.5 billion under AI Arsenal initiative in fiscal 2027 budget"
         },
         {
-          "date": "2026-09-23",
-          "title": "Fine tune your own custom LLM with Canonical Charmed Kubeflow and Feast"
+          "date": "2026-09-24",
+          "title": "JPMorgan upgrades CoreWeave to Overweight, raises price target to $125"
         },
         {
-          "date": "2026-09-23",
-          "title": "Designing agent-first platforms: What changes when agents do the work"
+          "date": "2026-09-24",
+          "title": "Gurucul connects AI activity to identity data for faster threat response"
         }
       ]
     }

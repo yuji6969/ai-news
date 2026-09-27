@@ -1,28 +1,28 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$343.92",
+      "change": "+0.46%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-24",
-          "title": "Waymo is scaling fast. Here’s what the fleet data shows. | TechCrunch"
+          "date": "2026-09-25",
+          "title": "Goldman Sachs calculates the revenue hyperscalers need to justify $1.7T in AI capex"
         },
         {
-          "date": "2026-09-24",
-          "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face - The Verge"
+          "date": "2026-09-25",
+          "title": "Trump-Xi state dinner at White House attended by 21 billionaires with combined wealth almost equal to Canada’s GDP"
         },
         {
-          "date": "2026-09-24",
-          "title": "The Irish Times view on social media regulation: always one step behind"
+          "date": "2026-09-25",
+          "title": "Microsoft abandons personal AI chatbot race with Copilot reboot"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$751.66",
+      "change": "-3.33%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-09-24",
-          "title": "These startups are building the security layer for AI agents"
+          "date": "2026-09-25",
+          "title": "Goldman warns declining token prices may hinder investment growth"
         },
         {
-          "date": "2026-09-24",
-          "title": "US stocks: S&P 500 ends nearly flat as US-Iran talks help stocks pare losses"
+          "date": "2026-09-25",
+          "title": "Goldman Sachs calculates the revenue hyperscalers need to justify $1.7T in AI capex"
         },
         {
-          "date": "2026-09-24",
-          "title": "A Wrench in the Data Center Machine"
+          "date": "2026-09-25",
+          "title": "Meta’s Muse AI agent partners with Plaid to access 12,000 financial institutions"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$249.67",
+      "change": "+0.12%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-09-24",
-          "title": "Akamai Technologies issues warrant to Anthropic for 5% of common stock in massive cloud deal"
+          "date": "2026-09-25",
+          "title": "Goldman Sachs calculates the revenue hyperscalers need to justify $1.7T in AI capex"
         },
         {
-          "date": "2026-09-24",
-          "title": "81% of CIOs lack full oversight of AI agents built outside IT, Dataiku says"
+          "date": "2026-09-25",
+          "title": "Amazon EC2 M8i and M8i-flex instances are now available in additional regions"
         },
         {
-          "date": "2026-09-24",
-          "title": "Show HN: ThimbleDb, an encrypted lightweight low latency open source database"
+          "date": "2026-09-25",
+          "title": "Amazon Cut 30,000 Corporate Jobs. Now It’s Trying to Lure Some of Those Workers Back"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$341.07",
+      "change": "+1.53%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-09-24",
-          "title": "The best tablets for every day use, streaming, work and more"
+          "date": "2026-09-25",
+          "title": "macOS 27 adds new Apple Intelligence features to your favorite apps"
         },
         {
-          "date": "2026-09-24",
-          "title": "coding-router added to PyPI"
+          "date": "2026-09-25",
+          "title": "The Estian Tattler: a gossip rag for my RimWorld colony that has to cite the save file"
         },
         {
-          "date": "2026-09-24",
-          "title": "Meta launches camera-free AI glasses, Muse Charm pendant amid privacy pushback"
+          "date": "2026-09-25",
+          "title": "It’s Time for Early Prime Day Deals on Smartwatch and Fitness Tracker - VITAMIN RUSH"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$225.07",
+      "change": "+0.22%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
           "date": "2026-09-25",
-          "title": "NVIDIA RTX 5090 Sells Out at Walmart for $4,299 After 10,000 Shoppers Add It to Cart"
+          "title": "Nvidia positions itself as key partner in quantum computing with NVQLink"
         },
         {
-          "date": "2026-09-24",
-          "title": "Durabook launches a workstation laptop with three real screens - Z14I-DX3 is a rugged mobile device featuring a trio of 14-inch full HD displays with an optional Nvidia RTX 5000 Ada GPU for command posts and drone teams"
+          "date": "2026-09-25",
+          "title": "Stanford and Nvidia’s CLM-8B model runs up to 9x faster than Jev"
         },
         {
-          "date": "2026-09-24",
-          "title": "Google’s Project Suncatcher Is Sending AI Chips Into Space Next Week"
+          "date": "2026-09-25",
+          "title": "Supermicro advances gigawatt-scale AI data center with SpaceXAI"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$516.17",
+      "change": "+3.66%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-09-24",
-          "title": "Pentagon seeks $29.5 billion under AI Arsenal initiative in fiscal 2027 budget"
+          "date": "2026-09-25",
+          "title": "Microsoft’s Satya Nadella predicts AI agent market will surpass cloud"
         },
         {
-          "date": "2026-09-24",
-          "title": "JPMorgan upgrades CoreWeave to Overweight, raises price target to $125"
+          "date": "2026-09-25",
+          "title": "Microsoft Shares Jump 3.15% as Broader Market Rally Builds on Stifel's Recent Buy Upgrade to Its Stock"
         },
         {
-          "date": "2026-09-24",
-          "title": "Gurucul connects AI activity to identity data for faster threat response"
+          "date": "2026-09-25",
+          "title": "Show HN: Apowerb, the open-source AI agent runtime (RAG, Text-to-SQL, webhooks)"
         }
       ]
     }

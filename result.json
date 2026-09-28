@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-25",
-          "title": "Goldman Sachs calculates the revenue hyperscalers need to justify $1.7T in AI capex"
+          "date": "2026-09-26",
+          "title": "Why is Oracle’s debt suddenly flashing warning signs? Its 8% bond yield raises a bigger question about who will finance the trillion-dollar AI data-center boom"
         },
         {
-          "date": "2026-09-25",
-          "title": "Trump-Xi state dinner at White House attended by 21 billionaires with combined wealth almost equal to Canada’s GDP"
+          "date": "2026-09-26",
+          "title": "Big Tech can cut methane … cheaply!"
         },
         {
-          "date": "2026-09-25",
-          "title": "Microsoft abandons personal AI chatbot race with Copilot reboot"
+          "date": "2026-09-26",
+          "title": "Google owns everything needed for a perfect running coach except the one that already exists"
         }
       ]
     },
@@ -38,16 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-09-25",
-          "title": "Goldman warns declining token prices may hinder investment growth"
+          "date": "2026-09-26",
+          "title": "Why is Oracle’s debt suddenly flashing warning signs? Its 8% bond yield raises a bigger question about who will finance the trillion-dollar AI data-center boom"
         },
         {
-          "date": "2026-09-25",
-          "title": "Goldman Sachs calculates the revenue hyperscalers need to justify $1.7T in AI capex"
+          "date": "2026-09-26",
+          "title": "CoreWeave’s next test: From GPU scarcity to a durable AI cloud"
         },
         {
-          "date": "2026-09-25",
-          "title": "Meta’s Muse AI agent partners with Plaid to access 12,000 financial institutions"
+          "date": "2026-09-26",
+          "title": "This Week’s Awesome Tech Stories From Around the Web (Through September 26)"
         }
       ]
     },
@@ -88,16 +88,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-09-25",
-          "title": "macOS 27 adds new Apple Intelligence features to your favorite apps"
+          "date": "2026-09-26",
+          "title": "imbridge added to PyPI"
         },
         {
-          "date": "2026-09-25",
-          "title": "The Estian Tattler: a gossip rag for my RimWorld colony that has to cite the save file"
+          "date": "2026-09-26",
+          "title": "How Long Does The New Siri AI Take To Activate On iOS 27? - bgr.com"
         },
         {
-          "date": "2026-09-25",
-          "title": "It’s Time for Early Prime Day Deals on Smartwatch and Fitness Tracker - VITAMIN RUSH"
+          "date": "2026-09-26",
+          "title": "Which Cloud Subscription Service Offers The Best Value?"
         }
       ]
     },
@@ -113,16 +113,12 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-09-25",
-          "title": "Nvidia positions itself as key partner in quantum computing with NVQLink"
+          "date": "2026-09-26",
+          "title": "AMD might finally have the GPU Nvidia forgot to make"
         },
         {
-          "date": "2026-09-25",
-          "title": "Stanford and Nvidia’s CLM-8B model runs up to 9x faster than Jev"
-        },
-        {
-          "date": "2026-09-25",
-          "title": "Supermicro advances gigawatt-scale AI data center with SpaceXAI"
+          "date": "2026-09-26",
+          "title": "Geekom A9 Max 2026 Edition Review: An Outpaced and Out-Priced Mini PC"
         }
       ]
     },
@@ -138,16 +134,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
+          "date": "2026-09-26",
+          "title": "CoreWeave’s next test: From GPU scarcity to a durable AI cloud"
+        },
+        {
           "date": "2026-09-25",
           "title": "Microsoft’s Satya Nadella predicts AI agent market will surpass cloud"
         },
         {
           "date": "2026-09-25",
           "title": "Microsoft Shares Jump 3.15% as Broader Market Rally Builds on Stifel's Recent Buy Upgrade to Its Stock"
-        },
-        {
-          "date": "2026-09-25",
-          "title": "Show HN: Apowerb, the open-source AI agent runtime (RAG, Text-to-SQL, webhooks)"
         }
       ]
     }

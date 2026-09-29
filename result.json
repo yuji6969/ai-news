@@ -1,28 +1,28 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$343.92",
-      "change": "+0.46%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$342.75",
+      "change": "-0.34%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-26",
-          "title": "Why is Oracle’s debt suddenly flashing warning signs? Its 8% bond yield raises a bigger question about who will finance the trillion-dollar AI data-center boom"
+          "date": "2026-09-27",
+          "title": "Betty and Fred’s Story: Building A Life Together - Weeks 4 and 5 Of Boot Camp – Late September 1944"
         },
         {
-          "date": "2026-09-26",
-          "title": "Big Tech can cut methane … cheaply!"
+          "date": "2026-09-27",
+          "title": "From Google Search to Gmail, YouTube and Android: 10 products that changed Google forever"
         },
         {
-          "date": "2026-09-26",
-          "title": "Google owns everything needed for a perfect running coach except the one that already exists"
+          "date": "2026-09-27",
+          "title": "Google turns 28: How a search engine started by two Stanford students grew into Gmail, YouTube, Android and Gemini AI"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$751.66",
-      "change": "-3.33%",
+      "price": "$715.62",
+      "change": "-4.79%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-09-26",
-          "title": "Why is Oracle’s debt suddenly flashing warning signs? Its 8% bond yield raises a bigger question about who will finance the trillion-dollar AI data-center boom"
+          "date": "2026-09-28",
+          "title": "How “Argentina’s Elon Musk” Is Bringing Technocracy To Patagonia"
         },
         {
-          "date": "2026-09-26",
-          "title": "CoreWeave’s next test: From GPU scarcity to a durable AI cloud"
+          "date": "2026-09-27",
+          "title": "Revelations of AI breaches add to safety fears as Trump meets with Anthropic's CEO"
         },
         {
-          "date": "2026-09-26",
-          "title": "This Week’s Awesome Tech Stories From Around the Web (Through September 26)"
+          "date": "2026-09-27",
+          "title": "The U.S. economy is running hot and stuck on a hamster wheel as GDP growth must outpace borrowing costs—or else get sucked into a debt spiral"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$249.67",
-      "change": "+0.12%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$246.15",
+      "change": "-1.41%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-09-25",
-          "title": "Goldman Sachs calculates the revenue hyperscalers need to justify $1.7T in AI capex"
+          "date": "2026-09-28",
+          "title": "How “Argentina’s Elon Musk” Is Bringing Technocracy To Patagonia"
         },
         {
-          "date": "2026-09-25",
-          "title": "Amazon EC2 M8i and M8i-flex instances are now available in additional regions"
+          "date": "2026-09-27",
+          "title": "Show HN: AstraBox – an open-source alternative to Claude Managed Agents"
         },
         {
-          "date": "2026-09-25",
-          "title": "Amazon Cut 30,000 Corporate Jobs. Now It’s Trying to Lure Some of Those Workers Back"
+          "date": "2026-09-27",
+          "title": "Is Amazon Stock a Buy, Hold, or Sell Below $250?"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$341.07",
-      "change": "+1.53%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$338.40",
+      "change": "-0.78%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-09-26",
-          "title": "imbridge added to PyPI"
+          "date": "2026-09-28",
+          "title": "How “Argentina’s Elon Musk” Is Bringing Technocracy To Patagonia"
         },
         {
-          "date": "2026-09-26",
-          "title": "How Long Does The New Siri AI Take To Activate On iOS 27? - bgr.com"
+          "date": "2026-09-28",
+          "title": "The Trust Paradox: Agent Payment Infrastructure Is Outpacing Consumer Readiness"
         },
         {
-          "date": "2026-09-26",
-          "title": "Which Cloud Subscription Service Offers The Best Value?"
+          "date": "2026-09-27",
+          "title": "Muse’s Smart Home Silence: The Agent That Controls Your Email But Not Your Lights"
         }
       ]
     },
@@ -105,20 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$225.07",
-      "change": "+0.22%",
+      "price": "$228.86",
+      "change": "+1.68%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-09-26",
-          "title": "AMD might finally have the GPU Nvidia forgot to make"
+          "date": "2026-09-27",
+          "title": "locdex added to PyPI"
         },
         {
-          "date": "2026-09-26",
-          "title": "Geekom A9 Max 2026 Edition Review: An Outpaced and Out-Priced Mini PC"
+          "date": "2026-09-27",
+          "title": "China considers allowing ByteDance, Alibaba to purchase Nvidia chips"
+        },
+        {
+          "date": "2026-09-27",
+          "title": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency"
         }
       ]
     },
@@ -126,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$516.17",
-      "change": "+3.66%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$509.22",
+      "change": "-1.35%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-09-26",
-          "title": "CoreWeave’s next test: From GPU scarcity to a durable AI cloud"
+          "date": "2026-09-27",
+          "title": "Researcher links 16,000 scans of a UN statistics portal to OpenAI agents"
         },
         {
-          "date": "2026-09-25",
-          "title": "Microsoft’s Satya Nadella predicts AI agent market will surpass cloud"
+          "date": "2026-09-27",
+          "title": "dgf-bench added to PyPI"
         },
         {
-          "date": "2026-09-25",
-          "title": "Microsoft Shares Jump 3.15% as Broader Market Rally Builds on Stifel's Recent Buy Upgrade to Its Stock"
+          "date": "2026-09-27",
+          "title": "OpenAI㌪I吾ァ潟迂綏綺オゃ承ャ水ｃ違ォ(WIRED, ..."
         }
       ]
     }

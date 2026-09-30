@@ -1,28 +1,28 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$342.75",
-      "change": "-0.34%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-27",
-          "title": "Betty and Fred’s Story: Building A Life Together - Weeks 4 and 5 Of Boot Camp – Late September 1944"
+          "date": "2026-09-28",
+          "title": "Hyperscaler Bang for Buck: The AI Capex ROI Has Two Clear Winners"
         },
         {
-          "date": "2026-09-27",
-          "title": "From Google Search to Gmail, YouTube and Android: 10 products that changed Google forever"
+          "date": "2026-09-28",
+          "title": "Tumbler Ridge, AI-Generated Public Art, MAGA Pushback, More: ResearchBuzz AI Update, September 28, 2026"
         },
         {
-          "date": "2026-09-27",
-          "title": "Google turns 28: How a search engine started by two Stanford students grew into Gmail, YouTube, Android and Gemini AI"
+          "date": "2026-09-28",
+          "title": "Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$715.62",
-      "change": "-4.79%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
+          "date": "2026-09-29",
+          "title": "Reproducibility in biomedical research"
+        },
+        {
           "date": "2026-09-28",
-          "title": "How “Argentina’s Elon Musk” Is Bringing Technocracy To Patagonia"
+          "title": "Shopify Opens Store Checkouts to AI Agents"
         },
         {
-          "date": "2026-09-27",
-          "title": "Revelations of AI breaches add to safety fears as Trump meets with Anthropic's CEO"
-        },
-        {
-          "date": "2026-09-27",
-          "title": "The U.S. economy is running hot and stuck on a hamster wheel as GDP growth must outpace borrowing costs—or else get sucked into a debt spiral"
+          "date": "2026-09-28",
+          "title": "Australia’s mining stocks set to extend rally on rising copper demand"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$246.15",
-      "change": "-1.41%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
+          "date": "2026-09-29",
+          "title": "Australia's CSL taps Amazon's cloud unit to boost research pipeline"
+        },
+        {
+          "date": "2026-09-29",
+          "title": "Samsung To Invest USD 1 Billion in AI Infrastructure Company Helix"
+        },
+        {
           "date": "2026-09-28",
-          "title": "How “Argentina’s Elon Musk” Is Bringing Technocracy To Patagonia"
-        },
-        {
-          "date": "2026-09-27",
-          "title": "Show HN: AstraBox – an open-source alternative to Claude Managed Agents"
-        },
-        {
-          "date": "2026-09-27",
-          "title": "Is Amazon Stock a Buy, Hold, or Sell Below $250?"
+          "title": "Grok 4.7 is now available on Amazon Bedrock"
         }
       ]
     },
@@ -80,8 +80,8 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$338.40",
-      "change": "-0.78%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
@@ -89,15 +89,15 @@
       "news": [
         {
           "date": "2026-09-28",
-          "title": "How “Argentina’s Elon Musk” Is Bringing Technocracy To Patagonia"
+          "title": "What to expect at the Dell AI Data Platform Event: Join theCUBE Oct. 6–7"
         },
         {
           "date": "2026-09-28",
-          "title": "The Trust Paradox: Agent Payment Infrastructure Is Outpacing Consumer Readiness"
+          "title": "Nishi Launches AI-Powered Metabolic Health and Nutrition Companion for GLP-1 and Mindful Wellness Support"
         },
         {
-          "date": "2026-09-27",
-          "title": "Muse’s Smart Home Silence: The Agent That Controls Your Email But Not Your Lights"
+          "date": "2026-09-28",
+          "title": "Apple iPhone 18 Pro vs. iPhone Duo: To Fold or Not to Fold, That Is the Question"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$228.86",
-      "change": "+1.68%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$nan",
+      "change": "+nan%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-09-27",
-          "title": "locdex added to PyPI"
+          "date": "2026-09-29",
+          "title": "Nvidia boosts buyback plan by record $150B amid AI competition"
         },
         {
-          "date": "2026-09-27",
-          "title": "China considers allowing ByteDance, Alibaba to purchase Nvidia chips"
+          "date": "2026-09-29",
+          "title": "Nvidia launches Open Agent Safety Platform with 100 partners to rein in rogue AI agents"
         },
         {
-          "date": "2026-09-27",
-          "title": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency"
+          "date": "2026-09-29",
+          "title": "Samsung To Invest USD 1 Billion in AI Infrastructure Company Helix"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$509.22",
-      "change": "-1.35%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-09-27",
-          "title": "Researcher links 16,000 scans of a UN statistics portal to OpenAI agents"
+          "date": "2026-09-28",
+          "title": "AWS needs to embrace its place as the Home Depot of AI infrastructure"
         },
         {
-          "date": "2026-09-27",
-          "title": "dgf-bench added to PyPI"
+          "date": "2026-09-28",
+          "title": "Anthropic collaborates with Nvidia to enhance agent security with new open platform"
         },
         {
-          "date": "2026-09-27",
-          "title": "OpenAI㌪I吾ァ潟迂綏綺オゃ承ャ水ｃ違ォ(WIRED, ..."
+          "date": "2026-09-28",
+          "title": "NetScaler ADC確etScaler Gateway茲㍽綣掩'鐚置E-2026-88771VE-2026-88772膈羈儀 (JPCERT/CC, 2026.09.28)"
         }
       ]
     }

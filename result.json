@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-28",
-          "title": "Hyperscaler Bang for Buck: The AI Capex ROI Has Two Clear Winners"
+          "date": "2026-09-30",
+          "title": "SpaceX Set To Receive $84.5 Billion From Anthropic In AI Capacity Payments, Says Report – Figure 2x Of What SpaceX Disclosed In IPO Filings"
         },
         {
-          "date": "2026-09-28",
-          "title": "Tumbler Ridge, AI-Generated Public Art, MAGA Pushback, More: ResearchBuzz AI Update, September 28, 2026"
+          "date": "2026-09-29",
+          "title": "Weapons makers and SpaceX in government's key investment fund portfolio"
         },
         {
-          "date": "2026-09-28",
-          "title": "Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies"
+          "date": "2026-09-29",
+          "title": "Exclusive-Anthropic IPO prospectus lays bare deep dependence on Big Tech partners"
         }
       ]
     },
@@ -38,16 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
+          "date": "2026-09-30",
+          "title": "Investing in major AI stocks at Wall Street? Factors to watch out before hitting Buy option"
+        },
+        {
           "date": "2026-09-29",
-          "title": "Reproducibility in biomedical research"
+          "title": "Weapons makers and SpaceX in government's key investment fund portfolio"
         },
         {
-          "date": "2026-09-28",
-          "title": "Shopify Opens Store Checkouts to AI Agents"
-        },
-        {
-          "date": "2026-09-28",
-          "title": "Australia’s mining stocks set to extend rally on rising copper demand"
+          "date": "2026-09-29",
+          "title": "Meta taps MongoDB CEO Chirantan Desai to drive enterprise AI push"
         }
       ]
     },
@@ -63,16 +63,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-09-29",
-          "title": "Australia's CSL taps Amazon's cloud unit to boost research pipeline"
+          "date": "2026-09-30",
+          "title": "Building production-ready AI in India"
         },
         {
           "date": "2026-09-29",
-          "title": "Samsung To Invest USD 1 Billion in AI Infrastructure Company Helix"
+          "title": "AWS Deadline Cloud now supports ECS containers on Linux Service-Managed Fleets"
         },
         {
-          "date": "2026-09-28",
-          "title": "Grok 4.7 is now available on Amazon Bedrock"
+          "date": "2026-09-29",
+          "title": "Automate RCA across ServiceNow, Dynatrace and Slack with AWS DevOps Agent"
         }
       ]
     },
@@ -88,16 +88,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-09-28",
-          "title": "What to expect at the Dell AI Data Platform Event: Join theCUBE Oct. 6–7"
+          "date": "2026-09-29",
+          "title": "The White House proved today that embracing AI is a winning message"
         },
         {
-          "date": "2026-09-28",
-          "title": "Nishi Launches AI-Powered Metabolic Health and Nutrition Companion for GLP-1 and Mindful Wellness Support"
+          "date": "2026-09-29",
+          "title": "Apple Skipped the iPhone 18 This Year. Is the iPhone 17 Still a Good Choice?"
         },
         {
-          "date": "2026-09-28",
-          "title": "Apple iPhone 18 Pro vs. iPhone Duo: To Fold or Not to Fold, That Is the Question"
+          "date": "2026-09-29",
+          "title": "iSpec the Body Electric: Exploring iPhone Battery Life Metrics"
         }
       ]
     },
@@ -113,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-09-29",
-          "title": "Nvidia boosts buyback plan by record $150B amid AI competition"
+          "date": "2026-09-30",
+          "title": "AVerMedia、ロボティクスとAMR向けに最適化されたNVIDIA Jetson Thor(TM)対応の超小型キャリアボード『D333』を発売"
         },
         {
-          "date": "2026-09-29",
-          "title": "Nvidia launches Open Agent Safety Platform with 100 partners to rein in rogue AI agents"
+          "date": "2026-09-30",
+          "title": "SpaceX Set To Receive $84.5 Billion From Anthropic In AI Capacity Payments, Says Report – Figure 2x Of What SpaceX Disclosed In IPO Filings"
         },
         {
-          "date": "2026-09-29",
-          "title": "Samsung To Invest USD 1 Billion in AI Infrastructure Company Helix"
+          "date": "2026-09-30",
+          "title": "Scalable decision-making for games of imperfect information"
         }
       ]
     },
@@ -138,16 +138,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-09-28",
-          "title": "AWS needs to embrace its place as the Home Depot of AI infrastructure"
+          "date": "2026-09-29",
+          "title": "Figma becomes official launch partner for OpenAI’s new B2B Marketplace"
         },
         {
-          "date": "2026-09-28",
-          "title": "Anthropic collaborates with Nvidia to enhance agent security with new open platform"
+          "date": "2026-09-29",
+          "title": "Visual Studio September Update – Power Your Workflow with Your Model"
         },
         {
-          "date": "2026-09-28",
-          "title": "NetScaler ADC確etScaler Gateway茲㍽綣掩'鐚置E-2026-88771VE-2026-88772膈羈儀 (JPCERT/CC, 2026.09.28)"
+          "date": "2026-09-29",
+          "title": "(note, 9/30) 羌押紙荀九羣絲堺育絎篆筝罅磚 ..."
         }
       ]
     }

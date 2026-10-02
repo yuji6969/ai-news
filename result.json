@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -14,15 +14,15 @@
       "news": [
         {
           "date": "2026-09-30",
-          "title": "SpaceX Set To Receive $84.5 Billion From Anthropic In AI Capacity Payments, Says Report – Figure 2x Of What SpaceX Disclosed In IPO Filings"
+          "title": "Google-parent Alphabet unveils Gemini 4 flagship AI model: Check features, release date, Gemini 3.5 Pro scrapped"
         },
         {
-          "date": "2026-09-29",
-          "title": "Weapons makers and SpaceX in government's key investment fund portfolio"
+          "date": "2026-09-30",
+          "title": "Google releases Gemini 4 Argon, called its most powerful model yet | TechCrunch"
         },
         {
-          "date": "2026-09-29",
-          "title": "Exclusive-Anthropic IPO prospectus lays bare deep dependence on Big Tech partners"
+          "date": "2026-09-30",
+          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity"
         }
       ]
     },
@@ -39,15 +39,15 @@
       "news": [
         {
           "date": "2026-09-30",
-          "title": "Investing in major AI stocks at Wall Street? Factors to watch out before hitting Buy option"
+          "title": "Zefr and Reddit Partner to Give Advertisers Deeper Insights and More Precise Suitability Controls"
         },
         {
-          "date": "2026-09-29",
-          "title": "Weapons makers and SpaceX in government's key investment fund portfolio"
+          "date": "2026-09-30",
+          "title": "Is Trump’s Push to Rename AI to ‘Super Intelligence’ Part of Some Bigger Conspiracy?"
         },
         {
-          "date": "2026-09-29",
-          "title": "Meta taps MongoDB CEO Chirantan Desai to drive enterprise AI push"
+          "date": "2026-09-30",
+          "title": "How Instagram Direct engineers built AI-native UI architecture with Jetpack Compose and reduced token cost per agent session by 33%"
         }
       ]
     },
@@ -64,15 +64,15 @@
       "news": [
         {
           "date": "2026-09-30",
-          "title": "Building production-ready AI in India"
+          "title": "Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU"
         },
         {
-          "date": "2026-09-29",
-          "title": "AWS Deadline Cloud now supports ECS containers on Linux Service-Managed Fleets"
+          "date": "2026-09-30",
+          "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types"
         },
         {
-          "date": "2026-09-29",
-          "title": "Automate RCA across ServiceNow, Dynatrace and Slack with AWS DevOps Agent"
+          "date": "2026-09-30",
+          "title": "Commvault Achieves AWS Data Competency in Relational Databases Category"
         }
       ]
     },
@@ -88,16 +88,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-09-29",
-          "title": "The White House proved today that embracing AI is a winning message"
+          "date": "2026-10-01",
+          "title": "TCL NXTPAPER 14 Review"
         },
         {
-          "date": "2026-09-29",
-          "title": "Apple Skipped the iPhone 18 This Year. Is the iPhone 17 Still a Good Choice?"
+          "date": "2026-09-30",
+          "title": "Jailbreak iOS 27.0.1: Everything You Need To Know"
         },
         {
-          "date": "2026-09-29",
-          "title": "iSpec the Body Electric: Exploring iPhone Battery Life Metrics"
+          "date": "2026-09-30",
+          "title": "Apple Is Reportedly Ready to Release Its Smarter Home Hub in 2 Weeks"
         }
       ]
     },
@@ -113,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-09-30",
-          "title": "AVerMedia、ロボティクスとAMR向けに最適化されたNVIDIA Jetson Thor(TM)対応の超小型キャリアボード『D333』を発売"
+          "date": "2026-10-01",
+          "title": "ASIC shipments top GPUs in 2027 as ABF substrate bottlenecks shift"
         },
         {
           "date": "2026-09-30",
-          "title": "SpaceX Set To Receive $84.5 Billion From Anthropic In AI Capacity Payments, Says Report – Figure 2x Of What SpaceX Disclosed In IPO Filings"
+          "title": "Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU"
         },
         {
           "date": "2026-09-30",
-          "title": "Scalable decision-making for games of imperfect information"
+          "title": "Game Engines Explained: How They Work, Why They Cost So Much, and Where They’re Going Next"
         }
       ]
     },
@@ -138,16 +138,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
+          "date": "2026-09-30",
+          "title": "Unverified GPT-Synopsys claim puts OpenAI and chip design tools in the spotlight"
+        },
+        {
+          "date": "2026-09-30",
+          "title": "WSJ: OpenAI Abandons Rollout of Its Latest Model Over Safety Concerns"
+        },
+        {
           "date": "2026-09-29",
           "title": "Figma becomes official launch partner for OpenAI’s new B2B Marketplace"
-        },
-        {
-          "date": "2026-09-29",
-          "title": "Visual Studio September Update – Power Your Workflow with Your Model"
-        },
-        {
-          "date": "2026-09-29",
-          "title": "(note, 9/30) 羌押紙荀九羣絲堺育絎篆筝罅磚 ..."
         }
       ]
     }

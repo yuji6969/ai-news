@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-09-30",
-          "title": "Google-parent Alphabet unveils Gemini 4 flagship AI model: Check features, release date, Gemini 3.5 Pro scrapped"
+          "date": "2026-10-01",
+          "title": "The Alphabet Soup of Agentic Standards: A Vocab Playbook for Merchants and PSPs"
         },
         {
-          "date": "2026-09-30",
-          "title": "Google releases Gemini 4 Argon, called its most powerful model yet | TechCrunch"
+          "date": "2026-10-01",
+          "title": "Google grapples with employee skepticism about new Gemini model"
         },
         {
-          "date": "2026-09-30",
-          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity"
+          "date": "2026-10-01",
+          "title": "Alphabet Slips After Gemini 4 Argon Launch as Tech Sector Rises; Microsoft Holds Steady, Amazon Dips"
         }
       ]
     },
@@ -38,16 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-09-30",
-          "title": "Zefr and Reddit Partner to Give Advertisers Deeper Insights and More Precise Suitability Controls"
+          "date": "2026-10-01",
+          "title": "Trump signals thaw in relations with Anthropic CEO Dario Amodei"
         },
         {
-          "date": "2026-09-30",
-          "title": "Is Trump’s Push to Rename AI to ‘Super Intelligence’ Part of Some Bigger Conspiracy?"
+          "date": "2026-10-01",
+          "title": "Cardinal Digital Marketing Debuts AI Growth Operating System for Healthcare Marketers at Scaling Up 2026"
         },
         {
-          "date": "2026-09-30",
-          "title": "How Instagram Direct engineers built AI-native UI architecture with Jetpack Compose and reduced token cost per agent session by 33%"
+          "date": "2026-10-01",
+          "title": "20VC x SaaStr: Anthropic’s S-1 Leaks, Instinct Hits $10 Billion in 33 Days, AMD Buys World Labs, and Meta Poaches MongoDB’s CEO"
         }
       ]
     },
@@ -63,16 +63,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-09-30",
-          "title": "Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU"
+          "date": "2026-10-01",
+          "title": "AWS AI Agent Surfaces Recommendations to Optimize Cloud Computing Environments"
         },
         {
-          "date": "2026-09-30",
-          "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types"
+          "date": "2026-10-01",
+          "title": "Serve live, governed data in AI-built apps with Amazon Quick"
         },
         {
-          "date": "2026-09-30",
-          "title": "Commvault Achieves AWS Data Competency in Relational Databases Category"
+          "date": "2026-10-01",
+          "title": "Synopsys shares jump on robust growth outlook, OpenAI and AWS deals"
         }
       ]
     },
@@ -89,15 +89,15 @@
       "news": [
         {
           "date": "2026-10-01",
-          "title": "TCL NXTPAPER 14 Review"
+          "title": "Apple's smart home camera reportedly won't record video"
         },
         {
-          "date": "2026-09-30",
-          "title": "Jailbreak iOS 27.0.1: Everything You Need To Know"
+          "date": "2026-10-01",
+          "title": "20+ editor-approved travel gifts for 2026"
         },
         {
-          "date": "2026-09-30",
-          "title": "Apple Is Reportedly Ready to Release Its Smarter Home Hub in 2 Weeks"
+          "date": "2026-10-01",
+          "title": "Cinematography of “I Live Here Now” – interview with Aron Meinhardt"
         }
       ]
     },
@@ -113,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
+          "date": "2026-10-02",
+          "title": "Volantis raises $88M Series A to attack the AI memory bottleneck with light"
+        },
+        {
           "date": "2026-10-01",
-          "title": "ASIC shipments top GPUs in 2027 as ABF substrate bottlenecks shift"
+          "title": "Introducing Strands Decider 2B: a small, open source, decision model"
         },
         {
-          "date": "2026-09-30",
-          "title": "Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU"
-        },
-        {
-          "date": "2026-09-30",
-          "title": "Game Engines Explained: How They Work, Why They Cost So Much, and Where They’re Going Next"
+          "date": "2026-10-01",
+          "title": "Volantis raises $88M to develop photonic inference systems"
         }
       ]
     },
@@ -138,16 +138,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-09-30",
-          "title": "Unverified GPT-Synopsys claim puts OpenAI and chip design tools in the spotlight"
+          "date": "2026-10-01",
+          "title": "Nerdio CPTO Scott Manchester on the Legacy VDI Migration Deadlock and Treating AI Agents as Entra Identities"
         },
         {
-          "date": "2026-09-30",
-          "title": "WSJ: OpenAI Abandons Rollout of Its Latest Model Over Safety Concerns"
+          "date": "2026-10-01",
+          "title": "Dario Amodei’s $518 Billion Bet Gives AI’s Infrastructure Leaders the Upper Hand"
         },
         {
-          "date": "2026-09-29",
-          "title": "Figma becomes official launch partner for OpenAI’s new B2B Marketplace"
+          "date": "2026-10-01",
+          "title": "(2026.10.02) (various)"
         }
       ]
     }

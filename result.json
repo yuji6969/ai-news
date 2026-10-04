@@ -1,28 +1,28 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$343.50",
+      "change": "+1.56%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-10-01",
-          "title": "The Alphabet Soup of Agentic Standards: A Vocab Playbook for Merchants and PSPs"
+          "date": "2026-10-02",
+          "title": "アルファベット、遅れを経てジェミニ4アルゴンを発表、価格に賭ける"
         },
         {
-          "date": "2026-10-01",
-          "title": "Google grapples with employee skepticism about new Gemini model"
+          "date": "2026-10-02",
+          "title": "中国のAIでは一部のトピックが立ち入り禁止であることが研究者らによって判明"
         },
         {
-          "date": "2026-10-01",
-          "title": "Alphabet Slips After Gemini 4 Argon Launch as Tech Sector Rises; Microsoft Holds Steady, Amazon Dips"
+          "date": "2026-10-02",
+          "title": "Alphabet の Nvidia に対する脅威はどれほど深刻ですか?"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$728.08",
+      "change": "+0.30%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-10-01",
-          "title": "Trump signals thaw in relations with Anthropic CEO Dario Amodei"
+          "date": "2026-10-03",
+          "title": "AI需要の高まりを受けてデータセンターのプレリースが2倍に"
         },
         {
-          "date": "2026-10-01",
-          "title": "Cardinal Digital Marketing Debuts AI Growth Operating System for Healthcare Marketers at Scaling Up 2026"
+          "date": "2026-10-02",
+          "title": "Anthropic は、世界最大の企業内に Claude を導入するために 10,000 人のエンジニアをトレーニング中"
         },
         {
-          "date": "2026-10-01",
-          "title": "20VC x SaaStr: Anthropic’s S-1 Leaks, Instinct Hits $10 Billion in 33 Days, AMD Buys World Labs, and Meta Poaches MongoDB’s CEO"
+          "date": "2026-10-02",
+          "title": "カナダの AI インフラストラクチャ ブームの費用は誰が払うべきでしょうか?"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$251.52",
+      "change": "+1.33%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-10-01",
-          "title": "AWS AI Agent Surfaces Recommendations to Optimize Cloud Computing Environments"
+          "date": "2026-10-03",
+          "title": "AI需要の高まりを受けてデータセンターのプレリースが2倍に"
         },
         {
-          "date": "2026-10-01",
-          "title": "Serve live, governed data in AI-built apps with Amazon Quick"
+          "date": "2026-10-02",
+          "title": "CVE-2026-104019 - Amazon SageMaker ディストリビューションの Studio Space 起動スクリプトでの OS コマンド インジェクション"
         },
         {
-          "date": "2026-10-01",
-          "title": "Synopsys shares jump on robust growth outlook, OpenAI and AWS deals"
+          "date": "2026-10-02",
+          "title": "AWS、顧客のクラウド環境を監査する AI エージェントを開始"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$333.69",
+      "change": "+1.02%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-10-01",
-          "title": "Apple's smart home camera reportedly won't record video"
+          "date": "2026-10-02",
+          "title": "今すぐ中古のiPhone 17 Proを購入すべき3つの理由"
         },
         {
-          "date": "2026-10-01",
-          "title": "20+ editor-approved travel gifts for 2026"
+          "date": "2026-10-02",
+          "title": "Google Pixel 11 レビュー: 優れたアップグレード…古い Pixel を所有している場合"
         },
         {
-          "date": "2026-10-01",
-          "title": "Cinematography of “I Live Here Now” – interview with Aron Meinhardt"
+          "date": "2026-10-02",
+          "title": "Sonos Beam Ultra レビュー: 本当に欲しいサウンドバー"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$233.95",
+      "change": "+1.34%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
           "date": "2026-10-02",
-          "title": "Volantis raises $88M Series A to attack the AI memory bottleneck with light"
+          "title": "OpenAIのAltman氏、Cerebras社との緊密なパートナーシップを再確認"
         },
         {
-          "date": "2026-10-01",
-          "title": "Introducing Strands Decider 2B: a small, open source, decision model"
+          "date": "2026-10-02",
+          "title": "Nscale、米国でのIPOに先立ち、元メタ幹部のジャスティン・オソフスキーを最高執行責任者（COO）に採用"
         },
         {
-          "date": "2026-10-01",
-          "title": "Volantis raises $88M to develop photonic inference systems"
+          "date": "2026-10-02",
+          "title": "レポート：アマゾン、80億ドル相当のAIチップをオフロードしリースバックへ"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$517.53",
+      "change": "+0.92%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-10-01",
-          "title": "Nerdio CPTO Scott Manchester on the Legacy VDI Migration Deadlock and Treating AI Agents as Entra Identities"
+          "date": "2026-10-02",
+          "title": "PyPI にツールパスが追加されました"
         },
         {
           "date": "2026-10-01",
-          "title": "Dario Amodei’s $518 Billion Bet Gives AI’s Infrastructure Leaders the Upper Hand"
+          "title": "Nerdio CPTO Scott Manchester 氏、レガシー VDI 移行のデッドロックと AI エージェントを Entra ID として扱うについて語る"
         },
         {
           "date": "2026-10-01",
-          "title": "(2026.10.02) (various)"
+          "title": "ダリオ・アモデイ氏の5,180億ドルの賭けでAIインフラストラクチャーリーダーが優位に立つ"
         }
       ]
     }

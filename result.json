@@ -1,28 +1,28 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$346.47",
-      "change": "+0.86%",
+      "price": "$347.68",
+      "change": "+0.35%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-10-04",
-          "title": "Google’s Free AI Video Push Is a Boost for Storage. Have WDC and STX Already Priced It In?"
+          "date": "2026-10-05",
+          "title": "シタデル・セキュリティーズ、経済力の強さが利回りの向上につながると語る"
         },
         {
-          "date": "2026-10-02",
-          "title": "Alphabet Unveils Gemini 4 Argon After Delays, and Bets on Price"
+          "date": "2026-10-05",
+          "title": "MN ETF は投資家に OpenAI と Anthropic へのアクセスを提供することを目指しています"
         },
         {
-          "date": "2026-10-02",
-          "title": "Some topics are off limits in Chinese AI, researchers find"
+          "date": "2026-10-05",
+          "title": "これは 2028 年までにマグニフィセント 7 最大の AI サプライズになる可能性がある"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$741.90",
-      "change": "+1.90%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$nan",
+      "change": "+nan%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
           "date": "2026-10-05",
-          "title": "Ben Horowitz flags an electrician shortage that could slow the AI buildout"
+          "title": "ドルと米国債の利回りが上昇し、原油価格が下落する中、ナスダックは過去最高値を記録"
         },
         {
-          "date": "2026-10-04",
-          "title": "TechCrunch Mobility: Reining in robotaxis | TechCrunch"
+          "date": "2026-10-05",
+          "title": "インドールにおけるデジタル マーケティング サービスのコスト内訳 (2026 年の料金ガイド)"
         },
         {
-          "date": "2026-10-03",
-          "title": "Meta’s AI Data Center tax strategy that saves billions - Report"
+          "date": "2026-10-05",
+          "title": "コーヒーブレイク: エリソン・エンパイア、スカイダンスで決着、大打撃を受け、チーム名を決定"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$251.40",
-      "change": "-0.05%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$256.29",
+      "change": "+1.95%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-10-04",
-          "title": "unrent added to PyPI"
+          "date": "2026-10-06",
+          "title": "「人工的な」最初の反応: ルカ・グァダニーノの痛烈な OpenAI 風刺は「野蛮」かつ「恐ろしい」"
         },
         {
-          "date": "2026-10-04",
-          "title": "Amazon AWS CEO reveals surprising risk to AI stocks and U.S. economy"
+          "date": "2026-10-05",
+          "title": "一度マテリアライズすればどこでもクエリ可能: Amazon Redshift での Iceberg マテリアライズド ビューの導入"
         },
         {
-          "date": "2026-10-04",
-          "title": "What to expect at SailPoint’s Navigate event: Join theCUBE Oct. 6–7"
+          "date": "2026-10-05",
+          "title": "Amazon、Microsoftの元Copilot CTOを雇用"
         }
       ]
     },
@@ -80,20 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$332.89",
-      "change": "-0.24%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$333.63",
+      "change": "+0.22%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-10-04",
-          "title": "8 New Tech Products Worth a Look: AI Headphones, a Camera Phone, and More"
+          "date": "2026-10-05",
+          "title": "Apple、フルディスクアクセス制御を強化する計画"
         },
         {
-          "date": "2026-10-04",
-          "title": "Remove and Disable Apple Macos27 AI Models Tool"
+          "date": "2026-10-05",
+          "title": "このツールは macOS 上の Apple Intelligence ストレージを解放しますが、使用する前によく考えてください"
+        },
+        {
+          "date": "2026-10-05",
+          "title": "Microsoft は Nvidia を協力者として、ローカル AI に賭けています。 "
         }
       ]
     },
@@ -101,8 +105,8 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$238.90",
-      "change": "+2.12%",
+      "price": "$239.24",
+      "change": "+0.14%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-28",
@@ -110,15 +114,15 @@
       "news": [
         {
           "date": "2026-10-05",
-          "title": "fourier-samples added to PyPI"
+          "title": "Microsoft は Nvidia を協力者として、ローカル AI に賭けています。 "
         },
         {
           "date": "2026-10-05",
-          "title": "Greenko founders-backed AM Intelligence orders 20,000 Nvidia GPUs in $4 billion deal"
+          "title": "GPU 共有がグリーン コンテキストでどのように動作するかを制御する"
         },
         {
           "date": "2026-10-05",
-          "title": "TITAN Xp Finally Runs on Windows XP Thanks to a Modded NVIDIA Driver"
+          "title": "Apple M5 Ultra Mac Studio レビュー: 結局のところ、Mac Pro は死んでいない"
         }
       ]
     },
@@ -126,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$525.18",
-      "change": "+1.48%",
+      "price": "$529.30",
+      "change": "+0.78%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-10-04",
-          "title": "(ITmedia, 10/5) ヨ⑥パ綵演eb咲泣、礇絖ΕⅣ祚絖 ..."
+          "date": "2026-10-05",
+          "title": "サティア ナデラはクラウドで Microsoft を再発明しました - 彼の AI 戦略により、2027 年までに Microsoft は Apple よりも価値のあるものになるでしょうか"
         },
         {
-          "date": "2026-10-04",
-          "title": "(2026.10.05) (various)"
+          "date": "2026-10-05",
+          "title": "(SHIFT ASIA / archive.org) 2023綛0秕祟 ..."
         },
         {
-          "date": "2026-10-04",
-          "title": "Britain's reliance on US cloud giants sparks concern among politicians"
+          "date": "2026-10-05",
+          "title": "AI ネイティブ通信会社の 1 週間 (2026 年 9 月 26 日～10 月 2 日)"
         }
       ]
     }

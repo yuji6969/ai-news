@@ -1,28 +1,28 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$348.29",
+      "change": "-0.63%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-10-06",
-          "title": "Constellation Energy、Google との契約で原子炉改修に 43 億ドル以上を約束"
+          "date": "2026-10-07",
+          "title": "米国政府、ハイテク大手、バイオハブがAI生物学イニシアチブに18億ドルを投入"
         },
         {
-          "date": "2026-10-06",
-          "title": "Google、AI構築を推進するためにConstellation Energyと20年間の原子力協定に署名"
+          "date": "2026-10-07",
+          "title": "トランプ氏、科学サミットでマスク氏、デル氏、ナデラ氏、その他技術幹部らにメダル授与"
         },
         {
-          "date": "2026-10-06",
-          "title": "Anthropic CEO、ダリオ・アモデイは昨年1,800万ドルを稼いだ：IPO申請"
+          "date": "2026-10-07",
+          "title": "Google が AI を宇宙に送った – これが投資家にとって何を意味するか"
         }
       ]
     },
@@ -30,8 +30,8 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$720.89",
+      "change": "-0.06%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
@@ -39,15 +39,15 @@
       "news": [
         {
           "date": "2026-10-07",
-          "title": "テキサス州西部に150万平方フィートの大規模なデータセンターキャンパスを計画 - 州の地域AI投資総額は120億ドルに達する"
+          "title": "米国政府、ハイテク大手、バイオハブがAI生物学イニシアチブに18億ドルを投入"
         },
         {
-          "date": "2026-10-06",
-          "title": "Genesys、パーソナル AI エージェントのオープン スタンダードで Sierra、Meta に参加"
+          "date": "2026-10-07",
+          "title": "AI時代の計測"
         },
         {
-          "date": "2026-10-06",
-          "title": "パラマウント・スカイダンスの合併：デイビッド・エリソンの1100億ドルのハリウッドギャンブルは今やテクノロジーに関するものだろうか？"
+          "date": "2026-10-07",
+          "title": "スリラム・クリシュナン氏、国家安全保障AI基金に5億ドルを求める"
         }
       ]
     },
@@ -55,8 +55,8 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$254.06",
+      "change": "-2.25%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
@@ -64,15 +64,15 @@
       "news": [
         {
           "date": "2026-10-07",
-          "title": "「米国は独自に負け札を書いている可能性がある」：アマゾン、AIの反発を鎮めるために10億ドルを約束し、100以上のAIデータセンターの禁止に警告"
+          "title": "レゾウロ、ダニエル・クールを独立取締役に任命"
         },
         {
           "date": "2026-10-07",
-          "title": "AWS、100のデータセンター禁止案は何世代にもわたってアメリカに悪影響を与える可能性があると警告"
+          "title": "AI 脆弱性ハーネスの構成、パート 2: ステアリング ファイル"
         },
         {
-          "date": "2026-10-06",
-          "title": "より良いクラウド投資: Amazon か Nebius Group?"
+          "date": "2026-10-07",
+          "title": "AWS がロボットと自律マシン用の物理 AI ツールチェーンを展開"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$340.42",
+      "change": "+1.11%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
+          "date": "2026-10-08",
+          "title": "eufy の S4 ビデオ ドアベルを使用すると、携帯電話を動かすことでポーチを見渡すことができます"
+        },
+        {
+          "date": "2026-10-08",
+          "title": "RTX Spark と「ビルダー PC」により、Microsoft と Nvidia がパーソナル コンピューティングをエージェント時代に導きます"
+        },
+        {
           "date": "2026-10-07",
-          "title": "vivo X500 シリーズが高度な ZEISS 望遠レンズ システムと映画のようなビデオ機能を搭載してデビュー"
-        },
-        {
-          "date": "2026-10-06",
-          "title": "Apple iPhone 18 Pro Max vs. Samsung Galaxy S26 Ultra"
-        },
-        {
-          "date": "2026-10-06",
-          "title": "LG - ワイヤレスサブウーファー、ドルビーアトモス、WOW オーケストラ付き 5.1.3 チャンネル S90TY サウンドバー - 356 ドルから"
+          "title": "節約する最後のチャンス: 専門家が精査した 155 件のプライムデー テック セールがまだセール中"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$230.48",
+      "change": "-2.94%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-10-07",
-          "title": "エヌビディアではありません。"
+          "date": "2026-10-08",
+          "title": "rastermoves が PyPI に追加されました"
         },
         {
-          "date": "2026-10-06",
-          "title": "dirag が PyPI に追加されました"
+          "date": "2026-10-08",
+          "title": "正直に言うと、Microsoft Surface Laptop Ultra のような PC がずっと欲しかったんです"
         },
         {
-          "date": "2026-10-06",
-          "title": "ラムダ、プレIPO最終ラウンドで評価額145億ドルを目指す"
+          "date": "2026-10-08",
+          "title": "NVIDIA RTX Spark の予約注文が開始: MXC の GA 化に伴い、N1X はラップトップで 45 ～ 80 W、デスクトップで 140 W を実行"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$522.61",
+      "change": "-1.35%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-10-06",
-          "title": "(2026.10.07) (いろいろ)"
+          "date": "2026-10-07",
+          "title": "Anthropic が Claude Haiku 5.5 小型モデルをリリースし、Sonnet 5.5 キャッシュ読み取り価格を半額に"
         },
         {
-          "date": "2026-10-06",
-          "title": "菴処"
+          "date": "2026-10-07",
+          "title": "Anthropic が Haiku 5.5 を発表: これまでで最も安価で最速のクロード モデル"
         },
         {
-          "date": "2026-10-06",
-          "title": "終篋阪羝≧膣膩⒢パ初ォ守ｃ筝㊤＜с激「順㍾綵荳ゃ梧昆検 ..."
+          "date": "2026-10-07",
+          "title": "Microsoft が PC にさらに AI を導入"
         }
       ]
     }

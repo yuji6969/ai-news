@@ -1,28 +1,28 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$351.66",
+      "change": "+0.97%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-10-08",
-          "title": "AlphabetのスピンオフIsomorphic Labsが最大500億ドルの評価額で資金を調達すると報じられている"
+          "date": "2026-10-10",
+          "title": "上院民主党、データセンター減税には数十億ドルの費用がかかると発言"
         },
         {
-          "date": "2026-10-08",
-          "title": "トランプ大統領、イーロン・マスクらテクノロジー企業幹部に米国最高の科学賞を授与"
+          "date": "2026-10-09",
+          "title": "Google は新しい AI モデルを展開しようとしています。"
         },
         {
-          "date": "2026-10-08",
-          "title": "考えられるのは 1 つだけです。Google Cloud が Gemini を企業の AI ヒーローとしてキャストします"
+          "date": "2026-10-09",
+          "title": "Google は新しい AI モデルを展開しようとしています。"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$718.67",
+      "change": "-0.31%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-10-08",
-          "title": "マーク・ザッカーバーグはイメージに問題を抱えている - ではなぜメタ社のビジネスは急成長しているのだろうか？"
+          "date": "2026-10-09",
+          "title": "カナダ人はデータセンターブームに乗り気ではない"
         },
         {
-          "date": "2026-10-08",
-          "title": "中国ニクス・メタの20億ドル買収を受け、AIスタートアップのマナスが5億ドルを調達"
+          "date": "2026-10-09",
+          "title": "ゴールドマン・サックスのデータによると、AI モデルのコストは 15 年の PC 価格と同じくらいの速さで 3 年間で下落した"
         },
         {
-          "date": "2026-10-08",
-          "title": "株価、収益、キャッシュフロー: AI の効果が発揮される!"
+          "date": "2026-10-09",
+          "title": "過去30年で最大のIPOであるファーマスはいかにして転落したか"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$262.43",
+      "change": "+3.29%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-10-08",
-          "title": "ホワイトハウス、ジェネシス・ミッションへの数十億ドルの投資を発表"
+          "date": "2026-10-09",
+          "title": "ACFM 長官エレン YD キム氏が AI 開発について語る。"
         },
         {
-          "date": "2026-10-08",
-          "title": "configwarden が PyPI に追加されました"
+          "date": "2026-10-09",
+          "title": "認証情報を要求するプロンプトによって AWS AgentCore セキュリティが解除される"
         },
         {
-          "date": "2026-10-08",
-          "title": "アマゾン ウェブ サービス、AI エージェント向けのクラウド配管を再構築"
+          "date": "2026-10-09",
+          "title": "AWSが連邦AIに5,000万ドルをシードし、アマゾン株が上昇"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$336.64",
+      "change": "-1.11%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-10-09",
-          "title": "来週のAppleのサプライズスマートホームイベントに期待することすべて"
+          "date": "2026-10-10",
+          "title": "サプライヤーが出荷を停止したと伝えられているため、AIの価格つり上げがHPのノートPCの生産に間接的に影響を及ぼした可能性がある"
         },
         {
           "date": "2026-10-09",
-          "title": "問題 771"
+          "title": "Apple、初代 Apple TV 4K を「ヴィンテージ」とマーク、後継者予想の数日前に"
         },
         {
-          "date": "2026-10-08",
-          "title": "コストコ会員感謝デー: 最大 1,500 ドル割引 + 送料は異なります"
+          "date": "2026-10-09",
+          "title": "open-slopware – LLM/AI の使用を選択する FOSS プロジェクトの代替案"
         }
       ]
     },
@@ -105,8 +105,8 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$229.28",
+      "change": "-0.52%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
@@ -114,15 +114,15 @@
       "news": [
         {
           "date": "2026-10-09",
-          "title": "Nvidiaが支援するオーストラリアのAI企業Firmus、市場のボラティリティを理由に歴史的なIPOを撤退"
+          "title": "ToBAC"
         },
         {
           "date": "2026-10-09",
-          "title": "投資家の需要が不足しているため、ファーマスは数十億ドル規模のオーストラリアIPOを中止する"
+          "title": "NVIDIA アプリ究極ガイド — 最新ゲームと古いゲーム、G-SYNC、DLSS、ShadowPlay などに最適な設定"
         },
         {
-          "date": "2026-10-08",
-          "title": "Asus ProArt P16 および P14 デビュー: ローカル AI エージェント向けに構築された世界初のクリエイター ラップトップ"
+          "date": "2026-10-09",
+          "title": "pyceles が PyPI に追加されました"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$535.07",
+      "change": "+2.38%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-10-08",
-          "title": "(激 10/8) 羣ケ繙＜茵コ324159 325荅画冴∫# ..."
+          "date": "2026-10-09",
+          "title": "OpenAIとAnthropicは収益のカウント方法が異なり、投資家は混乱している"
         },
         {
-          "date": "2026-10-08",
-          "title": "純潟≪潟 https://t.co/a7Ms7dN3o3&mdash ..."
+          "date": "2026-10-09",
+          "title": "OpenAIは年末までに700億ドルの収益を見込んでいるとブルームバーグが報じた"
         },
         {
-          "date": "2026-10-08",
-          "title": "(2026.10.09) (いろいろ)"
+          "date": "2026-10-09",
+          "title": "OpenAIの収益は報告されているよりも200億ドル少ないようです - そしてそのギャップは需要ではなく会計上のものです"
         }
       ]
     }

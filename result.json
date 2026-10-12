@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -14,15 +14,15 @@
       "news": [
         {
           "date": "2026-10-10",
-          "title": "上院民主党、データセンター減税には数十億ドルの費用がかかると発言"
+          "title": "Nvidia built a $5 trillion company while making employees pay for their own lunch—but they get far more lucrative perks like stock discounts"
         },
         {
-          "date": "2026-10-09",
-          "title": "Google は新しい AI モデルを展開しようとしています。"
+          "date": "2026-10-10",
+          "title": "Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off"
         },
         {
-          "date": "2026-10-09",
-          "title": "Google は新しい AI モデルを展開しようとしています。"
+          "date": "2026-10-10",
+          "title": "OpenAI vs Anthropic vs Gemini vs Grok: Who Will Win the AI Race in 2027?"
         }
       ]
     },
@@ -38,16 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-10-09",
-          "title": "カナダ人はデータセンターブームに乗り気ではない"
+          "date": "2026-10-10",
+          "title": "The AI control gap: Who gets to say ‘It’s safe’?"
         },
         {
-          "date": "2026-10-09",
-          "title": "ゴールドマン・サックスのデータによると、AI モデルのコストは 15 年の PC 価格と同じくらいの速さで 3 年間で下落した"
+          "date": "2026-10-10",
+          "title": "AI Revenue Questions Pull Semiconductor Stocks Off October Highs"
         },
         {
-          "date": "2026-10-09",
-          "title": "過去30年で最大のIPOであるファーマスはいかにして転落したか"
+          "date": "2026-10-10",
+          "title": "The balance sheets that can throw AI ‘off’ balance"
         }
       ]
     },
@@ -63,16 +63,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-10-09",
-          "title": "ACFM 長官エレン YD キム氏が AI 開発について語る。"
+          "date": "2026-10-11",
+          "title": "Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?"
         },
         {
-          "date": "2026-10-09",
-          "title": "認証情報を要求するプロンプトによって AWS AgentCore セキュリティが解除される"
+          "date": "2026-10-10",
+          "title": "liteasr added to PyPI"
         },
         {
-          "date": "2026-10-09",
-          "title": "AWSが連邦AIに5,000万ドルをシードし、アマゾン株が上昇"
+          "date": "2026-10-10",
+          "title": "AWS head says Amazon needs to be more vocal about data center services: 'Do you not want to use Netflix?'"
         }
       ]
     },
@@ -88,16 +88,12 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
+          "date": "2026-10-11",
+          "title": "Buying A HomePod? Here Are 5 Smart Speakers To Try Instead"
+        },
+        {
           "date": "2026-10-10",
-          "title": "サプライヤーが出荷を停止したと伝えられているため、AIの価格つり上げがHPのノートPCの生産に間接的に影響を及ぼした可能性がある"
-        },
-        {
-          "date": "2026-10-09",
-          "title": "Apple、初代 Apple TV 4K を「ヴィンテージ」とマーク、後継者予想の数日前に"
-        },
-        {
-          "date": "2026-10-09",
-          "title": "open-slopware – LLM/AI の使用を選択する FOSS プロジェクトの代替案"
+          "title": "What to expect from Apple’s ‘Welcome Home’ event"
         }
       ]
     },
@@ -113,16 +109,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-10-09",
-          "title": "ToBAC"
+          "date": "2026-10-10",
+          "title": "liteasr added to PyPI"
         },
         {
-          "date": "2026-10-09",
-          "title": "NVIDIA アプリ究極ガイド — 最新ゲームと古いゲーム、G-SYNC、DLSS、ShadowPlay などに最適な設定"
+          "date": "2026-10-10",
+          "title": "wwxd added to PyPI"
         },
         {
-          "date": "2026-10-09",
-          "title": "pyceles が PyPI に追加されました"
+          "date": "2026-10-10",
+          "title": "Nvidia reportedly in talks to acquire Reflection AI, its open-model bet"
         }
       ]
     },
@@ -138,16 +134,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-10-09",
-          "title": "OpenAIとAnthropicは収益のカウント方法が異なり、投資家は混乱している"
+          "date": "2026-10-10",
+          "title": "Microsoft’s AI economics shift as Azure grows 43% in fiscal Q4 2026"
+        },
+        {
+          "date": "2026-10-10",
+          "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them"
         },
         {
           "date": "2026-10-09",
-          "title": "OpenAIは年末までに700億ドルの収益を見込んでいるとブルームバーグが報じた"
-        },
-        {
-          "date": "2026-10-09",
-          "title": "OpenAIの収益は報告されているよりも200億ドル少ないようです - そしてそのギャップは需要ではなく会計上のものです"
+          "title": "OpenAI and Anthropic count revenue differently, and investors are confused"
         }
       ]
     }

@@ -1,28 +1,28 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$351.66",
-      "change": "+0.97%",
+      "price": "$352.72",
+      "change": "+0.30%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-10-10",
-          "title": "Nvidia built a $5 trillion company while making employees pay for their own lunch—but they get far more lucrative perks like stock discounts"
+          "date": "2026-10-11",
+          "title": "Google's AMIE Chatbot Interviewed 98 Boston Primary Care Patients Under Doctor Supervision Without a Single Safety Stop"
         },
         {
-          "date": "2026-10-10",
-          "title": "Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off"
+          "date": "2026-10-11",
+          "title": "Alphabet's Google Cloud Is Surging at 82%, and the Heavy Spending Is Starting to Make Sense"
         },
         {
-          "date": "2026-10-10",
-          "title": "OpenAI vs Anthropic vs Gemini vs Grok: Who Will Win the AI Race in 2027?"
+          "date": "2026-10-11",
+          "title": "Tech Workers Have Long Resisted Unions. Will AI and Politics Change the Equation?"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$718.67",
-      "change": "-0.31%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$742.96",
+      "change": "+3.38%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-10-10",
-          "title": "The AI control gap: Who gets to say ‘It’s safe’?"
+          "date": "2026-10-11",
+          "title": "AI Companies Expected to Drive 31% Uptick in Q3 Earnings"
         },
         {
-          "date": "2026-10-10",
-          "title": "AI Revenue Questions Pull Semiconductor Stocks Off October Highs"
+          "date": "2026-10-11",
+          "title": "Amazon’s Bargains Include Its Stock"
         },
         {
-          "date": "2026-10-10",
-          "title": "The balance sheets that can throw AI ‘off’ balance"
+          "date": "2026-10-11",
+          "title": "AI Founders Cheer Trump’s Calls for the Industry to Police Itself on Safety"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$262.43",
-      "change": "+3.29%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$259.53",
+      "change": "-1.11%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
+          "date": "2026-10-12",
+          "title": "Funny money is coming for data centres. It should be setting off GFC-style alarm bells"
+        },
+        {
+          "date": "2026-10-12",
+          "title": "Report: Amazon in talks with AI startup Decart over possible $7B acquisition"
+        },
+        {
           "date": "2026-10-11",
-          "title": "Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?"
-        },
-        {
-          "date": "2026-10-10",
-          "title": "liteasr added to PyPI"
-        },
-        {
-          "date": "2026-10-10",
-          "title": "AWS head says Amazon needs to be more vocal about data center services: 'Do you not want to use Netflix?'"
+          "title": "Amazon ends NDAs in data center negotiations, following Microsoft"
         }
       ]
     },
@@ -80,20 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$336.64",
-      "change": "-1.11%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$340.97",
+      "change": "+1.29%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-10-11",
-          "title": "Buying A HomePod? Here Are 5 Smart Speakers To Try Instead"
+          "date": "2026-10-12",
+          "title": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
         },
         {
-          "date": "2026-10-10",
-          "title": "What to expect from Apple’s ‘Welcome Home’ event"
+          "date": "2026-10-11",
+          "title": "5 Siri Features That Work Better On An iPhone 18"
+        },
+        {
+          "date": "2026-10-11",
+          "title": "Passkeys are a trap. Do not use them"
         }
       ]
     },
@@ -101,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$229.28",
-      "change": "-0.52%",
+      "price": "$226.32",
+      "change": "-1.29%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-10-10",
-          "title": "liteasr added to PyPI"
+          "date": "2026-10-12",
+          "title": "Which Nvidia GPU Is Equivalent To The ROG Xbox Ally X?"
         },
         {
-          "date": "2026-10-10",
-          "title": "wwxd added to PyPI"
+          "date": "2026-10-11",
+          "title": "【NVIDIA Jetson Thor】【フィジカルAI】ロボットの「頭脳」を現場へ、NVIDIA Jetson Thor搭載のファンレスAIコンピュータ『EAC-7000』"
         },
         {
-          "date": "2026-10-10",
-          "title": "Nvidia reportedly in talks to acquire Reflection AI, its open-model bet"
+          "date": "2026-10-11",
+          "title": "Coinbase fine-tunes Qwen3.5-9B model for fraud prevention, beating frontier models"
         }
       ]
     },
@@ -126,13 +130,17 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$535.07",
-      "change": "+2.38%",
+      "price": "$541.15",
+      "change": "+1.14%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
+        {
+          "date": "2026-10-11",
+          "title": "Week in review: FortiBleed is still active, Patch Tuesday forecast"
+        },
         {
           "date": "2026-10-10",
           "title": "Microsoft’s AI economics shift as Azure grows 43% in fiscal Q4 2026"
@@ -140,10 +148,6 @@
         {
           "date": "2026-10-10",
           "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them"
-        },
-        {
-          "date": "2026-10-09",
-          "title": "OpenAI and Anthropic count revenue differently, and investors are confused"
         }
       ]
     }

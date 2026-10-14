@@ -1,28 +1,28 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$352.72",
-      "change": "+0.30%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$nan",
+      "change": "+nan%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-10-11",
-          "title": "Google's AMIE Chatbot Interviewed 98 Boston Primary Care Patients Under Doctor Supervision Without a Single Safety Stop"
+          "date": "2026-10-12",
+          "title": "AIブームを牽引する膨れ上がる負債の消化に苦戦する銀行"
         },
         {
-          "date": "2026-10-11",
-          "title": "Alphabet's Google Cloud Is Surging at 82%, and the Heavy Spending Is Starting to Make Sense"
+          "date": "2026-10-12",
+          "title": "ジェミニ・エージェントがエンタープライズ業務をターゲットにするとアルファベット株が1.2％上昇"
         },
         {
-          "date": "2026-10-11",
-          "title": "Tech Workers Have Long Resisted Unions. Will AI and Politics Change the Equation?"
+          "date": "2026-10-12",
+          "title": "GOOG/GOOGL 株主通知: 株主権利法律事務所 Robbins LLP が、Alphabet Inc. に対して起こされた証券集団訴訟について投資家に注意喚起します。"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$742.96",
-      "change": "+3.38%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$nan",
+      "change": "+nan%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-10-11",
-          "title": "AI Companies Expected to Drive 31% Uptick in Q3 Earnings"
+          "date": "2026-10-13",
+          "title": "今日の世界市場：チップ株の下落を受けてアジア株も下落。"
         },
         {
-          "date": "2026-10-11",
-          "title": "Amazon’s Bargains Include Its Stock"
+          "date": "2026-10-13",
+          "title": "マーク・ザッカーバーグ：メタは今フロンティアにいる"
         },
         {
-          "date": "2026-10-11",
-          "title": "AI Founders Cheer Trump’s Calls for the Industry to Police Itself on Safety"
+          "date": "2026-10-12",
+          "title": "メタはAIの「フロンティア」に到達したとザッカーバーグ氏は語る"
         }
       ]
     },
@@ -55,8 +55,8 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$259.53",
-      "change": "-1.11%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
@@ -64,15 +64,15 @@
       "news": [
         {
           "date": "2026-10-12",
-          "title": "Funny money is coming for data centres. It should be setting off GFC-style alarm bells"
+          "title": "AWS Glue Data Quality 上に構築された Amazon EMR Data Quality を使用して、Amazon EMR ワークロードにデータ品質をもたらします"
         },
         {
           "date": "2026-10-12",
-          "title": "Report: Amazon in talks with AI startup Decart over possible $7B acquisition"
+          "title": "AWS Lambda Web 関数の発表"
         },
         {
-          "date": "2026-10-11",
-          "title": "Amazon ends NDAs in data center negotiations, following Microsoft"
+          "date": "2026-10-12",
+          "title": "Amazon EC2 G7 インスタンスがヨーロッパ (フランクフルト) およびヨーロッパ (ストックホルム) リージョンで利用可能になりました"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$340.97",
-      "change": "+1.29%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$nan",
+      "change": "+nan%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
           "date": "2026-10-12",
-          "title": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
+          "title": "M5 Pro チップと 2TB ストレージを搭載した驚異の 14 インチ MacBook Pro が 600 ドルの大幅値下げ"
         },
         {
-          "date": "2026-10-11",
-          "title": "5 Siri Features That Work Better On An iPhone 18"
+          "date": "2026-10-12",
+          "title": "Apple「おかえり」イベント：明日は3つの新製品が登場"
         },
         {
-          "date": "2026-10-11",
-          "title": "Passkeys are a trap. Do not use them"
+          "date": "2026-10-12",
+          "title": "Microsoft CEO Satya Nadella は、アプリ ストアの概念に最後の一撃を加えるために、あなたの PC が「無限のソフトウェア工場」になることを望んでいます。しかし、企業が AI アップルに噛み付くことはないと思います"
         }
       ]
     },
@@ -105,8 +105,8 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$226.32",
-      "change": "-1.29%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
@@ -114,15 +114,11 @@
       "news": [
         {
           "date": "2026-10-12",
-          "title": "Which Nvidia GPU Is Equivalent To The ROG Xbox Ally X?"
+          "title": "Intel Crescent Island は、D270 が最大 480 GB の価値重視の LPDDR5X で競合をターゲットにしているため、FP8 の 1.3 PFLOP をわずか 350 W に絞り込む"
         },
         {
-          "date": "2026-10-11",
-          "title": "【NVIDIA Jetson Thor】【フィジカルAI】ロボットの「頭脳」を現場へ、NVIDIA Jetson Thor搭載のファンレスAIコンピュータ『EAC-7000』"
-        },
-        {
-          "date": "2026-10-11",
-          "title": "Coinbase fine-tunes Qwen3.5-9B model for fraud prevention, beating frontier models"
+          "date": "2026-10-12",
+          "title": "Amazon EC2 G7 インスタンスがヨーロッパ (フランクフルト) およびヨーロッパ (ストックホルム) リージョンで利用可能になりました"
         }
       ]
     },
@@ -130,24 +126,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$541.15",
-      "change": "+1.14%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$nan",
+      "change": "+nan%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-10-11",
-          "title": "Week in review: FortiBleed is still active, Patch Tuesday forecast"
+          "date": "2026-10-12",
+          "title": "Anthropic は、Claude が Copilot に移り、Azure コンピューティングに 300 億ドルを約束"
         },
         {
-          "date": "2026-10-10",
-          "title": "Microsoft’s AI economics shift as Azure grows 43% in fiscal Q4 2026"
+          "date": "2026-10-12",
+          "title": "Maia 300: Microsoft が財務に貢献したコンピューティング家主モデルからの脱却を構築"
         },
         {
-          "date": "2026-10-10",
-          "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them"
+          "date": "2026-10-12",
+          "title": "MicrosoftのMaia 300 AIチップはAIをより安く、より速くすることを目指す"
         }
       ]
     }

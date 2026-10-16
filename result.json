@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-10-13",
-          "title": "こんにちは、私はあなたの新しい報道官です。言葉を声に出して読むのは初めてです"
+          "date": "2026-10-14",
+          "title": "US stocks: AI shares tumble, erasing $80 billion as hot US inflation fuels rate fears"
         },
         {
-          "date": "2026-10-13",
-          "title": "アプライド マテリアルズの 50 億ドル規模の AI ラボは、チップ開発時間を半分に削減し、シリコンバレーの優位性を回復することを目指しています"
+          "date": "2026-10-14",
+          "title": "Red hot CPI report fuels AI rout"
         },
         {
-          "date": "2026-10-13",
-          "title": "Google、ニューフロンティアモデルはドメインをまたがる深い作業に優れていると発表"
+          "date": "2026-10-14",
+          "title": "Banks are now trying to offload the AI data center debt they just underwrote"
         }
       ]
     },
@@ -38,16 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-10-13",
-          "title": "アプライド マテリアルズ、AI 時代のチップ開発を加速するために 50 億ドルをかけて EPIC センターを開設"
+          "date": "2026-10-14",
+          "title": "Shares of Oracle, neoclouds drop on CoreWeave debt concerns"
         },
         {
-          "date": "2026-10-13",
-          "title": "アプライド マテリアルズの 50 億ドル規模の AI ラボは、チップ開発時間を半分に削減し、シリコンバレーの優位性を回復することを目指しています"
+          "date": "2026-10-14",
+          "title": "CoreWeave faces scrutiny as AI funding relies on high-yield debt"
         },
         {
-          "date": "2026-10-13",
-          "title": "銀行幹部は、人工知能が金融システムを崩壊させた場合に備えて現金を隠していると語った：アレックス・ブルマー"
+          "date": "2026-10-14",
+          "title": "OpenAI engineer charged in bugging case is partner at Saudi VC firm with royal family member"
         }
       ]
     },
@@ -63,16 +63,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-10-13",
-          "title": "AWS Lambda の耐久性のある関数により、耐久性のある操作とチェックポイントのペイロード制限が増加します"
+          "date": "2026-10-14",
+          "title": "US Tech Giants Warn Europe That Data Sovereignty Requirements Could Cost $128 Billion"
         },
         {
-          "date": "2026-10-13",
-          "title": "パート 2 – サイバーセキュリティの旅: この仕事とは一体何ですか?"
+          "date": "2026-10-14",
+          "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel"
         },
         {
-          "date": "2026-10-13",
-          "title": "アンカーブラウザとAgentCore支払いで取引するエージェントを構築する"
+          "date": "2026-10-14",
+          "title": "Canada could save millions by developing its own operating system instead of relying on Microsoft Windows"
         }
       ]
     },
@@ -88,12 +88,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-10-13",
-          "title": "HomePod mini 2 (2026) と 2020 の比較: カナダでアップグレードする価値はありますか?"
+          "date": "2026-10-14",
+          "title": "Is that singer even real? Music streaming services are starting to tell you."
         },
         {
-          "date": "2026-10-13",
-          "title": "Apple HomeView は LG および Schneider とのコラボレーションを通じてあなたの家をコントロールします"
+          "date": "2026-10-14",
+          "title": "10 HomeView Features You Might Have Missed"
+        },
+        {
+          "date": "2026-10-14",
+          "title": "Apple gears up for AI product push in China"
         }
       ]
     },
@@ -110,15 +114,15 @@
       "news": [
         {
           "date": "2026-10-14",
-          "title": "AI トークノミクス: オープンウェイト モデルとフロンティア モデルのバランスをとって最適な ROI を実現"
+          "title": "LFM2.5-24B-A2B: Built for Fast On-Device Agents"
         },
         {
-          "date": "2026-10-13",
-          "title": "インテルは、AI の次の段階は最大規模のシステムではなく、適切な規模のシステムに属すると確信しています"
+          "date": "2026-10-14",
+          "title": "Best Enterprise GPUs 2026: PCIe AI Accelerators, Lab-Tested and Ranked"
         },
         {
-          "date": "2026-10-13",
-          "title": "mem-os-python が PyPI に追加されました"
+          "date": "2026-10-14",
+          "title": "NVIDIA RTX PRO 4500 Blackwell Server Edition Review: L40S Throughput at 165W in a Single Slot"
         }
       ]
     },
@@ -134,16 +138,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-10-13",
-          "title": "Microsoft、Maia 300 AI チップが Nvidia への依存を減らす効果があることを明らかに"
+          "date": "2026-10-14",
+          "title": "Show HN: Eevo – Consequential Decision Model"
         },
         {
-          "date": "2026-10-13",
-          "title": "Microsoft、Nvidia への依存を減らすために機能する Maia 300 AI チップを発表"
+          "date": "2026-10-14",
+          "title": "Saudi national charged with planting a listening device at OpenAI offices"
         },
         {
-          "date": "2026-10-12",
-          "title": "Anthropic は、Claude が Copilot に移り、Azure コンピューティングに 300 億ドルを約束"
+          "date": "2026-10-14",
+          "title": "Microsoft Azure executive asked teams to find 20% cost cuts, report says"
         }
       ]
     }

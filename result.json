@@ -5,24 +5,20 @@
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$340.59",
+      "change": "-2.47%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-10-15",
-          "title": "Apple, Nvidia each gave $25M to White House ballroom project, among top donors: report"
+          "date": "2026-10-16",
+          "title": "株価終値は6月以来最悪の週"
         },
         {
-          "date": "2026-10-15",
-          "title": "Breaking with Trump, Jensen Huang makes the case for immigration: 'We want all the world's great minds to come here'"
-        },
-        {
-          "date": "2026-10-15",
-          "title": "ASML struggling to keep up with demand for chipmaking equipment as AI spending continues to boom"
+          "date": "2026-10-16",
+          "title": "ハーバード大学のSpaceXへの賭けにより、ハーバード大学の基金はS&P 500よりも早く成長した"
         }
       ]
     },
@@ -30,8 +26,8 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$709.33",
+      "change": "-3.72%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
@@ -39,15 +35,11 @@
       "news": [
         {
           "date": "2026-10-16",
-          "title": "Senior Data Scientist, Growth"
+          "title": "株価終値は6月以来最悪の週"
         },
         {
-          "date": "2026-10-15",
-          "title": "Private credit for AI a bubble? Chamath Palihapitiya warns of risks"
-        },
-        {
-          "date": "2026-10-15",
-          "title": "AI stock selloff eases as investors buy on dips amid falling bond yields"
+          "date": "2026-10-16",
+          "title": "米国株：米国市場は大幅下落で終了。 "
         }
       ]
     },
@@ -55,24 +47,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$250.00",
+      "change": "-1.87%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-10-15",
-          "title": "prowler v5.45.0"
+          "date": "2026-10-16",
+          "title": "AI エージェントの信頼の構築: Amazon Bedrock AgentCore を使用した本番環境に対応した評価フレームワーク"
         },
         {
-          "date": "2026-10-15",
-          "title": "Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions"
+          "date": "2026-10-16",
+          "title": "HN を表示: Pogi – マシン上の AWS、Google Cloud、Azure を 1 つのバイナリで表示"
         },
         {
-          "date": "2026-10-15",
-          "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with new sign-in options"
+          "date": "2026-10-16",
+          "title": "Sparkforge-aws が PyPI に追加されました"
         }
       ]
     },
@@ -80,24 +72,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$343.46",
+      "change": "+0.43%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-10-15",
-          "title": "Fourth-Gen Apple TV 4K Brings Hands-Free Siri AI at a Whopping $299"
+          "date": "2026-10-16",
+          "title": "iPhone Duo に関するすべてのニュース"
         },
         {
-          "date": "2026-10-15",
-          "title": "Meta releases 816B-parameter Muse Spark Open for coding and agent work"
+          "date": "2026-10-16",
+          "title": "Apple の最新の App Store ルールは AI アプリの「無効化」を追及"
         },
         {
-          "date": "2026-10-15",
-          "title": "White House Ballroom secret donor list: Check who are in the list and who can be donors?"
+          "date": "2026-10-16",
+          "title": "新しいApp StoreルールはAIディープフェイクとNudifyアプリをターゲットに"
         }
       ]
     },
@@ -105,24 +97,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$214.13",
+      "change": "-1.43%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-10-15",
-          "title": "AI age: Africa must build and earn its place"
+          "date": "2026-10-16",
+          "title": "AMD GPU の名前と番号は実際には何を意味しますか?"
         },
         {
-          "date": "2026-10-15",
-          "title": "chvideo added to PyPI"
+          "date": "2026-10-16",
+          "title": "サンフランシスコでの Nvidia の RTX Spark イベントには長蛇の列が集まるが、購入者はほとんどいない"
         },
         {
-          "date": "2026-10-15",
-          "title": "How our AI Research team uses AI Runtime"
+          "date": "2026-10-16",
+          "title": "HP OmniBook Ultra 16 レビュー: 128GB の RTX Spark がローカル コーディング エージェント テストでトップ"
         }
       ]
     },
@@ -130,24 +122,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$529.05",
+      "change": "-1.93%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-10-15",
-          "title": "Microsoft AI chief says the company beat OpenAI at its own game, using a quarter of the computing power"
+          "date": "2026-10-16",
+          "title": "GenAI を活用してゼロトラストを簡素化し、VMware vDefend での脅威防御を加速する"
+        },
+        {
+          "date": "2026-10-16",
+          "title": "North.cloud は企業がクラウドコストの暴走を抑えるために 6,000 万ドルの資金を調達"
         },
         {
           "date": "2026-10-15",
-          "title": "Show HN: A curated directory of AI Tools"
-        },
-        {
-          "date": "2026-10-15",
-          "title": "Adobe026綛0禹礇絅磧鐔1茖遵75篁吟識с篆③05ヨ申荐 (腦 2026.10.14)"
+          "title": "Microsoft AI責任者は、同社が自社のゲームでOpenAIに4分の1のコンピューティングパワーを使用して勝利したと述べた"
         }
       ]
     }

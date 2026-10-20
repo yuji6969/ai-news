@@ -1,28 +1,28 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-20",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$340.59",
-      "change": "-2.47%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-10-17",
-          "title": "Microsoft の Maia 300 は、40% の効率向上を主張しながら、自社シリコンをメインの AI エンジンにするために、生のコンピューティングを交換してメモリ帯域幅を 2.5 倍向上させています。Google の道を進むことが、Nvidia AI バブルを弾くピンになるでしょうか?"
+          "date": "2026-10-18",
+          "title": "モルガン・スタンレー、ハイパースケーラーのキャッシュバーンは2027年に6,000億ドル近くになると予想"
         },
         {
-          "date": "2026-10-17",
-          "title": "アルファベットの最高投資責任者は、AIブームの最も可能性の高い結果は米国の大規模な資本破壊であるとのジェフリーズ氏の警告に応じる"
+          "date": "2026-10-18",
+          "title": "AI株の高騰が米国経済の偏りを生み出す"
         },
         {
-          "date": "2026-10-17",
-          "title": "広範なハイテクセクターの下落が米国市場を圧迫"
+          "date": "2026-10-18",
+          "title": "アメリカの10兆ドル規模のAIインフラブームにひずみが出始めている"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$709.33",
-      "change": "-3.72%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-10-17",
-          "title": "アルファベットの最高投資責任者は、AIブームの最も可能性の高い結果は米国の大規模な資本破壊であるとのジェフリーズ氏の警告に応じる"
+          "date": "2026-10-18",
+          "title": "モルガン・スタンレー、ハイパースケーラーのキャッシュバーンは2027年に6,000億ドル近くになると予想"
         },
         {
-          "date": "2026-10-17",
-          "title": "株式市場におけるAI危機のリスクが高まっている"
+          "date": "2026-10-18",
+          "title": "マイクロソフト、英国のデータセンター会社とのAI取引から撤退、ニック・クレッグ氏から3,000万ポンドの支払いを剥奪される可能性がある"
         },
         {
-          "date": "2026-10-17",
-          "title": "イーロン・マスクは上院共和党によるケン・パクストン大規模救出作戦の支援者だ"
+          "date": "2026-10-18",
+          "title": "AI株の高騰が米国経済の偏りを生み出す"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$250.00",
-      "change": "-1.87%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-10-17",
-          "title": "aegis-2b が PyPI に追加されました"
+          "date": "2026-10-18",
+          "title": "イベント駆動型アーキテクチャのための究極のエージェント AI"
         },
         {
-          "date": "2026-10-17",
-          "title": "ギデオン・ボアコ博士は次のように書いています – GRA/政府の付加価値税 20% とは一体何ですか?"
+          "date": "2026-10-18",
+          "title": "Show HN: 最も便利な ChatGPT プラグインのオープンソース キュレーション"
         },
         {
-          "date": "2026-10-17",
-          "title": "Amazon が DuckLabs を買収し、DuckDB を Amazon Aurora PostgreSQL に統合"
+          "date": "2026-10-18",
+          "title": "Symfony の一週間 #1033 (2026 年 10 月 12 ～ 18 日)"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$343.46",
-      "change": "+0.43%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$nan",
+      "change": "+nan%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-10-17",
-          "title": "Asus Ascent QN10 レビュー: このクライマーは Mac mini によって接地されます"
+          "date": "2026-10-18",
+          "title": "Apple Watch Ultra 4 に相当する Android スマートウォッチはどれですか?"
         },
         {
-          "date": "2026-10-17",
-          "title": "AI コードがゾーンに溢れる中、アンチテーゼは評価額 5 億 2,500 万ドルで 1 億 500 万ドルを調達"
+          "date": "2026-10-18",
+          "title": "Verizon、iPhone のハンドオフに月額 10 ドルを請求予定"
         },
         {
-          "date": "2026-10-17",
-          "title": "私はSony Bravia 9 IIを数週間テストしました。"
+          "date": "2026-10-18",
+          "title": "クレームチャウダー: 「ロボット回転ベース」を備えた HomeView に関する情報"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$214.13",
-      "change": "-1.43%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-10-17",
-          "title": "16GB GDDR7 デスクトップ RTX 5080 GPU を搭載した世界最小の PC が 2,647 ドルで発売されるが、SSD、RAM、OS は自分で購入する必要がある - Zotac Magnus One Ultra は 850W PSU を搭載し、6 台の 4K モニターを駆動可能"
+          "date": "2026-10-19",
+          "title": "vmware-privateai 2.4.2"
         },
         {
-          "date": "2026-10-17",
-          "title": "RTX Spark が新しい Windows PC の登場で世界的な祝賀を盛り上げる"
+          "date": "2026-10-18",
+          "title": "GitHub - kanaworksai-hue/audio-studio-mcp: クロード コードおよび任意の MCP クライアント用のローカル AI BGM と効果音。 "
         },
         {
-          "date": "2026-10-17",
-          "title": "パネルディスカッションを終えてAIについて思うこと"
+          "date": "2026-10-18",
+          "title": "「GTA V」NPCはAIを活用したNPCTalk Modでリアルタイムに会話できるようになり、来週無料リリース予定"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$529.05",
-      "change": "-1.93%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-10-17",
-          "title": "MicrosoftはCopilotの競争力を維持するためにAnthropicに年間20億ドル以上を支払う予定"
+          "date": "2026-10-18",
+          "title": "Windows 12 はすぐには登場しないので、Windows 11 をそのように感じられるようにしました"
         },
         {
-          "date": "2026-10-17",
-          "title": "Microsoft の Maia 300 は、40% の効率向上を主張しながら、自社シリコンをメインの AI エンジンにするために、生のコンピューティングを交換してメモリ帯域幅を 2.5 倍向上させています。Google の道を進むことが、Nvidia AI バブルを弾くピンになるでしょうか?"
+          "date": "2026-10-18",
+          "title": "Firefox 158.0 / ESR 153.5.0 / ESR 115.43.0hunderbird 158.0 / 153.5.0esr (Mozilla、2026.10.13)"
         },
         {
-          "date": "2026-10-17",
-          "title": "ServiceNow AI コントロール タワー: フレームの建設中にペントハウスを販売"
+          "date": "2026-10-18",
+          "title": "(吾潟オンライン、10/19) 筝fс腟㍼ラ根с篌 ..."
         }
       ]
     }

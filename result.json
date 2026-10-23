@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-10-20",
-          "title": "SpaceX の第 3 四半期売上高は AI ビジネスの成長により前年比 161% 増加し、予想を上回りました"
+          "date": "2026-10-21",
+          "title": "9 Big Tech engineers building the next wave of fintech"
         },
         {
-          "date": "2026-10-20",
-          "title": "元グーグルCEOエリック・シュミット氏の初期の人類的賭けは大ヒットIPOで200億ドルに膨らむ可能性がある"
+          "date": "2026-10-21",
+          "title": "Bank of America sees a $300 billion test for Google stock"
         },
         {
-          "date": "2026-10-20",
-          "title": "AI開発が厳しい監視に直面するなか、議員がデータセンターの機密NDAの詳細を求める"
+          "date": "2026-10-21",
+          "title": "Is Google Really Back at the Frontier? Sundar Pichai Tells Us"
         }
       ]
     },
@@ -39,15 +39,11 @@
       "news": [
         {
           "date": "2026-10-21",
-          "title": "米国の投資家がテクノロジーから離れ、ヘルスケア株が過去最高値に - ワールドニュース | "
+          "title": "Meta beats on revenue and splits its stock with nonvoting shares to raise capital"
         },
         {
-          "date": "2026-10-20",
-          "title": "フランチャイズ マーケティング: 完全ガイド 2026 |"
-        },
-        {
-          "date": "2026-10-20",
-          "title": "今日の米国株：ヘルスケア株がダウを押し上げ、ハイテク株が一息つき、米国株は上昇して終了"
+          "date": "2026-10-21",
+          "title": "Meta beats on revenue and splits its stock two-for-one with non-voting Class C shares"
         }
       ]
     },
@@ -63,16 +59,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-10-20",
-          "title": "ミニファクトリーが PyPI に追加されました"
+          "date": "2026-10-21",
+          "title": "Securing Quick access from corporate networks with AWS PrivateLink"
         },
         {
-          "date": "2026-10-20",
-          "title": "PingCap TiDB リーク"
+          "date": "2026-10-21",
+          "title": "5 production challenges in multi-agent systems and how Deep Insight solved them"
         },
         {
-          "date": "2026-10-20",
-          "title": "KV キャッシュを超えて: ネイティブ PyTorch を使用した AWS Trainium2 での i14 の Laplace 3B 線形アテンション モデルのトレーニングと提供"
+          "date": "2026-10-21",
+          "title": "AWS Executive Says 40% of European Startups Consider Leaving Region to Scale"
         }
       ]
     },
@@ -88,16 +84,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-10-20",
-          "title": "Apple CEO、iPhone Duo がスヌーピーを使って子供たちを笑顔にする方法を説明"
+          "date": "2026-10-21",
+          "title": "Lenovo's MacBook Neo rival has landed a month early — but is it worth your money?"
         },
         {
-          "date": "2026-10-20",
-          "title": "人々は AI バイブコーディングを使用してスマート TV から広告やトラッカーを削除しています"
+          "date": "2026-10-21",
+          "title": "The 3-in-1 Alloop Wearable Could Replace Both Your Wellness Wristband and Ring"
         },
         {
-          "date": "2026-10-20",
-          "title": "人々はスマート TV から広告をバイブコーディングしています: その方法は次のとおりです"
+          "date": "2026-10-21",
+          "title": "iPadOS 27.2 adds convenient new feature from the Mac"
         }
       ]
     },
@@ -114,15 +110,15 @@
       "news": [
         {
           "date": "2026-10-21",
-          "title": "Red Hat と HP: ベンチからフリートまで物理 AI を強化"
+          "title": "Year-old AI research lab Flapping Airplanes raises $1B at a reported $6B valuation"
         },
         {
           "date": "2026-10-21",
-          "title": "Red Hat OpenShift Virtualization が NVIDIA 認定ハイパーバイザーのステータスを取得"
+          "title": "Adaptive agentic intelligence framework using Strands Agents"
         },
         {
           "date": "2026-10-21",
-          "title": "Elastic は、NVIDIA RTX GPU を使用して Jina モデル推論を 8 倍高速化するようです"
+          "title": "gpu-server added to PyPI"
         }
       ]
     },
@@ -138,16 +134,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-10-20",
-          "title": "理解する-mcp が PyPI に追加されました"
+          "date": "2026-10-21",
+          "title": "Big Tech’s AI Debt Deluge Might Be Even Worse Than Previously Reported"
         },
         {
-          "date": "2026-10-20",
-          "title": "asha-si が PyPI に追加されました"
+          "date": "2026-10-21",
+          "title": "LiteLLM supply chain attack hoovers up passwords and secrets"
         },
         {
-          "date": "2026-10-20",
-          "title": "Chrome 156 安定版 (Google、2026.10.20)"
+          "date": "2026-10-21",
+          "title": "NVIDIA GTC Berlin: 14-Day DSX POD AI Factories, a 2.5x Substrate Buildout, and the OpenShell Reference Architecture"
         }
       ]
     }

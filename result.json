@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-10-21",
-          "title": "9 Big Tech engineers building the next wave of fintech"
+          "date": "2026-10-23",
+          "title": "ノルウェーの企業が米国を完全に迂回する新しい海底ケーブルを提案 - 2,800マイルのリンクはヨーロッパとカナダを結ぶことを目指す"
         },
         {
-          "date": "2026-10-21",
-          "title": "Bank of America sees a $300 billion test for Google stock"
+          "date": "2026-10-23",
+          "title": "カリフォルニアのアンカー会社は人材を募集しています。"
         },
         {
-          "date": "2026-10-21",
-          "title": "Is Google Really Back at the Frontier? Sundar Pichai Tells Us"
+          "date": "2026-10-22",
+          "title": "vs. MSFT と AMZN: AI 投資と Google Cloud の成長は 26% の上昇余地をもたらすことができるか?"
         }
       ]
     },
@@ -38,12 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-10-21",
-          "title": "Meta beats on revenue and splits its stock with nonvoting shares to raise capital"
+          "date": "2026-10-23",
+          "title": "ブラックストーンが AI のボトルネックが有利に働く可能性があると考える理由"
         },
         {
-          "date": "2026-10-21",
-          "title": "Meta beats on revenue and splits its stock two-for-one with non-voting Class C shares"
+          "date": "2026-10-23",
+          "title": "カリフォルニアのアンカー会社は人材を募集しています。"
+        },
+        {
+          "date": "2026-10-22",
+          "title": "投資家がAI支出を再評価し、ナスダックは750ポイント急落"
         }
       ]
     },
@@ -59,16 +63,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-10-21",
-          "title": "Securing Quick access from corporate networks with AWS PrivateLink"
+          "date": "2026-10-23",
+          "title": "カリフォルニアのアンカー会社は人材を募集しています。"
         },
         {
-          "date": "2026-10-21",
-          "title": "5 production challenges in multi-agent systems and how Deep Insight solved them"
+          "date": "2026-10-22",
+          "title": "AWS がカスタム AI モデル トレーニング用の SageMaker トレーニング セッションを開始"
         },
         {
-          "date": "2026-10-21",
-          "title": "AWS Executive Says 40% of European Startups Consider Leaving Region to Scale"
+          "date": "2026-10-22",
+          "title": "Amazon Connect 顧客プロファイルで、エージェントに表示される内容のカスタマイズがサポートされるようになりました"
         }
       ]
     },
@@ -84,16 +88,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-10-21",
-          "title": "Lenovo's MacBook Neo rival has landed a month early — but is it worth your money?"
+          "date": "2026-10-22",
+          "title": "ブラウザ会社が Arc ブラウザを廃止し、ユーザーを Dia にプッシュ"
         },
         {
-          "date": "2026-10-21",
-          "title": "The 3-in-1 Alloop Wearable Could Replace Both Your Wellness Wristband and Ring"
+          "date": "2026-10-22",
+          "title": "iPhone Duo、今年後半にiOS 27.2でApple Pencilのサポート、到達可能性機能を追加"
         },
         {
-          "date": "2026-10-21",
-          "title": "iPadOS 27.2 adds convenient new feature from the Mac"
+          "date": "2026-10-22",
+          "title": "Show HN: Mac 上の AI エージェントを保護する"
         }
       ]
     },
@@ -109,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-10-21",
-          "title": "Year-old AI research lab Flapping Airplanes raises $1B at a reported $6B valuation"
+          "date": "2026-10-22",
+          "title": "AI ベンチマーク スコアだけではすべてがわかりません。"
         },
         {
-          "date": "2026-10-21",
-          "title": "Adaptive agentic intelligence framework using Strands Agents"
+          "date": "2026-10-22",
+          "title": "今日の株式市場、10月22日: バーンスタインの格下げと資金調達懸念でコアウィーヴがスライド"
         },
         {
-          "date": "2026-10-21",
-          "title": "gpu-server added to PyPI"
+          "date": "2026-10-22",
+          "title": "AI は機器の故障を予測するだけではなく、1 兆ドルのペースで次に何が起こるかを決定します: 何が正しく行われるべきか"
         }
       ]
     },
@@ -134,16 +138,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-10-21",
-          "title": "Big Tech’s AI Debt Deluge Might Be Even Worse Than Previously Reported"
+          "date": "2026-10-22",
+          "title": "OpenAI モデルが Google Cloud に上陸: ワットは独占的なままでありながら、フロンティアの配布はマルチクラウドへ"
         },
         {
-          "date": "2026-10-21",
-          "title": "LiteLLM supply chain attack hoovers up passwords and secrets"
+          "date": "2026-10-22",
+          "title": "菴処"
         },
         {
-          "date": "2026-10-21",
-          "title": "NVIDIA GTC Berlin: 14-Day DSX POD AI Factories, a 2.5x Substrate Buildout, and the OpenShell Reference Architecture"
+          "date": "2026-10-22",
+          "title": "マシン速度攻撃にはマシン速度の検出と対応が必要"
         }
       ]
     }

@@ -5,8 +5,8 @@
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$320.21",
+      "change": "-1.24%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
@@ -14,15 +14,15 @@
       "news": [
         {
           "date": "2026-10-23",
-          "title": "ノルウェーの企業が米国を完全に迂回する新しい海底ケーブルを提案 - 2,800マイルのリンクはヨーロッパとカナダを結ぶことを目指す"
+          "title": "正規表現トークン"
         },
         {
           "date": "2026-10-23",
-          "title": "カリフォルニアのアンカー会社は人材を募集しています。"
+          "title": "10 月 23 日金曜日のその他の吠え声と咬傷: EUIPO が 2025 年に押収した偽造品の記録的な数を発表。 "
         },
         {
-          "date": "2026-10-22",
-          "title": "vs. MSFT と AMZN: AI 投資と Google Cloud の成長は 26% の上昇余地をもたらすことができるか?"
+          "date": "2026-10-23",
+          "title": "アルファベット社の7.13%の株価下落は投資家にとって何を意味するのでしょうか?"
         }
       ]
     },
@@ -30,8 +30,8 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$642.62",
+      "change": "-0.96%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
@@ -39,15 +39,15 @@
       "news": [
         {
           "date": "2026-10-23",
-          "title": "ブラックストーンが AI のボトルネックが有利に働く可能性があると考える理由"
+          "title": "ネオクラウドが圧力に直面し、信用リスクが増大し、Solidigm が IPO を撤退する中、AI の構築に混乱が生じる"
         },
         {
           "date": "2026-10-23",
-          "title": "カリフォルニアのアンカー会社は人材を募集しています。"
+          "title": "前日の下落後、AI株の取引は閑散としている"
         },
         {
-          "date": "2026-10-22",
-          "title": "投資家がAI支出を再評価し、ナスダックは750ポイント急落"
+          "date": "2026-10-23",
+          "title": "メタ株は今週９％下落した。 "
         }
       ]
     },
@@ -55,8 +55,8 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$248.00",
+      "change": "-0.95%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
@@ -64,15 +64,15 @@
       "news": [
         {
           "date": "2026-10-23",
-          "title": "カリフォルニアのアンカー会社は人材を募集しています。"
+          "title": "Amazonのクラウド容量は2027年まで完売、CEOのジャシー氏が語る"
         },
         {
-          "date": "2026-10-22",
-          "title": "AWS がカスタム AI モデル トレーニング用の SageMaker トレーニング セッションを開始"
+          "date": "2026-10-23",
+          "title": "Amazon OpenSearch インテリジェントな取り込みを使用して Amazon S3 から RAG 対応インデックスを構築する"
         },
         {
-          "date": "2026-10-22",
-          "title": "Amazon Connect 顧客プロファイルで、エージェントに表示される内容のカスタマイズがサポートされるようになりました"
+          "date": "2026-10-23",
+          "title": "[Kitesurf] Cloudflare の新しい Kitesurf ブラウザをクロードに操作させました: ブラウザは軽くなり、エージェントは遅くなります~"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$347.73",
+      "change": "-0.14%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-10-22",
-          "title": "ブラウザ会社が Arc ブラウザを廃止し、ユーザーを Dia にプッシュ"
+          "date": "2026-10-23",
+          "title": "LG の優れた C6 OLED TV はブラック フライデーに先立ってすでに 400 ドル引きになっています"
         },
         {
-          "date": "2026-10-22",
-          "title": "iPhone Duo、今年後半にiOS 27.2でApple Pencilのサポート、到達可能性機能を追加"
+          "date": "2026-10-23",
+          "title": "Apple Watch Series 12 レビュー: ここ数年で最高の (メインライン) Apple Watch?"
         },
         {
-          "date": "2026-10-22",
-          "title": "Show HN: Mac 上の AI エージェントを保護する"
+          "date": "2026-10-23",
+          "title": "MOTU デジタル パフォーマー 12.0.1"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$210.96",
+      "change": "-0.59%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-10-22",
-          "title": "AI ベンチマーク スコアだけではすべてがわかりません。"
+          "date": "2026-10-23",
+          "title": "NVIDIA RTX Remix 1.6 は、DLSS 5、6X マルチ フレーム生成、Minecraft Java Edition のサポートなどを備えてリリースされます"
         },
         {
-          "date": "2026-10-22",
-          "title": "今日の株式市場、10月22日: バーンスタインの格下げと資金調達懸念でコアウィーヴがスライド"
+          "date": "2026-10-23",
+          "title": "クリスマスに一番人気のおもちゃは？ "
         },
         {
-          "date": "2026-10-22",
-          "title": "AI は機器の故障を予測するだけではなく、1 兆ドルのペースで次に何が起こるかを決定します: 何が正しく行われるべきか"
+          "date": "2026-10-23",
+          "title": "GPU に 32 TB RAM: マーベルは、光を使用して最大 16 個の GPU をリンクし、設備投資を削減する革新的なフォトニック ファブリック メモリ モジュールを紹介します。しかし、Nvidia は何もせずに固執するわけではありません。"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$524.51",
+      "change": "+0.66%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-10-22",
-          "title": "OpenAI モデルが Google Cloud に上陸: ワットは独占的なままでありながら、フロンティアの配布はマルチクラウドへ"
+          "date": "2026-10-23",
+          "title": "正規表現トークン"
+        },
+        {
+          "date": "2026-10-23",
+          "title": "Qualys ROCon 2026 の要約: Qualys はクラウド セキュリティとリスク オペレーションにおける AI エージェントを倍増します"
         },
         {
           "date": "2026-10-22",
-          "title": "菴処"
-        },
-        {
-          "date": "2026-10-22",
-          "title": "マシン速度攻撃にはマシン速度の検出と対応が必要"
+          "title": "OpenAI モデルが Google Cloud に上陸: ワットは独占的なままでありながら、フロンティアの配布はマルチクラウドに移行"
         }
       ]
     }

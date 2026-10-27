@@ -1,28 +1,28 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$320.21",
-      "change": "-1.24%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
+          "date": "2026-10-25",
+          "title": "Alphabet の Google Cloud 収益は 82% 急増、Gemini のユーザー数は 9 億 5,000 万人に達"
+        },
+        {
+          "date": "2026-10-25",
+          "title": "グーグル元最高経営責任者（CEO）、中国はAI競争で6カ月も米国に後れをとっているが、この戦略によりまだ勝てる可能性があると語る：「我々はすでに負けている」"
+        },
+        {
           "date": "2026-10-24",
           "title": "5,000 億ドルの疑問: Google Cloud の膨大な AI バックログは、10 月 28 日の気が遠くなるような設備投資ブームを上回ることができるでしょうか?"
-        },
-        {
-          "date": "2026-10-24",
-          "title": "ネオクラウドが市場に打撃を与える中、AI 投資家としての Nvidia の役割は初めての大きな試練に直面する"
-        },
-        {
-          "date": "2026-10-24",
-          "title": "Google、データセンターのためにフィンランドで25万本の木を違法に伐採、オオカミを村に追い込み、地元住民を激怒させた：レポート"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$642.62",
-      "change": "-0.96%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-10-24",
-          "title": "アイルランドのデータセンター責任者、批評家は「EU離脱支持者のよう」で陰謀論に煽られていると発言"
+          "date": "2026-10-26",
+          "title": "AIの輸出禁止を脅迫した後、中国はDeepSeekの販売継続を許可"
         },
         {
-          "date": "2026-10-24",
-          "title": "サムスンとSKハイニックスの株はまだ買いなのか?"
+          "date": "2026-10-26",
+          "title": "イーロン・マスク氏、AIインフラへの信用が枯渇する中、ネオクラウドの淘汰を予測"
         },
         {
-          "date": "2026-10-24",
-          "title": "データセンターの内部はどのような感じですか?"
+          "date": "2026-10-25",
+          "title": "アポロ、AIはテクノロジー業界以外では「経済的利益はゼロ」だと語る"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$248.00",
-      "change": "-0.95%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-10-24",
-          "title": "アメリカの企業はTikTokの「100倍」悪いセキュリティの悪夢と戦い続けている"
+          "date": "2026-10-26",
+          "title": "イーロン・マスク氏、AIインフラへの信用が枯渇する中、ネオクラウドの淘汰を予測"
         },
         {
-          "date": "2026-10-24",
-          "title": "AWS のキャパシティは 2026 年は完売、ほとんどが 2027 年に予約済み: Amazon CEO"
+          "date": "2026-10-25",
+          "title": "アントロピックの重大な暴露"
         },
         {
-          "date": "2026-10-24",
-          "title": "Amazon、AI開発者がTrainiumチップ上でPyTorchコードを実行できるようにするTorchNeuronを発表"
+          "date": "2026-10-25",
+          "title": "アントロピックの重大な暴露"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$347.73",
-      "change": "-0.14%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-10-24",
-          "title": "フォルクスワーゲンの新しい電動ジェッタは、12,000ドル未満で455マイルの航続距離を提供"
+          "date": "2026-10-26",
+          "title": "BirdNET と Merlin アプリの違いは何ですか?"
         },
         {
-          "date": "2026-10-24",
-          "title": "Apple の非常にコンパクトな 13 インチ M5 MacBook Air が Amazon で 200 ドル安くなり、24GB ユニファイド メモリと 1TB SSD の堅牢な構成が得られます"
+          "date": "2026-10-25",
+          "title": "2027 BMW iX5"
         },
         {
-          "date": "2026-10-24",
-          "title": "whatsapp-トータルリコール0.1.4"
+          "date": "2026-10-25",
+          "title": "このクラウドファンディングの 109 ドルのハブは、古い PC、Mac、携帯電話の RAM をプールして、より大きな AI モデルを実行したいと考えていますが、その下にあるエンジンはすでに無料で入手できるソフトウェアです"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$210.96",
-      "change": "-0.59%",
+      "price": "$nan",
+      "change": "+nan%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-10-24",
-          "title": "Show HN: 36% 高いトレーニング スループットを実現するスパース カーネル"
+          "date": "2026-10-26",
+          "title": "イーロン・マスク氏、AIインフラへの信用が枯渇する中、ネオクラウドの淘汰を予測"
         },
         {
-          "date": "2026-10-24",
-          "title": "Nvidia H200 のレンタル料金が 1 月以来約 160% 上昇"
+          "date": "2026-10-26",
+          "title": "ローカル AI 用の Nvidia RTX Spark ラップトップを購入する前に誰も教えてくれない 5 つのこと"
         },
         {
-          "date": "2026-10-24",
-          "title": "AMD GPU には、寿命を延ばすワンクリック設定があります"
+          "date": "2026-10-25",
+          "title": "独占: 「[NVIDIA] B200 の購入とランタイムの修正は直交している」 – INT21 の AI 群がどのようにして Python を殺し、人間の専門家をアウトコードし、ドラマ 3 のランタイムを 60 分で書き換えたか"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$524.51",
-      "change": "+0.66%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$nan",
+      "change": "+nan%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-10-24",
-          "title": "taskpilot が PyPI に追加されました"
+          "date": "2026-10-25",
+          "title": "Show HN: CaseCite – 弁護士向けの無料の RAG 判例調査および文書分析"
         },
         {
-          "date": "2026-10-23",
-          "title": "正規表現トークン"
+          "date": "2026-10-25",
+          "title": "誰も教えてくれない Enterprise Agent の価格"
         },
         {
-          "date": "2026-10-23",
-          "title": "Qualys ROCon 2026 の要約: Qualys はクラウド セキュリティとリスク オペレーションにおける AI エージェントを倍増します"
+          "date": "2026-10-25",
+          "title": "新しいオープンソースのサイバーセキュリティ プラットフォームは AI エージェントを使用して脅威を追跡します"
         }
       ]
     }

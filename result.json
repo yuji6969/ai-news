@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-10-28",
-          "title": "OpenAIがGoogleのAIチップの買収を計画しているとThe Informationが報じた"
+          "date": "2026-10-29",
+          "title": "Google struggling to make AI Mode searches pay"
         },
         {
-          "date": "2026-10-28",
-          "title": "Google は TPU の瞬間を迎えています"
+          "date": "2026-10-29",
+          "title": "Google Stock Tumbles After Revenue Miss"
         },
         {
-          "date": "2026-10-27",
-          "title": "Anthropic、IPO申請で1,317億ドルの現金の山を明らかに"
+          "date": "2026-10-29",
+          "title": "Global Market Today: Asian shares edge higher as investors assess tech earnings, Fed outlook"
         }
       ]
     },
@@ -39,15 +39,15 @@
       "news": [
         {
           "date": "2026-10-28",
-          "title": "今日の世界市場: AI の楽観主義の復活でアジア株が躍進"
+          "title": "Alphabet and Microsoft post strong cloud growth as AI partnerships turn complicated"
         },
         {
           "date": "2026-10-28",
-          "title": "地元取引アプリが米国株へのアクセスを展開する中、インドの投資家はNvidia、SpaceX、Appleに殺到"
+          "title": "Jim Cramer says these tech giants can weather market turbulence"
         },
         {
-          "date": "2026-10-27",
-          "title": "上海政府補助金通知の毎日の無料 JSON フィード"
+          "date": "2026-10-28",
+          "title": "Investing in US stocks from India? How much can you invest, can you directly apply for IPOs? Complete guide here"
         }
       ]
     },
@@ -63,16 +63,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
+          "date": "2026-10-29",
+          "title": "FIA to use AI to help shape future F1 regulations in new AWS partnership"
+        },
+        {
           "date": "2026-10-28",
-          "title": "Microsoft と AWS がモジュラー データセンターをエッジに推進する中、Nvidia DSX POD は AI 工場をターゲットにしています"
+          "title": "AI To Be Used in Shaping New Generation of F1 Cars As Part of FIA-AWS Deal"
         },
         {
-          "date": "2026-10-27",
-          "title": "GSA とのパートナーシップを拡大し、政府のあらゆるレベルにクロードを参加させる"
-        },
-        {
-          "date": "2026-10-27",
-          "title": "問題から数分で解決: Amazon OpenSearch Service Relevance Agent を使用した検索関連性チューニングの自動化"
+          "date": "2026-10-28",
+          "title": "US Foods Counts AI Gains in Seller Hours and Cases per Mile"
         }
       ]
     },
@@ -88,16 +88,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-10-28",
-          "title": "Apple Creator Studio が組み込みの MotionVFX コンテンツを Final Cut Pro に導入"
+          "date": "2026-10-29",
+          "title": "Google Cloud Closes In on Azure, but Microsoft Wins the Day With Investors"
         },
         {
-          "date": "2026-10-27",
-          "title": "Apple、tvOS 27.2 リリースノートと新機能リストを共有"
+          "date": "2026-10-29",
+          "title": "Google Cloud Closes In on Azure, but Microsoft Wins the Day With Investors"
         },
         {
-          "date": "2026-10-27",
-          "title": "Talk Python to Me: #567: Pythonista のためのパーソナル AI エージェント"
+          "date": "2026-10-29",
+          "title": "New Release: Tor Browser 16.0"
         }
       ]
     },
@@ -113,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-10-27",
-          "title": "オラクルのクラウド連携でCerebras Systemsの株価が約10％上昇"
+          "date": "2026-10-29",
+          "title": "Phantom Blade Zero PC Performance Analysis & Tuning Guide – How To Get The Best Experience On PC"
         },
         {
-          "date": "2026-10-27",
-          "title": "NvidiaとAMD、チップ提携拡大の一環としてMeta株を40億ドル購入へ"
+          "date": "2026-10-28",
+          "title": "Microsoft cuts capex forecast on AI capacity delays"
         },
         {
-          "date": "2026-10-27",
-          "title": "NVIDIA CUDA 13.4 を使用した Kubernetes でのメモリ強制 GPU 共有"
+          "date": "2026-10-28",
+          "title": "murmel-flash added to PyPI"
         }
       ]
     },
@@ -138,16 +138,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-10-27",
-          "title": "メディアおよびエンターテイメント市場における世界的な生成 AI は、予測期間中に 26.3% の CAGR で拡大する"
+          "date": "2026-10-29",
+          "title": "Microsoft Sees Enterprise AI Adoption Accelerate as Copilot Usage Grows"
         },
         {
-          "date": "2026-10-27",
-          "title": "自主的な買収はビッグテックにレイオフの代替手段を提供する"
+          "date": "2026-10-29",
+          "title": "Google Cloud Closes In on Azure, but Microsoft Wins the Day With Investors"
         },
         {
-          "date": "2026-10-27",
-          "title": "(フォーブス、10/28) 賢巡罐㏍ケ泣きや査プｃ絅眼榊㎖ ..."
+          "date": "2026-10-29",
+          "title": "Google Cloud Closes In on Azure, but Microsoft Wins the Day With Investors"
         }
       ]
     }

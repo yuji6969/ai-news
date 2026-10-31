@@ -1,28 +1,28 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$279.84",
+      "change": "-1.40%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-10-29",
-          "title": "Google struggling to make AI Mode searches pay"
+          "date": "2026-10-30",
+          "title": "770億ドルのAI投資でキャッシュフローの懸念が高まり、アマゾン株が6％下落"
+        },
+        {
+          "date": "2026-10-30",
+          "title": "アルファベットは上場企業として最悪の日を迎えた。 "
         },
         {
           "date": "2026-10-29",
-          "title": "Google Stock Tumbles After Revenue Miss"
-        },
-        {
-          "date": "2026-10-29",
-          "title": "Global Market Today: Asian shares edge higher as investors assess tech earnings, Fed outlook"
+          "title": "AIがGoogle検索を脅かし、Alphabetは時価総額5,000億ドルを失う"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$614.99",
+      "change": "-1.53%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-10-28",
-          "title": "Alphabet and Microsoft post strong cloud growth as AI partnerships turn complicated"
+          "date": "2026-10-30",
+          "title": "Nvidia は、Meta の少し不気味な Muse AI モデルとさらに緊密に連携する予定です。さらに、Meta へのサポートを示すために 30 億ドルを投資しています。"
         },
         {
-          "date": "2026-10-28",
-          "title": "Jim Cramer says these tech giants can weather market turbulence"
+          "date": "2026-10-29",
+          "title": "AI、数学、教育、そして公共財の問題"
         },
         {
-          "date": "2026-10-28",
-          "title": "Investing in US stocks from India? How much can you invest, can you directly apply for IPOs? Complete guide here"
+          "date": "2026-10-29",
+          "title": "メイン州のデータセンターの反乱で上院を誰が支配するかが決まる"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$240.35",
+      "change": "-1.41%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-10-29",
-          "title": "FIA to use AI to help shape future F1 regulations in new AWS partnership"
+          "date": "2026-10-30",
+          "title": "クラウドブームにもかかわらず、アマゾンの株価は期待外れの収益と収益の失敗で下落"
         },
         {
-          "date": "2026-10-28",
-          "title": "AI To Be Used in Shaping New Generation of F1 Cars As Part of FIA-AWS Deal"
+          "date": "2026-10-30",
+          "title": "アマゾンの株価は期待外れの決算と売上高の失敗を発表し下落"
         },
         {
-          "date": "2026-10-28",
-          "title": "US Foods Counts AI Gains in Seller Hours and Cases per Mile"
+          "date": "2026-10-30",
+          "title": "770億ドルのAI投資でキャッシュフローの懸念が高まり、アマゾン株が6％下落"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$344.63",
+      "change": "-1.23%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-10-29",
-          "title": "Google Cloud Closes In on Azure, but Microsoft Wins the Day With Investors"
+          "date": "2026-10-30",
+          "title": "openscour が PyPI に追加されました"
         },
         {
           "date": "2026-10-29",
-          "title": "Google Cloud Closes In on Azure, but Microsoft Wins the Day With Investors"
+          "title": "iOS 27.2はiPhone Duoに最適な新しいビデオ機能を追加 - 9to5Mac"
         },
         {
           "date": "2026-10-29",
-          "title": "New Release: Tor Browser 16.0"
+          "title": "iOS 27.2 では、ショートカット アプリにこれらの新機能と改善された機能が追加されました - 9to5Mac"
         }
       ]
     },
@@ -105,8 +105,8 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$204.64",
+      "change": "-4.22%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
@@ -114,15 +114,15 @@
       "news": [
         {
           "date": "2026-10-29",
-          "title": "Phantom Blade Zero PC Performance Analysis & Tuning Guide – How To Get The Best Experience On PC"
+          "title": "SpaceX の AI 部門が黒字転換、Anthropic が鍵を握る"
         },
         {
-          "date": "2026-10-28",
-          "title": "Microsoft cuts capex forecast on AI capacity delays"
+          "date": "2026-10-29",
+          "title": "Nvidia、Nscaleデータセンター拡張のための数十億ドルの債務を支援するために交渉中"
         },
         {
-          "date": "2026-10-28",
-          "title": "murmel-flash added to PyPI"
+          "date": "2026-10-29",
+          "title": "Getac は、同社の新しい頑丈なノートブックはこれまでよりも高速な AI を活用した処理を提供し、軍事および防衛の顧客をターゲットにしているようだと述べています"
         }
       ]
     },
@@ -130,8 +130,8 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$521.91",
+      "change": "-1.55%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
@@ -139,15 +139,15 @@
       "news": [
         {
           "date": "2026-10-29",
-          "title": "Microsoft Sees Enterprise AI Adoption Accelerate as Copilot Usage Grows"
+          "title": "Show HN: Rust でローカルファーストの CVE トリアージ アプリを構築しました"
         },
         {
           "date": "2026-10-29",
-          "title": "Google Cloud Closes In on Azure, but Microsoft Wins the Day With Investors"
+          "title": "Azure が 48% 成長する中、ダン アイブス氏は Microsoft を AI 支出の「バロメーター」と呼ぶ"
         },
         {
           "date": "2026-10-29",
-          "title": "Google Cloud Closes In on Azure, but Microsoft Wins the Day With Investors"
+          "title": "(DSCA、2020.08.26) 日本 AIM-120C-7 ..."
         }
       ]
     }

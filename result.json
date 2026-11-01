@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -14,15 +14,11 @@
       "news": [
         {
           "date": "2026-10-30",
-          "title": "770億ドルのAI投資でキャッシュフローの懸念が高まり、アマゾン株が6％下落"
+          "title": "Naver brings Nvidia on board as third-largest shareholder in AI factory pivot"
         },
         {
           "date": "2026-10-30",
-          "title": "アルファベットは上場企業として最悪の日を迎えた。 "
-        },
-        {
-          "date": "2026-10-29",
-          "title": "AIがGoogle検索を脅かし、Alphabetは時価総額5,000億ドルを失う"
+          "title": "Breitbart Business Digest: The Economy Is Empathetic, Creative, and an Animal Lover"
         }
       ]
     },
@@ -39,15 +35,11 @@
       "news": [
         {
           "date": "2026-10-30",
-          "title": "Nvidia は、Meta の少し不気味な Muse AI モデルとさらに緊密に連携する予定です。さらに、Meta へのサポートを示すために 30 億ドルを投資しています。"
+          "title": "Spooked investors sink Big Tech stocks"
         },
         {
-          "date": "2026-10-29",
-          "title": "AI、数学、教育、そして公共財の問題"
-        },
-        {
-          "date": "2026-10-29",
-          "title": "メイン州のデータセンターの反乱で上院を誰が支配するかが決まる"
+          "date": "2026-10-30",
+          "title": "Cracks are emerging in the AI spending boom | TechCrunch"
         }
       ]
     },
@@ -64,15 +56,15 @@
       "news": [
         {
           "date": "2026-10-30",
-          "title": "クラウドブームにもかかわらず、アマゾンの株価は期待外れの収益と収益の失敗で下落"
+          "title": "Amazon swings to $42.4 billion free cash outflow as AI spending surges"
         },
         {
           "date": "2026-10-30",
-          "title": "アマゾンの株価は期待外れの決算と売上高の失敗を発表し下落"
+          "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams"
         },
         {
           "date": "2026-10-30",
-          "title": "770億ドルのAI投資でキャッシュフローの懸念が高まり、アマゾン株が6％下落"
+          "title": "Stock Market Today, Oct. 30: Amazon Misses Revenue and Earnings Expectations"
         }
       ]
     },
@@ -88,16 +80,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
+          "date": "2026-10-31",
+          "title": "iOS 27.2 adds two FaceTime features, including a personal favorite - 9to5Mac"
+        },
+        {
           "date": "2026-10-30",
-          "title": "openscour が PyPI に追加されました"
+          "title": "Apple buys AI startup that strives to ‘make data engineering delightful’"
         },
         {
-          "date": "2026-10-29",
-          "title": "iOS 27.2はiPhone Duoに最適な新しいビデオ機能を追加 - 9to5Mac"
-        },
-        {
-          "date": "2026-10-29",
-          "title": "iOS 27.2 では、ショートカット アプリにこれらの新機能と改善された機能が追加されました - 9to5Mac"
+          "date": "2026-10-30",
+          "title": "HomeView Software 27.2: Wallpapers, Control Center, and More"
         }
       ]
     },
@@ -113,16 +105,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-10-29",
-          "title": "SpaceX の AI 部門が黒字転換、Anthropic が鍵を握る"
+          "date": "2026-10-30",
+          "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo"
         },
         {
-          "date": "2026-10-29",
-          "title": "Nvidia、Nscaleデータセンター拡張のための数十億ドルの債務を支援するために交渉中"
+          "date": "2026-10-30",
+          "title": "Cohere opens Series E targeting up to C$7 billion, leans on neocloud providers for compute"
         },
         {
-          "date": "2026-10-29",
-          "title": "Getac は、同社の新しい頑丈なノートブックはこれまでよりも高速な AI を活用した処理を提供し、軍事および防衛の顧客をターゲットにしているようだと述べています"
+          "date": "2026-10-30",
+          "title": "Show HN: Optimized CUDA forced alignment kernels. 10x – 1000x faster"
         }
       ]
     },
@@ -138,16 +130,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-10-29",
-          "title": "Show HN: Rust でローカルファーストの CVE トリアージ アプリを構築しました"
+          "date": "2026-10-30",
+          "title": "pyox-agents added to PyPI"
         },
         {
-          "date": "2026-10-29",
-          "title": "Azure が 48% 成長する中、ダン アイブス氏は Microsoft を AI 支出の「バロメーター」と呼ぶ"
+          "date": "2026-10-30",
+          "title": "Ask Paul: October 30 ⭐"
         },
         {
-          "date": "2026-10-29",
-          "title": "(DSCA、2020.08.26) 日本 AIM-120C-7 ..."
+          "date": "2026-10-30",
+          "title": "As Anthropic finally files for IPO, rising risks aren’t slowing the AI buildout – yet"
         }
       ]
     }

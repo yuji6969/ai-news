@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,12 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-10-30",
-          "title": "Naver brings Nvidia on board as third-largest shareholder in AI factory pivot"
+          "date": "2026-10-31",
+          "title": "OpenAI Cuts Funding Target As Investors Lose AI Appetite"
         },
         {
-          "date": "2026-10-30",
-          "title": "Breitbart Business Digest: The Economy Is Empathetic, Creative, and an Animal Lover"
+          "date": "2026-10-31",
+          "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round"
+        },
+        {
+          "date": "2026-10-31",
+          "title": "Anthropic’s IPO and the most defining months ahead in stock market history"
         }
       ]
     },
@@ -34,12 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-10-30",
-          "title": "Spooked investors sink Big Tech stocks"
+          "date": "2026-10-31",
+          "title": "Big Tech buybacks fall 83% as AI spending eats the cash, Reuters reports"
         },
         {
-          "date": "2026-10-30",
-          "title": "Cracks are emerging in the AI spending boom | TechCrunch"
+          "date": "2026-10-31",
+          "title": "The Energetic Executive and the Age of Intelligence"
+        },
+        {
+          "date": "2026-10-31",
+          "title": "Anthropic’s IPO and the most defining months ahead in stock market history"
         }
       ]
     },
@@ -55,16 +63,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-10-30",
-          "title": "Amazon swings to $42.4 billion free cash outflow as AI spending surges"
+          "date": "2026-10-31",
+          "title": "Lakebase branching for CI/CD: lessons from 100 PR databases"
         },
         {
-          "date": "2026-10-30",
-          "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams"
+          "date": "2026-10-31",
+          "title": "Anthropic’s IPO and the most defining months ahead in stock market history"
         },
         {
-          "date": "2026-10-30",
-          "title": "Stock Market Today, Oct. 30: Amazon Misses Revenue and Earnings Expectations"
+          "date": "2026-10-31",
+          "title": "Can enterprise AI pay for the boom?"
         }
       ]
     },
@@ -81,15 +89,15 @@
       "news": [
         {
           "date": "2026-10-31",
-          "title": "iOS 27.2 adds two FaceTime features, including a personal favorite - 9to5Mac"
+          "title": "Apple CEO John Ternus says the company won’t ship AI for AI’s sake"
         },
         {
-          "date": "2026-10-30",
-          "title": "Apple buys AI startup that strives to ‘make data engineering delightful’"
+          "date": "2026-10-31",
+          "title": "Apple Confirms iOS 27.3 Beta Is Coming Next Week With Apple Intelligence In China"
         },
         {
-          "date": "2026-10-30",
-          "title": "HomeView Software 27.2: Wallpapers, Control Center, and More"
+          "date": "2026-10-31",
+          "title": "5 Ways You Should Be Using Siri's On-Screen Awareness Tool"
         }
       ]
     },
@@ -105,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-10-30",
-          "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo"
+          "date": "2026-11-01",
+          "title": "Nvidia’s AI agents now steer the Allen Telescope Array in the search for alien signals"
         },
         {
-          "date": "2026-10-30",
-          "title": "Cohere opens Series E targeting up to C$7 billion, leans on neocloud providers for compute"
+          "date": "2026-11-01",
+          "title": "Talented Nigerians, outdated opportunities"
         },
         {
-          "date": "2026-10-30",
-          "title": "Show HN: Optimized CUDA forced alignment kernels. 10x – 1000x faster"
+          "date": "2026-10-31",
+          "title": "Bill Ackman Says Elon Musk Might Have To Borrow “A Trillion Dollars Of Capital” To Meet SpaceX’s 2027 Compute Target, As Musk Eyes “Petawatt/Year” Space-Based Compute Capacity"
         }
       ]
     },
@@ -130,16 +138,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-10-30",
-          "title": "pyox-agents added to PyPI"
+          "date": "2026-10-31",
+          "title": "hivegate-ai added to PyPI"
         },
         {
-          "date": "2026-10-30",
-          "title": "Ask Paul: October 30 ⭐"
+          "date": "2026-10-31",
+          "title": "Anthropic’s IPO and the most defining months ahead in stock market history"
         },
         {
-          "date": "2026-10-30",
-          "title": "As Anthropic finally files for IPO, rising risks aren’t slowing the AI buildout – yet"
+          "date": "2026-10-31",
+          "title": "What should investors glean from Anthropic’s prospectus?"
         }
       ]
     }

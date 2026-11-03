@@ -1,28 +1,28 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$279.84",
-      "change": "-1.40%",
+      "price": "$278.99",
+      "change": "-0.30%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-10-31",
-          "title": "OpenAI Cuts Funding Target As Investors Lose AI Appetite"
+          "date": "2026-11-02",
+          "title": "アルファベットは、AIへの支出は増加し続けると述べている。 "
         },
         {
-          "date": "2026-10-31",
-          "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round"
+          "date": "2026-11-01",
+          "title": "投資家の不安がAI市場を揺るがす中、OpenAIは資金調達目標を100億ドル削減"
         },
         {
-          "date": "2026-10-31",
-          "title": "Anthropic’s IPO and the most defining months ahead in stock market history"
+          "date": "2026-11-01",
+          "title": "OpenAI、Nvidia のみへの依存から脱却する最初の一歩として Google AI チップを購入することを約束"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$614.99",
-      "change": "-1.53%",
+      "price": "$606.73",
+      "change": "-1.34%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-10-31",
-          "title": "Big Tech buybacks fall 83% as AI spending eats the cash, Reuters reports"
+          "date": "2026-11-02",
+          "title": "「マグニフィセント・セブン」の負債が45%急増して5,780億ドルとなり、AI投資のリスクが高まる"
         },
         {
-          "date": "2026-10-31",
-          "title": "The Energetic Executive and the Age of Intelligence"
+          "date": "2026-11-02",
+          "title": "ネタニヤフ首相の勝利で世界的大惨事の警告が発せられる"
         },
         {
-          "date": "2026-10-31",
-          "title": "Anthropic’s IPO and the most defining months ahead in stock market history"
+          "date": "2026-11-02",
+          "title": "最高の意見: システムは資本を生産的に利用することができますか?"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$240.35",
-      "change": "-1.41%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$245.63",
+      "change": "+2.20%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-10-31",
-          "title": "Lakebase branching for CI/CD: lessons from 100 PR databases"
+          "date": "2026-11-01",
+          "title": "AWS のキャパシティは 2027 年までほぼ完売し、オンデマンドの余裕は確保されている"
         },
         {
-          "date": "2026-10-31",
-          "title": "Anthropic’s IPO and the most defining months ahead in stock market history"
+          "date": "2026-11-01",
+          "title": "File Mover Express: AWS が S3 ファイル転送用のオープンソース ツールをリリース"
         },
         {
-          "date": "2026-10-31",
-          "title": "Can enterprise AI pay for the boom?"
+          "date": "2026-11-01",
+          "title": "File Mover Express: AWS が S3 ファイル転送用のオープンソース ツールをリリース"
         }
       ]
     },
@@ -80,24 +80,20 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$344.63",
-      "change": "-1.23%",
+      "price": "$338.32",
+      "change": "-1.83%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-10-31",
-          "title": "Apple CEO John Ternus says the company won’t ship AI for AI’s sake"
+          "date": "2026-11-02",
+          "title": "Apple Intelligence は 2027 年の有料段階に向けて進んでいるが、AI の使用制限により重要な疑問は未解決のまま"
         },
         {
-          "date": "2026-10-31",
-          "title": "Apple Confirms iOS 27.3 Beta Is Coming Next Week With Apple Intelligence In China"
-        },
-        {
-          "date": "2026-10-31",
-          "title": "5 Ways You Should Be Using Siri's On-Screen Awareness Tool"
+          "date": "2026-11-01",
+          "title": "カメラを屋外に取り付けることはできませんか? "
         }
       ]
     },
@@ -105,24 +101,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$204.64",
-      "change": "-4.22%",
+      "price": "$202.06",
+      "change": "-1.26%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-11-01",
-          "title": "Nvidia’s AI agents now steer the Allen Telescope Array in the search for alien signals"
+          "date": "2026-11-02",
+          "title": "解説: 中国の Nvidia H200 の挑戦者は GPU パワーの先に目を向けており、ファーウェイと T-Head はシステム規模の AI をターゲットにしています"
         },
         {
           "date": "2026-11-01",
-          "title": "Talented Nigerians, outdated opportunities"
+          "title": "コンパクト AI ワークステーションは、デュアル 10GbE を搭載した Jetson AGX Thor 上で Ubuntu を実行します"
         },
         {
-          "date": "2026-10-31",
-          "title": "Bill Ackman Says Elon Musk Might Have To Borrow “A Trillion Dollars Of Capital” To Meet SpaceX’s 2027 Compute Target, As Musk Eyes “Petawatt/Year” Space-Based Compute Capacity"
+          "date": "2026-11-01",
+          "title": "イーロン・マスクは私に返信し、SpaceXSI に関する重要な情報を提供しました"
         }
       ]
     },
@@ -130,24 +126,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$521.91",
-      "change": "-1.55%",
+      "price": "$507.12",
+      "change": "-2.83%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-10-31",
-          "title": "hivegate-ai added to PyPI"
+          "date": "2026-11-01",
+          "title": "HN を表示: ネイティブ 3.0 – 画面共有から非表示にするローカル会議アシスタント"
         },
         {
           "date": "2026-10-31",
-          "title": "Anthropic’s IPO and the most defining months ahead in stock market history"
+          "title": "hivegate-ai が PyPI に追加されました"
         },
         {
           "date": "2026-10-31",
-          "title": "What should investors glean from Anthropic’s prospectus?"
+          "title": "Anthropic の IPO と株式市場の歴史の中で今後の最も決定的な数カ月"
         }
       ]
     }

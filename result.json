@@ -1,28 +1,28 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$284.78",
+      "change": "+0.78%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
           "date": "2026-11-06",
-          "title": "中間選挙後のAI弾圧への懸念がハイテク株の2兆ドル暴落を引き起こす"
+          "title": "Google、Meta、TikTok、子どもたちの中毒性ソーシャルメディアを規制するカリフォルニア州法の差し止めを訴え"
         },
         {
-          "date": "2026-11-05",
-          "title": "AI オン ファイア"
+          "date": "2026-11-06",
+          "title": "グーグル幹部ドナルド・ハリソン氏、スペースX取締役を辞任"
         },
         {
-          "date": "2026-11-05",
-          "title": "民主党が議会を占拠、ウォール街で大惨事"
+          "date": "2026-11-06",
+          "title": "SpaceX、Google幹部のドン・ハリソン氏が取締役を辞任したと発表"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$610.15",
+      "change": "+0.84%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
+          "date": "2026-11-07",
+          "title": "ブライトバート ビジネス ダイジェスト: アメリカはブルースを歌う"
+        },
+        {
           "date": "2026-11-06",
-          "title": "中間選挙後のAI弾圧への懸念がハイテク株の2兆ドル暴落を引き起こす"
+          "title": "データセンターは不人気ですが、経済成長の主な原動力となっています"
         },
         {
-          "date": "2026-11-05",
-          "title": "キューバ人: Facebook は故意に AI ディープフェイク詐欺広告を掲載しています。"
-        },
-        {
-          "date": "2026-11-05",
-          "title": "Pershing Square 2026 年第 3 四半期レター: 2026 年の 7 つの新たな賭けとハイパースケーラーの設備投資の防御"
+          "date": "2026-11-06",
+          "title": "民主党の照準にあるハイテク億万長者: 誰が議会の捜査に直面する可能性がある?"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$259.30",
+      "change": "-0.35%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-11-05",
-          "title": "トレントンのデータセンター禁止法案がほぼ80％の票で可決"
+          "date": "2026-11-06",
+          "title": "Kim K3.1 Pro (Highspeed) が Amazon Bedrock で入手可能になりました"
         },
         {
-          "date": "2026-11-05",
-          "title": "AWS Kiro、Kiro Crew エージェントワークスペースに長時間実行ボットを追加"
+          "date": "2026-11-06",
+          "title": "Agent Registry が AWS GovCloud (米国西部) リージョンで一般利用可能になりました"
         },
         {
-          "date": "2026-11-05",
-          "title": "AWS Kiro は、別の ID であるボット オーケストレーターを追加することで、アイデンティティの危機を解決することを目指しています"
+          "date": "2026-11-06",
+          "title": "AWS のコリーン・オーブリー: 新しい AI 指標を発明するのはやめてください。重要なのはビジネス指標です"
         }
       ]
     },
@@ -80,8 +80,8 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$342.37",
+      "change": "-0.52%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
@@ -89,15 +89,15 @@
       "news": [
         {
           "date": "2026-11-06",
-          "title": "WhatsApp の AI を活用した写真拡大ツールが iOS で展開開始"
+          "title": "Appleの禁止オートコンプリートフレーズの秘密リストには「独裁者トランプ」「スリーピージョー」などが含まれる"
         },
         {
           "date": "2026-11-06",
-          "title": "十代の若者たちに実際に欲しいプレゼントは何かと聞いてみた - これが彼らの答えです"
+          "title": "ジェシー・アイゼンバーグとジュリアン・ムーア、「デビュー」について AI をテストして「問題がないことを確認」し、「ナウ・ユー・シー・ミー 4」の制作を期待"
         },
         {
           "date": "2026-11-06",
-          "title": "Moto Watch Fit 27: 119 ユーロ、Polar Brains、12 日間のバッテリー"
+          "title": "AIバブル後：マニフェスト"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$186.64",
+      "change": "+2.78%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
+          "date": "2026-11-07",
+          "title": "Show HN: Goethe – セルフホスト型 AI のインフラストラクチャ"
+        },
+        {
           "date": "2026-11-06",
-          "title": "インクリング 2 小"
+          "title": "Thinking Machines がエンタープライズ ベンチマークでほぼ最先端のパフォーマンスを実現する Inkling 2 Small を発売"
         },
         {
-          "date": "2026-11-05",
-          "title": "私のゲーム GPU は一日のほとんどがアイドル状態だったので、家全体で使用できるローカル AI サーバーに変えました。"
-        },
-        {
-          "date": "2026-11-05",
-          "title": "ポッドキャスト #156: HPE の Patrick Osborne が AI 対応ストレージ、Block の Second Life、アレイのサイバー レジリエンスについて語る"
+          "date": "2026-11-06",
+          "title": "シスコがエンタープライズ AI ファクトリーを構築した方法: 経済性、パフォーマンス、セキュリティのスケーリング"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$530.61",
+      "change": "-0.99%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
+          "date": "2026-11-06",
+          "title": "AIの構築に緊張の兆候が見られるため、Microsoftはネオクラウドの使用を減らす計画"
+        },
+        {
+          "date": "2026-11-06",
+          "title": "Microsoft、AIクラウド容量に関するOracleとの契約を打ち切る"
+        },
+        {
           "date": "2026-11-04",
           "title": "HN を表示: Cassandra – Cursor ハッキングの影響を受けているかどうかを確認する無料ツール"
-        },
-        {
-          "date": "2026-11-04",
-          "title": "菴処"
-        },
-        {
-          "date": "2026-11-04",
-          "title": "(2026.11.05) (いろいろ)"
         }
       ]
     }

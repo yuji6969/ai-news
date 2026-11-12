@@ -1,28 +1,28 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$287.38",
-      "change": "-0.27%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$293.45",
+      "change": "+2.11%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-11-09",
-          "title": "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why"
+          "date": "2026-11-11",
+          "title": "ALEX BRUMMER: Why I fear the Nvidia boss's affair is a 'black swan' event that could bring down the global financial system"
         },
         {
-          "date": "2026-11-09",
-          "title": "AI Bubble Tracker"
+          "date": "2026-11-11",
+          "title": "What we learned about the hyperscalers from earnings season"
         },
         {
-          "date": "2026-11-09",
-          "title": "Anthropic Just Committed a Shocking Crime Against the Environment"
+          "date": "2026-11-11",
+          "title": "Anthropic targets $90 billion IPO at $1.4 trillion valuation"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$628.77",
+      "change": "-1.97%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-11-09",
-          "title": "AI Bubble Tracker"
+          "date": "2026-11-11",
+          "title": "ALEX BRUMMER: Why I fear the Nvidia boss's affair is a 'black swan' event that could bring down the global financial system"
         },
         {
-          "date": "2026-11-09",
-          "title": "Dow surges 1,000 points after last week’s historic tech rout, while Jensen Huang’s Nvidia slumps"
+          "date": "2026-11-10",
+          "title": "Just 4% of Customer Service Leaders Hit Their Expected Automation Returns"
         },
         {
-          "date": "2026-11-09",
-          "title": "US stock market stages massive rally today, adds $1.5 trillion: 5 reasons why Dow Jones, S&P 500 and Nasdaq surge as AMD and Tesla jump while Nvidia sinks"
+          "date": "2026-11-10",
+          "title": "CoreWeave ties over 75% of capex to investment-grade customers"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$270.87",
-      "change": "+1.48%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$266.17",
+      "change": "-1.74%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
+          "date": "2026-11-11",
+          "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock"
+        },
+        {
+          "date": "2026-11-11",
+          "title": "What we learned about the hyperscalers from earnings season"
+        },
+        {
           "date": "2026-11-10",
-          "title": "How skills and agents work in AWS Quick"
-        },
-        {
-          "date": "2026-11-09",
-          "title": "Automate ETL pipeline creation with Amazon Bedrock AgentCore and AWS Glue"
-        },
-        {
-          "date": "2026-11-09",
-          "title": "AI Bubble Tracker"
+          "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search"
         }
       ]
     },
@@ -80,24 +80,20 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$348.51",
-      "change": "-0.62%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$355.63",
+      "change": "+2.04%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
+          "date": "2026-11-11",
+          "title": "Walt Launches Standalone Crypto App After Years Inside Telegram"
+        },
+        {
           "date": "2026-11-10",
-          "title": "Announcing the finalists for the GSMArena 2026 End-of-Year Awards"
-        },
-        {
-          "date": "2026-11-09",
-          "title": "Apple launches $50 ‘intelligence usage packs’ for select AI features - 9to5Mac"
-        },
-        {
-          "date": "2026-11-09",
-          "title": "Apple starts to charge for heavy AI usage ↦"
+          "title": "Apple launches $50 ‘Intelligence Usage Packs’ for extra AI access in Creator Studio apps"
         }
       ]
     },
@@ -105,24 +101,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$168.89",
-      "change": "-5.47%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$173.73",
+      "change": "+2.87%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-11-10",
-          "title": "US Commerce Department moves to block China’s remote access to Nvidia chips"
+          "date": "2026-11-11",
+          "title": "Alice Huang used her relationship with Jensen Huang to move 240,000 Nvidia chips worth $7.5 billion to China: Report"
         },
         {
-          "date": "2026-11-10",
-          "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling"
+          "date": "2026-11-11",
+          "title": "Alleged spy plot targeting CEO raises questions about Nvidia's future"
         },
         {
-          "date": "2026-11-09",
-          "title": "AI Bubble Tracker"
+          "date": "2026-11-11",
+          "title": "Samsung and Nvidia demonstrate up to 3,800-fold speedup in chip simulation"
         }
       ]
     },
@@ -130,24 +126,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$533.16",
-      "change": "-2.20%",
+      "price": "$521.13",
+      "change": "-2.26%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-11-09",
-          "title": "Anthropic debuts Claude Fable, Mythos 5.2 models, priced 20% below OpenAI’s GPT-6 Astra"
+          "date": "2026-11-11",
+          "title": "Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities"
         },
         {
-          "date": "2026-11-09",
-          "title": "CoreWeave reportedly signs multi-year deal with Wayve for AI model training"
+          "date": "2026-11-11",
+          "title": "What we learned about the hyperscalers from earnings season"
         },
         {
-          "date": "2026-11-09",
-          "title": "GreenCore Solutions Rebrands as WeFetch.ai for the AI Shopping Market: gtinfetch.ai lead product"
+          "date": "2026-11-10",
+          "title": "microsoft-copilot-sdk 1.0.29.dev42910103371"
         }
       ]
     }

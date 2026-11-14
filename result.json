@@ -1,28 +1,28 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$295.77",
+      "change": "-0.98%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-11-11",
-          "title": "Google フライト、AI チャットボット、AI 支援ゲーム クローン作成、その他: ResearchBuzz AI アップデート、2026 年 11 月 11 日"
+          "date": "2026-11-13",
+          "title": "Nvidiaは、ジェンスン・ファン氏の退任前にAIバックストップを強化する圧力に直面していた"
         },
         {
-          "date": "2026-11-11",
-          "title": "J.Crew がスタイリストのように考えるように設計された新しい AI ショッピング ツールをデビュー"
+          "date": "2026-11-12",
+          "title": "フアン氏がエヌビディアを辞めたことで市場は混乱"
         },
         {
-          "date": "2026-11-11",
-          "title": "Google DeepMind、新しい高度なロボティクス AI モデルと次世代遺伝子予測モデルをリリース"
+          "date": "2026-11-12",
+          "title": "木曜日のアルファベット株に何が起こっているのか？"
         }
       ]
     },
@@ -38,16 +38,16 @@
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-11-11",
-          "title": "Anthropic は AI 電力危機を回避するために天然ガスタービンに 34 億ドルを費やしています"
+          "date": "2026-11-13",
+          "title": "fontes-mcp が PyPI に追加されました"
         },
         {
-          "date": "2026-11-11",
-          "title": "恐怖を忘れないように：トランプの残虐行為、共謀、汚職、犯罪の終わりのないカタログ：2026年10月：残虐行為1354年から1437年"
+          "date": "2026-11-12",
+          "title": "Nebius は、計画支出額 400 億ドルで neocloud プレイブックをテストします。"
         },
         {
-          "date": "2026-11-11",
-          "title": "メタのインフラ責任者サントシュ・ジャナルダン氏が2027年に辞任し、後任にはデイブ・ブラウン氏が就任"
+          "date": "2026-11-12",
+          "title": "Mount Thor が AI エージェント用の Mac データセンターを構築するために 4,500 万ドルを調達"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$266.66",
+      "change": "-0.29%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-11-12",
-          "title": "Meta、AI支出の急増に伴いインフラストラクチャの責任者に元AWS幹部を起用"
+          "date": "2026-11-13",
+          "title": "AWS における Java の AWS Graviton サポート 継続的なモダナイゼーションを変革する"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "fontes-mcp が PyPI に追加されました"
         },
         {
           "date": "2026-11-12",
-          "title": "Amazon Bedrock と Spring AI を使用して自律型 AI エージェントを構築する"
-        },
-        {
-          "date": "2026-11-12",
-          "title": "Amazon OpenSearch Service のマネージドクロスリージョン災害復旧"
+          "title": "elbx が PyPI に追加されました"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$356.27",
+      "change": "+0.39%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-11-12",
-          "title": "Apple サポートコミュニティが閉鎖へ、DIY アドバイスが苦境に"
+          "date": "2026-11-13",
+          "title": "ニューヨークの抗議活動、公有地とデータセンター、AI エージェントの方言、その他: ResearchBuzz AI アップデート、2026 年 11 月 12 日"
         },
         {
-          "date": "2026-11-12",
-          "title": "Fstoppers がタッチスクリーン Macbook Pro をレビュー"
+          "date": "2026-11-13",
+          "title": "Google、物理的なホームロック用のデジタルウォレットキーで Apple に追いつく"
         },
         {
-          "date": "2026-11-11",
-          "title": "企業は AI をどのように利用して、より多くのお金を使わせるか"
+          "date": "2026-11-13",
+          "title": "新しい Apple TV 4K と Siri AI を体験してみる"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$162.85",
+      "change": "-2.01%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-11-12",
-          "title": "Naver は、北米およびその他の地域で 12 を超える AI データセンター顧客と提携しています。"
+          "date": "2026-11-13",
+          "title": "haru-speech が PyPI に追加されました"
         },
         {
-          "date": "2026-11-11",
-          "title": "Nvidia CEOのスキャンダルはさらに深まる、新たな報告書では同CEOが直属の幹部と再び不倫関係にあったと主張"
+          "date": "2026-11-13",
+          "title": "元OpenAI研究者は、6つの中国AIモデルが禁止されたNvidiaチップで構築されていたと語る"
         },
         {
-          "date": "2026-11-11",
-          "title": "Amazon SageMaker HyperPod でのサイレントデータ破損の検出と回復"
+          "date": "2026-11-13",
+          "title": "Red Hat クラウド拡張機能の紹介: 独自のインフラストラクチャ上の主権 AI クラウド"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$523.88",
+      "change": "+0.17%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
           "date": "2026-11-12",
-          "title": "ゼンアーキテクツ、2026 Microsoft Partner of the Year Awards「Innovate with Azure AI Apps and Agents」部門を受賞"
+          "title": "ハッカーが 4,800 の GitHub アカウントを侵害してクラウド認証情報を盗む"
         },
         {
-          "date": "2026-11-11",
-          "title": "HN を表示: Haumea、技術サポート用のエージェント ハーネス"
+          "date": "2026-11-12",
+          "title": "Microsoft クラウドの停止により、Outlook、Teams、Copilot、AI サービスが影響を受ける"
         },
         {
-          "date": "2026-11-11",
-          "title": "2026 年にシニア データ サイエンスの求人で実際に求められるもの"
+          "date": "2026-11-12",
+          "title": "22年前のPostgreSQLのバグがリモートでコード実行に発展"
         }
       ]
     }

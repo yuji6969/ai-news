@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -14,15 +14,15 @@
       "news": [
         {
           "date": "2026-11-13",
-          "title": "Nvidiaは、ジェンスン・ファン氏の退任前にAIバックストップを強化する圧力に直面していた"
+          "title": "億万長者の投資家ハワード・マークス氏は、AIの進歩のスピードはAnthropicとOpenAIにとってリスクであると語る"
         },
         {
-          "date": "2026-11-12",
-          "title": "フアン氏がエヌビディアを辞めたことで市場は混乱"
+          "date": "2026-11-13",
+          "title": "11 月 13 日金曜日のその他の Barks & Bites: 大手テクノロジー企業がインドネシアの AI 著作権法案に反対。"
         },
         {
-          "date": "2026-11-12",
-          "title": "木曜日のアルファベット株に何が起こっているのか？"
+          "date": "2026-11-13",
+          "title": "ウォール街の予測担当者らは、企業利益の落ち込みが2027年の株式市場の足かせになると予想している"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$641.69",
+      "change": "+2.90%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
+          "date": "2026-11-14",
+          "title": "中国はどのようにしてハニートラップをマスターしたか: Nvidia の社長ジェンセン・ファンが不倫が自分のキャリアを爆発させたと見ている中、私たちは中国がどのようにして西側の権力者の性欲を利用する新たな方法を見つけているかを明らかにします"
+        },
+        {
+          "date": "2026-11-14",
+          "title": "エヌビディアが4.3%下落し米国株が下落、テクノロジー株の新たな下落を引き起こす"
+        },
+        {
           "date": "2026-11-13",
-          "title": "fontes-mcp が PyPI に追加されました"
-        },
-        {
-          "date": "2026-11-12",
-          "title": "Nebius は、計画支出額 400 億ドルで neocloud プレイブックをテストします。"
-        },
-        {
-          "date": "2026-11-12",
-          "title": "Mount Thor が AI エージェント用の Mac データセンターを構築するために 4,500 万ドルを調達"
+          "title": "シリコンバレーの混沌の瞬間"
         }
       ]
     },
@@ -64,15 +64,15 @@
       "news": [
         {
           "date": "2026-11-13",
-          "title": "AWS における Java の AWS Graviton サポート 継続的なモダナイゼーションを変革する"
+          "title": "Amazon SageMaker Canvas を使用した GS Caltex でのプロダクション MLOps、パート 1"
         },
         {
           "date": "2026-11-13",
-          "title": "fontes-mcp が PyPI に追加されました"
+          "title": "NVIDIA NeMo Switchyard を使用して、コーディング エージェントのリクエストを Amazon Bedrock 上の適切なモデルにルーティングします。"
         },
         {
-          "date": "2026-11-12",
-          "title": "elbx が PyPI に追加されました"
+          "date": "2026-11-13",
+          "title": "Amazon Bedrock AgentCore ランタイムでの高速セッション起動のためのアーキテクチャ パターン"
         }
       ]
     },
@@ -88,16 +88,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-11-13",
-          "title": "ニューヨークの抗議活動、公有地とデータセンター、AI エージェントの方言、その他: ResearchBuzz AI アップデート、2026 年 11 月 12 日"
+          "date": "2026-11-14",
+          "title": "あなたのつまらない家をよりスマートにするガジェット"
         },
         {
           "date": "2026-11-13",
-          "title": "Google、物理的なホームロック用のデジタルウォレットキーで Apple に追いつく"
+          "title": "読者が今年購入した（現時点で）最も人気のあるタブレット 10 台 - ZDNET"
         },
         {
           "date": "2026-11-13",
-          "title": "新しい Apple TV 4K と Siri AI を体験してみる"
+          "title": "ジュリアン・ムーアとともにアカデミー賞主演女優賞を獲得するのは誰?"
         }
       ]
     },
@@ -113,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-11-13",
-          "title": "haru-speech が PyPI に追加されました"
+          "date": "2026-11-14",
+          "title": "Gigabyte が Nvidia Spark を搭載した AI ワークステーションを発表 — AI TOP AERO は、Blackwell アーキテクチャの GPU と最大 128 GB のメモリ (入手可能であれば) を組み合わせています"
+        },
+        {
+          "date": "2026-11-14",
+          "title": "sageattention-rocm が PyPI に追加されました"
         },
         {
           "date": "2026-11-13",
-          "title": "元OpenAI研究者は、6つの中国AIモデルが禁止されたNvidiaチップで構築されていたと語る"
-        },
-        {
-          "date": "2026-11-13",
-          "title": "Red Hat クラウド拡張機能の紹介: 独自のインフラストラクチャ上の主権 AI クラウド"
+          "title": "プルミ-ラボ-nvidia-aicr 0.4.0"
         }
       ]
     },
@@ -138,16 +138,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-11-12",
-          "title": "ハッカーが 4,800 の GitHub アカウントを侵害してクラウド認証情報を盗む"
+          "date": "2026-11-13",
+          "title": "Microsoft、Outlookの機能停止で電子メールのバックログが「正常に近づいている」と発表"
         },
         {
-          "date": "2026-11-12",
-          "title": "Microsoft クラウドの停止により、Outlook、Teams、Copilot、AI サービスが影響を受ける"
+          "date": "2026-11-13",
+          "title": "Microsoft のサービス停止によって引き起こされた世界規模の大虐殺: 影響について知っておくべきこと"
         },
         {
-          "date": "2026-11-12",
-          "title": "22年前のPostgreSQLのバグがリモートでコード実行に発展"
+          "date": "2026-11-13",
+          "title": "Microsoft の世界的な障害: 70 か国にわたる数時間の中断の後、ヨーロッパでサービスが徐々に復旧"
         }
       ]
     }

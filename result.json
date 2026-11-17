@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$295.77",
-      "change": "-0.98%",
+      "price": "$283.72",
+      "change": "-4.07%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
@@ -14,7 +14,7 @@
       "news": [
         {
           "date": "2026-11-14",
-          "title": "フアンのいない Nvidia: AI 取引の一時停止が金属に何を意味するか"
+          "title": "Nvidia Without Huang: What a Pause in AI Deals Means for Metals"
         },
         {
           "date": "2026-11-14",
@@ -22,7 +22,7 @@
         },
         {
           "date": "2026-11-14",
-          "title": "あなたは思っているほどオンラインでは見えませんか?"
+          "title": "Are You as Invisible Online as You Think? Not Unless You're Following Our Advice"
         }
       ]
     },
@@ -30,20 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$641.69",
-      "change": "+2.90%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$626.41",
+      "change": "-2.38%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-11-14",
-          "title": "フアン氏の退任報道を受け、コレット・クレス氏がNVIDIAの暫定CEOに就任"
+          "date": "2026-11-16",
+          "title": "Telus pulls out of two planned Vancouver AI data centres"
         },
         {
-          "date": "2026-11-14",
-          "title": "ウェブ上の今週の素晴らしいテクノロジー ストーリー (11 月 14 日まで)"
+          "date": "2026-11-16",
+          "title": "Jensen’s Part Time Lover"
+        },
+        {
+          "date": "2026-11-15",
+          "title": "What’s Next For Nvidia?"
         }
       ]
     },
@@ -51,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$266.66",
-      "change": "-0.29%",
+      "price": "$257.75",
+      "change": "-3.34%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-11-14",
-          "title": "カリフォルニア州農業都市の住民がICE施設とアマゾンのデータセンターに直面"
+          "date": "2026-11-15",
+          "title": "What’s Next For Nvidia?"
         },
         {
-          "date": "2026-11-13",
-          "title": "Amazon SageMaker Canvas を使用した GS Caltex でのプロダクション MLOps、パート 1"
+          "date": "2026-11-15",
+          "title": "Policy and Disclosure: 2026 Edition (Google Project Zero, 2026.11.13)"
         },
         {
-          "date": "2026-11-13",
-          "title": "NVIDIA NeMo Switchyard を使用してコーディング エージェント リクエストを Amazon Bedrock 上の適切なモデルにルーティングします"
+          "date": "2026-11-15",
+          "title": "(2026.11.16) (various)"
         }
       ]
     },
@@ -76,20 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$356.27",
-      "change": "+0.39%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$352.78",
+      "change": "-0.98%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-11-14",
-          "title": "ブラック フライデーの早期セールが Mac mini と Mac Studio に登場"
+          "date": "2026-11-16",
+          "title": "Asus ProArt P16 (H7607) Review: Nvidia RTX Spark Supercharges a Venerable Workstation Laptop"
         },
         {
-          "date": "2026-11-14",
-          "title": "最も人気のあるディズニー映画「きみが生まれた年」"
+          "date": "2026-11-16",
+          "title": "Have an Older iPhone? Here Are 6 Handy iOS 27 Features That Don't Require AI"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "Apple launches new app to study how people use AI for health"
         }
       ]
     },
@@ -97,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$162.85",
-      "change": "-2.01%",
+      "price": "$156.14",
+      "change": "-4.12%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-11-15",
-          "title": "ジェンセン・ファンの波瀾万丈な日々の概要"
+          "date": "2026-11-16",
+          "title": "South Korea secures Nvidia commitment for 260,000 GPUs amid CEO change"
         },
         {
-          "date": "2026-11-14",
-          "title": "NVIDIA は AI スタートアップに資金を提供して GPU を購入することで希少性を操作したとされる"
+          "date": "2026-11-16",
+          "title": "Asus ProArt P16 (H7607) Review: Nvidia RTX Spark Supercharges a Venerable Workstation Laptop"
         },
         {
-          "date": "2026-11-14",
-          "title": "NVIDIA は AI スタートアップに資金を提供して GPU を購入することで希少性を操作したとされる"
+          "date": "2026-11-16",
+          "title": "IIFCL tightens loan terms as Yotta's debt tops $1.4 billion"
         }
       ]
     },
@@ -122,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$523.88",
-      "change": "+0.17%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$517.99",
+      "change": "-1.12%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-11-14",
-          "title": "Show HN: ブートストラップされたスタートアップがクレジット プログラムから得られるもの"
+          "date": "2026-11-15",
+          "title": "What’s Next For Nvidia?"
+        },
+        {
+          "date": "2026-11-15",
+          "title": "Microsoft Outage Hits Windows Tools Worldwide, Disrupting Governments and Businesses"
         },
         {
           "date": "2026-11-14",
-          "title": "世界的な障害の後、Microsoft サービスが完全に復旧"
-        },
-        {
-          "date": "2026-11-14",
-          "title": "Microsoft、歴史的な障害により企業や政府が機能不全に陥った後、Outlook と Teams のサービスを復旧"
+          "title": "Show HN: What bootstrapped startups get from credit programs"
         }
       ]
     }

@@ -1,28 +1,28 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$283.72",
-      "change": "-4.07%",
+      "price": "$280.20",
+      "change": "-1.24%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-11-14",
-          "title": "Nvidia Without Huang: What a Pause in AI Deals Means for Metals"
+          "date": "2026-11-17",
+          "title": "カナダは、暗号化の弱体化を強制する可能性のあるカナダの法案をめぐって、メタ、アップル、アルファベット、シグナルからの反発に直面している"
         },
         {
-          "date": "2026-11-14",
-          "title": "Show HN: TriusLD – A Small Tokenizer for LLMs with Robust Multilingual Support"
+          "date": "2026-11-16",
+          "title": "ああ、AI はダメだ! "
         },
         {
-          "date": "2026-11-14",
-          "title": "Are You as Invisible Online as You Think? Not Unless You're Following Our Advice"
+          "date": "2026-11-16",
+          "title": "ホワイトハウス、AI開示促進のため責任緩和を要請"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$626.41",
-      "change": "-2.38%",
+      "price": "$618.87",
+      "change": "-1.20%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-11-16",
-          "title": "Telus pulls out of two planned Vancouver AI data centres"
+          "date": "2026-11-17",
+          "title": "米国ハイテク株の急落を受け、エヌビディアは4.1％下落。"
         },
         {
-          "date": "2026-11-16",
-          "title": "Jensen’s Part Time Lover"
+          "date": "2026-11-17",
+          "title": "カナダは、暗号化の弱体化を強制する可能性のあるカナダの法案をめぐって、メタ、アップル、アルファベット、シグナルからの反発に直面している"
         },
         {
-          "date": "2026-11-15",
-          "title": "What’s Next For Nvidia?"
+          "date": "2026-11-17",
+          "title": "ジェンセン・ファン氏の失脚後、オープンソースAIの将来は危機に瀕している：情報筋"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$257.75",
-      "change": "-3.34%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$257.89",
+      "change": "+0.05%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-11-15",
-          "title": "What’s Next For Nvidia?"
+          "date": "2026-11-17",
+          "title": "Amazon CloudWatch と 7AI を使用して、適切なセキュリティ データを調査する"
         },
         {
-          "date": "2026-11-15",
-          "title": "Policy and Disclosure: 2026 Edition (Google Project Zero, 2026.11.13)"
+          "date": "2026-11-17",
+          "title": "Banco BMG が AWS DevOps Agent を使用してリアクティブな運用から自律的な運用に移行した方法"
         },
         {
-          "date": "2026-11-15",
-          "title": "(2026.11.16) (various)"
+          "date": "2026-11-16",
+          "title": "プラウラー v5.50.0"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$352.78",
-      "change": "-0.98%",
+      "price": "$351.91",
+      "change": "-0.25%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-11-16",
-          "title": "Asus ProArt P16 (H7607) Review: Nvidia RTX Spark Supercharges a Venerable Workstation Laptop"
+          "date": "2026-11-17",
+          "title": "メムはシャットダウン中"
         },
         {
-          "date": "2026-11-16",
-          "title": "Have an Older iPhone? Here Are 6 Handy iOS 27 Features That Don't Require AI"
+          "date": "2026-11-17",
+          "title": "iCloud+ を持たないユーザーに対する Apple Intelligence と Siri AI の制限"
         },
         {
-          "date": "2026-11-16",
-          "title": "Apple launches new app to study how people use AI for health"
+          "date": "2026-11-17",
+          "title": "iOS 27.3 Beta 2のすべての新機能"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$156.14",
-      "change": "-4.12%",
+      "price": "$155.46",
+      "change": "-0.44%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-11-16",
-          "title": "South Korea secures Nvidia commitment for 260,000 GPUs amid CEO change"
+          "date": "2026-11-17",
+          "title": "Nvidia Vera Rubin の展開は 2027 年第 1 四半期まで順調に進んでいると ODM が語る"
         },
         {
-          "date": "2026-11-16",
-          "title": "Asus ProArt P16 (H7607) Review: Nvidia RTX Spark Supercharges a Venerable Workstation Laptop"
+          "date": "2026-11-17",
+          "title": "Show HN: BF16 タイリングにより A40 で 1.499 倍のスピードアップと 28.5% の動的エネルギー低下"
         },
         {
-          "date": "2026-11-16",
-          "title": "IIFCL tightens loan terms as Yotta's debt tops $1.4 billion"
+          "date": "2026-11-17",
+          "title": "Nvidia が Vera Rubin の結果で 7 つの AI トレーニング ベンチマークをリード"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$517.99",
-      "change": "-1.12%",
+      "price": "$506.24",
+      "change": "-2.27%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-11-15",
-          "title": "What’s Next For Nvidia?"
+          "date": "2026-11-16",
+          "title": "AI クラウド – マネージド サービスとベアメタルの比較"
         },
         {
-          "date": "2026-11-15",
-          "title": "Microsoft Outage Hits Windows Tools Worldwide, Disrupting Governments and Businesses"
+          "date": "2026-11-16",
+          "title": "Talk Python to Me: #569: MCP、CLI などを介してエージェントをデータに接続する"
         },
         {
-          "date": "2026-11-14",
-          "title": "Show HN: What bootstrapped startups get from credit programs"
+          "date": "2026-11-16",
+          "title": "llm-finops-gateway が PyPI に追加されました"
         }
       ]
     }

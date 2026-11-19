@@ -1,28 +1,28 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$280.20",
-      "change": "-1.24%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$282.44",
+      "change": "+0.80%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
           "date": "2026-11-17",
-          "title": "カナダは、暗号化の弱体化を強制する可能性のあるカナダの法案をめぐって、メタ、アップル、アルファベット、シグナルからの反発に直面している"
+          "title": "Should I buy the NDQ ETF after its 10% drop?"
         },
         {
-          "date": "2026-11-16",
-          "title": "ああ、AI はダメだ! "
+          "date": "2026-11-17",
+          "title": "Anthropic is about to have the biggest IPO of all time: Is it too late to buy in?"
         },
         {
-          "date": "2026-11-16",
-          "title": "ホワイトハウス、AI開示促進のため責任緩和を要請"
+          "date": "2026-11-17",
+          "title": "Anthropic's IPO set for blastoff this week in key test for AI boom"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$618.87",
-      "change": "-1.20%",
+      "price": "$616.38",
+      "change": "-0.40%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-11-17",
-          "title": "米国ハイテク株の急落を受け、エヌビディアは4.1％下落。"
+          "date": "2026-11-18",
+          "title": "Breitbart Business Digest: Nvidia Is Less Important to the U.S. Economy Than the Tech Bros Think"
         },
         {
           "date": "2026-11-17",
-          "title": "カナダは、暗号化の弱体化を強制する可能性のあるカナダの法案をめぐって、メタ、アップル、アルファベット、シグナルからの反発に直面している"
+          "title": "Interior Secretary’s Calendars Dominated by Big Oil and Big Tech, Analysis Finds"
         },
         {
           "date": "2026-11-17",
-          "title": "ジェンセン・ファン氏の失脚後、オープンソースAIの将来は危機に瀕している：情報筋"
+          "title": "Nvidia’s Earnings Call Is the AI Economy’s Next Stress Test"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$257.89",
-      "change": "+0.05%",
+      "price": "$267.74",
+      "change": "+3.82%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-11-17",
-          "title": "Amazon CloudWatch と 7AI を使用して、適切なセキュリティ データを調査する"
+          "date": "2026-11-18",
+          "title": "Amazon Is Giving Its Patient-Facing AI Agents More to Do"
         },
         {
           "date": "2026-11-17",
-          "title": "Banco BMG が AWS DevOps Agent を使用してリアクティブな運用から自律的な運用に移行した方法"
+          "title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference"
         },
         {
-          "date": "2026-11-16",
-          "title": "プラウラー v5.50.0"
+          "date": "2026-11-17",
+          "title": "Reduce the complexity and cost of real-time processing with queues in Amazon Kinesis Data Streams"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$351.91",
-      "change": "-0.25%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$352.45",
+      "change": "+0.15%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-11-17",
-          "title": "メムはシャットダウン中"
+          "date": "2026-11-18",
+          "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites"
         },
         {
-          "date": "2026-11-17",
-          "title": "iCloud+ を持たないユーザーに対する Apple Intelligence と Siri AI の制限"
+          "date": "2026-11-18",
+          "title": "MacBreak Weekly 1051: Trouseraloons"
         },
         {
-          "date": "2026-11-17",
-          "title": "iOS 27.3 Beta 2のすべての新機能"
+          "date": "2026-11-18",
+          "title": "Megyn Kelly says escalating outages are part of 'test run' for huge cyber attack, as she accuses government of cover-up"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$155.46",
-      "change": "-0.44%",
+      "price": "$150.96",
+      "change": "-2.89%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-11-17",
-          "title": "Nvidia Vera Rubin の展開は 2027 年第 1 四半期まで順調に進んでいると ODM が語る"
+          "date": "2026-11-18",
+          "title": "NVIDIA GPU Rental Prices Have Doubled, Asserts Interim CEO Kress As She Reports A Whopping $309 Billion In Supply Commitments Fueled By Pricey Memory Chips"
         },
         {
-          "date": "2026-11-17",
-          "title": "Show HN: BF16 タイリングにより A40 で 1.499 倍のスピードアップと 28.5% の動的エネルギー低下"
+          "date": "2026-11-18",
+          "title": "Nvidia expands manufacturing capacity with suppliers to meet AI demand"
         },
         {
-          "date": "2026-11-17",
-          "title": "Nvidia が Vera Rubin の結果で 7 つの AI トレーニング ベンチマークをリード"
+          "date": "2026-11-18",
+          "title": "Nvidia Stops Shipping H200s to Customers in China"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$506.24",
-      "change": "-2.27%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$508.29",
+      "change": "+0.40%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-11-16",
-          "title": "AI クラウド – マネージド サービスとベアメタルの比較"
+          "date": "2026-11-18",
+          "title": "\"Parlay tech advances into real outcomes\": Microsoft CEO Satya Nadella unveils new models for coding, cybersecurity"
         },
         {
-          "date": "2026-11-16",
-          "title": "Talk Python to Me: #569: MCP、CLI などを介してエージェントをデータに接続する"
+          "date": "2026-11-18",
+          "title": "Microsoft Ignite 2026: Managed Intelligence and the AI Adult"
         },
         {
-          "date": "2026-11-16",
-          "title": "llm-finops-gateway が PyPI に追加されました"
+          "date": "2026-11-17",
+          "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT"
         }
       ]
     }

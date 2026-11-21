@@ -1,24 +1,28 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$272.66",
-      "change": "-3.46%",
+      "price": "$265.29",
+      "change": "-2.70%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-11-19",
-          "title": "Anthropic IPO: 史上最大の株式公開で最も利益を得るのは誰ですか?"
+          "date": "2026-11-20",
+          "title": "1,073億ドルのIPOが記録を更新し、アンスロピック株が21％上昇"
         },
         {
-          "date": "2026-11-18",
-          "title": "Anthropic、IPO価格は1株当たり83ドル、AI巨人の評価額は1兆5100億ドル"
+          "date": "2026-11-20",
+          "title": "ブライトバート ビジネス ダイジェスト: Anthropic の IPO はフラット サークル"
+        },
+        {
+          "date": "2026-11-19",
+          "title": "クレイマー: 私のお気に入りのチャーティストは、アルファベット株の上昇の2つの大きな兆候を見ている"
         }
       ]
     },
@@ -26,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$nan",
-      "change": "+nan%",
+      "price": "$560.84",
+      "change": "-5.93%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-11-18",
-          "title": "115 団体連合がデータセンターの公共用地の即時一時停止を要求"
+          "date": "2026-11-20",
+          "title": "不安定な状況：これら11人のインド人MFは米国のハイテク株の下落に最もさらされている"
         },
         {
-          "date": "2026-11-18",
-          "title": "CoreWeave、Oracle CDSに対する大きな賭けは間もなくETF市場に参入する可能性がある"
+          "date": "2026-11-19",
+          "title": "ウォール街の記録を破るAnthropicの大規模IPOについて知っておくべきこと"
         },
         {
-          "date": "2026-11-18",
-          "title": "インテルの人員削減：新たな人員削減がチップメーカーに打撃、リップ・ブー・タンがリストラ強化で従業員数は8万1100人に減少"
+          "date": "2026-11-19",
+          "title": "ブロードコムは、2027 会計年度までに AI チップの収益が 1,150 億ドルになると予想"
         }
       ]
     },
@@ -51,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$257.37",
-      "change": "-3.87%",
+      "price": "$246.82",
+      "change": "-4.10%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-11-19",
-          "title": "AWS Glue ジョブの自動バージョンアップグレードの導入"
+          "date": "2026-11-20",
+          "title": "Amazon SageMaker Inference: 2026 年リリースのレビュー、パート 2"
+        },
+        {
+          "date": "2026-11-20",
+          "title": "Amazon Bedrock のモデルで Family Code CLI を使用する"
         },
         {
           "date": "2026-11-19",
-          "title": "SageMaker AI サーバーレス モデルのカスタマイズでの完全な微調整 (FFT)"
-        },
-        {
-          "date": "2026-11-18",
-          "title": "Exa は、AWS AI チップ上の数十億のドキュメントのインデックスを作成するため、埋め込みスループットを 50% 向上させます"
+          "title": "AI エージェントが Amazon Bedrock AgentCore 支払いを使用して AWS Marketplace x402 製品の支払いをできるようにする"
         }
       ]
     },
@@ -76,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$349.21",
-      "change": "-0.92%",
+      "price": "$342.56",
+      "change": "-1.90%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-11-19",
-          "title": "Siri Modular Apple Watch フェイスは watchOS 27.3 で 2 つの新しいスタイルを追加"
+          "date": "2026-11-20",
+          "title": "Vivo V80 マレーシア: 144Hz AMOLED スクリーン、ZEISS カメラ、7,200mAh バッテリー、RM2,399 から入手可能"
         },
         {
-          "date": "2026-11-18",
-          "title": "ソフトウェア会社はホームコンピューティングを殺そうとしている"
+          "date": "2026-11-20",
+          "title": "Muse Charmガジェットの価格を300ドルにするメタ：情報"
         },
         {
-          "date": "2026-11-18",
-          "title": "Final Cut Pro 13 — 詳細"
+          "date": "2026-11-20",
+          "title": "Huawei Nova 16s および Nova 16s Pro がマレーシアで販売開始、リベート後の価格は RM1,999 か​​ら"
         }
       ]
     },
@@ -101,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$145.98",
-      "change": "-3.30%",
+      "price": "$125.53",
+      "change": "-14.01%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-11-19",
-          "title": "AI により 9 四半期連続で収益成長が加速し、Everpure が予想を上回る"
+          "date": "2026-11-20",
+          "title": "RTX 5070 をわずか 839.99 ドルで入手できます。GPU の荒れ地ではまれな節約です"
+        },
+        {
+          "date": "2026-11-20",
+          "title": "Amazon SageMaker Inference: 2026 年リリースのレビュー、パート 2"
         },
         {
           "date": "2026-11-19",
-          "title": "イーロン・マスク氏、NVIDIAのジェンセン・ファン氏の代わりは誰もできないと語る"
-        },
-        {
-          "date": "2026-11-18",
-          "title": "Amazon SageMaker HyperPod でのワークロード回復と拡張インフラストラクチャチェックの導入"
+          "title": "SC26 ラウンドアップ: TOP500 の売上高は過去最低、Supermicro は PCIe Gen6 フラッシュを出荷、VAST はジョブレベルの QoS を追加"
         }
       ]
     },
@@ -126,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$498.30",
-      "change": "-1.78%",
+      "price": "$484.52",
+      "change": "-2.77%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-11-18",
-          "title": "米議員らはバイトダンスとのAI取引協議の報道についてマイクロソフトに説明を求めている"
+          "date": "2026-11-19",
+          "title": "xbasis が PyPI に追加されました"
         },
         {
-          "date": "2026-11-18",
-          "title": "Nvidia の混乱がどのようにしてあなたに影響を与えるか"
+          "date": "2026-11-19",
+          "title": "PyPI 上の Microsoft の公式エージェント フレームワーク Python パッケージがハイジャックされ、ログインを盗むマルウェアをプッシュ"
         },
         {
-          "date": "2026-11-18",
-          "title": "Microsoftの5億ドルのByteDance取引がOpenAIを落胆させる"
+          "date": "2026-11-19",
+          "title": "サティア・ナデラ氏、Microsoftは世界的なサービス停止の前にOutlookのバグを発見すべきだったと「認める」"
         }
       ]
     }

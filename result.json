@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "stocks": [
     {
       "name": "Google (Alphabet)",
@@ -13,16 +13,16 @@
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-11-20",
-          "title": "1,073億ドルのIPOが記録を更新し、アンスロピック株が21％上昇"
+          "date": "2026-11-21",
+          "title": "Nvidia のスコアは 14%、2008 年 7 月に達成されました。"
         },
         {
           "date": "2026-11-20",
-          "title": "ブライトバート ビジネス ダイジェスト: Anthropic の IPO はフラット サークル"
+          "title": "Nvidiaの混乱と青い津波が投資家を怖がらせ、AI株の暴動はさらに困難に"
         },
         {
-          "date": "2026-11-19",
-          "title": "クレイマー: 私のお気に入りのチャーティストは、アルファベット株の上昇の2つの大きな兆候を見ている"
+          "date": "2026-11-20",
+          "title": "Google 従業員は学校が AI なしで検索を続けることを望んでいる"
         }
       ]
     },
@@ -39,15 +39,15 @@
       "news": [
         {
           "date": "2026-11-20",
-          "title": "不安定な状況：これら11人のインド人MFは米国のハイテク株の下落に最もさらされている"
+          "title": "ナスダックは終値で1,200ポイント暴落し、2026年の上昇分を帳消しにした。 "
         },
         {
-          "date": "2026-11-19",
-          "title": "ウォール街の記録を破るAnthropicの大規模IPOについて知っておくべきこと"
+          "date": "2026-11-20",
+          "title": "トランプ大統領、米国企業が海外にAIデータセンターを建設することを禁止すると脅迫"
         },
         {
-          "date": "2026-11-19",
-          "title": "ブロードコムは、2027 会計年度までに AI チップの収益が 1,150 億ドルになると予想"
+          "date": "2026-11-20",
+          "title": "ナスダックは2026年の上昇分を消去。"
         }
       ]
     },
@@ -63,16 +63,16 @@
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-11-20",
-          "title": "Amazon SageMaker Inference: 2026 年リリースのレビュー、パート 2"
+          "date": "2026-11-21",
+          "title": "AWS Quick の新機能: より高機能なフロー、最新の Web エクスペリエンス、連携するエージェント"
         },
         {
-          "date": "2026-11-20",
-          "title": "Amazon Bedrock のモデルで Family Code CLI を使用する"
+          "date": "2026-11-21",
+          "title": "分散 KV キャッシュ エージェント スキルでセルフホスト型 LLM のコストと遅延を削減"
         },
         {
-          "date": "2026-11-19",
-          "title": "AI エージェントが Amazon Bedrock AgentCore 支払いを使用して AWS Marketplace x402 製品の支払いをできるようにする"
+          "date": "2026-11-21",
+          "title": "トランプ大統領、海外にデータセンターを建設する米国企業に課税する計画を発表"
         }
       ]
     },
@@ -88,16 +88,16 @@
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-11-20",
-          "title": "Vivo V80 マレーシア: 144Hz AMOLED スクリーン、ZEISS カメラ、7,200mAh バッテリー、RM2,399 から入手可能"
+          "date": "2026-11-21",
+          "title": "社内レビュー #1​​84: Paper Tiger、Tender Loving Care、Elsinore、Madden など |"
+        },
+        {
+          "date": "2026-11-21",
+          "title": "Apple 2025 13 インチ iPad Pro (Wi-Fi + Cellular、2TB $3,322.83 (希望小売価格 $4,899) Amazon AU で配送)"
         },
         {
           "date": "2026-11-20",
-          "title": "Muse Charmガジェットの価格を300ドルにするメタ：情報"
-        },
-        {
-          "date": "2026-11-20",
-          "title": "Huawei Nova 16s および Nova 16s Pro がマレーシアで販売開始、リベート後の価格は RM1,999 か​​ら"
+          "title": "iOS 27では同じ電話番号で2台のiPhoneを使用できるようになる"
         }
       ]
     },
@@ -113,16 +113,16 @@
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-11-20",
-          "title": "RTX 5070 をわずか 839.99 ドルで入手できます。GPU の荒れ地ではまれな節約です"
+          "date": "2026-11-21",
+          "title": "YTLパワーは中国によるNvidia GPU入手への支援を否定、データセンターは米国の規制の影響を受けないと語る"
         },
         {
           "date": "2026-11-20",
-          "title": "Amazon SageMaker Inference: 2026 年リリースのレビュー、パート 2"
+          "title": "Nvidia の Colette Kress がノーストリング A.I. の終わりを告げる"
         },
         {
-          "date": "2026-11-19",
-          "title": "SC26 ラウンドアップ: TOP500 の売上高は過去最低、Supermicro は PCIe Gen6 フラッシュを出荷、VAST はジョブレベルの QoS を追加"
+          "date": "2026-11-20",
+          "title": "Amazon SageMaker HyperPod Slurm での可観測性とユーザー管理のためのマネージドクラスター拡張機能の導入"
         }
       ]
     },
@@ -138,16 +138,16 @@
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-11-19",
-          "title": "xbasis が PyPI に追加されました"
+          "date": "2026-11-20",
+          "title": "Nvidiaのライバル企業さえもJensen HuangのRubinチップを購入している"
         },
         {
-          "date": "2026-11-19",
-          "title": "PyPI 上の Microsoft の公式エージェント フレームワーク Python パッケージがハイジャックされ、ログインを盗むマルウェアをプッシュ"
+          "date": "2026-11-20",
+          "title": "Anthropic は上場しますが、AI 業界を救うには遅すぎますか?"
         },
         {
-          "date": "2026-11-19",
-          "title": "サティア・ナデラ氏、Microsoftは世界的なサービス停止の前にOutlookのバグを発見すべきだったと「認める」"
+          "date": "2026-11-20",
+          "title": "Microsoft、OpenAI アクセスが失われる可能性に備えてチームを準備"
         }
       ]
     }

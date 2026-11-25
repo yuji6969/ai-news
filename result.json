@@ -1,28 +1,28 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$282.10",
-      "change": "+6.34%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$279.05",
+      "change": "-1.08%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-11-22",
-          "title": "AIバブルはもう崩壊したのか？"
+          "date": "2026-11-24",
+          "title": "Nvidiaの取締役会はトランプ氏やジェンセン・ファン氏の強力な支援者には太刀打ちできなかった"
         },
         {
-          "date": "2026-11-22",
-          "title": "カナダの Google: 2026 年はどのようにして AI が日常のビジネスに進出した年になったのか"
+          "date": "2026-11-24",
+          "title": "Nvidiaの取締役会はトランプ氏やジェンスン・ファン氏の支持者に太刀打ちできなかった"
         },
         {
-          "date": "2026-11-22",
-          "title": "Microsoft が Azure の報酬モデルを全面的に見直し: 誰が追加株式を取得し、誰が精査に直面するのか?"
+          "date": "2026-11-23",
+          "title": "Nvidia の CEO が復帰 – しかし混乱により、ニュージーランドの投資家にとって AI ブームのリスクが明らかになった"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$597.60",
-      "change": "+6.55%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$589.82",
+      "change": "-1.30%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
+          "date": "2026-11-24",
+          "title": "アルバータ州、データセンターの設置場所に対する新たな制限を提案"
+        },
+        {
+          "date": "2026-11-24",
+          "title": "歴史的な上昇相場でウォール街はパニックから高揚感に揺れる – ナスダックは急騰、ダウジョーンズは1,450ポイント上昇"
+        },
+        {
           "date": "2026-11-23",
-          "title": "AIの大虐殺が続く中、TCS、インフォシス、ウィプロ、その他のIT株は最大3%上昇。"
-        },
-        {
-          "date": "2026-11-22",
-          "title": "S&P500指数は10月以来11％以上下落した。 "
-        },
-        {
-          "date": "2026-11-22",
-          "title": "「タイミングの不一致」: データセンターの電力需要は年間 19% 増加しています。"
+          "title": "Supertake が 2,000 万ドルを調達し、AI エージェントが市場予測を株式ポートフォリオに変換できるようにする"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$255.39",
-      "change": "+3.47%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$252.29",
+      "change": "-1.21%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
+          "date": "2026-11-24",
+          "title": "Enterprise Frontier Safeguards によるゼロデータ保持機能は現在ベータ版です"
+        },
+        {
+          "date": "2026-11-24",
+          "title": "Amazon、AIスタートアップDecartの主要資産を75億ドルで買収"
+        },
+        {
           "date": "2026-11-23",
-          "title": "分析:欧州のクラウド主権推進が勢いを増すも、依然として米国のハイパースケーラーが優勢"
-        },
-        {
-          "date": "2026-11-22",
-          "title": "米国のテクノロジー不況: FBI の侵害と企業の機能停止により、米国のデジタル システムの脆弱性が明らかになる"
-        },
-        {
-          "date": "2026-11-22",
-          "title": "2028 年には人類電力の 87% がガス、11% が石炭になる"
+          "title": "アジアでは AI の導入が進んでいますが、その効果を測定するのは依然として困難です"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$349.08",
-      "change": "+1.90%",
+      "price": "$354.07",
+      "change": "+1.43%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-11-23",
-          "title": "✨AIを追加するだけ✨"
+          "date": "2026-11-24",
+          "title": "VideoProc で写真/ビデオのノイズ除去と強化 (ブラック フライデー セール)"
         },
         {
-          "date": "2026-11-23",
-          "title": "ベスト Web ホスティング ブラック フライデーの割引と割引 – 2026 年版"
+          "date": "2026-11-24",
+          "title": "Motorola Signature 27: 実績のある機能を備えた最高のプレミアムデザイン"
         },
         {
-          "date": "2026-11-23",
-          "title": "Amazon Echo Dot (第 6 世代、2026) レビュー: 価格が 2 倍、スピーカーが 2 倍ではない"
+          "date": "2026-11-24",
+          "title": "グウィネス・パルトロウ、夫のブラッド・ファルチャックとハンプトンズで散歩、グウィネス・パルトロウはグープの解雇後の女優復帰に向けて準備中"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$165.05",
-      "change": "+31.48%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$155.38",
+      "change": "-5.86%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-11-23",
-          "title": "L&T、チェンナイに AI クラスターを導入するために ₹5,000 億相当の大型注文を受注"
+          "date": "2026-11-24",
+          "title": "Nvidia の SSD 書き込みバグ用ドライバー ホットフィックスでは問題が解決されませんでした"
         },
         {
-          "date": "2026-11-23",
-          "title": "L&T は、LTN Compute を通じてチェンナイ AI キャンパスに NVIDIA B300 GPU を導入するため、2,500 億から 5,000 億ルピーの大型注文を受注"
+          "date": "2026-11-24",
+          "title": "RTX 5060 Ti または RTX PRO 4000 グラフィックスを搭載した Core Ultra 7 mini PC"
         },
         {
-          "date": "2026-11-23",
-          "title": "米国の輸出規制を受けて、NVIDIAサーバーパートナーが東南アジアへの出荷を一時停止"
+          "date": "2026-11-24",
+          "title": "分析：ジェンスン・ファン氏の復帰により、Nvidiaへの依存を巡って中国のAI業界が二分される"
         }
       ]
     },
@@ -130,13 +130,17 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$492.50",
-      "change": "+1.65%",
+      "price": "$496.13",
+      "change": "+0.74%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
+        {
+          "date": "2026-11-23",
+          "title": "sixi-scanner が PyPI に追加されました"
+        },
         {
           "date": "2026-11-22",
           "title": "安全保障問題 AI サイバーセキュリティ ニュースレター 第 9 回"
@@ -144,10 +148,6 @@
         {
           "date": "2026-11-21",
           "title": "マイクロソフト株を買うのに良い時期ですか? "
-        },
-        {
-          "date": "2026-11-21",
-          "title": "Amazon、Google、Microsoft、Meta、Oracle: 支出額が 7,000 億ドルを超え、AI を最も活用している 5 社"
         }
       ]
     }

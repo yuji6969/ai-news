@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$279.05",
-      "change": "-1.08%",
+      "price": "$273.10",
+      "change": "-2.13%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-04-29",
@@ -14,15 +14,15 @@
       "news": [
         {
           "date": "2026-11-24",
-          "title": "Nvidiaの取締役会はトランプ氏やジェンセン・ファン氏の強力な支援者には太刀打ちできなかった"
+          "title": "ジム・クレイマー氏は、火曜日の市場の反動は心強い兆候だと語った。"
         },
         {
           "date": "2026-11-24",
-          "title": "Nvidiaの取締役会はトランプ氏やジェンスン・ファン氏の支持者に太刀打ちできなかった"
+          "title": "Anthropic の IPO は、AI の膨大な支出が報われるかどうかをテストする – Generate Wealth Weekly"
         },
         {
-          "date": "2026-11-23",
-          "title": "Nvidia の CEO が復帰 – しかし混乱により、ニュージーランドの投資家にとって AI ブームのリスクが明らかになった"
+          "date": "2026-11-24",
+          "title": "ジェンセン・ファン氏の Nvidia 復帰: 大きな勝者と敗者は誰ですか?"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$589.82",
-      "change": "-1.30%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$609.89",
+      "change": "+3.40%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
           "date": "2026-11-24",
-          "title": "アルバータ州、データセンターの設置場所に対する新たな制限を提案"
+          "title": "Meta、ナイジェリアなどへの70万ドルのAI支援を発表"
         },
         {
           "date": "2026-11-24",
-          "title": "歴史的な上昇相場でウォール街はパニックから高揚感に揺れる – ナスダックは急騰、ダウジョーンズは1,450ポイント上昇"
+          "title": "ジェンセン・ファンは心配していません。"
         },
         {
-          "date": "2026-11-23",
-          "title": "Supertake が 2,000 万ドルを調達し、AI エージェントが市場予測を株式ポートフォリオに変換できるようにする"
+          "date": "2026-11-24",
+          "title": "Nvidiaのトップ「バンカー」の復帰でAI債券市場が震撼"
         }
       ]
     },
@@ -55,8 +55,8 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$252.29",
-      "change": "-1.21%",
+      "price": "$244.43",
+      "change": "-3.12%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-01",
@@ -64,15 +64,15 @@
       "news": [
         {
           "date": "2026-11-24",
-          "title": "Enterprise Frontier Safeguards によるゼロデータ保持機能は現在ベータ版です"
+          "title": "AWS re:Invent 2026 with Intel: Xeon Inference、ローカルクラウド、WorkSpaces セッションがリストに追加"
         },
         {
           "date": "2026-11-24",
-          "title": "Amazon、AIスタートアップDecartの主要資産を75億ドルで買収"
+          "title": "Amazon OpenSearch サーバーレスがアフリカ (ケープタウン) リージョンで利用可能になりました"
         },
         {
-          "date": "2026-11-23",
-          "title": "アジアでは AI の導入が進んでいますが、その効果を測定するのは依然として困難です"
+          "date": "2026-11-24",
+          "title": "Amazon Cognito トークン交換を使用してユーザーのアクセスを AI エージェントに委任する"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$354.07",
-      "change": "+1.43%",
+      "price": "$355.58",
+      "change": "+0.43%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-11-24",
-          "title": "VideoProc で写真/ビデオのノイズ除去と強化 (ブラック フライデー セール)"
+          "date": "2026-11-25",
+          "title": "Apple Wallet の最大のライバルである Google Wallet がついに iOS で利用可能に - 残念な落とし穴もある"
+        },
+        {
+          "date": "2026-11-25",
+          "title": "Adobe は AI と戦うことができず、AI に加わった (そしてなぜ私たちがパニックに陥る必要はないのか)"
         },
         {
           "date": "2026-11-24",
-          "title": "Motorola Signature 27: 実績のある機能を備えた最高のプレミアムデザイン"
-        },
-        {
-          "date": "2026-11-24",
-          "title": "グウィネス・パルトロウ、夫のブラッド・ファルチャックとハンプトンズで散歩、グウィネス・パルトロウはグープの解雇後の女優復帰に向けて準備中"
+          "title": "Apple Mail、iOS 27で4つの便利な新機能を追加"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$155.38",
-      "change": "-5.86%",
+      "price": "$149.30",
+      "change": "-3.91%",
       "change_icon": "📉",
       "positive": false,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-11-24",
-          "title": "Nvidia の SSD 書き込みバグ用ドライバー ホットフィックスでは問題が解決されませんでした"
+          "date": "2026-11-25",
+          "title": "一看懂在黃仁勳閃辭的這11天裡 美國對中國半導体業布下怎樣的天羅地網"
         },
         {
-          "date": "2026-11-24",
-          "title": "RTX 5060 Ti または RTX PRO 4000 グラフィックスを搭載した Core Ultra 7 mini PC"
+          "date": "2026-11-25",
+          "title": "モデルはサンドボックス化されているにもかかわらず推論サーバー経由で通信できる"
         },
         {
-          "date": "2026-11-24",
-          "title": "分析：ジェンスン・ファン氏の復帰により、Nvidiaへの依存を巡って中国のAI業界が二分される"
+          "date": "2026-11-25",
+          "title": "ジェンスン・ファン氏が Nvidia に復帰、中国のエンタープライズ SSD 回収は依然として GPU 不足の人質となっている"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$496.13",
-      "change": "+0.74%",
-      "change_icon": "📈",
-      "positive": true,
+      "price": "$489.93",
+      "change": "-1.25%",
+      "change_icon": "📉",
+      "positive": false,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-11-23",
-          "title": "sixi-scanner が PyPI に追加されました"
+          "date": "2026-11-24",
+          "title": "Microsoft Ignite 2026 – より良い成果を上げるための約束"
         },
         {
-          "date": "2026-11-22",
-          "title": "安全保障問題 AI サイバーセキュリティ ニュースレター 第 9 回"
+          "date": "2026-11-24",
+          "title": "Elastic により、AI エージェントが SOC アラート バックログに対処できるようになります"
         },
         {
-          "date": "2026-11-21",
-          "title": "マイクロソフト株を買うのに良い時期ですか? "
+          "date": "2026-11-24",
+          "title": "HN を表示: NexQ – メモからの回答を含むライブ通話の文字起こし"
         }
       ]
     }

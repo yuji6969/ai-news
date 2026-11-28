@@ -1,28 +1,28 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "stocks": [
     {
       "name": "Google (Alphabet)",
       "ticker": "GOOGL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:GOOGL&interval=D",
-      "price": "$273.10",
-      "change": "-2.13%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$274.96",
+      "change": "+0.68%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "GeminiとGoogle Cloudの競争力",
       "news": [
         {
-          "date": "2026-11-25",
-          "title": "AIの敗走、関税の脅威、インフレデータがウォール街の大手テクノロジー企業に打撃を与える中、マイクロソフト株は3％以上下落"
+          "date": "2026-11-26",
+          "title": "中国企業が東南アジアでチップ制裁を回避する方法"
+        },
+        {
+          "date": "2026-11-26",
+          "title": "なぜアルファベットの株価は下落しているのでしょうか？"
         },
         {
           "date": "2026-11-25",
-          "title": "Googleデバイス担当責任者のリック・オスターロー氏、Google DeepMindへの3か月前の投稿に対して「完全に間違っている」との返答"
-        },
-        {
-          "date": "2026-11-25",
-          "title": "Nvidiaの回復がビッグテック支出の圧迫を覆い隠す中、AI負債の懸念が高まる"
+          "title": "AIの敗走、関税の脅威、インフレデータが大手テクノロジー企業をウォール街に打撃を与える中、マイクロソフト株は3％以上下落"
         }
       ]
     },
@@ -30,24 +30,24 @@
       "name": "Meta",
       "ticker": "META",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:META&interval=D",
-      "price": "$609.89",
-      "change": "+3.40%",
+      "price": "$628.96",
+      "change": "+3.13%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-29",
       "points": "AI投資額・広告収益・LLaMAの進捗",
       "news": [
         {
-          "date": "2026-11-26",
-          "title": "マイクロドラマの収益は200億ドルに達したが、中国国外での利益は依然として低迷 – MPAレポート"
+          "date": "2026-11-27",
+          "title": "游戏と影視の後、儒意集团腾讯进军AI服务"
         },
         {
           "date": "2026-11-26",
-          "title": "マイクロドラマの収益は2026年に200億ドルに達するが、中国以外での利益は依然として薄いことがメディア・パートナーズ・アジアのレポートで判明"
+          "title": "JERA、デルとRHAELMと協力して発電所の横にAIデータセンターを計画"
         },
         {
           "date": "2026-11-26",
-          "title": "AIバブルが崩壊したらどうなるでしょうか？ "
+          "title": "自分のお金で買いたい 160 件の話題のブラック フライデー セール"
         }
       ]
     },
@@ -55,24 +55,24 @@
       "name": "Amazon",
       "ticker": "AMZN",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AMZN&interval=D",
-      "price": "$244.43",
-      "change": "-3.12%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$254.12",
+      "change": "+3.96%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-01",
       "points": "AWS（クラウド）のAI需要",
       "news": [
         {
-          "date": "2026-11-25",
-          "title": "ICYMI: 2026 年 10 月 @AWS セキュリティ"
+          "date": "2026-11-26",
+          "title": "日本のJERAはAIのパワー不足をめぐってアマゾン、マイクロソフト、グーグルと協議中"
         },
         {
-          "date": "2026-11-25",
-          "title": "エンタープライズ管理の認証による AWS への安全なエージェント アクセス"
+          "date": "2026-11-26",
+          "title": "Rvoip 0.5 Rust の完全な VoIP スタック"
         },
         {
-          "date": "2026-11-25",
-          "title": "AWS Lambda が Lambda 耐久関数を使用した MicroVM のオーケストレーションをサポートするようになりました"
+          "date": "2026-11-26",
+          "title": "テクノロジーの機能停止問題には陰謀論ではなくメンテナンスが必要"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "name": "Apple",
       "ticker": "AAPL",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:AAPL&interval=D",
-      "price": "$355.58",
-      "change": "+0.43%",
+      "price": "$358.54",
+      "change": "+0.83%",
       "change_icon": "📈",
       "positive": true,
       "earnings": "2026-04-30",
       "points": "Apple Intelligence・製品サイクル",
       "news": [
         {
-          "date": "2026-11-26",
-          "title": "お気に入りの Windows アプリが間もなく PC 上で実行できなくなる可能性があります"
+          "date": "2026-11-27",
+          "title": "Apple、Asus、Lenovo、Samsung などによるブラック フライデーのベスト テクノロジー セール 151 件"
+        },
+        {
+          "date": "2026-11-27",
+          "title": "最高のブラック フライデー セールが開催中: 2026 年の専門家が選ぶ"
         },
         {
           "date": "2026-11-26",
-          "title": "Show HN: ポッドキャスティング 2.0 プレーヤーと Digilore の比較"
-        },
-        {
-          "date": "2026-11-26",
-          "title": "パナソニック SHX1 1月下旬出荷開始"
+          "title": "Apple、Samsung、Garmin などから定期購入不要のフィットネス トラッカーのセールを見つけました"
         }
       ]
     },
@@ -105,24 +105,24 @@
       "name": "NVIDIA",
       "ticker": "NVDA",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:NVDA&interval=D",
-      "price": "$149.30",
-      "change": "-3.91%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$150.49",
+      "change": "+0.80%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-05-28",
       "points": "AI半導体需要・データセンター向け売上",
       "news": [
         {
-          "date": "2026-11-26",
-          "title": "チップ規制で数十億ドル規模のデータセンター取引が停止"
+          "date": "2026-11-27",
+          "title": "SpaceX、Nvidia Vera Rubinチップの貯蔵庫を調達するために440億ドルの資金調達契約を確保"
         },
         {
-          "date": "2026-11-26",
-          "title": "AIヤギ"
+          "date": "2026-11-27",
+          "title": "キオクシアとエヌビディア、GPU メモリのペタバイト規模の拡張として SSD をテスト"
         },
         {
-          "date": "2026-11-26",
-          "title": "Nvidia AIチップが市場に氾濫、その理由は中国を狙った米国の支配にある"
+          "date": "2026-11-27",
+          "title": "トークンファクトリーは眠らない"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "name": "Microsoft",
       "ticker": "MSFT",
       "chart_url": "https://jp.tradingview.com/chart/?symbol=NASDAQ:MSFT&interval=D",
-      "price": "$489.93",
-      "change": "-1.25%",
-      "change_icon": "📉",
-      "positive": false,
+      "price": "$492.85",
+      "change": "+0.60%",
+      "change_icon": "📈",
+      "positive": true,
       "earnings": "2026-04-29",
       "points": "OpenAI投資・Azure AIの成長",
       "news": [
         {
-          "date": "2026-11-25",
-          "title": "livekit-plugins-microsoft-ai 1.9.0"
+          "date": "2026-11-26",
+          "title": "PyPI に pyocr-toolkit が追加されました"
         },
         {
-          "date": "2026-11-25",
-          "title": "AIの敗走、関税の脅威、インフレデータがウォール街の大手テクノロジー企業に打撃を与える中、マイクロソフト株は3％以上下落"
+          "date": "2026-11-26",
+          "title": "Microsoft が Cerebras とクラウド推論契約を締結し、4 番目の AI コンピューティング パスを追加"
         },
         {
-          "date": "2026-11-25",
-          "title": "Yoast による 2026 年 11 月の SEO アップデートの要約"
+          "date": "2026-11-26",
+          "title": "シリコンバレーはどのようにしてイスラエルの対パレスチナ戦争の中心となったのか"
         }
       ]
     }
